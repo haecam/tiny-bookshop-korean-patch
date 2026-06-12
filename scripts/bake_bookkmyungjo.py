@@ -20,8 +20,8 @@ UnityPy.config.FALLBACK_UNITY_VERSION = '2021.3.58f1'
 
 BUNDLE = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop_Data/StreamingAssets/aa/StandaloneWindows64/tmp_assets_all_0f1b704e3546a0e4d9fd806732287a87.bundle'
 
-LIGHT_FONT_PATH = 'C:/Users/Bin/tb_korean_patch/fonts/BookkMyungjo_Light.ttf'
-BOLD_FONT_PATH  = 'C:/Users/Bin/tb_korean_patch/fonts/BookkMyungjo_Bold.ttf'
+LIGHT_FONT_PATH = 'C:/git/tiny-bookshop-korean-patch/fonts/BookkMyungjo_Light.ttf'
+BOLD_FONT_PATH  = 'C:/git/tiny-bookshop-korean-patch/fonts/BookkMyungjo_Bold.ttf'
 
 GLYPH_PX   = 40
 PADDING    = 6
@@ -50,13 +50,13 @@ def clone(obj):
 
 # ── 글자 수집 ─────────────────────────────────────────────────────────────────
 used = set()
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values(): used.update(v)
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
     for val in json.load(f).values():
         parsed = _ast.literal_eval(val) if isinstance(val, str) else val
         for v in parsed.values(): used.update(str(v))
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         text = v.get('text', '') if isinstance(v, dict) else str(v)
         used.update(text)
@@ -108,8 +108,8 @@ def bake_sdf(font_path, label):
 atlas_light, packed_light = bake_sdf(LIGHT_FONT_PATH, 'BookkMyungjo_Light')
 atlas_bold,  packed_bold  = bake_sdf(BOLD_FONT_PATH,  'BookkMyungjo_Bold')
 
-Image.fromarray(atlas_light).save('C:/Users/Bin/tb_korean_patch/preview/atlas_bookklight_preview.png')
-Image.fromarray(atlas_bold ).save('C:/Users/Bin/tb_korean_patch/preview/atlas_bokkbold_preview.png')
+Image.fromarray(atlas_light).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_bookklight_preview.png')
+Image.fromarray(atlas_bold ).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_bokkbold_preview.png')
 print('미리보기 저장 완료')
 
 scale = POINT_SIZE / GLYPH_PX

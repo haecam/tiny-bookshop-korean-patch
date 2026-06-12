@@ -16,7 +16,7 @@ sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 UnityPy.config.FALLBACK_UNITY_VERSION = '2021.3.58f1'
 
 PL_BUNDLE   = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop_Data/StreamingAssets/aa/StandaloneWindows64/loca_pl_assets_all.bundle'
-TRANS_DIR   = 'C:/Users/Bin/tb_korean_patch/translation'
+TRANS_DIR   = 'C:/git/tiny-bookshop-korean-patch/translation'
 YARN_PL_PID = -4050940925882462320
 
 # ── 번역 로드 & 병합 ──────────────────────────────────────────────────────────

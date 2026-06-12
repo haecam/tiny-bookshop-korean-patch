@@ -22,7 +22,7 @@ EN_BACKUP  = BUNDLE_DIR + 'loca_en_assets_all.bundle.backup'
 PL_BUNDLE  = BUNDLE_DIR + 'loca_pl_assets_all.bundle'
 PL_BACKUP  = BUNDLE_DIR + 'loca_pl_assets_all.bundle.backup'
 
-KO_JSON    = 'C:/Users/Bin/tb_korean_patch/translation/to_translate_books_ko.json'
+KO_JSON    = 'C:/git/tiny-bookshop-korean-patch/translation/to_translate_books_ko.json'
 
 # --- 한국어 책 번역 로드 -------------------------------------------------------
 print('한국어 번역 로드...')

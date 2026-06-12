@@ -21,7 +21,7 @@ UnityPy.config.FALLBACK_UNITY_VERSION = '2021.3.58f1'
 BUNDLE = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop_Data/StreamingAssets/aa/StandaloneWindows64/tmp_assets_all_0f1b704e3546a0e4d9fd806732287a87.bundle'
 
 MEMO_FONT_PATH = 'C:/Users/Bin/Downloads/memomentKkukkkuk.ttf'
-KCC_FONT_PATH  = 'C:/Users/Bin/tb_korean_patch/fonts/KCCPakKyongni.ttf'
+KCC_FONT_PATH  = 'C:/git/tiny-bookshop-korean-patch/fonts/KCCPakKyongni.ttf'
 
 # ── 설정 ─────────────────────────────────────────────────────────────────────
 GLYPH_PX   = 40
@@ -48,13 +48,13 @@ def clone(obj):
 
 # ── 글자 수집 ─────────────────────────────────────────────────────────────────
 used = set()
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values(): used.update(v)
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
     for val in json.load(f).values():
         parsed = _ast.literal_eval(val) if isinstance(val, str) else val
         for v in parsed.values(): used.update(str(v))
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         text = v.get('text', '') if isinstance(v, dict) else str(v)
         used.update(text)
@@ -109,8 +109,8 @@ def bake_sdf(font_path, label):
 atlas_memo, packed_memo = bake_sdf(MEMO_FONT_PATH, 'memomentKkukkkuk')
 atlas_kcc,  packed_kcc  = bake_sdf(KCC_FONT_PATH,  'KCCPakKyongni')
 
-Image.fromarray(atlas_memo).save('C:/Users/Bin/tb_korean_patch/preview/atlas_memoment_preview.png')
-Image.fromarray(atlas_kcc).save('C:/Users/Bin/tb_korean_patch/preview/atlas_kcc_preview.png')
+Image.fromarray(atlas_memo).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_memoment_preview.png')
+Image.fromarray(atlas_kcc).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_kcc_preview.png')
 print('미리보기 저장 완료')
 
 # ── 번들 수정 ─────────────────────────────────────────────────────────────────

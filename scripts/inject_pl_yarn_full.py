@@ -26,7 +26,7 @@ for obj in env_yarn.objects:
 print(f'EN base: {len(en_base)}개')
 
 # ── 한국어 번역 로드 ─────────────────────────────────────────────────────────
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
     ko_raw = json.load(f)
 
 ko_lines = {}

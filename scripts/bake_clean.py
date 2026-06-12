@@ -31,9 +31,9 @@ BUNDLE  = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Book
 BACKUP  = BUNDLE + '.backup'
 
 # ★ 메인 한글 폰트
-KOREAN_FONT_PATH  = 'C:/Users/Bin/tb_korean_patch/fonts/Asummerflowertree.ttf'
+KOREAN_FONT_PATH  = 'C:/git/tiny-bookshop-korean-patch/fonts/Asummerflowertree.ttf'
 # 커버 못하는 글자 fallback 폰트
-FALLBACK_FONT_PATH = 'C:/Users/Bin/tb_korean_patch/fonts/NanumPenScript.ttf'
+FALLBACK_FONT_PATH = 'C:/git/tiny-bookshop-korean-patch/fonts/NanumPenScript.ttf'
 
 # ── 설정 ─────────────────────────────────────────────────────────────────────
 GLYPH_PX   = 40
@@ -60,19 +60,19 @@ import ast as _ast
 used = set()
 
 # 책 번역
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         used.update(v)
 
 # UI 번역 (메인/설정/추천)
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
     for val in json.load(f).values():
         parsed = _ast.literal_eval(val) if isinstance(val, str) else val
         for v in parsed.values():
             used.update(str(v))
 
 # 대화 번역
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         text = v.get('text', '') if isinstance(v, dict) else str(v)
         used.update(text)
@@ -128,7 +128,7 @@ for ch in CHARS:
     row_h = max(row_h, ph); cx += pw + 1
 
 print(f'완료: {len(packed)}자 (미처리 {miss_count}자)')
-Image.fromarray(atlas).save('C:/Users/Bin/tb_korean_patch/preview/atlas_clean_preview.png')
+Image.fromarray(atlas).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_clean_preview.png')
 print('미리보기 저장: preview/atlas_clean_preview.png')
 
 # ── 번들 수정 ─────────────────────────────────────────────────────────────────

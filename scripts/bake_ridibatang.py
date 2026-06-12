@@ -40,13 +40,13 @@ def clone(obj):
 
 # ── 글자 수집 (모든 번역 파일) ────────────────────────────────────────────────
 used = set()
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_books_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values(): used.update(v)
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.json', encoding='utf-8') as f:
     for val in json.load(f).values():
         parsed = _ast.literal_eval(val) if isinstance(val, str) else val
         for v in parsed.values(): used.update(str(v))
-with open('C:/Users/Bin/tb_korean_patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         text = v.get('text', '') if isinstance(v, dict) else str(v)
         used.update(text)
@@ -100,7 +100,7 @@ for ch in CHARS:
     cx += pw + 1
 
 print(f'완료: {len(packed)}자 (미처리 {miss_count}자)')
-Image.fromarray(atlas).save('C:/Users/Bin/tb_korean_patch/preview/atlas_ridibatang_preview.png')
+Image.fromarray(atlas).save('C:/git/tiny-bookshop-korean-patch/preview/atlas_ridibatang_preview.png')
 print('미리보기 저장: preview/atlas_ridibatang_preview.png')
 
 # ── 번들 수정 ─────────────────────────────────────────────────────────────────

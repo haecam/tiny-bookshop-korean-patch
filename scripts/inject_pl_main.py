@@ -15,7 +15,7 @@ UnityPy.config.FALLBACK_UNITY_VERSION = '2021.3.58f1'
 
 BUNDLE_DIR = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop_Data/StreamingAssets/aa/StandaloneWindows64/'
 PL_BUNDLE  = BUNDLE_DIR + 'loca_pl_assets_all.bundle'
-KO_JSON    = 'C:/Users/Bin/tb_korean_patch/translation/to_translate_main_ko.json'
+KO_JSON    = 'C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.json'
 
 TEXTS_PL_PID = 4698197123910342691  # Loca_Base Texts PL
 

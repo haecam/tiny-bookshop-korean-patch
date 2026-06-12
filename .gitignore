@@ -10,6 +10,9 @@ __pycache__/
 # 아카이브 (구버전 스크립트)
 scripts/archive/
 
+# 릴리즈 빌드 (번들 파일은 GitHub Releases로 배포)
+release/
+
 # OS
 .DS_Store
 Thumbs.db

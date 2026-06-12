@@ -1,0 +1,26 @@
+{
+  "line:0c56afd": {
+    "text": "Art Seller: <b>미술상:</b> 봉주르!",
+    "node": "Fleamarket_Art_Shop"
+  },
+  "line:0ec784d": {
+    "text": "Art Seller: <b>미술상:</b> 작품을 마음껏 만져 보세요! 그게 바로 경험이죠!",
+    "node": "Fleamarket_Art_Shop"
+  },
+  "line:0b5a347": {
+    "text": "Art Seller: <b>미술상:</b> 비싸다고요?! 어찌 감히! 보기만 해도 값을 매겨야겠어요.",
+    "node": "Fleamarket_Art_ShopFallback"
+  },
+  "line:0ac980d": {
+    "text": "Art Seller: <b>미술상:</b> 제 걸작들을 알아봐 주시길 바라요.",
+    "node": "Fleamarket_Art_ShopFallback"
+  },
+  "line:0ea1434": {
+    "text": "Art Seller: <b>미술상:</b> 데졸레. 다 팔렸어요.",
+    "node": "Fleamarket_Art_SoldOut"
+  },
+  "line:0ad1dca": {
+    "text": "Art Seller: <b>미술상:</b> 그리고 좋은 예술엔 시간이 필요하죠. 나중에 다시 오세요.",
+    "node": "Fleamarket_Art_SoldOut"
+  }
+}

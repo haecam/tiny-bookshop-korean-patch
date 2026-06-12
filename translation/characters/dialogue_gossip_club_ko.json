@@ -1,0 +1,106 @@
+{
+  "line:07f0034": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> <size=85%>*쉿* 다들 보는 데서는—<size=100%>",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:06d4e11": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> — 오, 안녕하세요! 새로 오셨네요!",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:02cf919": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 아, 소문이 자자한 그 책방지기시군요!",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:0525d7b": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 북스톤 종합병원에 오신 걸 환영해요. 장사는 잘돼요? 최근에 뭐 흥미로운 얘기 들은 거 있어요?",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:0e8ae40": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 당신 가게의 그 수다거리를 좀 알고 싶은데요.",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:015c268": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 오, 당신이군요! 당신 그 작은 가게엔 꽤 흥미로운 사람들이 모이죠, 안 그래요?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:01c9bf1": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> 있잖아요, 우린 사람 구경을 정말 좋아해요. 늘 배울 게 넘쳐나거든요.",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:0048841": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> ... 당신 믿어도 되죠? 비밀 안 흘릴 거죠?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:0f8c0e3": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> 좋아요. 들었는데... 제니가 그 새로 온 채혈사한테 완전 푹 빠졌대요!",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:08a165d": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> <i>저어어엉말?!</i> 정형외과 제니?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:063809e": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> 아니이! 맙소사, 아니에요. 물리치료사 제니요. 보라색 머리의?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:0d1a151": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 오오, 그래요. 둘이 잘 어울리겠는데요, 안 그래요?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:0fe0c67": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 근데 내가 아는 제니라면, 절대 먼저 데이트 신청 안 할 거예요. 어쩌면 그 둘한텐 살짝... 등 떠밀어 줄 손길이 필요할지도?",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:0f95a91": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 오오오! 로맨스 경보!",
+    "node": "Hospital_HotGoss01Complete"
+  },
+  "line:034df90": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 으, 정말 한가한 날이네. 접수처엔 아무 일도 없어.",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:0f3df6a": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 뭐 어때... 시간 때울 로맨스 소설 한 권쯤은 나쁘지 않겠지.",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:01feb2c": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> <size=85%><i>*한숨*</i><size=100%> 어쩜 이렇게 로맨틱할까! <size=85%>내 차례는 언제 오려나?<size=100%>",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:0728104": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 이런 책이면 시간이 눈 깜짝할 새 지나가겠어요!",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:074f9eb": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> <size=85%><i>*한숨*</i><size=100%> 인연이 아닌가 봐요.",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:0feeec6": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> <size=85%><i>*에헴*</i><size=100%> 날 뭘로 보고. 난 그런 거 안 하거든요...",
+    "node": "Hospital_HotGoss02Recommendation"
+  },
+  "line:066fe6a": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 다들 들어 봐요. 그 누구랑 그 누구 소식 업데이트 있어요.",
+    "node": "Hospital_HotGoss02Complete"
+  },
+  "line:0470dea": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> 새로 온 채혈사랑 제니요?",
+    "node": "Hospital_HotGoss02Complete"
+  },
+  "line:055a30d": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 네, 그 둘이요. 글쎄 어제 저녁 주차장에서 키스하다 딱 걸렸대요!",
+    "node": "Hospital_HotGoss02Complete"
+  },
+  "line:037485a": {
+    "text": "Gossip Club: <b>참견쟁이 접수원:</b> 어. 머. 나. 내가 다 말했잖아요! 내가 말했죠?",
+    "node": "Hospital_HotGoss02Complete"
+  },
+  "line:07d7f86": {
+    "text": "Gossip Club: <b>눈썰미 좋은 방사선사:</b> 어서 프리야한테 이 얘기 해 주고 싶어요. 절대 안 믿을걸요.",
+    "node": "Hospital_HotGoss02Complete"
+  },
+  "line:0c694e3": {
+    "text": "Gossip Club: <b>오지랖 약사:</b> 뭐, 아무튼, 전 곧 근무하러 돌아가야 해요.",
+    "node": "Hospital_HotGoss02Complete"
+  }
+}

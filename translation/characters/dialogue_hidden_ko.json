@@ -1,0 +1,46 @@
+{
+  "line:09fbf05": {
+    "text": "Hidden: <i><b>우오오오오!</b></i>",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0153a65": {
+    "text": "Hidden: <b>어린아이:</b> 우리 정말 저기 들어가도 돼? 불도 꺼져 있잖아! 혼날 거야!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0829154": {
+    "text": "Hidden: <b>큰 아이:</b> 에이, 겁쟁이처럼 굴지 마! 여긴 아무도 없어! 그리고 난 아빠가 못 읽게 한 그 책을 찾아볼 거야.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:05b501d": {
+    "text": "Hidden: <b>어린아이:</b>으아악! 방금 그거 뭐야?!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:040e503": {
+    "text": "Hidden: <b>큰 아이:</b> 어-어-어— 분명 아무것도 아닐 거야! 가자! 내 손 잡아, 알았지?",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:068af51": {
+    "text": "Hidden: <b>큰 아이:</b> 으아아아악!!!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0d14658": {
+    "text": "Hidden: <b>어린아이:</b> 그건— 아-아-아무도 아니에요! 우, 우린 그럴 생각 없었어요! 죄송해요!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0bee8d4": {
+    "text": "Hidden: <b>어린아이:</b> 네!! 무, 물론이죠! 당장 나갈게요!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:025b511": {
+    "text": "Hidden: <b>카스카:</b> 손이여, 나를 대신해 말하라!",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:094d5ff": {
+    "text": "Hidden: <b>안토니우스:</b> 선량한 로마인들이여,—",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:00ca70f": {
+    "text": "Hidden: <b>안토니우스:</b> 친구들이여, 로마인이여, 동포여, 내 말에 귀를 기울이라.<br>나는 카이사르를 묻으러 왔지, 그를 기리러 온 것이 아니오.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  }
+}

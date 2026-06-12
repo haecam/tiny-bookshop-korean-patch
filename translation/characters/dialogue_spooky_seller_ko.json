@@ -1,0 +1,26 @@
+{
+  "line:0427298": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 어어서 오세에요.",
+    "node": "Fleamarket_Spooky_Shop"
+  },
+  "line:0ebe562": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 제 물건에 관심 있으신가요?",
+    "node": "Fleamarket_Spooky_Shop"
+  },
+  "line:0703448": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 정말 고마워요.",
+    "node": "Fleamarket_Spooky_Shop"
+  },
+  "line:00a6fbc": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 아주 흥미로운 기운을 지녔군요...",
+    "node": "Fleamarket_Spooky_ShopFallback"
+  },
+  "line:093b0f6": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 흐으음, 좋은 선택이에요.",
+    "node": "Fleamarket_Spooky_ShopFallback"
+  },
+  "line:061e133": {
+    "text": "Spooky Seller: <b>고딕 상인:</b> 제 영역엔 모든 게 비어 있어요. 안타깝지만 드릴 게 없네요.",
+    "node": "Fleamarket_Spooky_SoldOut"
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "line:002d72d": {
+    "text": "Tomasz: 우와, 안녕하세요. 흥미로운 서점이네요.",
+    "node": "Tomasz_Challenge1Start"
+  },
+  "line:06c8792": {
+    "text": "Tomasz: 등대에서 당신을 본 적이 없는데... 여긴 보통 꽤 숨겨진 곳이거든요.",
+    "node": "Tomasz_Challenge1Start"
+  },
+  "line:004156a": {
+    "text": "Tomasz: 그러니까, 있잖아요, 여기 사람들은 방해받지 않는 걸 좋아해요. 근데... 책이 좀 있는 것쯤은 나쁘지 않겠죠.",
+    "node": "Tomasz_Challenge1Start"
+  },
+  "line:0179185": {
+    "text": "Tomasz: 어디 보자... 괜찮은 <b>{0}</b> 책 좀 있어요? 전 늘 희곡을 더 모으고 싶거든요.",
+    "node": "Tomasz_Challenge1Start"
+  },
+  "line:0c394e1": {
+    "text": "Tomasz: 좋아요, 지금 하나 골라 볼게요. 고마워요.",
+    "node": "Tomasz_Challenge1Start"
+  },
+  "line:05af709": {
+    "text": "Tomasz: 솔직히, 당신한테 산 그 책들 정말 즐겁게 읽었어요. 당신 <b>{0}</b> 구색은 꽤 눈이 트이게 하더군요.",
+    "node": "Tomasz_Challenge2Start"
+  },
+  "line:0f1258c": {
+    "text": "Tomasz: 그래서, 곰곰이 생각해 봤는데요... 북스톤버리는 문화의 마을이라면서요?",
+    "node": "Tomasz_Challenge2Start"
+  },
+  "line:033e25b": {
+    "text": "Tomasz: 그럼 우리 연극계는 대체 어디 있죠?! 공연 예술이 너무 과소평가되고 있어요!",
+    "node": "Tomasz_Challenge2Start"
+  },
+  "line:0f54f66": {
+    "text": "Tomasz: 사람들한테 희곡을 더 많이 추천해서, 자기들이 뭘 놓치고 있었는지 드디어 알게 해 줘야 해요!",
+    "node": "Tomasz_Challenge2Start"
+  },
+  "line:02fc7ee": {
+    "text": "Tomasz: 다들 드디어 안목이 좀 생기길 바라죠.",
+    "node": "Tomasz_Challenge2Start"
+  },
+  "line:04e1b30": {
+    "text": "Tomasz: 믿기지 않을 거예요! 최근에 <i>율리우스 카이사르</i>를 읽는 사람을 적어도 세 명이나 봤다니까요!",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:0834f72": {
+    "text": "Tomasz: 그리고 셰익스피어가 어느 정도 <i>제</i> 전문 분야라는 건 다들 알죠. 그래서 당연히, 제가 다가가서 조언을 좀 해 줬어요.",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:0bbd467": {
+    "text": "Tomasz: 북스톤버리에 저 말고도 연극에 관심 있는 사람이 있을 줄 누가 알았겠어요? 이제 정말 <i>율리우스 카이사르</i> 공연을 올려야겠어요.",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:020d54b": {
+    "text": "Tomasz: 몇 명만 더 있으면 작은 출연진을 꾸리기엔 충분해요! 물론, 주인공은 <i>제</i>가 맡아야죠.",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:0f46472": {
+    "text": "Tomasz: 연출가니까, 제 장면이 적은 게 합당하죠. 그리고 <i>카이사르</i>를 저 말고 누가 해내겠어요?",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:0351fd6": {
+    "text": "Tomasz: 지금 당장 가서 대본을 손볼게요! 그리고 내일 다시 와 주는 건 어때요? 당신한테 줄 배역도 있을지 몰라요.",
+    "node": "Tomasz_Challenge2Complete"
+  },
+  "line:0fecc32": {
+    "text": "Tomasz: 결정했어요! 나와 새로 결성된 <b>등대 연극단</b>이 제가 직접 각색한 <i>율리우스 카이사르의 비극</i>을 곧 무대에 올릴 거예요.",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:09c14cd": {
+    "text": "Tomasz: 이제 필요한 자원을 마련해야 해요 — 특히 무대를 지어야 하니까요.",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:0406317": {
+    "text": "Tomasz: 듣자 하니 <i>당신</i>이 예술의 후원자 같은 분이라던데...",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:0119d47": {
+    "text": "Tomasz: 우리 공연의 총괄 프로듀서가 되어 보는 건 어때요?",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:070aaee": {
+    "text": "Tomasz: 당신이 재료비를 대 주면, 그 대가로 입장권 판매 수익의 일부를 드릴게요! 어때요?",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:0d6c40b": {
+    "text": "Tomasz: 훌륭해요. 필요한 것 목록을 들고 내일 다시 올게요. 그리고 당신은? 지갑만 가져와요.",
+    "node": "Tomasz_Challenge3Start"
+  },
+  "line:0b3406f": {
+    "text": "Tomasz: 이봐요, 무대 조명에 대한 당신 결정이 아직 필요해요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0c62564": {
+    "text": "Tomasz: 아, 우리 새 총괄 프로듀서로군요! 함께하게 돼서 기뻐요.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0d72114": {
+    "text": "Tomasz: 좋아요, 우선, 무대 조명이 필요해요! 이렇게 급하게 구할 수 있는 건 두 가지뿐이었어요.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:07a0d42": {
+    "text": "Tomasz: 약간 과열될 우려가 있는 비(非)정품 PAR 램프 네 개를 할인가 <nobr>35 {0}</nobr>에 살 수 있어요.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0779247": {
+    "text": "Tomasz: 아니면, 후기가 <i>나쁘지 않은</i> 고급 랜턴 한 쌍을 <nobr>60 {0}</nobr>에 구할 수도 있고요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0c5ac43": {
+    "text": "Tomasz: 근데, 어... 무안 주려는 건 아닌데, 보아하니 둘 다 살 돈이 없는 것 같네요...",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0d9a8ec": {
+    "text": "Tomasz: 뭐, 내일 다시 올게요. 근데 조명은 언젠가 꼭 필요해요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:07bdbc1": {
+    "text": "Tomasz: 비정품 조명으로 할까요, 아니면 고급으로 할까요?<br><br><i>지금 <nobr>{0} {1}</nobr> 갖고 있어요.</i>",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:03779ac": {
+    "text": "Tomasz: 좋아요. 뭐, 그걸로 어떻게든 해 보죠.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:05731ec": {
+    "text": "Tomasz: 도와줘서 다시 한번 고마워요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0a99c82": {
+    "text": "Tomasz: 정말요? 우와, 고마워요. 이걸로 분위기가 끝내주겠어요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0c28eee": {
+    "text": "Tomasz: 도와줘서 다시 한번 고마워요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0267686": {
+    "text": "Tomasz: 흠, 저도 그 쪽이 더 좋아요.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0a6cc87": {
+    "text": "Tomasz: 내일 다시 확인하러 오는 건 어때요? 그때쯤이면 돈을 좀 끌어모을 수 있을지도 몰라요.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:024ca0a": {
+    "text": "Tomasz: 음, 알았어요, 그럼 다음에 다시 와야겠네요!",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0fb7f9b": {
+    "text": "Tomasz: 아니, 조명도 없이 어떻게 무대를 꾸미겠어요?",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0028538": {
+    "text": "Tomasz: 이봐요, 무대 디자인에 대한 당신 결정이 아직 필요해요!",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:069d7eb": {
+    "text": "Tomasz: 이봐요, 방금 우리 무대 디자이너랑 회의했어요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:086433d": {
+    "text": "Tomasz: <i>네</i>, 그 사람이 마침 제 형이긴 한데, 그렇다고 무대 장치를 공짜로 해 준다는 뜻은 아니에요!",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0f8ecf3": {
+    "text": "Tomasz: 근데 그가 두 가지 안을 제시했어요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0fa7b14": {
+    "text": "Tomasz: 필요한 소품 칼들이랑, 그가 배경으로 세워 줄 단순한 커튼을 <nobr>49 {0}</nobr>에 구할 수 있어요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:05b7d34": {
+    "text": "Tomasz: 아니면, 우리가 <i>아마추어</i>처럼 보이기 싫다면...",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:02d02e0": {
+    "text": "Tomasz: 그 칼들에 가짜 피까지 더하고, 장면마다 바꿀 수 있는 그림 배경 세 개를 지어 줄 수 있대요. 전부 단돈 <nobr>99 {0}</nobr>에요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:06e7bdd": {
+    "text": "Tomasz: 근데, 어... 무안 주려는 건 아닌데, 보아하니 둘 다 살 돈이 없는 것 같네요...",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0550e1f": {
+    "text": "Tomasz: 뭐, 내일 다시 올게요. 근데 그 칼들은 꼭 필요해요, 알았죠?",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0d88e05": {
+    "text": "Tomasz: 어떻게 생각해요? 단출한 느낌으로 갈까요, 아니면 고급 무대로 갈까요?<br><br><i>지금 <nobr>{0} {1}</nobr> 갖고 있어요.</i>",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0752bb9": {
+    "text": "Tomasz: 좋아요! 어쨌든 이건 <i>현대</i> 연극이니까요!",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:02c1321": {
+    "text": "Tomasz: 봐요, 당신 안목 좋을 줄 알았다니까요! 가서 형한테 당장 시작하라고 할게요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:03df006": {
+    "text": "Tomasz: 흠, 저도 그 쪽이 더 좋아요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0407071": {
+    "text": "Tomasz: 내일 다시 확인하러 오는 건 어때요? 그때쯤이면 돈을 좀 끌어모을 수 있을지도 몰라요.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0e364c1": {
+    "text": "Tomasz: 음, 알았어요, 그럼 다음에 다시 와야겠네요!",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:02b7948": {
+    "text": "Tomasz: 칼도 없이 <i>율리우스 카이사르</i>를 올릴 순 없어요!",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:05a396f": {
+    "text": "Tomasz: 이봐요, 의자에 대한 당신 결정이 아직 필요해요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:07973a5": {
+    "text": "Tomasz: 좋아요, 공연 전에 꼭 사야 할 필수품이 하나 더 있어요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0076571": {
+    "text": "Tomasz: 관객용 의자를 몇 개나 구할 수 있는지 알아봤는데, 의자가 얼마나 비싼지 믿기지 않을 거예요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:016a184": {
+    "text": "Tomasz: 이리저리 물어봤더니, 대학교에서 접이식 플라스틱 의자를 <nobr>60 {0}</nobr>에 빌려준대요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:02c1d85": {
+    "text": "Tomasz: 근데 또 그 의자들은 누가 조금만 움직여도 저절로 폭삭 주저앉는 경향이 있어요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:02b7b44": {
+    "text": "Tomasz: 그래서 라이포트의 한 창고 세일에서 쿠션 있는 디자이너 의자도 좀 찾았어요. 우리한테 <nobr>135 {0}</nobr>에 보내 준대요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:07738c8": {
+    "text": "Tomasz: 근데, 어... 무안 주려는 건 아닌데, 보아하니 둘 다 살 돈이 없는 것 같네요...",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:031d583": {
+    "text": "Tomasz: 뭐, 내일 다시 올게요. 근데 의자는 언젠가 꼭 필요해요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:07760fc": {
+    "text": "Tomasz: 어떻게 생각해요? 편한 의자에 큰돈을 쓸까요, 아니면 접이식을 빌릴까요?<br><br><i>지금 <nobr>{0} {1}</nobr> 갖고 있어요.</i>",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0f54845": {
+    "text": "Tomasz: 네, 맞아요. 이걸 몇 번이나 공연할 수 있을지 누가 알겠어요. 현명하게 해야죠.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0ecd33d": {
+    "text": "Tomasz: 와, 절대 후회 안 할 거라고 약속해요! 고급 의자는 곧 관객에게 고급스러운 경험이라는 뜻이니까요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0d43ed3": {
+    "text": "Tomasz: 흠, 저도 그 쪽이 더 좋아요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0496884": {
+    "text": "Tomasz: 내일 다시 확인하러 오는 건 어때요? 그때쯤이면 돈을 좀 끌어모을 수 있을지도 몰라요.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0de3420": {
+    "text": "Tomasz: 음, 알았어요, 그럼 다음에 다시 와야겠네요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:07f922e": {
+    "text": "Tomasz: 앉을 자리도 없으면, 많은 관객을 끌어모으려는 건 포기해야 해요!",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:01c1513": {
+    "text": "Tomasz: 그리고 그게... 제 목록의 전부였어요! 좋아요!",
+    "node": "Tomasz_Challenge3Complete_Post"
+  },
+  "line:098a963": {
+    "text": "Tomasz: 공연 제작 쪽 일을 도와줘서 정말 고마워요!",
+    "node": "Tomasz_Challenge3Complete_Post"
+  },
+  "line:06b2d0f": {
+    "text": "Tomasz: 할 일이 아직 많지만, 지금 리허설에 가야 해서, 내일 다시 알려 드릴게요.",
+    "node": "Tomasz_Challenge3Complete_Post"
+  },
+  "line:026cda2": {
+    "text": "Tomasz: 아, 우리 총괄 프로듀서로군요! 무대 설치랑 리허설이 거의 다 끝났다고 기쁘게 전해요.",
+    "node": "Tomasz_Challenge4Start"
+  },
+  "line:04fd477": {
+    "text": "Tomasz: 이제 남은 건 사람들한테 연극을 알리고 입장권을 파는 것뿐이에요!",
+    "node": "Tomasz_Challenge4Start"
+  },
+  "line:06c6db9": {
+    "text": "Tomasz: 그리고, 약속대로, 입장권 판매 수익의 일부는 당신 몫이에요.",
+    "node": "Tomasz_Challenge4Start"
+  },
+  "line:0e20632": {
+    "text": "Tomasz: 입장권을 {0}장 팔면, 여기서 다시 만나 공연 날짜를 정하죠!",
+    "node": "Tomasz_Challenge4Start"
+  },
+  "line:08acbd6": {
+    "text": "Tomasz: 미, 믿기지가 않아요. 우리 첫 공연 입장권을 정말 {0}장이나 팔았다니!",
+    "node": "Tomasz_Challenge4Complete"
+  },
+  "line:07d8960": {
+    "text": "Tomasz: 출연진이랑 스태프한테 바로 알릴게요. 공연은 달력에서 가장 빨리 비는 금요일로 잡죠.",
+    "node": "Tomasz_Challenge4Complete"
+  },
+  "line:00947cb": {
+    "text": "Tomasz: 세상에! 연극판 시간으로 치면 사실상 오늘 밤이잖아요! 리허설을 더 잡아야겠어요!",
+    "node": "Tomasz_Challenge4Complete"
+  },
+  "line:07fced3": {
+    "text": "Tomasz: 아무튼, 도와줘서 고마워요! 여기서 당신 역할은 끝난 것 같네요. 개막 날 밤에 봐요!",
+    "node": "Tomasz_Challenge4Complete"
+  },
+  "line:0e60614": {
+    "text": "Tomasz: 도저히 못 하겠어요! 오 세인트 북스톤이시여, 완전 망할 거예요!",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:05d44e8": {
+    "text": "Tomasz: 우리 안토니우스가 자기가 데키우스도 맡았다는 걸 “까먹어서” 계속 큐를 놓쳐요!",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:03621f4": {
+    "text": "Tomasz: 포르티아 의상은 색이 틀렸고, 게다가 아직 감기까지 걸렸다고요!",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0f950c1": {
+    "text": "Tomasz: 세상에, 이게 다 제 탓이에요! 저 <i>알아요</i>!",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0a1462c": {
+    "text": "Tomasz: 지난주에 카스카가 셰익스피어에 대해 온갖 질문을 <i>한사코</i> 해 대는 통에, 제가...",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0891193": {
+    "text": "Tomasz: 그게, 그만 실수로 그 스코틀랜드 연극의 이름을 입에 올렸지 뭐예요...",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0627279": {
+    "text": "Tomasz: <i>저도 안다고요!</i> 끔찍하죠. 근데 이제 와서 주워 담을 수도 없잖아요, 안 그래요?",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:06fa1b9": {
+    "text": "Tomasz: 그냥... 어쨌든 연극을 강행하는 수밖에 없겠죠. 쇼는 계속되어야 하니까요, 그쵸?",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0cccf6d": {
+    "text": "Tomasz: <size=85%><i>*한숨*</i><size=100%> 행운을 빌어 줘요.",
+    "node": "Tomasz_PlayAboutToStart"
+  },
+  "line:0ceffcf": {
+    "text": "Tomasz: 아주 강렬한 공연이었죠, 안 그래요? 게다가 객석은 완전히 꽉 찼고요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0e4446b": {
+    "text": "Tomasz: 나댜까지 왔는데, 저한테 미소를 지어 줬어요! 게다가 걘 <i>진짜</i> 연기 학교에 다닌다고요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0fb2d5d": {
+    "text": "Tomasz: 이보다 더 만족스러울 순 없어요! 제 모든— 아니 <i>우리</i> 모든 노력이 결실을 맺었어요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0f71ae0": {
+    "text": "Tomasz: 당신 투자가 빛을 발할 거라고 제가 말했죠?",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:07cb873": {
+    "text": "Tomasz: 다들 높은 완성도랑 멋진 의자에 대해 저한테 축하를 보내고 있어요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0e345bf": {
+    "text": "Tomasz: 「리뷰」의 누군가는 이걸 “시대를 초월한 <b>{0}</b>의 충실한 재현”이라고까지 평했다니까요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0a42f91": {
+    "text": "Tomasz: 이렇게 극찬하는 평이면, 분명 다음 공연에서 <b>{0}</b> 팬들을 좀 끌어모을 수 있을 거예요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:088587b": {
+    "text": "Tomasz: 완성도가 더 높을 수 있었느냐고요? <i>물론이죠.</i>",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:09061fa": {
+    "text": "Tomasz: 무대 위에서 열사병에 걸릴 뻔하지 않았으면 좋았겠느냐고요? <i>그럼요.</i>",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:057d44e": {
+    "text": "Tomasz: 3막에서 가짜 피가 있었으면 좋았겠느냐고요? <i>그럼요.</i>",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:06fde9e": {
+    "text": "Tomasz: 연극이 시작도 하기 전에 의자가 하나도 안 부서졌으면 좋았겠느냐고요? <i>그럼요.</i>",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0fe0ddf": {
+    "text": "Tomasz: 하지만 그게 바로 연극의 묘미 아니겠어요?",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0623c50": {
+    "text": "Tomasz: 세상의 물질적 현실이 우리에게 지운 제약에도 <i>불구하고</i> 무언가를 만들어 내는 것 말이에요?",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0c9f570": {
+    "text": "Tomasz: 아무튼, 전 연극에서 사흘만 쉬고, 그다음 바로 리허설로 돌아갈 거예요!",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:0c74fae": {
+    "text": "Tomasz: 어쨌든 손볼 게 많거든요! 그리고 곧 우리 연극을 다시 보러 와 주면 좋겠어요.",
+    "node": "Tomasz_AfterPlay"
+  },
+  "line:04b2d3f": {
+    "text": "Tomasz: 저런 자들은 자기보다 큰 인물을 보는 동안엔 결코 마음이 편치 못하니, 그러므로 심히 위험하오.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0e6f60a": {
+    "text": "Tomasz: 나는 내가 두려워하는 것보다, 마땅히 두려워해야 할 것을 그대에게 말하노라.<br>나는 언제나 카이사르이니.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0c83e28": {
+    "text": "Tomasz: 3월의 이데스가 왔도다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:06ed246": {
+    "text": "Tomasz: 브루투스, 너마저! 그렇다면 쓰러져라, 카이사르.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:08a68db": {
+    "text": "Tomasz: 브루투스, 너마저? 그렇다면 쓰러져라, 카이사르.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  }
+}

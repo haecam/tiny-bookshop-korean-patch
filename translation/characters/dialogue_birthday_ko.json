@@ -1,0 +1,42 @@
+{
+  "line:0a003c4": {
+    "text": "Birthday: 계절 날짜",
+    "node": "CharacterPage_Template"
+  },
+  "line:0f46cdd": {
+    "text": "Birthday: 봄 18",
+    "node": "Journal_Tilde"
+  },
+  "line:0bf9f23": {
+    "text": "Birthday: 겨울 27",
+    "node": "Journal_Klaus"
+  },
+  "line:01e4cbf": {
+    "text": "Birthday: 봄 7",
+    "node": "Journal_Anne"
+  },
+  "line:012308a": {
+    "text": "Birthday: 가을 10",
+    "node": "Journal_Fern"
+  },
+  "line:093efe5": {
+    "text": "Birthday: 가을 1",
+    "node": "Journal_Maryam"
+  },
+  "line:0434ef0": {
+    "text": "Birthday: 여름 12",
+    "node": "Journal_Harper"
+  },
+  "line:074c53f": {
+    "text": "Birthday: 여름 20",
+    "node": "Journal_Moira"
+  },
+  "line:04fedc2": {
+    "text": "Birthday: 겨울 15",
+    "node": "Journal_Walt"
+  },
+  "line:0b90f6f": {
+    "text": "Birthday: 가을 28",
+    "node": "Journal_Gareth_Backlog"
+  }
+}

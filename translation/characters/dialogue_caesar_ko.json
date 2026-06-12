@@ -1,0 +1,22 @@
+{
+  "line:04a1753": {
+    "text": "Caesar: 그를 내 앞에 데려오라...",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0a0af6d": {
+    "text": "Caesar: 그 얼굴을 보게 하라.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0f79228": {
+    "text": "Caesar: 이제 내게 무어라 말하겠느냐?",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0f24f97": {
+    "text": "Caesar: 다시 한번 말해 보라.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:08f7f06": {
+    "text": "Caesar: 고마워요, 북스톤버리!",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  }
+}

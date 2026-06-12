@@ -1,0 +1,82 @@
+{
+  "line:08786db": {
+    "text": "Festive Seller: <b>축제 상인:</b> 메에리 크리스마스, 그리고 겨울 시장에 온 걸 환영해요, 친구!",
+    "node": "Wintermarket_Festive_Shop"
+  },
+  "line:0f902fb": {
+    "text": "Festive Seller: 또 곧 오세요!",
+    "node": "Wintermarket_Festive_Shop"
+  },
+  "line:0fc3381": {
+    "text": "Festive Seller: <b>축제 상인:</b> 안녀엉, 메리 크리스마스!",
+    "node": "Wintermarket_Festive_FestiveChallengeStart_Pre"
+  },
+  "line:0a1d1e6": {
+    "text": "Festive Seller: <b>축제 상인:</b> 근데 친구, 명절 분위기는 어디 갔어요?",
+    "node": "Wintermarket_Festive_FestiveChallengeStart_Pre"
+  },
+  "line:0b7a344": {
+    "text": "Festive Seller: <b>축제 상인:</b> 축제 장식이 좀 필요할 거예요, 안 그러면 손님들이 서운해할걸요!",
+    "node": "Wintermarket_Festive_FestiveChallengeStart_Pre"
+  },
+  "line:03a621d": {
+    "text": "Festive Seller: <b>축제 상인:</b> 안녀엉, 친구!",
+    "node": "Wintermarket_Festive_FestiveChallengeActive_Pre"
+  },
+  "line:0dd67a9": {
+    "text": "Festive Seller: <b>축제 상인:</b> 아직 축제 장식을 더 찾고 있나 봐요?",
+    "node": "Wintermarket_Festive_FestiveChallengeActive_Pre"
+  },
+  "line:0d66f0f": {
+    "text": "Festive Seller: <b>축제 상인:</b> 이제 시간이 얼마 안 남았어요!",
+    "node": "Wintermarket_Festive_FestiveChallengeActive_Pre"
+  },
+  "line:09e51a9": {
+    "text": "Festive Seller: <b>축제 상인:</b> 겨울 시장은 내일 섣달그믐을 끝으로 문을 닫아요!",
+    "node": "Wintermarket_Festive_FestiveChallengeActive_Pre"
+  },
+  "line:08c979f": {
+    "text": "Festive Seller: <b>축제 상인:</b> 안녀엉, 친구, 뭘 도와드릴까요?",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:0977f97": {
+    "text": "Festive Seller: <b>축제 상인:</b> 오, 저건 혹시... ?",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:0e058eb": {
+    "text": "Festive Seller: <b>축제 상인:</b> 오 멋져요, 이게 바로 축제 장식이라는 거죠!",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:0b41161": {
+    "text": "Festive Seller: <b>축제 상인:</b> 자, 이거 받아 주세요!",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:0879d0b": {
+    "text": "Festive Seller: <b>축제 상인:</b> 알겠어요, 이건 당신과 함께할 운명이에요!",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:099c841": {
+    "text": "Festive Seller: 그럼 안녕, 즐거운 하루 보내요!",
+    "node": "Wintermarket_Festive_FestiveChallengeCompleted"
+  },
+  "line:02c2eac": {
+    "text": "Festive Seller: <b>축제 상인:</b> 아직 명절 장식을 찾고 있어요?",
+    "node": "Wintermarket_Festive_ShopFallback"
+  },
+  "line:0233da1": {
+    "text": "Festive Seller: <b>축제 상인:</b> 아무튼, 아직 명절 장식을 찾고 있어요?",
+    "node": "Wintermarket_Festive_ShopFallback"
+  },
+  "line:063136f": {
+    "text": "Festive Seller: <b>축제 상인:</b> 또 곧 오세요!",
+    "node": "Wintermarket_Festive_ShopFallback"
+  },
+  "line:070933a": {
+    "text": "Festive Seller: <b>축제 상인:</b> 오! 실망시켜서 정말 미안해요, 친구.",
+    "node": "Wintermarket_Festive_SoldOut"
+  },
+  "line:0fcd9e6": {
+    "text": "Festive Seller: <b>축제 상인:</b> 근데 오늘 축제 용품은 다 팔렸어요.",
+    "node": "Wintermarket_Festive_SoldOut"
+  }
+}

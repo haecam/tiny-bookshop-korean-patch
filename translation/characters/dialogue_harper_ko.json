@@ -1,0 +1,1930 @@
+{
+  "line:033d785": {
+    "text": "Harper: 음... 꼭 쪽지여야 해요? 아니면 그림을 태워도 돼요?",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0b5abcc": {
+    "text": "Harper: <b>하퍼:</b> 좋아! 이제 이 그림 마음에 안 들어!",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0c46769": {
+    "text": "Harper: 헤헤헤, <nobr>슈우웅!<nobr>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:08d3ecf": {
+    "text": "Harper: 친구들이여!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0e51dd2": {
+    "text": "Harper: 북스톤 주민들이여!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0cb732d": {
+    "text": "Harper: 성 애호가들이여!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0c3ad5d": {
+    "text": "Harper: 내 말에 귀를 기울이세요! 여러분은 나의 위대한 지도 아래 쉼 없이 일했어요!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:031a638": {
+    "text": "Harper: 그리하여 우리 의지의 증표가 우뚝 섰습니다!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:04a7fc7": {
+    "text": "Harper: 어른들이 이걸 보고 경외심에 벌벌 떨게 하라!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:002d021": {
+    "text": "Harper: 으아아! <i>*퉤 퉤*</i> 방금 뭔가 내 얼굴을 건드렸어!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0992b38": {
+    "text": "Harper: 로더릭 블라이턴? 그 이름 전에 읽은 역사책에서 봤어요. 진짜였어!!!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0213c23": {
+    "text": "Harper: 당연하죠! 그렇게 할게요! 제발 보내 주세요!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:060b2b4": {
+    "text": "Harper: 으아아아아악!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0c97db5": {
+    "text": "Harper: <i>*헉* *헉*</i> 너무 무서웠어! 다신 그러지 말자!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0cec943": {
+    "text": "Harper: 뭐? 바보 같은 소리 마, 난 네 손 안 잡았거든!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0323754": {
+    "text": "Harper: 지금 날 놀리는 거죠, 그쵸?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:07a3ed4": {
+    "text": "Harper: <size=85%><i>*속삭임* 쉿! 저거 들려요?</i><size=100%> ... ... ... 아, 그냥 내 재킷 바스락거리는 소리였네요. 미안해요.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:08ac0aa": {
+    "text": "Harper: 당연하죠! 당신에 대해 더 말해 줘요! 왜 이 서점에 출몰하는 거예요?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:046ec60": {
+    "text": "Harper: 알겠어요! 네, 우리가 그걸 찾아서 모두한테 읽어 줄게요! 약속해요!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:07f7cca": {
+    "text": "Harper: 로더릭 블라이턴이에요, 기억 안 나요? 말했잖아요, 북스톤버리 역사 속 사람이라고.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0f15251": {
+    "text": "Harper: 당신 이야기를 전하라고요? 당신 1층 창문에서 떨어져서 죽은 거 아니었어요?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0ab6744": {
+    "text": "Harper: 어어... 네! 당연하죠! 우리가... 어... 그걸 당장 조사할게요! 당신을 잊지 않을게요!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:018cdcc": {
+    "text": "Harper: 걱정 마요, 분명 무해할 거예요! 작년 이후로 로더릭 블라이턴이란 이름을 찾아봤는데, 그러니까...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:03f69c6": {
+    "text": "Harper: ... 그 사람 분명 여기 이 건물에서 죽었어요. 그리고 책마다 다 괴짜에 은둔하는 등대지기였다고 적혀 있더라고요.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:06d90ee": {
+    "text": "Harper: 알겠어요! 네, 모두한테 당신 글에 대해 말해 줄게요, 약속해요!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0c56a3a": {
+    "text": "Harper: 음... 산켈룬드 아주머니? 아주머니예요?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:03de481": {
+    "text": "Harper: <size=85%><i>*속삭임* 당연하지, 당연해!</i><size=100%> 으아아악! 나 이 유령이 너무 무서워!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0740474": {
+    "text": "Harper: <size=85%><i>*푸하하핫*</i><size=100%> 완전 끝내줬어! 다들 얼굴 봤어? <size=85%><i>*하하하*</i><size=100%> 우리 매년 이거 하자!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0f3a70a": {
+    "text": "Harper: 좋아! 책이여 영원하라!!",
+    "node": "Cafe_EndingHubCutscene"
+  },
+  "line:0459826": {
+    "text": "Harper: 다들 생일엔 장식을 받아야 해요!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:01151f3": {
+    "text": "Harper: 야호, 꽃이다!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:00add6a": {
+    "text": "Harper: 어, 우리 정말 <i>{0}</i> 읽어도 돼요? 그거 어른들용 아니에요?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0f12698": {
+    "text": "Harper: 그건 좀 잘 모르겠는데...",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:00a0d38": {
+    "text": "Harper: 흥, 나 안 무서워.",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0f35567": {
+    "text": "Harper: 난 늑대인간 만나 보고 싶어.",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0d27818": {
+    "text": "Harper: 과학을 위해서!",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0c5a42c": {
+    "text": "Harper: <size=85%><i>*하품*</i><size=100%> 응! 나 깨어 있어...",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:048f53d": {
+    "text": "Harper: 일곱",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0a188aa": {
+    "text": "Harper: 다섯",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:07d1283": {
+    "text": "Harper: 셋",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:01045e2": {
+    "text": "Harper: 안녕하세요! 여기서 또 책 읽어도 돼요?",
+    "node": "Harper_SpliceReceiver"
+  },
+  "line:080df02": {
+    "text": "Harper: 좋아요! 여기서 또 책 읽어도 돼요?",
+    "node": "Harper_SpliceReceiver"
+  },
+  "line:012fc9c": {
+    "text": "Harper: 좋아요, 그게 다예요. 여기서 잠깐 책 읽어도 돼요?",
+    "node": "Harper_SpliceReceiver"
+  },
+  "line:0efc74f": {
+    "text": "Harper: 고마워요! 난 여기 이 구석이 좋아요...",
+    "node": "Harper_SpliceReceiver"
+  },
+  "line:0a3b9c7": {
+    "text": "Harper: 좋아요. 다음에 또 올게요!",
+    "node": "Harper_SpliceReceiver"
+  },
+  "line:0744699": {
+    "text": "Harper: 이봐요! 아저씨/아주머니, 물건 줍는 거 잘할 것 같아요!",
+    "node": "Harper_Seashells"
+  },
+  "line:0ee84c9": {
+    "text": "Harper: 음, 아저씨/아주머니 물건 줍는 거 잘할 것 같아요!",
+    "node": "Harper_Seashells"
+  },
+  "line:054de5e": {
+    "text": "Harper: 잠깐만요! 저 물건 줍는 것도 도와줘야 해요!",
+    "node": "Harper_Seashells"
+  },
+  "line:09d5f50": {
+    "text": "Harper: 엄마가 집에 가야 한댔는데, 저 아직 조개를 다 못 모았어요.",
+    "node": "Harper_Seashells"
+  },
+  "line:01626f0": {
+    "text": "Harper: 네. 해양생물학 들어 본 적 있어요?",
+    "node": "Harper_Seashells"
+  },
+  "line:05db94c": {
+    "text": "Harper: 바다에 있는 걸 연구하는 거예요. 불가사리 같은 거요. 그리고 인어요. 또 조개도요.",
+    "node": "Harper_Seashells"
+  },
+  "line:0f3a0cb": {
+    "text": "Harper: 그래서 조개껍데기가 필요해요. 관찰하려고요. 과학을 위해서요!",
+    "node": "Harper_Seashells"
+  },
+  "line:0993c50": {
+    "text": "Harper: 네. 조개껍데기가 필요해요!",
+    "node": "Harper_Seashells"
+  },
+  "line:0c93aac": {
+    "text": "Harper: 그걸 관찰하는 거예요. 과학을 위해서요!",
+    "node": "Harper_Seashells"
+  },
+  "line:0528fd7": {
+    "text": "Harper: 해양생물학이라는 거예요.",
+    "node": "Harper_Seashells"
+  },
+  "line:03c04d2": {
+    "text": "Harper: 바다에 있는 온갖 걸 다 관찰해야 해요. 불가사리 같은 거요. 그리고 인어요. 또 조개도요.",
+    "node": "Harper_Seashells"
+  },
+  "line:0ed3a4d": {
+    "text": "Harper: 저 대신 좀 주워 줄 수 있어요? 제발요오?",
+    "node": "Harper_Seashells"
+  },
+  "line:083fd20": {
+    "text": "Harper: 자, 제 특별한 해양생물학자 장비를 빌려줄게요.",
+    "node": "Harper_Seashells"
+  },
+  "line:0970216": {
+    "text": "Harper: 오늘 거의 다 주웠는데, 내일이면 몇 개 더 떠밀려 와 있을 거예요. {0}개만 더 있으면 돼요!",
+    "node": "Harper_Seashells"
+  },
+  "line:0743d6a": {
+    "text": "Harper: 으, 엄마가 또 불러요! 알았어요 안녕녕!",
+    "node": "Harper_Seashells"
+  },
+  "line:0f88a16": {
+    "text": "Harper: <size=85%><i>*하아*</i><size=100%> 여름 방학이 최고야.",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:04f5c84": {
+    "text": "Harper: 부모님이 휴가로 어디 가고 싶어 했는데, 제가 “그럼 저 빼고 가세요!” 했어요.",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:0446f52": {
+    "text": "Harper: 하루 종일 차에 앉아 있기 싫어요! 북스톤버리에선 그냥 자전거 타고 해변에 가면 되거든요.",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:0347bf5": {
+    "text": "Harper: 게다가, 제 친구들이 다 여기 있어요. 떠나면 제일 재밌는 농담들을 다 놓칠 거라고요!",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:01902af": {
+    "text": "Harper: 여름에 딱 하나 빠진 게 있어요... 바로 모래성이요!",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:0e7e49f": {
+    "text": "Harper: 아, 그리고 당연히 <b>{0}</b> 책도 더요. 좀 따라와 줘요, 알았죠?",
+    "node": "Harper_Sandcastle01Start"
+  },
+  "line:05bdf10": {
+    "text": "Harper: 이봐요, 우리한테 그 돈 구해 줘서 고마워요! 그럼 전 그냥...",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:0a0b23c": {
+    "text": "Harper: ... 그거 받을게요. 네. 저랑 바바랑 이따 삽이랑 양동이 엄청 많이 살 거예요!",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:0274b4e": {
+    "text": "Harper: 자, 다음엔 어디다 지어야 하지? 좀 더 전략적인 데여야 하는데...",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:0d5e92e": {
+    "text": "Harper: <size=85%><i>*중얼*</i> 모래로 도개교를 어떻게 만들지?<size=100%>",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:020606a": {
+    "text": "Harper: 어어, 아무튼! 미안, 우리 일급비밀 계획은 알려 줄 수 없어요!",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:025bbd8": {
+    "text": "Harper: 안녕녕!",
+    "node": "Harper_Sandcastle02Complete"
+  },
+  "line:089825f": {
+    "text": "Harper: <size=85%><i>*속삭임*</i> 그리고 그 비밀 통로를 어떻게 다니는지는 오직 <i>나만</i> 알 거야.<size=100%>",
+    "node": "Harper_Sandcastle03Start"
+  },
+  "line:0ab4faa": {
+    "text": "Harper: 우리 비전을 함께할 아이들이 필요해요! 그러니까 그건... 음... <b>{0}</b> 책 좋아하는 아이들이겠죠?",
+    "node": "Harper_Sandcastle03Start"
+  },
+  "line:0104104": {
+    "text": "Harper: 우우후우! 여름이다!",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:0734c20": {
+    "text": "Harper: 분명 흥미로운 학년이긴 했는데, 그래도...",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:0ccd973": {
+    "text": "Harper: 모험엔 여름 방학만 한 때가 없죠!",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:088934d": {
+    "text": "Harper: 내가 지금 뭘 하고 싶은지 알아요? <size=85%><i>*헤헤*</i><size=100%> 맞혔어요!",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:03a9be0": {
+    "text": "Harper: 책 읽기이! 학교에서 올해 이 <b>{0}</b>를 읽어야 했어요... 그럭저럭이었는데, 최애는 아니었어요.",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:09ba666": {
+    "text": "Harper: 난 마법이 더 좋아! 해변 전체에 마법을 걸자!",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:0e7663f": {
+    "text": "Harper: 내가 먼저 시작할게요, 네? 자, 오늘은 <b>{0}</b> 책 하나 골라야지!",
+    "node": "Harper_Sandcastle01Resume"
+  },
+  "line:0d92e40": {
+    "text": "Harper: 우우후우! 여름이다!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:03c4e71": {
+    "text": "Harper: 분명 흥미로운 학년이긴 했는데, 그래도...",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:0157aa5": {
+    "text": "Harper: 모험엔 여름 방학만 한 때가 없죠!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:012455c": {
+    "text": "Harper: 많이 배웠으니까... 이제 진짜로 건축가 경력을 시작할 준비가 된 것 같아요!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:00a48b9": {
+    "text": "Harper: 근데, 기억할지 모르겠는데, 우린 모래성 프로젝트 전체에 쓸 돈을 끝내 다 못 모았어요!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:0554e1f": {
+    "text": "Harper: 올해 다시 해 봐도 돼요? 제에에발요?",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:07937ec": {
+    "text": "Harper: 부하들— 아니 <i>친구들</i>한테 더 잘해 줄게요, 약속해요!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:099558b": {
+    "text": "Harper: 좋아요, 제가 패거리를 다시 모을 테니, 아저씨/아주머니는 돈 담당이에요, 알았죠?",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:0342f76": {
+    "text": "Harper: <size=85%><i>*헤헤헤*</i><size=100%> 이건 북스톤버리 역사상 가장 큰 건축 프로젝트가 될 거예요!",
+    "node": "Harper_Sandcastle02Resume"
+  },
+  "line:01d356f": {
+    "text": "Harper: 우우후우! 여름이다!",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:00fb3d5": {
+    "text": "Harper: 분명 흥미로운 학년이긴 했는데, 그래도—",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:0cadf1c": {
+    "text": "Harper: —응? 잠깐, 저게 뭐지? 비계(飛階)...?",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:09c0877": {
+    "text": "Harper: 아, 맞다! 우리 모래성!",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:08854eb": {
+    "text": "Harper: 오 우와, 완전히 까먹고 있었네. <size=85%><i>*하하*</i><size=100%> 다들 그랬나 봐요.",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:0c3a018": {
+    "text": "Harper: 음... 이 프로젝트엔 끝까지 마무리할 유능한 지도자가 필요한 것 같아요... 책임을 떠맡을 사람이요.",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:0ab57fc": {
+    "text": "Harper: 뭐! 어쩔 수 없죠! 내가 이 일에 딱 맞는 사람이니까! 그럼 우리가 시작한 걸 끝내 볼까요?",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:06f3dd2": {
+    "text": "Harper: 근데 군대가 필요할 거예요. 필요하면 성벽을 지킬 만큼요, 응?",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:05b43e9": {
+    "text": "Harper: <b>{0}</b> 판매를 잔뜩 하는 게 완벽한 소집 신호일 것 같아요! 내 선택받은 동지들은 그게 무슨 뜻인지 알 거예요.",
+    "node": "Harper_Sandcastle03Resume"
+  },
+  "line:006a029": {
+    "text": "Harper: 안녕하세요! 중요한 질문!",
+    "node": "Harper_QuestionBooks"
+  },
+  "line:0f8ff4e": {
+    "text": "Harper: 자, 질문이 있어요!",
+    "node": "Harper_QuestionBooks"
+  },
+  "line:0fcad13": {
+    "text": "Harper: 좋아요. 자. 저도 질문이 있어요!",
+    "node": "Harper_QuestionBooks"
+  },
+  "line:0032fdb": {
+    "text": "Harper: 오 오, 보여 줄 것도 있어요!!",
+    "node": "Harper_BeachJellyfish"
+  },
+  "line:0403dc1": {
+    "text": "Harper: 이봐요, 당신! 토요일에 벼룩시장 올 거죠?",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:03d58e1": {
+    "text": "Harper: 거기 진짜 멋져요, 오래되고 먼지 쌓인 걸 엄청 많이 찾을 수 있어요!",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:0cde4f3": {
+    "text": "Harper: 바바는 늘 그걸 <i>“보물”</i>이라고 불러요, 좋은 걸 찾기가 진짜 어렵거든요...",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:03099e0": {
+    "text": "Harper: 근데 찾으면, 마치 해적이 당신만을 위해 숨겨 둔 걸 발견한 기분이에요!",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:0edeca6": {
+    "text": "Harper: 이봐요, 당신! 다음 벼룩시장에도 또 올 거죠?",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:0b8f9a7": {
+    "text": "Harper: 꼭 와야 해요, 거긴 올 때마다 물건이 달라지거든요!",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:0df43b7": {
+    "text": "Harper: 안 가서 진짜 멋진 보물 하나를 놓치면 어떡해요?",
+    "node": "Harper_FleamarketSoon"
+  },
+  "line:06f2b5f": {
+    "text": "Harper: 나 진짜 잘 찾는 사람인 거 알았어요? 이 근방에서 늘 <i>제일</i> 좋은 걸 찾거든요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:064a700": {
+    "text": "Harper: 나 진짜 잘 찾는 사람인 거 알았어요? 이 근방에서 늘 <i>제일</i> 좋은 걸 찾거든요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0496140": {
+    "text": "Harper: 그나저나, 나 진짜 잘 찾는 사람인 거 알았어요? 이 근방에서 늘 <i>제일</i> 좋은 걸 찾거든요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0fb5bb0": {
+    "text": "Harper: 지난번엔 엄처어엉 희귀한 트레이딩 카드를 찾았어요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:08cd72a": {
+    "text": "Harper: 그리고 그 전번엔 저랑 바바가 진짜 좋은 물감을 샀어요! 완전 재밌었어요!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:01f5bd5": {
+    "text": "Harper: 이번엔 선글라스를 찾아볼까 봐요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0130e12": {
+    "text": "Harper: 그리고 그 전번엔 저랑 바바가 진짜 멋진 모자를 샀어요! 완전 재밌었어요!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:02ef4ac": {
+    "text": "Harper: 이번엔 엄마 줄 귀걸이를 찾아볼까 봐요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0223699": {
+    "text": "Harper: 그리고 그 전번엔 저랑 바바가 엄마 줄 반짝이는 보석을 샀어요! 엄마가 엄청 좋아했어요!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:00eb9f6": {
+    "text": "Harper: 이번엔 손뜨개 장갑을 찾아볼까 봐요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:092967f": {
+    "text": "Harper: 그리고 그 전번엔 저랑 바바가 썰매를 샀어요! 완전 재밌었어요!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0e2a724": {
+    "text": "Harper: 이번엔 멋진 바지를 찾아볼까 봐요.",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0075cb1": {
+    "text": "Harper: 그리고 이번엔 비디오 게임을 찾아볼까 봐요. 친구들 깜짝 놀라게 할 진짜 옛날 거로요!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0f31bd8": {
+    "text": "Harper: 아저씨/아주머니도 뭐 좀 사요! 좋아요, 안녕!",
+    "node": "Harper_Fleamarket"
+  },
+  "line:0b8b3bf": {
+    "text": "Harper: 보물 몇 개나 찾았어요? 내 기록을 깰 수 있을 것 같아요?",
+    "node": "Harper_FleamarketChallengeStart_Post"
+  },
+  "line:02a42e2": {
+    "text": "Harper: 흥, 뭐, 어디 한번 해 봐요!",
+    "node": "Harper_FleamarketChallengeStart_Post"
+  },
+  "line:010ac95": {
+    "text": "Harper: 잠깐, 벌써 보물을 {0}개나 찾았다고요?!",
+    "node": "Harper_FleamarketChallengeComplete_Post"
+  },
+  "line:05adcbb": {
+    "text": "Harper: 인상적인데요! 언젠가 필요하면 아저씨/아주머니를 내 보물 사냥 조수로 삼을지도 몰라요!",
+    "node": "Harper_FleamarketChallengeComplete_Post"
+  },
+  "line:0ed79e7": {
+    "text": "Harper: 이거 봐요, 이 이상한 돌 찾았어요!",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:022fabe": {
+    "text": "Harper: 이것도 봐요, 이 이상한 돌 찾았어요!",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:04ca0ec": {
+    "text": "Harper: 그나저나, 이 이상한 돌 찾았어요!",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:0c7f423": {
+    "text": "Harper: 이게 무슨 뜻인 것 같아요?",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:05d9ba0": {
+    "text": "Harper: 아마 달에서 온 것 같아요. 응!",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:02d4f63": {
+    "text": "Harper: 이런! 또 시간을 깜빡했네. 집에 가야겠어요!",
+    "node": "Harper_ExploresWaterfront"
+  },
+  "line:033fbb6": {
+    "text": "Harper: 그거 알아아요?",
+    "node": "Harper_ExploresCafe"
+  },
+  "line:0a2a718": {
+    "text": "Harper: 그리이고, 그거 알아요?",
+    "node": "Harper_ExploresCafe"
+  },
+  "line:0eab92c": {
+    "text": "Harper: 오, 오, 그리고! 그거 알아요?",
+    "node": "Harper_ExploresCafe"
+  },
+  "line:0d5fe65": {
+    "text": "Harper: 우리 반 여자애가 그러는데 세인트 북스톤 분수가 말을 할 수 있대요!",
+    "node": "Harper_ExploresCafe"
+  },
+  "line:0fc10af": {
+    "text": "Harper: 근데 어떻게 말하게 했는지는 안 가르쳐 줬어요.",
+    "node": "Harper_ExploresCafe"
+  },
+  "line:0d821c3": {
+    "text": "Harper: 이봐요! 망원경 살 거니까 <nobr>1 {0}</nobr>만 빌려줄래요?",
+    "node": "Harper_ExploresLighthouse"
+  },
+  "line:0446068": {
+    "text": "Harper: 오! 망원경 살 거니까 <nobr>1 {0}</nobr>만 빌려줄래요?",
+    "node": "Harper_ExploresLighthouse"
+  },
+  "line:0d9aed9": {
+    "text": "Harper: 그나저나, 망원경 살 거니까 <nobr>1 {0}</nobr>만 빌려줄래요?",
+    "node": "Harper_ExploresLighthouse"
+  },
+  "line:0676179": {
+    "text": "Harper: 그 섬을 봐야 한단 말이에요!",
+    "node": "Harper_ExploresLighthouse"
+  },
+  "line:0c03e44": {
+    "text": "Harper: 바바는 그게 계속 거기 있었다는데, 난 안 믿어요.",
+    "node": "Harper_ExploresLighthouse"
+  },
+  "line:0ba11d3": {
+    "text": "Harper: 방금 클라우스 삼촌이랑 얘기했는데, 질문을 원하는 만큼 해도 된댔어요!",
+    "node": "Harper_ExploresSupermarket"
+  },
+  "line:0c50417": {
+    "text": "Harper: 그리고, 방금 클라우스 삼촌이랑 얘기했어요. 질문을 원하는 만큼 해도 된댔어요!",
+    "node": "Harper_ExploresSupermarket"
+  },
+  "line:0b88e6e": {
+    "text": "Harper: 아무튼! 방금 클라우스 삼촌이랑 얘기했는데, 질문을 원하는 만큼 해도 된댔어요!",
+    "node": "Harper_ExploresSupermarket"
+  },
+  "line:0c65295": {
+    "text": "Harper: 그래서 삼촌이 어떻게 내 삼촌이 됐는지, 내가 어떻게 엄마 배 속에서 자랐는지, 지구가 그렇게 빨리 도는데 왜 우린 안 떨어지는지 물어봤어요!!!",
+    "node": "Harper_ExploresSupermarket"
+  },
+  "line:0cf836b": {
+    "text": "Harper: 근데 그냥... 웃기만 했어요? 그게 무슨 뜻인지 모르겠어요.",
+    "node": "Harper_ExploresSupermarket"
+  },
+  "line:00f314c": {
+    "text": "Harper: 아이고. 성 공사가 아직도 너무 오래 걸려요.",
+    "node": "Harper_Sandcastle03Reminder_Pre"
+  },
+  "line:068f915": {
+    "text": "Harper: <i>*으아앙*</i> 여름이 끝나기 전에 다 끝내고 싶었는데.",
+    "node": "Harper_Sandcastle03Reminder_Pre"
+  },
+  "line:0b09205": {
+    "text": "Harper: 엄마가 일요일에 마을 사람들이 다 온댔어요! 그리고 난 다들 <i>내 작품</i>을 감탄하게 하고 싶어요!",
+    "node": "Harper_Sandcastle03Reminder_Pre"
+  },
+  "line:07c634f": {
+    "text": "Harper: 그러니까— 우리 작품이요, 당연히...",
+    "node": "Harper_Sandcastle03Reminder_Pre"
+  },
+  "line:04d0738": {
+    "text": "Harper: 봐요, 봐요! 우리가 동굴 근처 모래에서 뭘 찾았는지 맞혀 봐요!",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:04c89f3": {
+    "text": "Harper: 방패! 그리고 검이요! 응, 맞아요!",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:07409aa": {
+    "text": "Harper: 분명 옛 전사들이 보내는 신호일 거예요. 우리더러 굳건히 버티래요.",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:0165829": {
+    "text": "Harper: 우리의 고귀한 임무를 도와주고 있으니, 아저씨/아주머니한테도 방패를 하사할게요.",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:0101403": {
+    "text": "Harper: 무릎을 꿇어라, 나의 충성스러운 백성이여. <size=85%><i>*헤헤*</i><size=100%> 자, 여기요!",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:02cac4c": {
+    "text": "Harper: 흥! 알았어요, 그럼 펀 아저씨한테 줄래요!",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:0730837": {
+    "text": "Harper: 그래. 나 이제 가야 해요. 여름 방학 마지막 날들은 해변에서 보내야죠!",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:0431ff8": {
+    "text": "Harper: <size=85%><i>*훌쩍*</i><size=100%> 아이고, 이번 여름에 하고 싶은 게 아직 엄청 많았는데...",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:0caf1e7": {
+    "text": "Harper: <b>{0}</b>도 아직 충분히 못 읽었어요. 개학 첫날 대체 뭘 자랑하란 거야?!",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:06c58bb": {
+    "text": "Harper: 우리 첫 모래성도 아직 못 끝냈어요.",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:0174f93": {
+    "text": "Harper: 성도 없이 우리 해안을 어떻게 지키냐고요?!",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:0118fbe": {
+    "text": "Harper: 우리 건축의 경이를 미완성으로 둘 순 없어요!",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:037579c": {
+    "text": "Harper: 그럼 내가 어떻게 세계 기록 책에 오르냐고요, 응?",
+    "node": "Harper_SandcastleReminderNotBeach_Post"
+  },
+  "line:0156589": {
+    "text": "Harper: 그래서? 이제 우리 성을 둘러볼 시간이 있었는데, 어떻게 생각해요?",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:058b498": {
+    "text": "Harper: 그래서? 이제 우리 성을 둘러볼 시간이 있었는데, 어떻게 생각해요?",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:0a21dfe": {
+    "text": "Harper: 그나저나, 이제 우리 성을 둘러볼 시간이 있었는데, 어떻게 생각해요?",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:0495d70": {
+    "text": "Harper: 세상에서 제일 멋진 거 아니에요?!",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:016fd62": {
+    "text": "Harper: 하! 그 못된 어른들은 우리더러 그걸 허물래요. 세계의 경이를 그냥 허물 순 없죠!",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:056d2e8": {
+    "text": "Harper: 게다가, 해변은 성도 모닥불도 둘 다 들어갈 만큼 넓잖아요, 그쵸?",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:0ddd630": {
+    "text": "Harper: 근데 어떤 사람들은 그냥 흥을 깨는 훼방꾼이에요.",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:0350b1c": {
+    "text": "Harper: 아무튼! 그들은 우리도, 우리의 위대한 모래도 무너뜨리지 못해요! 혁명이다!!!",
+    "node": "Harper_SandcastleBonfireSoon"
+  },
+  "line:02b3505": {
+    "text": "Harper: 오 어어... 그나저나, 우리 조개 모으기 프로젝트는 아직 하는 거예요?",
+    "node": "Harper_SeashellReminder_Post"
+  },
+  "line:02268e0": {
+    "text": "Harper: 여름이 거의 끝나가는데, 해양생물학이 좀 지겨워지고 있거든요.",
+    "node": "Harper_SeashellReminder_Post"
+  },
+  "line:04d4ade": {
+    "text": "Harper: 그러니까, 바다 생물들은 헤엄만 치잖아요? 그래서... 차라리 파충류학자가 되고 싶어요.",
+    "node": "Harper_SeashellReminder_Post"
+  },
+  "line:02e17c1": {
+    "text": "Harper: 있잖아요, 도마뱀이랑 뱀이랑 개구리요? 걔넨 점프도 하고 기어오를 수도 있어요!! <size=85%>*속삭임* 자꾸 개구리 생각이 나요.<size=100%>",
+    "node": "Harper_SeashellReminder_Post"
+  },
+  "line:0002550": {
+    "text": "Harper: 그러니까, 있잖아요... 그 조개들을 곧 모으면, 모닥불 때 친구들한테 보여 줄 수 있어요!",
+    "node": "Harper_SeashellReminder_Post"
+  },
+  "line:04a59ff": {
+    "text": "Harper: <size=85%><i>*한숨*</i>...<size=100%><i>*한숨*</i> <size=130%>한숨!<size=100%>",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0de489b": {
+    "text": "Harper: 슬프어어요. 여름이 왜 끝나야 해요?! 안 끝났으면 좋겠어요.",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:09c0ee6": {
+    "text": "Harper: 응! 나 슬퍼요! 여름이 끝나는 거 싫어요!",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:04b90d3": {
+    "text": "Harper: 방학이 <i>너무</i> 짧았어요!",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0109468": {
+    "text": "Harper: 책도 그렇게 많이 못 읽었고, 모래성도 하나도 못 지었어요.",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0e0c570": {
+    "text": "Harper: 이제 다들 학교로 돌아가야 해요. 너무 불공평해요! 어른들은 아무 때나 해변에서 놀 수 있잖아요.",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0bff20b": {
+    "text": "Harper: 근데 뭐, 내년 여름이 또 있겠죠, 응?",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:08c4eee": {
+    "text": "Harper: 우리 모래성도 제때 못 끝냈어요!",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0f568ca": {
+    "text": "Harper: 이제 다들 학교로 돌아가야 해요. 너무 불공평해요! 어른들은 아무 때나 해변에서 놀 수 있잖아요.",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0c5ea61": {
+    "text": "Harper: 근데 뭐, 내년 여름에 다시 해 봐도 되겠죠. 지금까지 도와줘서 고마워요.",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:07486ad": {
+    "text": "Harper: 이봐요오! 이따 모래성 다시 보러 갈래요?",
+    "node": "Harper_SandcastleAbandon_Pre"
+  },
+  "line:0ab7577": {
+    "text": "Harper: 가을엔 거기서 그렇게 많이 놀 것 같진 않아요...",
+    "node": "Harper_SandcastleAbandon_Pre"
+  },
+  "line:0d15831": {
+    "text": "Harper: 밖이 너무 춥고 바람도 불고, 다음 주에 또 개학이거든요.",
+    "node": "Harper_SandcastleAbandon_Pre"
+  },
+  "line:0968ee0": {
+    "text": "Harper: 근데 아저씨/아주머니가 다음 성주가 될 수 있어요! 아니면 폐허주요!",
+    "node": "Harper_SandcastleAbandon_Pre"
+  },
+  "line:09c6f91": {
+    "text": "Harper: 어차피 폐허가 훠얼씬 멋진 것 같아요.",
+    "node": "Harper_SandcastleAbandon_Pre"
+  },
+  "line:053e589": {
+    "text": "Harper: 이봐요, 아직 그 조개들 갖고 있네요!",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:0a2c240": {
+    "text": "Harper: 와, 내가 만든 조개 목걸이 아직 갖고 있네요!",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:0b37458": {
+    "text": "Harper: 그래서, 아직도 해양생물학 같은 거 좋아해요?",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:08136d2": {
+    "text": "Harper: 그런 걸 꾸준히 한다니 진짜 멋진 것 같아요!",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:0b0ed0b": {
+    "text": "Harper: 이 근방에서 그걸 다 모으느라 그 시간을 다 들이기까지 했고요.",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:076ced2": {
+    "text": "Harper: 나도 크면 아저씨/아주머니처럼 되고 싶어요!",
+    "node": "Harper_SeashellCompliment_Pre"
+  },
+  "line:06d134d": {
+    "text": "Harper: 이따 모닥불 밤에 올 거죠? 좋아, 그때 봐요!",
+    "node": "Harper_BonfireDay"
+  },
+  "line:01f9ba5": {
+    "text": "Harper: 좋아요, 그럼 이따 불 때 봐요!",
+    "node": "Harper_BonfireDay"
+  },
+  "line:09994a3": {
+    "text": "Harper: 안녕녕!!!",
+    "node": "Harper_BonfireDay"
+  },
+  "line:0259066": {
+    "text": "Harper: 사실, 난 수업이 좀 기대돼요. 아무도 인정 안 하지만, 배우는 게 최고거든요!",
+    "node": "Harper_BonfireNight"
+  },
+  "line:06f3108": {
+    "text": "Harper: 아저씨/아주머니가 학교 안 다니면, <i>내가</i> 금세 <i>당신보다</i> 더 많이 알게 될걸요!",
+    "node": "Harper_BonfireNight"
+  },
+  "line:0177ed6": {
+    "text": "Harper: 아무튼, 월요일 아침엔 날 찾으러 오지 마요, 알았죠?",
+    "node": "Harper_BonfireNight"
+  },
+  "line:048d4a5": {
+    "text": "Harper: 아저씨/아주머니랑 놀려고 수업 째진 않을 거예요! 그래도... 학교 끝나고 가게엔 들를지도 몰라요!",
+    "node": "Harper_BonfireNight"
+  },
+  "line:0f3ef49": {
+    "text": "Harper: 근데 지금은, 중요한 일을 처리해야 해요!",
+    "node": "Harper_BonfireNight"
+  },
+  "line:0a80583": {
+    "text": "Harper: 불 일이요! <size=85%><i>*헤헤헤*</i><size=100%> 모닥불 밤이 최고야!",
+    "node": "Harper_BonfireNight"
+  },
+  "line:0e1fc42": {
+    "text": "Harper: 오, 오, 쪽지는 벌써 태웠어요?",
+    "node": "Harper_BonfireFallback"
+  },
+  "line:08764b1": {
+    "text": "Harper: 듣자 하니 위험하다나 뭐라나, 그래서 혼자 하면 안 된대요.",
+    "node": "Harper_BonfireFallback"
+  },
+  "line:0e2524d": {
+    "text": "Harper: 틸데한테 손 잡아 달라고 해 봐요.",
+    "node": "Harper_BonfireFallback"
+  },
+  "line:0e7aee7": {
+    "text": "Harper: 흐으음. 내가 파이어니어에 들어가야 할까요?",
+    "node": "Harper_CastleUnlock"
+  },
+  "line:064d75d": {
+    "text": "Harper: 어른들이 이래라저래라 하는 거 싫은데...",
+    "node": "Harper_CastleUnlock"
+  },
+  "line:010f03e": {
+    "text": "Harper: 근데 학교 사샤가 그러는데 작년 캠프에서 양궁을 했대요!",
+    "node": "Harper_CastleUnlock"
+  },
+  "line:0d049d4": {
+    "text": "Harper: 나도 양궁 하고 싶어요!!",
+    "node": "Harper_CastleUnlock"
+  },
+  "line:0cbbebf": {
+    "text": "Harper: 게다가 올해는 옛 폐허에서 캠핑한대요! 거긴 내가 북스톤버리에서 제일 좋아하는 곳이라고요!",
+    "node": "Harper_CastleUnlock"
+  },
+  "line:000fb56": {
+    "text": "Harper: 아, 정말 피핏 캠프에 가기로 해서 너무 좋아요! 파이어니어가 되는 게 최고야!",
+    "node": "Harper_ScoutCampGift"
+  },
+  "line:056922c": {
+    "text": "Harper: 오늘, 가을 공포 축제용 랜턴을 깎았어요!",
+    "node": "Harper_ScoutCampGift"
+  },
+  "line:055737e": {
+    "text": "Harper: 사람들이 호박이 생기기 전엔 순무랑 감자로 이걸 했던 거 알아요?",
+    "node": "Harper_ScoutCampGift"
+  },
+  "line:0cc65aa": {
+    "text": "Harper: 아저씨/아주머니 서점에서 악령을 쫓으라고 하나 주려고요!",
+    "node": "Harper_ScoutCampGift"
+  },
+  "line:0acb534": {
+    "text": "Harper: 봐요, 벌써 더 안전한 기분이 들어요!",
+    "node": "Harper_ScoutCampGift"
+  },
+  "line:083730e": {
+    "text": "Harper: 친구들한테 시릴 광장에서 죽어서 유령이 된 그 아저씨 얘기를 해 줬어요!",
+    "node": "Harper_HorrorStories"
+  },
+  "line:0a276b5": {
+    "text": "Harper: 다들 엄청 무서워했어요. <size=85%><i>*헤헤*</i><size=100%> 근데 난 안 그랬어요. 절대! 하. 나도. 안.",
+    "node": "Harper_HorrorStories"
+  },
+  "line:0ab5d71": {
+    "text": "Harper: 잠깐, 그 얘기 몰라요?",
+    "node": "Harper_HorrorStories"
+  },
+  "line:00c7dff": {
+    "text": "Harper: 우와! 음, 책을 더 읽어야겠어요, 친구!",
+    "node": "Harper_HorrorStories"
+  },
+  "line:09e7c3c": {
+    "text": "Harper: ...아아, 알겠다. 무서운 거죠. 괜찮아요!",
+    "node": "Harper_HorrorStories"
+  },
+  "line:08ec573": {
+    "text": "Harper: 우리 엄마가 그러는데 무서울 땐 혼자 있기 싫어도 괜찮대요! 친구를 찾아가서 손을 잡으면 돼요.",
+    "node": "Harper_HorrorStories"
+  },
+  "line:0ce8357": {
+    "text": "Harper: 그러니까, 무서운 책 읽고 싶을 때 알려 줘요! 내가 함께해 줄게요.",
+    "node": "Harper_HorrorStories"
+  },
+  "line:0aa889d": {
+    "text": "Harper: 쉿. 파이어니어 대장 앤한테는 말하지 마요, 근데 어젯밤에 진짜 무서운 꿈을 꿨어요.",
+    "node": "Harper_Nightmares_Pre"
+  },
+  "line:07aa368": {
+    "text": "Harper: 폐허가 되기 전, 옛 성을 걷고 있었어요. 그리고 난 엄청 용감한 기사였어요!",
+    "node": "Harper_Nightmares_Pre"
+  },
+  "line:07eee7e": {
+    "text": "Harper: 그-그-근데 누가 날 따라오고 있었어요! 그리고 돌아볼 때마다, 사라졌어요!",
+    "node": "Harper_Nightmares_Pre"
+  },
+  "line:0996cf3": {
+    "text": "Harper: 그-그-그러고는 불이 나서 더 이상 앞으로 갈 수가 없었어요!",
+    "node": "Harper_Nightmares_Pre"
+  },
+  "line:0148a7d": {
+    "text": "Harper: 너무 무서웠어어요!",
+    "node": "Harper_Nightmares_Pre"
+  },
+  "line:071354d": {
+    "text": "Harper: 헤헤, 멋진 배지 따려고 조사하는 거예요?",
+    "node": "Harper_NatureResearch_Pre"
+  },
+  "line:09a6603": {
+    "text": "Harper: 보상 없이도 내가 이걸 좋아한다는 건 다들 모르죠!",
+    "node": "Harper_NatureResearch_Pre"
+  },
+  "line:0027a43": {
+    "text": "Harper: 그러니까, 생각해 보면, 사실상 나한테 배지를 공짜로 주는 셈이에요!",
+    "node": "Harper_NatureResearch_Pre"
+  },
+  "line:026006c": {
+    "text": "Harper: 이봐요! 우리가 숲에서 비밀 길을 발견한 거 알아요?",
+    "node": "Harper_HikingTrailDiscovery"
+  },
+  "line:0a16360": {
+    "text": "Harper: 아무도 안 믿는데, 사실 그 낡은 이정표를 내가 제일 먼저 봤다고요!",
+    "node": "Harper_HikingTrailDiscovery"
+  },
+  "line:0c94699": {
+    "text": "Harper: 그 길을 마법사가 만든 것 같아요? 누가 그러는데 그 폐허가 옛날엔 마법사 탑이었대요.",
+    "node": "Harper_HikingTrailDiscovery"
+  },
+  "line:0771d66": {
+    "text": "Harper: <size=85%><i>*크흠*</i><size=100%> 그러니까... 마법사라면 따분하고 낡은 길이나 불러내는 것보다 더 할 일이 많았을 게 분명해요.",
+    "node": "Harper_HikingTrailDiscovery"
+  },
+  "line:0985fa5": {
+    "text": "Harper: 아아르! <i>우리</i> 성에서 뭐 하는 거야?",
+    "node": "Harper_HikingTrailPirates"
+  },
+  "line:04d6346": {
+    "text": "Harper: 여긴 해적 땅이야, 못 들었어?! 그리고 우리가 네 걸 탈탈 털어 줄 거다!",
+    "node": "Harper_HikingTrailPirates"
+  },
+  "line:0e3ee1f": {
+    "text": "Harper: 이 작전의 선장은 당연히 나지!",
+    "node": "Harper_HikingTrailPirates"
+  },
+  "line:0ed21fb": {
+    "text": "Harper: 그리고 선장에게 걸맞은 책을 내놓아라! 물건을 넘겨!",
+    "node": "Harper_HikingTrailPirates"
+  },
+  "line:0c9232a": {
+    "text": "Harper: 이봐요! 나한테도 생선 있어요?",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:0e9a949": {
+    "text": "Harper: 그래서, 나한테도 생선 있어요?",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:031b783": {
+    "text": "Harper: 그나저나, 나한테도 생선 있어요?",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:08b7f53": {
+    "text": "Harper: 갈매기한테 먹이 줘 볼래요!",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:0839bb4": {
+    "text": "Harper: 갈매기들이 내 말을 듣게 훈련시키면, 아마 역사상 최고의 조류학자가 될 거예요!",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:0d70380": {
+    "text": "Harper: 그러니까, 새 <i>관찰</i>은 초보용이죠. 새 군대를 만들자고요!",
+    "node": "Harper_SeagullInfestation"
+  },
+  "line:0b27902": {
+    "text": "Harper: 우우우, 곧 또 공포 축제다!",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:02aa4a5": {
+    "text": "Harper: 올해는 뭐 할까요? 유령 사냥? 옛 미스터리 풀기? 뱀파이어랑 싸우기?",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:0aa6928": {
+    "text": "Harper: 잠깐, 진짜요? 그러니까, 제대로 된 출몰? 사슬이 철컹거리고 꽃병이 깨지는 거요?",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:0c05e19": {
+    "text": "Harper: 멋지이이다! 벌써 아이디어가 엄청 많아요!!!",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:0f71ded": {
+    "text": "Harper: 잠깐, 우리만의 유령의 집을 만든다는 거예요?",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:07a32f5": {
+    "text": "Harper: 아이참, 완전 멋져요!!! 벌써 아이디어가 엄청 많아요!",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:062b308": {
+    "text": "Harper: 친구들은 무슨 일이 닥칠지 모를 거예요! <size=85%><i>*헤헤헤*</i><size=100%> 엄청 무서워하면서도 감탄할 거라고요!",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:079029a": {
+    "text": "Harper: 와, 가을 공포 축제가 어서 왔으면 좋겠어요! 거기서 만나요, 알았죠?",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:0ba0f31": {
+    "text": "Harper: 오, 안녕하세요. 난 그냥, 어, 책 찾고 있어요.",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0256bf2": {
+    "text": "Harper: 응! 난 유령의 집에 <i>가고 싶지도</i> 않아요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0fd7ce6": {
+    "text": "Harper: 혹시... 거기 가고 싶어요?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:06758d9": {
+    "text": "Harper: 내가 <i>무서워서</i> 그런 거 아니에요!! 그냥... <i>당신이</i> 무서워할까 봐 그랬어요.",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0087633": {
+    "text": "Harper: 그리고 그... 유, 유, 유령들이랑 같이, 내가 같이 가서 도와줄 수 있어요.",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:048e559": {
+    "text": "Harper: 응! 같이 가요! 걱정 마요, 유령들이 친절할지도 몰라요... 그쵸?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0d3246a": {
+    "text": "Harper: 좋아요! 판매 끝나면, 틸데 가게 쪽에서 만나요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0f3a20f": {
+    "text": "Harper: 그래서어, 이따 다들 무섭게 할 아이디어가 몇 개 있어요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0768a3b": {
+    "text": "Harper: 여기 살아 있는 거미를 몇 마리나 둘 수 있을 것 같아요?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0cdcf90": {
+    "text": "Harper: 아, 됐어요. 우리 엄마가 늘 그러는데 거미는 우리가 걔네를 무서워하는 것보다 걔네가 우릴 훨씬 더 무서워한대요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0a5be52": {
+    "text": "Harper: 그러니까 아마 그냥 도망쳐서 숨을 거예요...",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:05f97f6": {
+    "text": "Harper: 그냥 또 유령 걸로 갈까요? 이번엔 다른 걸로 하면 어때요? “세인트 북스톤”을 써도 되고요?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:08d4b92": {
+    "text": "Harper: 아무튼, 이건 판매 끝나고 얘기해요. 근데 곧 출몰 준비를 다 할 수 있어요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0de5617": {
+    "text": "Harper: 이봐요, 즐거운 공포 축제! 틸데 빈 가게에서 나오는 그 으스스한 빛 봤어요?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0340605": {
+    "text": "Harper: 작년에 거기 이미 가 봐서 다행이에요. 이제 아무것도 우릴 무섭게 못 해요... 그쵸?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:05f51ee": {
+    "text": "Harper: 근데 그 유령에 대해 드디어 더 알아내야 해요... 우리한테 뭘 원했던 걸까요?",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:09f84ef": {
+    "text": "Harper: 우리 초자연 수사단 팀 이름 후보를 좀 생각해 봐요! 우리에 대한 다큐멘터리 만들 때 중요할 거예요.",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0b554b9": {
+    "text": "Harper: 그리고 판매 끝나면, 틸데 가게 쪽에서 만나요!",
+    "node": "Harper_FFFHauntedHouseTransition"
+  },
+  "line:0e23a47": {
+    "text": "Harper: <size=85%><i>*휴*</i><size=100%> 좋아요. 준비됐어요?",
+    "node": "Harper_FFFEndTheEvent"
+  },
+  "line:0034620": {
+    "text": "Harper: 야, 돌아가!",
+    "node": "Harper_FFFEndTheEvent"
+  },
+  "line:04ae7a2": {
+    "text": "Harper: 과자 받으러 온 애들을 상대해야 해!",
+    "node": "Harper_FFFEndTheEvent"
+  },
+  "line:02ee741": {
+    "text": "Harper: 이쪽이에요!",
+    "node": "Harper_FFFEndTheEvent_Cutscene"
+  },
+  "line:09ea8e8": {
+    "text": "Harper: <size=85%><i>*휴*</i><size=100%> 좋아요. 준비됐어요?",
+    "node": "Harper_FFFEndTheEvent_Cutscene"
+  },
+  "line:0d3851d": {
+    "text": "Harper: 그러어엄... 이제 <i>내가</i> 이동식 서점을 갖게 된다는 뜻이에요?",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:05449d8": {
+    "text": "Harper: 알았어요, 알았어. 그럴 만하네요!",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:03df366": {
+    "text": "Harper: 그럼 됐어요. 너무 많이 바꾸진 마요!",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:0b0d734": {
+    "text": "Harper: 응? 오!",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:0fe3d6d": {
+    "text": "Harper: 맞아요... 나한텐 운전사가 필요해요!",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:00b5c55": {
+    "text": "Harper: <size=85%><i>*노래*<size=100%> 흠흠흠흠 흠. 책, 책, 책.</i>",
+    "node": "Harper_BookshopEndingFallback"
+  },
+  "line:0abcd77": {
+    "text": "Harper: 우와! 이사 간 줄 알았잖아요!",
+    "node": "Harper_LongTimeNoSee"
+  },
+  "line:03eb057": {
+    "text": "Harper: 진짜 오랜만에 봐요!!",
+    "node": "Harper_LongTimeNoSee"
+  },
+  "line:05043ff": {
+    "text": "Harper: 나 빼고 모험 갔다 왔어요?!",
+    "node": "Harper_LongTimeNoSee"
+  },
+  "line:0bd0e34": {
+    "text": "Harper: 흥. 뭐 됐어요, 나도 당신 빼고 모험 갈 거예요. 안녕.",
+    "node": "Harper_LongTimeNoSee"
+  },
+  "line:072f3b2": {
+    "text": "Harper: 안녕! 틸데한테 줄 물건 가지러 온 거죠?",
+    "node": "Harper_Errands01"
+  },
+  "line:04fe660": {
+    "text": "Harper: 클라우스 삼촌이 이거 주라고 전화했어요!",
+    "node": "Harper_Errands01"
+  },
+  "line:07c9546": {
+    "text": "Harper: 나도 보드게임 하고 싶어요!",
+    "node": "Harper_Errands01"
+  },
+  "line:0e4abc8": {
+    "text": "Harper: 음... 의사 선생님이 작년 사샤처럼 나한테도 멋진 깁스를 해 줄 수 있을 것 같아요?",
+    "node": "Harper_Errands01"
+  },
+  "line:0803dd1": {
+    "text": "Harper: 으, 근데 팔 부러지는 건 좀 귀찮을 것 같아요... 다른 방법을 찾아봐야겠어요.",
+    "node": "Harper_Errands01"
+  },
+  "line:01684df": {
+    "text": "Harper: 틸데가 어서 나았으면 좋겠어요!",
+    "node": "Harper_Errands01"
+  },
+  "line:03e1573": {
+    "text": "Harper: 나한테 제본하는 법을 가르쳐 주기로 약속했거든요.",
+    "node": "Harper_Errands01"
+  },
+  "line:014f517": {
+    "text": "Harper: 진짜 한참 기다렸어요! 내 책 표지를 어서 세상에 선보여야 한다고요!",
+    "node": "Harper_Errands01"
+  },
+  "line:0b5cc23": {
+    "text": "Harper: 이봐요! 짧은 질문! 손전등 갖고 있어요?",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:052e10c": {
+    "text": "Harper: 으, 음, 안됐네요. 그럼 내 거 하나로 어떻게든 해야겠어요.",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:07d2375": {
+    "text": "Harper: 안 그럼 동굴에서 뭘 어떻게 보려고요? 이제 내 거 하나로 어떻게든 해야겠어요.",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:0766323": {
+    "text": "Harper: 들어 봐요! 저기 저 바다 동굴에서 나는 이상한 으르렁 소리 못 들었어요?!",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:0610c2a": {
+    "text": "Harper: 당연히 우리가 조사해야죠!",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:0fca3a7": {
+    "text": "Harper: 이건 미래의 동굴학— 동굴희— 동굴자? 아니. 동—으로서 내 첫 탐험이 될 거예요.",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:041c934": {
+    "text": "Harper: 동굴학자! 동굴 전문가! 뭐든지요!",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:097f8ae": {
+    "text": "Harper: 자, 내 코르크 보드 가져왔어요. 바바가 내 생일에 만들어 준 거니까 잃어버리지 마요!",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:03fde53": {
+    "text": "Harper: 봐요, 여기 벌써 내 가설들을 적어 놨어요.",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:00c3de1": {
+    "text": "Harper: <b>조사</b>할 준비가 되면 저기 동굴 입구 옆에서 만나요, 알았죠?",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:0b6c911": {
+    "text": "Harper: 아, 깜빡할 뻔! 펀 아저씨가 그러는데 누가 해변 동굴에서 수수께끼 같은 으르렁 소리를 들었대요.",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:0da844f": {
+    "text": "Harper: 믿어져요?! 그게 뭘 것 같아요?",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:029f7c8": {
+    "text": "Harper: 동굴에 사는 동물을 동굴생물이라고 부르는 거 알아요? <size=85%><i>*헤헤*</i> 완전 멋져.<size=100%>",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:09f2e73": {
+    "text": "Harper: 근데 그건 보통 달팽이랑 물고기 같은 것뿐이에요. 걔넨 으르렁 안 하잖아요, 그쵸?",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:0b42c5a": {
+    "text": "Harper: <size=85%><i>*헉*</i><size=100%> 오, 근데 만약 공룡이면 어떡해?!",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:00af1f2": {
+    "text": "Harper: 우리가 조사해야 해요!",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:0690315": {
+    "text": "Harper: 조사 보드 작업부터 시작해요. 제대로 된 동굴 연구 절차거든요!",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:042cadb": {
+    "text": "Harper: 여기 벌써 내 가설들을 적어 놨어요.",
+    "node": "Harper_CaveQuestIntroOtherLocations_Post"
+  },
+  "line:0784ccd": {
+    "text": "Harper: 안녕! 그 동굴에서 새로 보고할 거 있어요?",
+    "node": "Harper_SeaLionInvestigationLoop"
+  },
+  "line:0c2733b": {
+    "text": "Harper: 이따 조사해요, 네?",
+    "node": "Harper_SeaLionInvestigationLoop"
+  },
+  "line:0f9f0db": {
+    "text": "Harper: 그나저나, 동굴에 오고 싶다고 하지 않았어요?",
+    "node": "Harper_SeaLionInvestigationLoop"
+  },
+  "line:020e79f": {
+    "text": "Harper: 아이참, 그 수수께끼 소리가 저절로 조사되진 않잖아요!",
+    "node": "Harper_SeaLionInvestigationLoop"
+  },
+  "line:03d0793": {
+    "text": "Harper: 동굴 입구에서 기다릴게요, 늦지 마요!",
+    "node": "Harper_SeaLionInvestigationLoop"
+  },
+  "line:02147e3": {
+    "text": "Harper: 왔네요! 탐험하러 갈 준비됐어요?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:022efa8": {
+    "text": "Harper: 손전등 가져오길 잘했다!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0d0a8f0": {
+    "text": "Harper: <i>*딸깍*</i>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:00c4fd6": {
+    "text": "Harper: 그래서, 음, 호신술 좀 할 줄 알아요?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:02eaf45": {
+    "text": "Harper: 나 한 이 주 정도 유도 했어요, 그러니까... 내가 우릴 지켜 줄게요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0a23ff0": {
+    "text": "Harper: 저게 뭐지?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:00199c6": {
+    "text": "Harper: “S.T.B.”? 그리고 “1590”? 잠깐, 이거 마치... 세인트 북스톤 같은데!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0c99321": {
+    "text": "Harper: 우와! 이게 고고학 탐험으로 바뀔 줄은 몰랐어요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0064523": {
+    "text": "Harper: 잠깐, 그거 만지지 마요! 우리 발견물은 아주 조심히 다루고 보관해야 해요.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0986f62": {
+    "text": "Harper: 동굴생물 채집 장비 챙겨 오길 잘했다. 그걸 쓰면 돼요.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:025ee97": {
+    "text": "Harper: 진짜, 이건 세기의 발견이에요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0dd66d2": {
+    "text": "Harper: 그렇게 유명한데도, 우린 세인트 북스톤이 이 마을에서 어떻게 살았는지 거의 아무것도 몰라요.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0307f6e": {
+    "text": "Harper: 우리 생각을 보드에 적어요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0ad81c9": {
+    "text": "Harper: <size=85%><i>*중얼*</i> 이 시는 누구에 대한 거지? 세인트 북스톤은 언제 죽었지? 문장의 나머지는 어디 있지?<size=100%>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0fb4a97": {
+    "text": "Harper: 와, 너무 신나요! 세인트 북스톤을 조사하기 시작하게 어서 여기서 나가요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0375451": {
+    "text": "Harper: 으아아아아악! 공룡이다!!!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:05bdb92": {
+    "text": "Harper: 뭐— 방금 그거 뭐였어요?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:051a09c": {
+    "text": "Harper: 오오, 물범이었어요! 아니면 바다사자? <i>바다범!</i> 이게 대체 어떻게 여기 들어왔지?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0d9b3fe": {
+    "text": "Harper: 뭐, 적어도 그 조사는 끝났네요! 한 번에 두 마리 잡은 셈이죠, 응?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:035fc38": {
+    "text": "Harper: 좋아, 나 집에 가야 해요. 진짜 너무 늦었어요. 그 조각들 잘 살펴봐요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0dd8e9b": {
+    "text": "Harper: 여기서 기다릴게요, 근데 서둘러요!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0c87808": {
+    "text": "Harper: 와, 또 하나 찾았어요?",
+    "node": "Harper_ShardsCollectedProgressLoop"
+  },
+  "line:04568d0": {
+    "text": "Harper: 완전 멋져요! 이게 우릴 큰 보물로 이끌 것 같아요?",
+    "node": "Harper_ShardsCollectedProgressLoop"
+  },
+  "line:087b7d8": {
+    "text": "Harper: 어서 나머지를 찾았으면 좋겠어요. 다른 누가 우리 보물을 찾기 전에요.",
+    "node": "Harper_ShardsCollectedProgressLoop"
+  },
+  "line:029e51a": {
+    "text": "Harper: 계속 찾아야 해요. 흩어져요!",
+    "node": "Harper_ShardsCollectedProgressLoop"
+  },
+  "line:0fd3b94": {
+    "text": "Harper: 이봐요! 세인트 북스톤에 대해 뭐 새로 알아낸 거 있어요?",
+    "node": "Harper_StBookstonBustBringRequest"
+  },
+  "line:04a2201": {
+    "text": "Harper: 집에서 내 교과서를 다 뒤졌는데, 도움 될 만한 건 하나도 없었어요.",
+    "node": "Harper_StBookstonBustBringRequest"
+  },
+  "line:07544e5": {
+    "text": "Harper: 오, 잠깐! 가게에 세인트 북스톤 흉상 한번 있지 않았어요?",
+    "node": "Harper_StBookstonBustBringRequest"
+  },
+  "line:0f2ffd2": {
+    "text": "Harper: 그 안에 분명 숨겨진 보물 지도가 있을 거예요! 아니면 말을 할 수 있을지도?",
+    "node": "Harper_StBookstonBustBringRequest"
+  },
+  "line:076b307": {
+    "text": "Harper: 그거 가져올 수 있어요? 제에발요?",
+    "node": "Harper_StBookstonBustBringRequest"
+  },
+  "line:0f8e01a": {
+    "text": "Harper: 야! 세인트 북스톤! 어서 말해 봐!",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:0e61c12": {
+    "text": "Harper: <i>네가 뭘 안다고?!</i> 잠깐, 이렇게 들고—",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:0f90175": {
+    "text": "Harper: <b>하퍼:</b> 음...",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:01b02c0": {
+    "text": "Harper: <b>하퍼:</b> 여기 뭔가 있어요.",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:028a2ef": {
+    "text": "Harper: 우와! 됐어요! 받침 안에 문장 조각이 또 있었어요!",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:0e97cf6": {
+    "text": "Harper: 내 인생 최고의 보물찾기예요! 우린 유명해질 거예요!",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:04588d6": {
+    "text": "Harper: 이봐요, 그럼 그건...",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:0a02982": {
+    "text": "Harper: 저것 봐요! 하나, 둘, 셋, 넷! 조각을 다 찾았어요!",
+    "node": "Harper_AllShardsCollected"
+  },
+  "line:0ecb096": {
+    "text": "Harper: 좋아. 이건 중요해. 엄마가 중요한 건 천천히 하랬어...",
+    "node": "Harper_AllShardsCollected"
+  },
+  "line:05ece0c": {
+    "text": "Harper: <size=85%><i>*들숨* *날숨*</i><size=100%>",
+    "node": "Harper_AllShardsCollected"
+  },
+  "line:03364ad": {
+    "text": "Harper: 이제 전문적인 고고학 복원 프로젝트를 할 때예요.",
+    "node": "Harper_AllShardsCollected"
+  },
+  "line:051a8be": {
+    "text": "Harper: 나한테 맡겨요. 내일 이거 돌려줄게요!",
+    "node": "Harper_AllShardsCollected"
+  },
+  "line:0a1c296": {
+    "text": "Harper: 짜자안! 자 봐요!",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:06aeb9e": {
+    "text": "Harper: 다음은 대학교로 가요, 그쵸?",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:0434fec": {
+    "text": "Harper: 어머, 우리 보물이 너무 기대돼요!!",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:0569f45": {
+    "text": "Harper: 잠깐, 이제 제대로 된 햇빛에서 보니까, 이거 <i>진짜</i> 열쇠처럼 생겼어요!",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:064f45f": {
+    "text": "Harper: 세인트— 아니 소피아랑 관련된 다른 장소가 분명 있을 거예요. 그쵸?",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:03e6d5f": {
+    "text": "Harper: 그리고 거기 비밀 문이 분명 있을 거예요! 오오, 너무 신나요!",
+    "node": "Harper_ReturnsRepairedCrest"
+  },
+  "line:0fe2a6d": {
+    "text": "Harper: 잠깐, 세인트 북스톤 문장이 딱 맞는 열쇠 구멍을 찾았어요?",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:027e5c8": {
+    "text": "Harper: 그 동상에서요? 우와, 그거 완전 비밀 문으로 제일 멋진 자리잖아요!",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:05872dd": {
+    "text": "Harper: 좋아요, 다음은 대학교에서 만나요!",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:0ddd890": {
+    "text": "Harper: 오 와, 우리 명성에 한 발 더 가까워졌어요! 그 따분한 교과서에 우리 이름이 실릴 거예요!!",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:0cb4386": {
+    "text": "Harper: 이제 마지막 문장 조각들만 찾아서 다 맞추면 돼요!",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:0667782": {
+    "text": "Harper: 그럼 우리랑 모험가 명예의 전당 사이엔 아무것도 가로막을 게 없어요!",
+    "node": "Harper_PlayerFoundSlot"
+  },
+  "line:03dcd1a": {
+    "text": "Harper: 아아, 너무 신나요!",
+    "node": "Harper_InsertCrestAtUniLoop"
+  },
+  "line:0530692": {
+    "text": "Harper: 우리 고고학적 쾌거를 맞을 준비됐어요?",
+    "node": "Harper_InsertCrestAtUniLoop"
+  },
+  "line:09e36bf": {
+    "text": "Harper: 동상 쪽에서 만나면 시작할 수 있어요!",
+    "node": "Harper_InsertCrestAtUniLoop"
+  },
+  "line:0b381b8": {
+    "text": "Harper: 흠, 잠깐. 우리보다 먼저 다른 누가 우리 보물에 닿는 건 싫어요.",
+    "node": "Harper_WaitingForCrestAtUniBeforeDuskLoop"
+  },
+  "line:03343d9": {
+    "text": "Harper: 이 근처가 좀 한산할 때 비밀 문을 열어요!",
+    "node": "Harper_WaitingForCrestAtUniBeforeDuskLoop"
+  },
+  "line:02b29dd": {
+    "text": "Harper: 준비됐죠?!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0383ce4": {
+    "text": "Harper: 자 간다!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0084ac5": {
+    "text": "Harper: 우와, 이거 완전 내 모험 책에 나오는 것 같아요!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:025f542": {
+    "text": "Harper: 우리 동굴 탐험 경험이 있어서 다행이에요. 손전등 준비됐어요? 들어가요!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:040d8d2": {
+    "text": "Harper: 우와! 비밀 도서관?",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:06823a5": {
+    "text": "Harper: 봐요! 저 탁자 위에 뭔가 놓여 있어요.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0494ba1": {
+    "text": "Harper: 우와아. 믿어져요? 우리 말고는 아무도 이걸 몰라요!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0d4c070": {
+    "text": "Harper: 자, 그 원고는 어쩌죠? 밖으로 가져가야 할까요?",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0aa29ee": {
+    "text": "Harper: 세상이 소피아에 대해 알아야 해요! 어서 나가요, 엄마한테 말하고 싶어요!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0e6952e": {
+    "text": "Harper: 이건 지금까지 우리의 가장 굉장한 모험이었어요!",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0e52da1": {
+    "text": "Harper: <size=85%><i>*하품*</i><size=100%> 근데 어둡고, 잘 시간이 한참 지났어요. 집에 가요, 알았죠?",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:036d785": {
+    "text": "Harper: 문장이 분수에 끼다니 믿기지가 않아요. 그건 내 인생 최고의 발견이었는데!",
+    "node": "Harper_GivesPlayerDIYCrest"
+  },
+  "line:0f4d565": {
+    "text": "Harper: 뭐, 적어도 본은 떴어요. 공룡 뼈 할 때처럼요, 알죠?",
+    "node": "Harper_GivesPlayerDIYCrest"
+  },
+  "line:04ecd3f": {
+    "text": "Harper: ... 그건 보통 폴리머 점토로는 안 만드는 것 같긴 하지만요.",
+    "node": "Harper_GivesPlayerDIYCrest"
+  },
+  "line:0a06d3c": {
+    "text": "Harper: 이건 세상이 볼 수 있게 내놔야 할 것 같아요! 아저씨/아주머니 서점에 전시해 줄래요?",
+    "node": "Harper_GivesPlayerDIYCrest"
+  },
+  "line:0084381": {
+    "text": "Harper: 이봐요, 그거 알아요? 우리 발견으로 학교에서 상 받았어요!",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:056d215": {
+    "text": "Harper: 이봐요, 그거 알아요? 우리 발견으로 캠프에서 상 받았어요!",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:09289f2": {
+    "text": "Harper: 이봐요, 그거 알아요? 우리 부모님이 직장 사람들한테 우리 발견 얘길 다 했대요!",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:0dd35a5": {
+    "text": "Harper: 그리고 그것 때문에 인터뷰도 했어요! 완전 멋지지 않아요?",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:0d59c5d": {
+    "text": "Harper: 이제 아무도 <i>하퍼 나짐</i>이란 이름을 절대 못 잊을 거예요!",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:04b4637": {
+    "text": "Harper: 그게 고고학자로서 할 수 있는 가장 큰일이잖아요, 그쵸? 그래서 그쪽은 어느 정도 끝낸 셈이에요.",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:092071e": {
+    "text": "Harper: 흠... 다음엔 뭘 하지?",
+    "node": "Harper_StBookstonReveal"
+  },
+  "line:06ce5a9": {
+    "text": "Harper: 그러고는...",
+    "node": "Harper_MysteryTour_Cutscene"
+  },
+  "line:0c186b8": {
+    "text": "Harper: 거대한 괴물이 있었어요!!!",
+    "node": "Harper_MysteryTour_Cutscene"
+  },
+  "line:02b19e7": {
+    "text": "Harper: 그리고 이제, 여러분...",
+    "node": "Harper_MysteryTour_Cutscene"
+  },
+  "line:02bb37c": {
+    "text": "Harper: 탐험하라!!!",
+    "node": "Harper_MysteryTour_Cutscene"
+  },
+  "line:0a749c9": {
+    "text": "Harper: 그리고 이제, 여러분...",
+    "node": "Harper_MysteryTourShort_Cutscene"
+  },
+  "line:019b35e": {
+    "text": "Harper: 탐험하라!!!",
+    "node": "Harper_MysteryTourShort_Cutscene"
+  },
+  "line:0336c1a": {
+    "text": "Harper: 이봐요! 우리 세인트 북스톤 수사 <i>기억하죠</i>?",
+    "node": "Harper_ReminderStBookstonInvestigation_Pre"
+  },
+  "line:0ef4f3b": {
+    "text": "Harper: 우리 메모 잃어버렸어요? 어디서도 안 보여요!",
+    "node": "Harper_ReminderStBookstonInvestigation_Pre"
+  },
+  "line:0241b8d": {
+    "text": "Harper: 흠, 안 잃어버렸으면 다시 보드에 붙여요. 우리 사건은 안 끝났어요! 진실은 아직 저 밖에 있다고요!!",
+    "node": "Harper_ReminderStBookstonInvestigation_Pre"
+  },
+  "line:0b1bf7d": {
+    "text": "Harper: 으음, 좋아요 그러니까, 한 가지 더 있는데. 기분 나빠하지 마요, 알았죠?",
+    "node": "Harper_ReminderCaveSpelunking_Post"
+  },
+  "line:09606c7": {
+    "text": "Harper: 혹시... 동굴 조사하기가 너무 무서워요?",
+    "node": "Harper_ReminderCaveSpelunking_Post"
+  },
+  "line:093baa0": {
+    "text": "Harper: 그러지 마요! 아이참, 미스터리가 저절로 풀리진 않아요!",
+    "node": "Harper_ReminderCaveSpelunking_Post"
+  },
+  "line:0877c1c": {
+    "text": "Harper: 거기 무슨 동굴 생물이 있을지 누가 알아요? 그리고 내가 끝까지 함께할게요. 그냥 해변에서 만나요!",
+    "node": "Harper_ReminderCaveSpelunking_Post"
+  },
+  "line:0816a85": {
+    "text": "Harper: 이봐요! 이봐요! 이봐요! 그거 알아요?",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:08ca78a": {
+    "text": "Harper: 오늘 내 생일이에요! 최고의 날!",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:001655e": {
+    "text": "Harper: 이봐, 뭐?! 그걸 어떻게 알았어요?",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:0137560": {
+    "text": "Harper: 응, 뭐 별거 아니에요, 그냥... 오늘이 역대 최고의 날일 뿐이죠!",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:0d72802": {
+    "text": "Harper: 여름 생일이 최고예요! 해변에서 소풍도 하고 아이스크림도 원하는 만큼 먹을 수 있고 아무도 안 된다고 못 해요!",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:05a0b91": {
+    "text": "Harper: 뭐, 부모님이 먹고 나선 좀 있다가 다시 헤엄치랬지만요...",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:048f4be": {
+    "text": "Harper: 그래도 이번엔 봐줄래요, 난 이제 거의 어른이니까요.",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:0b911bc": {
+    "text": "Harper: 아무튼, 인사해 줘서 고마워요. 케이크 좀 주고 싶은데, 우리가 벌써 다 먹어 버렸어요, 미안. 안녕녕!",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:0d4c617": {
+    "text": "Harper: 이봐요! 오늘 클라우스 삼촌 생일인 거 알아요?",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:063a32c": {
+    "text": "Harper: 내 선물 어때요? 캐슬 숲에서 찾은 이 돌을 줬어요.",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:0b71184": {
+    "text": "Harper: 엄마가 클라우스 삼촌은 중세 물건을 좋아한다길래, 거기서 옛날 검이나 어쩌면 투구를 찾아봤어요.",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:01cdd6e": {
+    "text": "Harper: 그리고 이 돌이 얼마나 오래된 줄 누가 알아요?! 중세 때부터 거기 있었을 수도 있잖아요, 그쵸?",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:0022409": {
+    "text": "Harper: 오, 옛날 전투 때 투석기로 거기 날아온 거면 어떡해요?",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:0641117": {
+    "text": "Harper: 응, 클라우스 삼촌이 분명 좋아할 거예요.",
+    "node": "Harper_KlausBirthday"
+  },
+  "line:087c4e8": {
+    "text": "Harper: <size=85%><i>*흥얼* 흠 흠흠 흠 흐음</i><size=100%>",
+    "node": "Harper_WinterMarket"
+  },
+  "line:0ae2f48": {
+    "text": "Harper: 이 노래 알아요? 학교에서 배웠는데 내 새 최애예요!",
+    "node": "Harper_WinterMarket"
+  },
+  "line:07f1006": {
+    "text": "Harper: 그리고 주말엔 음악 선생님이 우리랑 캐럴 부르러 가요!",
+    "node": "Harper_WinterMarket"
+  },
+  "line:04b1bcc": {
+    "text": "Harper: 아마 우리 반에서 내가 제일 잘 부를걸요!",
+    "node": "Harper_WinterMarket"
+  },
+  "line:0fc5c70": {
+    "text": "Harper: <size=85%><i>*노래* 라라라라 라아</i><size=100%>",
+    "node": "Harper_WinterMarket"
+  },
+  "line:00318db": {
+    "text": "Harper: 우와, 새해까지 이제 몇 시간 안 남았어요!",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0b32914": {
+    "text": "Harper: 이거 완전 시간 여행 같아요. 자정에 종이 울리면, 우린 미래에 가 있는 거예요!",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0b74d13": {
+    "text": "Harper: 내년엔 우리 다 달라질 것 같아요?",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0851808": {
+    "text": "Harper: 그러니까, 난 한 살 더 먹으니까... 거의 어른!",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:05ece9e": {
+    "text": "Harper: 그리고 아저씨/아주머니는... 음, 이미 꽤 나이 들었죠, 아마.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:018f120": {
+    "text": "Harper: 뭐? 말도 안 돼! 똑같은 건 지루해요.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:073b692": {
+    "text": "Harper: 난 내년엔 거의 어른이 될 거고, 그럼 모든 게 달라질 거예요!",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0d63c5e": {
+    "text": "Harper: 흠... 뭐, 정말 그러고 싶으면, 한번 해 봐도 되겠죠!",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:01637d4": {
+    "text": "Harper: 근데 그거 너무 따분하지 않아요? 크고 싶지 않아요?",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0263c05": {
+    "text": "Harper: 뭐, 우리 둘 다 미래는 모르네요! 그래도 <i>난</i> 이따 내 점치는 수정 구슬한테 물어볼 수 있어요.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0c51a94": {
+    "text": "Harper: 아우우우! 왈 왈! ...멍?",
+    "node": "Harper_Dog_Pre"
+  },
+  "line:0e03e1e": {
+    "text": "Harper: ... 응?",
+    "node": "Harper_Dog_Pre"
+  },
+  "line:07b8a7c": {
+    "text": "Harper: 보통 개들은 내 말을 잘 알아듣는데. 얘는 좀 수줍은가 봐요.",
+    "node": "Harper_Dog_Pre"
+  },
+  "line:0252bca": {
+    "text": "Harper: 가아아, 꽃 축제에 쓸 아이디어가 엄청 많아요!!!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:017a487": {
+    "text": "Harper: 두고 봐요! 모든 설계를 다 짜면, 내 작품은 완전 대박일 거예요!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:0548b7a": {
+    "text": "Harper: 그리고 축제 다음 날, 여름 방학이 시작돼요! 야호오!!!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:04d3e37": {
+    "text": "Harper: 올해 꽃 대회가 너무 기대돼요! 내 작품을 개선할 계획이 엄청 많거든요!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:0d0bea0": {
+    "text": "Harper: 그러니까, 제대로 된 화약만 있으면, 내 화산이 진짜 용암이랑 거의 똑같은 걸 분출할 수 있을 거예요...",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:07a5a5d": {
+    "text": "Harper: 그리고 클라우스 삼촌이랑 얘기했는데 올해는 내가 무조건 우승할 거래요!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:01a8923": {
+    "text": "Harper: 완전 끝내줄 거예요, 두고 봐요!",
+    "node": "Harper_FlowerFestivalSoon"
+  },
+  "line:0c07860": {
+    "text": "Harper: 거 봐요! 꽃 축제가 완전 대박일 거라고 했죠?",
+    "node": "Harper_FlowerArrangementGift"
+  },
+  "line:0faadf9": {
+    "text": "Harper: 게다가 트로피까지 탔어요! <size=85%><i>*히히히*</i><size=100%> 친구들이 다 부러워했어요.",
+    "node": "Harper_FlowerArrangementGift"
+  },
+  "line:0792958": {
+    "text": "Harper: 아무튼, 내 우승은 아마 아저씨/아주머니 덕도 좀 있으니까, 이거 주려고요!",
+    "node": "Harper_FlowerArrangementGift"
+  },
+  "line:0919696": {
+    "text": "Harper: 서점 옆에 세워 두세요, 축제를 놓친 사람들도 다 내 작품을 감상할 수 있게요!",
+    "node": "Harper_FlowerArrangementGift"
+  },
+  "line:0236b04": {
+    "text": "Harper: 야, 연극이다! 나 언젠가 연출가 될 거 알아요?",
+    "node": "Harper_TheatrePlay"
+  },
+  "line:00cc806": {
+    "text": "Harper: 나도 오늘 연극에 나가고 싶었는데, 다들 나한테 완전 못되게 굴면서 안 끼워 줬어요.",
+    "node": "Harper_TheatrePlay"
+  },
+  "line:04853cd": {
+    "text": "Harper: “시저”인가 뭔가가 어린애들용이 아니라 내가 이해 못 할 거래요. 너무 불공평해요!",
+    "node": "Harper_TheatrePlay"
+  },
+  "line:03d3d8d": {
+    "text": "Harper: 아무튼, 나 없이 얼마나 잘하나 보자고요. 분명 곧 나한테 끼워 달라고 빌걸요.",
+    "node": "Harper_TheatrePlay"
+  },
+  "line:04b9455": {
+    "text": "Harper: 안녀어엉—오! 그 단서 보드는 뭐예요?",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:06e4fa0": {
+    "text": "Harper: 이제 진짜 탐정이에요?!",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:0658ae8": {
+    "text": "Harper: 흠, 못 믿겠는데... 책이 그렇게 많은 탐정은 없어요.",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:01d9d61": {
+    "text": "Harper: 흠, 진짜 탐정이면 더 확신할 것 같은데...",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:00777b6": {
+    "text": "Harper: 그러니까 누가 메가마르셰 마스코트를 부쉈다는 거예요?",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:091b257": {
+    "text": "Harper: 그리고 누가 그랬는지 알아내는 중이고요?",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:078ef52": {
+    "text": "Harper: 멋져요!!!",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:0159a17": {
+    "text": "Harper: 오, 미안, 수사 방해 안 했길 바라요!",
+    "node": "Harper_ActiveMascotInvestigation_Post"
+  },
+  "line:0e02509": {
+    "text": "Harper: 누가 그랬는지 벌써 알아냈어요?",
+    "node": "Harper_ActiveMascotInvestigation_Post"
+  },
+  "line:0bc7eb9": {
+    "text": "Harper: 완전 좋아!!! 진짜 엄청 시끄러웠어!",
+    "node": "Klaus_Concert_Cutscene"
+  },
+  "line:0be0c28": {
+    "text": "Harper: 야! 나 <i>꼬마</i> 아니거든요, 클라우스 삼촌!",
+    "node": "Harper_FlowerArrangementIntro_Pre"
+  },
+  "line:09d99d2": {
+    "text": "Harper: 근데 고마워요. 아저씨/아주머니 도움 없인 못 했을 거예요!",
+    "node": "Harper_FlowerArrangementIntro_Pre"
+  },
+  "line:05c6248": {
+    "text": "Harper: 이봐요, 즐거운 꽃 축제!",
+    "node": "Harper_FlowerArrangementIntro_Pre"
+  },
+  "line:0c7b6b9": {
+    "text": "Harper: 그래서어, 내가 이기게 해 줄 거죠, 그쵸?",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0b1ccb4": {
+    "text": "Harper: 내 꽃 공룡 마음에 들어요? 이름은 블루모사우루스라고 지었어요!!",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0e02dd9": {
+    "text": "Harper: 크고 반짝이는 트로피가 있을 것 같아요?",
+    "node": "FlowerFestival_JudgingHarper_Fallback"
+  },
+  "line:04e9660": {
+    "text": "Harper: 우승하면 내 거대한 트로피 컬렉션에 추가할 거예요!",
+    "node": "FlowerFestival_JudgingHarper_Fallback"
+  },
+  "line:008b99b": {
+    "text": "Harper: 나... 안 슬퍼요... 근데 어서 돌아오면 좋겠어요, 클라우스 삼촌!",
+    "node": "Klaus_Goodbye_Cutscene"
+  }
+}

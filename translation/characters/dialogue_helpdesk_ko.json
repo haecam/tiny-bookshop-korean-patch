@@ -1,0 +1,54 @@
+{
+  "line:0ce3b4f": {
+    "text": "HelpDesk: <b>안내 데스크 학생:</b> 자, 이 정도면 시작하기엔 충분할 거예요...",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:0e0ea7f": {
+    "text": "HelpDesk: 질문 있어요?",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:0e5dbbc": {
+    "text": "HelpDesk: 흠, 경우에 따라 달라요...",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:05256c8": {
+    "text": "HelpDesk: 그게 당신 연구랑 관련이 있나요?",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:09589f6": {
+    "text": "HelpDesk: <b>안내 데스크 학생:</b> 좋아요, 이걸로 다 된 것 같네요...",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:0753898": {
+    "text": "HelpDesk: <b>안내 데스크 학생:</b> 아, 사실 하나 더요. 작년에 한 학생이 수업에 이구아나를 데려왔는데 그게 교수님 모자를 먹어 버렸어요.",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:091e2ed": {
+    "text": "HelpDesk: <b>안내 데스크 학생:</b> 그래서 올해는 교장 선생님의 서면 허가가 없으면 반려동물 출입이 전면 금지예요.",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:0e3e036": {
+    "text": "HelpDesk: 좋아요, 질문 있어요?",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:005916a": {
+    "text": "HelpDesk: 네, 죄송해요.",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:0022416": {
+    "text": "HelpDesk: <b>안내 데스크 학생:</b> 좋아요, 이걸로 다 된 것 같네요...",
+    "node": "Cutscene_OrientationDay03"
+  },
+  "line:0c09f4d": {
+    "text": "HelpDesk: 질문 있어요?",
+    "node": "Cutscene_OrientationDay03"
+  },
+  "line:0c9df11": {
+    "text": "HelpDesk: 안녕하세요!",
+    "node": "HelpDeskLoop"
+  },
+  "line:0002011": {
+    "text": "HelpDesk: 강의실 찾는 거 도와드릴까요?",
+    "node": "HelpDeskLoop"
+  }
+}

@@ -1,0 +1,2318 @@
+{
+  "line:01e7457": {
+    "text": "Moira: <size=90%><i>“난 내 가치를 알고, 굳이 증명할 필요도 없어.”</i><size=100%>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0f50222": {
+    "text": "Moira: 놓아 버리니 기분 좋네.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:05ce78a": {
+    "text": "Moira: 여러분, 우리 연례 축제에 오신 걸 환영해요!",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0682883": {
+    "text": "Moira: 가을 공포 축제는 우리 세계와 영혼의 세계가 가장 가까워지는 밤이에요.",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:00aa34d": {
+    "text": "Moira: 그러니 부디 여러분의 집에, 식탁에, 그리고 마음에 자리를 내어 주세요 ...",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0e54d45": {
+    "text": "Moira: ... 우리 조상들과, 그 밖의 다정하고 이세계적인 손님들을 위해서요.",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:02aac8e": {
+    "text": "Moira: 오늘 밤, 우리는 또한 풍요로운 가을과 어두운 겨울이 만나는, 계절의 전환을 기려요.",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:097ad98": {
+    "text": "Moira: 다음 달엔 서로를 잘 살펴봐요.",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:064f02a": {
+    "text": "Moira: 누구도 추위 속에 홀로 남겨져선 안 돼요!",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0d231f8": {
+    "text": "Moira: 끝으로, 오늘 밤 우린 소리를 내고, 놀이를 하고, 가장 무서운 복장으로 차려입어요...",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0b7fcdc": {
+    "text": "Moira: 자칫 우리 중 누군가를 데려가 버릴, 악의를 품은 영혼들을 쫓아내기 위해서요.",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0798080": {
+    "text": "Moira: 그러니 시끄럽게, 즐겁게, 크고 무섭게 굴어요, 그리고 무엇보다: 우리 가을 공포 축제를 즐겨요!",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:01c927b": {
+    "text": "Moira: 고마워요!",
+    "node": "Cafe_FFF_Moira_Greeting_Cutscene"
+  },
+  "line:0716fe2": {
+    "text": "Moira: 나도 동감이에요!",
+    "node": "Cafe_EndingHubCutscene"
+  },
+  "line:0e4ba65": {
+    "text": "Moira: 월트 삼촌!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:038441f": {
+    "text": "Moira: 생일 축하해요, 틸데!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:06f7b54": {
+    "text": "Moira: 괜찮아요. 어쨌든 생일이잖아요! 그게 <i>사소한</i> 다툼보다 훨씬 중요하죠.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:07efbad": {
+    "text": "Moira: 생일 축하해요, 틸데!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0b0ce7d": {
+    "text": "Moira: 클라우스가 도와줘서, 전혀 힘들지 않았어요.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0b46b62": {
+    "text": "Moira: 전혀 힘들지 않았어요. 받을 자격 있어요!",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:01bd0bc": {
+    "text": "Moira: 당연하죠, 할머니! 그렇게 해요.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:06a4fa3": {
+    "text": "Moira: 내가 산 커피가 뭐가 어때서요? 인증도 훨씬 좋은—",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0e3a965": {
+    "text": "Moira: ...지난주에 내가 손님들한테 내린 커피, 다들 별 불만 없었어요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0e9495b": {
+    "text": "Moira: 지금 진심이에요?!",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:05287d4": {
+    "text": "Moira: 할머니 없는 동안 내가 카페를 얼마나 잘 꾸렸는지 알아주지도 않는 거예요?!",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:08f4a0e": {
+    "text": "Moira: 난 충분히 해낼 수 있으니까요! 경영학 학위도 있다고요! 근데 할머닌 그걸 도무지 알아주질 않잖아요, 그쵸?",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:040ac74": {
+    "text": "Moira: 아직도 날 어린애 취급— 아니— 아니, 사실은.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0534860": {
+    "text": "Moira: 날 우리 아빠처럼 취급해요. 이 일을, 이 유산을 나한테 못 맡길 사람처럼요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0e04c04": {
+    "text": "Moira: 좀 놓으셔야 해요, 할머니. 모든 걸 늘 할머니 마음대로 할 순 없어요. 사람은 할머니 생각과는 다른 길을 가요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0701da6": {
+    "text": "Moira: 할머니도 이곳에서 좀 벗어나고 싶지 않아요? 딱 한 번이라도? 그냥 제가 돕게 해 줘요, 할 수 있—.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0b5a90b": {
+    "text": "Moira: ... 알겠어요. 그럼 할머니 하시던 거 마저 하세요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0c5628b": {
+    "text": "Moira: ... 안녕, 할머니. 잠깐 시간 있어요?",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0517c50": {
+    "text": "Moira: <size=85%><i>*크흠*</i><size=100%> 음... 할머니가 아주 유능한 사업가란 거 알아요. 늘 존경해 온 부분이에요.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:00aa67a": {
+    "text": "Moira: 그래서 경영학을 공부했어요. 어릴 때부터, 리베르테를 사랑했거든요. 그리고 할머니처럼 되고 싶었어요.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0e2cb32": {
+    "text": "Moira: 저도 B.L.A.B.L.A. 회원이 되고 싶었어요, 근데... 할머닌 저한테 그 강좌를 들으라고 한 번도 안 했죠.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:04cac3e": {
+    "text": "Moira: 잠깐. 이건 말해야겠어요. 그래도 그 강좌를 따로 공부했어요. 몇 년 전에요. 그리고 사라진 일곱 번째 규칙에 대해서도요.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0f5a1e9": {
+    "text": "Moira: 그리고 찾았어요. 1798년에 옛 편람에서 사라진 그 페이지를요.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:04130fb": {
+    "text": "Moira: 여기요.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:071c0d4": {
+    "text": "Moira: 뭐— 정말요? 확실해요? 그러니까— 고마워요, 할머니! 저도 사랑해요!",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:089d43e": {
+    "text": "Moira: 네, 아빠도 분명 좋아할 거예요. 할머니를 그리워했거든요. 저도 보고 싶었어요! <size=85%><i>*포옹*</i><size=100%>",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0ee1482": {
+    "text": "Moira: 이봐요, 이쪽!",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0e3b4cc": {
+    "text": "Moira: 좋아요, 다들 머그잔 들어요!",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0b3f56d": {
+    "text": "Moira: 여섯",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0e9680f": {
+    "text": "Moira: 넷",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0c1fac1": {
+    "text": "Moira: 새해 복 많이 받아요!",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:00f76bf": {
+    "text": "Moira: 잘 지내냐, 북스톤버리!",
+    "node": "Klaus_Concert_Cutscene"
+  },
+  "line:0ae4e1a": {
+    "text": "Moira: 평범",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:0cbc663": {
+    "text": "Moira: 행복",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:062ff43": {
+    "text": "Moira: 씩 웃음",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:0c282c8": {
+    "text": "Moira: 걱정",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:03566da": {
+    "text": "Moira: 놀람",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:0f44f6a": {
+    "text": "Moira: 불쾌",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:0e73e4b": {
+    "text": "Moira: 신남",
+    "node": "Moira_EmotionsTest"
+  },
+  "line:033d962": {
+    "text": "Moira: 안녕! 지금 바빠요, 아니면 잠깐 수다 떨 시간 있어요?",
+    "node": "Moira_SpliceReceiver"
+  },
+  "line:050d097": {
+    "text": "Moira: 지금 잠깐 수다 떨 시간 있어요?",
+    "node": "Moira_SpliceReceiver"
+  },
+  "line:07bb69b": {
+    "text": "Moira: 아무튼, 잠깐 수다 떨어 줘서 고마워요!",
+    "node": "Moira_SpliceReceiver"
+  },
+  "line:0ba15d9": {
+    "text": "Moira: 자기랑 얘기하는 거 늘 즐거워요.",
+    "node": "Moira_SpliceReceiver"
+  },
+  "line:08c9c27": {
+    "text": "Moira: 근데 이제 일하게 둘게요, 응? 안녕!",
+    "node": "Moira_SpliceReceiver"
+  },
+  "line:0db38bc": {
+    "text": "Moira: 이봐요! 요즘 여행 다녀왔어요?",
+    "node": "Moira_LongTimeNoSee"
+  },
+  "line:0e9f8e3": {
+    "text": "Moira: 이따 그 얘기 다 들려줘야 해요!",
+    "node": "Moira_LongTimeNoSee"
+  },
+  "line:05765dc": {
+    "text": "Moira: 뭐, 다시 만나서 반가워요!",
+    "node": "Moira_LongTimeNoSee"
+  },
+  "line:013dc6b": {
+    "text": "Moira: 오, 드디어! 자기랑 그 유명한 서점을 마주치길 기다렸어요.",
+    "node": "Moira_Intro"
+  },
+  "line:0f38c67": {
+    "text": "Moira: 내가 해외에 있는 동안 엄청난 걸 놓쳤다고 다들 그러더라고요. 그 말이 맞았나 봐요!",
+    "node": "Moira_Intro"
+  },
+  "line:02c162f": {
+    "text": "Moira: 그럼, 다 얘기해 줘요! 여기 북스톤버리는 어땠어요? 누가 좋아요? 누가 자기를 괴롭혀요?",
+    "node": "Moira_Intro"
+  },
+  "line:07dd53d": {
+    "text": "Moira: 알았어요, 그래요. 그럼 비밀은 간직해요.",
+    "node": "Moira_Intro"
+  },
+  "line:0821367": {
+    "text": "Moira: 야! 우리 할머니랑 무슨 감정 있어요? 그 가여운 양반이 자기한테 뭘 어쨌다고?",
+    "node": "Moira_Intro"
+  },
+  "line:05479a3": {
+    "text": "Moira: ... ... ...",
+    "node": "Moira_Intro"
+  },
+  "line:0b7be9c": {
+    "text": "Moira: 아, 농담이에요. 그 양반이 좀 깐깐할 수 있는 거 알아요. 근데 지금까진 자기 얘기 좋은 말밖에 안 했어요...",
+    "node": "Moira_Intro"
+  },
+  "line:0d65975": {
+    "text": "Moira: 그러니 분명 둘이 아주 잘 지낼 거예요! 그냥 좀 더 알아가기만 하면 돼요.",
+    "node": "Moira_Intro"
+  },
+  "line:075e79e": {
+    "text": "Moira: 오, <i>맞다</i>! 내 이름은 모이라예요, 만나서 반가워요.",
+    "node": "Moira_Intro"
+  },
+  "line:07fea6a": {
+    "text": "Moira: 거기 책 좀 봐도 돼요? 세 나라쯤 전에 읽을거리가 다 떨어졌거든요.",
+    "node": "Moira_Intro"
+  },
+  "line:06f02a7": {
+    "text": "Moira: 고마워요!",
+    "node": "Moira_Intro"
+  },
+  "line:08f1569": {
+    "text": "Moira: 허. 이렇게 큰 변화를 보며 돌아오니 좀 이상한 기분이에요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:0df9dd3": {
+    "text": "Moira: 갑자기, 틸데 가게가 닫히고 텅 비었어요! 그 전환기를 통째로 놓쳐서, 이제 그냥... 사라져 버렸네요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:05a80a5": {
+    "text": "Moira: 모르겠어요, 틸데 곁에서 짐 싸는 걸 못 도와줘서 마음이 안 좋아요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:06e5e73": {
+    "text": "Moira: 그래서, 틸데 가게가 이제 정말 텅 비었군요, 응?",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:065af59": {
+    "text": "Moira: 올 게 왔다는 건 알지만, 막상 너무 이른 것 같았어요! 이제 그냥... 사라졌으니까요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:0e06f16": {
+    "text": "Moira: 알아 둬요, 그 서점은 정말 특별한 곳이었어요. 어릴 때 여름 방학이면 거의 매일 틸데 가게에서 보냈거든요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:069e0cd": {
+    "text": "Moira: 늘 절 멀리 데려가 줄 판타지 책을 찾았죠. 아빠랑 할머니가 또 다툴 때면 제 피난처였어요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:021536c": {
+    "text": "Moira: 그리고 방학이 끝나 라이포트 집으로 돌아갈 때면, 틸데는 늘 절 위해 골라 둔 책 한 권을 길에서 읽으라고 챙겨 줬어요!",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:040e3bf": {
+    "text": "Moira: 틸데가 나랑 할머니 삶에 있어서 정말 기뻐요. 그리고 잘 누릴 자격이 있는 은퇴 생활을 즐기길 바라요.",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:010a7a9": {
+    "text": "Moira: 그나저나, 틸데한테서 책 장사를 이어받다니 잘했어요! 구색 좀 봐도 돼요?",
+    "node": "Moira_TildeMovedOut"
+  },
+  "line:0c8b240": {
+    "text": "Moira: 안녕! 또 카페 들렀네요?",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:04ecbe8": {
+    "text": "Moira: 자기 꽤 단골이라던데! 근데 솔직히, 이 마을에 단골 아닌 사람이 어디 있겠어요?",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:03ff085": {
+    "text": "Moira: 친구들은 내가 모두의 단골 주문을 기억하는 걸 늘 신기해하는데, 십 대 때부터 여기서 도왔거든요!",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0f41dd7": {
+    "text": "Moira: 방학 때마다 할머니랑 지내러 북스톤버리에 왔고, 할머니가 음료 만드는 법을 다 알려 줬어요.",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0e63be4": {
+    "text": "Moira: 웃기죠, 있잖아요. 아빠는 늘 해변이나 놀이공원으로 휴가 가자고 꼬셨거든요! 근데 난 그냥 여기, 이 카페에 오고 싶었어요.",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0f6c149": {
+    "text": "Moira: 아마 늘 할머니처럼 되고 싶었던 것 같아요. 의지가 굳고, 누구도 그 양반한테 사업을— 아니 인생을 이래라저래라 못 하거든요!",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0215512": {
+    "text": "Moira: 그냥 칠십 대인 만큼 좀 천천히 했으면 좋겠어요. <size=85%><i>*하하*</i><size=100%> 근데 아마 절대 안 그러겠죠.",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0ae1754": {
+    "text": "Moira: 아무튼, 다시 일하러 가야 해요! 그래도 들러 줘서 고마워요!",
+    "node": "Moira_CafeLegacy"
+  },
+  "line:0fffc35": {
+    "text": "Moira: 안녕! 마침 쉬는 시간에 자기를 마주치다니 운도 좋네요.",
+    "node": "Moira_UnlockUni"
+  },
+  "line:0476e25": {
+    "text": "Moira: 뭐, 이제 돌아왔으니, 여기서 훨씬 자주 보긴 하겠죠.",
+    "node": "Moira_UnlockUni"
+  },
+  "line:010e12f": {
+    "text": "Moira: 기본적으로 대학에 안 갈 땐 카페 근무거든요.",
+    "node": "Moira_UnlockUni"
+  },
+  "line:0b2f82f": {
+    "text": "Moira: 아 맞다, 나 SBU에서 지속가능경영 전공해요! 언제 한번 들러요.",
+    "node": "Moira_UnlockUni"
+  },
+  "line:02c094b": {
+    "text": "Moira: 가을엔 새 학생들로 캠퍼스가 꽤 활기차거든요.",
+    "node": "Moira_UnlockUni"
+  },
+  "line:07c3609": {
+    "text": "Moira: 분명 자기 서점도 둘러보고 싶어 할걸요!",
+    "node": "Moira_UnlockUni"
+  },
+  "line:0064838": {
+    "text": "Moira: 이봐요! 오늘 밴드 연습 정말 재밌었어요!",
+    "node": "Moira_Songwriting"
+  },
+  "line:06ebe35": {
+    "text": "Moira: 클라우스가 새 노래 보여 줬어요?",
+    "node": "Moira_Songwriting"
+  },
+  "line:02c3ab3": {
+    "text": "Moira: 클라우스가 쓴 그 새 노래들 들어 봤어요?",
+    "node": "Moira_Songwriting"
+  },
+  "line:0774cbf": {
+    "text": "Moira: 아무튼, 클라우스가 쓴 그 새 노래들 들어 봤어요?",
+    "node": "Moira_Songwriting"
+  },
+  "line:0ab40a7": {
+    "text": "Moira: 끝내주죠?! 그렇게 오래 몰래 작업한 걸 줄은 믿기지가 않았어요.",
+    "node": "Moira_Songwriting"
+  },
+  "line:0ec2952": {
+    "text": "Moira: 그 녀석 정말 재능이 어마어마해요! 자신감만 좀 더 있으면 되는데, 응?",
+    "node": "Moira_Songwriting"
+  },
+  "line:0633b34": {
+    "text": "Moira: 아무튼, 오늘은 곡 초안도 좀 가져왔어요. 여행 일기에 끄적여 둔 거예요, 알죠?",
+    "node": "Moira_Songwriting"
+  },
+  "line:07e67cc": {
+    "text": "Moira: 그리고 바로 멋진 걸 즉흥으로 만들었죠! 그렇게 흐름을 탈 때가 정말 좋아요.",
+    "node": "Moira_Songwriting"
+  },
+  "line:06753e1": {
+    "text": "Moira: 그러고 나면 기분이 정말 끝내줘요! 이제 자기한테서 읽을 거 하나만 있으면 돼요.",
+    "node": "Moira_Songwriting"
+  },
+  "line:0c4d6ba": {
+    "text": "Moira: 그럼 이번 주엔 아무것도 날 막을 수 없어요!",
+    "node": "Moira_Songwriting"
+  },
+  "line:0c1bb2d": {
+    "text": "Moira: 이봐요. 아직도 콘서트 장소에 대해 아무 답을 못 받았다는 게 믿겨요?!",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:09c18c7": {
+    "text": "Moira: 그러니까, 마을 문화계에 더 신경 쓰는 건 시 의회 몫이잖아요, 안 그래요?",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:05f9533": {
+    "text": "Moira: 근데 왜 우리가 다 직접 해야 하냐고요?",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:01e3db3": {
+    "text": "Moira: 물론, 의회 사람 몇몇은 그냥 우리 밴드 꼴이 마음에 안 드는 거죠...",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0758962": {
+    "text": "Moira: 근데 이건 우리만을 위한 게 아니잖아요, 그쵸? 등대에 연극을 올리고 싶어 하는 십 대들도 있다던데요!",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:00989cd": {
+    "text": "Moira: 뭐, 두고 보죠. 누군가 살짝 떠밀어 줘야 할 것 같네요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0ed850e": {
+    "text": "Moira: <size=85%><i>*중얼*</i> ... 포스터 80장 더 주문 ... 셋리스트 거의 다 됐고...<size=100%>",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0f288fe": {
+    "text": "Moira: 오, 안녕! 미안, 콘서트 할 일 목록을 보던 중이었어요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0b2a8a8": {
+    "text": "Moira: 이제 알겠지만, 난 행사 기획을 정말 좋아해요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:01b6e85": {
+    "text": "Moira: 근데 다른 할 일까지 겹치니 나한테도 목록이 좀 길어지네요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0044f9a": {
+    "text": "Moira: 그래도 소문내 줘서 고마워요! 응원 정말 고마워요!",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:02f0955": {
+    "text": "Moira: 아무튼, 거의 다 된 것 같아요. 그냥, 알죠, 목록을 하나하나 해치우는 중이에요. <size=85%><i>*하하*</i><size=100%>",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0db719b": {
+    "text": "Moira: 이봐요! 클라우스가 깜빡했을까 봐, 다음 주 목요일 콘서트에 정식으로 초대할게요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:08df58f": {
+    "text": "Moira: 준비가 좀 촉박했을진 몰라도, 그냥 무대에서 신나게 연주할 게 기대돼요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:06e3dbe": {
+    "text": "Moira: 베이스를 갈기고 소리 지르는 게 끝내주는 스트레스 해소법이거든요, 믿거나 말거나!",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0c0fd53": {
+    "text": "Moira: 우리 아빠들 둘 다 음악가라, 이해할 만도 한데, 그게...",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0b50463": {
+    "text": "Moira: 한 분은 교향악단에서 바이올린을 켜고, 다른 한 분은 재즈 베이시스트예요.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0241451": {
+    "text": "Moira: 그러니까, 아주 든든히 응원해 주는 부모님이긴 한데, 알잖아요. 좀 점잖게 말해서, 살짝 깐깐하달까.",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:075eb69": {
+    "text": "Moira: 아무튼... <size=85%><i>*하하*</i><size=100%> 공연에서 봤으면 좋겠어요, 응? 안녕 자기!",
+    "node": "Moira_ConcertComingUp"
+  },
+  "line:0387c45": {
+    "text": "Moira: 안녕, 자기! 와 줘서 고마워요!",
+    "node": "Moira_ConcertToday"
+  },
+  "line:05e2177": {
+    "text": "Moira: <size=85%><i>*속삭임*</i> 클라우스 오면 격려 좀 해 줄 수 있어요?<size=100%>",
+    "node": "Moira_ConcertToday"
+  },
+  "line:0dc1d3a": {
+    "text": "Moira: 그 애 진짜 너어무 불안해해요. 어젯밤에 한숨도 못 잤을 가능성이 아주 높아요.",
+    "node": "Moira_ConcertToday"
+  },
+  "line:0b39488": {
+    "text": "Moira: 아무튼, 기절하거나 도망 안 가게 잘 챙겨야 해요.",
+    "node": "Moira_ConcertToday"
+  },
+  "line:0de4a9c": {
+    "text": "Moira: 어차피 이 라이브 콘서트 전체가 <i>그 애</i>의 꿈이니까요!",
+    "node": "Moira_ConcertToday"
+  },
+  "line:068163a": {
+    "text": "Moira: 그래서, Silens Libri 투어 소식은 들었겠죠, 그쵸?",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0f6f124": {
+    "text": "Moira: 그나저나 그 낡은 밴 고치는 거 도와줘서 고마워요. 정말 친절했어요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0b43462": {
+    "text": "Moira: 클라우스가 정말 행복해해요. 그런 모습 보니 너무 흐뭇해요. 꿈을 이루고 다 말이에요!",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0f2940d": {
+    "text": "Moira: 그 애는 여기서 자랐으니, 늘 세상에 나가 보고 싶었을 거예요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:07612c5": {
+    "text": "Moira: 나로 말할 것 같으면... 난 북스톤버리에 남겠다고 했어요. 한 번쯤은 자리를 지킬 때가 된 것 같아서요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:054ba6c": {
+    "text": "Moira: 난 라이포트에서 아빠들이랑 자랐고, 가고 싶은 데는 거의 다 다녀 봤어요!",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0ad6c75": {
+    "text": "Moira: 그래서... 밴드한텐 나 없이 가라고 했어요. 지금은 틸데랑 마리암한테 내가 더 필요하거든요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:04a4a74": {
+    "text": "Moira: 그리고 카페도 못 떠나요. 누군가는 모든 걸 관리해야 하니까요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0e77807": {
+    "text": "Moira: 그래서... 밴드한텐 나 없이 가라고 했어요. 아직 마리암이랑 풀어야 할 게 좀 있거든요...",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:07b19cb": {
+    "text": "Moira: 그리고 우리 아빠처럼 갈등에서 그냥 도망치고 싶진 않아요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:03262aa": {
+    "text": "Moira: 그래서... 밴드한텐 나 없이 가라고 했어요. 드디어 카페에서 제 역할을 할 수 있게 돼서 기뻐요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:04a231c": {
+    "text": "Moira: 그리고 내 삶의 이 새로운 안정감이 <i>마음에 드는</i> 것 같아요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0972c15": {
+    "text": "Moira: <size=85%><i>*한숨*</i><size=100%> 네. 쉽진 않았지만, 나한텐 옳은 결정이에요.",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:003175e": {
+    "text": "Moira: 그리고 자기가 여기서 말동무가 되어 줄 거죠, 그쵸?",
+    "node": "Moira_KlausLeavingForTour"
+  },
+  "line:0388df2": {
+    "text": "Moira: 그래서, 내가 제일 좋아하는 명절이 다가오는데, 미리 경고할게요...",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:0f67267": {
+    "text": "Moira: 그 얘기 듣기 싫으면, 우린 친구 못 할 것 같아요!",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:059e916": {
+    "text": "Moira: ... 농담이에요! 근데 정말 가을 공포 축제가 너무 기대돼요, 이번 달 말에 다가와요.",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:01e5831": {
+    "text": "Moira: 눈치 못 챘을까 봐 말하면, 난 그 미적 감성을 좋아해요. 사람들이 으스스한 장식에 얼마나 창의력을 발휘하는지 보는 게 멋지거든요!",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:0004f87": {
+    "text": "Moira: 올해는 친구들이랑 공포 축제 위원회에 들어가서 더 신나요, 그래서 우리가 다들 안목의 심사위원이 될 거예요.",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:0109ac5": {
+    "text": "Moira: “최고의 장식상”을 타고 싶으면 좀 더 분발해야 할걸요!",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:077e66f": {
+    "text": "Moira: 28일 전에 등대로 와서 장식 피드백 받아요. 위원회가 거기서 매일 모이거든요.",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:0d73ee3": {
+    "text": "Moira: 좋아요, 다음에 볼 땐, 악령을 쫓을 수 있게 자기 가게가 최상의 상태이길! 안녕!",
+    "node": "Moira_ScaryEnoughStart"
+  },
+  "line:0934c99": {
+    "text": "Moira: 와아!",
+    "node": "Moira_FFFSoon"
+  },
+  "line:09e4523": {
+    "text": "Moira: 헤헤. 지금이 무슨 시간인지 알아요? 으스스한 시간!",
+    "node": "Moira_FFFSoon"
+  },
+  "line:0090f00": {
+    "text": "Moira: 벌써 준비하고 있겠죠, 응?",
+    "node": "Moira_FFFSoon"
+  },
+  "line:0ea4353": {
+    "text": "Moira: 내가 제일 좋아하는 명절에 대충대충 하는 꼴은 보고 싶지 않아요!",
+    "node": "Moira_FFFSoon"
+  },
+  "line:03724ef": {
+    "text": "Moira: 자, 이 계절에 어울리는 책이 있나 좀 볼게요!",
+    "node": "Moira_FFFSoon"
+  },
+  "line:03f26e2": {
+    "text": "Moira: 아, 안녕!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0087c63": {
+    "text": "Moira: 자기 무서운 장식 좀 봐 줄까요?",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:066b542": {
+    "text": "Moira: 아, 그럼 알았어요. 근데 28일 전에 장식 꼭 챙기는 거 잊지 마요!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0b62778": {
+    "text": "Moira: 오오, 자기 좀 봐! 무서운 분위기네요, 잘했어요!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:07e983e": {
+    "text": "Moira: 완벽하게, 더할 나위 없이 끔찍해 보여요. 올해 “최고의 장식상” 노려 볼 만해요!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:055556a": {
+    "text": "Moira: 28일에 이 구성 꼭 다시 장착해요!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0faf101": {
+    "text": "Moira: 좋아요, 어디 보자...",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:06e0210": {
+    "text": "Moira: 응 아니, 다들 맞아요. 미안해 자기, 근데 이건 아니에요. 적어도 아직은요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0ba0525": {
+    "text": "Moira: 파스텔은 안 돼요. 내가 안 좋아해서가 아니라, 그냥 분위기에 안 맞아서요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:047914e": {
+    "text": "Moira: 밖에 무서운 물건이 하나도 안 보여요. 그래서 악령들 사이에 어떻게 섞이려고요?",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:06057d0": {
+    "text": "Moira: 그래도 검은색은 좋은 출발이에요. 그냥 더 더해요. 끝없는 밤처럼 새까맣게요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:05b92e5": {
+    "text": "Moira: 그 짙은 회색 페인트 마음에 들어요. 묘지에 완벽하게 녹아들겠어요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0241aa2": {
+    "text": "Moira: 흠... 빨간 페인트는 엄밀히 따지면 피로 통할 수 있죠. 그러니 봐줄게요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:029d13d": {
+    "text": "Moira: 으스스한 물건이 벌써 몇 개 있긴 한데, 좀 더 봐야겠어요. 내 말 믿어요, 해골이랑 호박은 아무리 많아도 모자라요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0b1ed05": {
+    "text": "Moira: 오! 저기 우리 꼬마 프레야 아니에요? 안녕 고양이! 그래, 착한 고양이지! 세상에서 제일 무서운 고양이! 절대 유령을 안 들이겠지!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0eb865f": {
+    "text": "Moira: 꼬마전구는 엄밀히 따지면 무섭게 치진 않지만... 뭐 어때요, 분위기 좋네요. 그냥 둬요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:07f7901": {
+    "text": "Moira: 기억해요, 우린 이맘때 영혼들 눈을 피해 섞여 들려고 차려입는 거예요.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0de932e": {
+    "text": "Moira: 그러니 가을 공포 축제 때 충분히 무섭지 않으면, 출모오오올당할지도 몰라요. 여어어엉원히.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:03fc946": {
+    "text": "Moira: 호박 56개 주문했고...",
+    "node": "Moira_FFFCommitteeFallback"
+  },
+  "line:0dbcdb2": {
+    "text": "Moira: 해골 23개, 거미 14개...",
+    "node": "Moira_FFFCommitteeFallback"
+  },
+  "line:063a48a": {
+    "text": "Moira: 이봐요! 자기를 사방으로 찾아다녔어요!",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:015ef3e": {
+    "text": "Moira: 가을 공포 축제 위원회 회장으로서, 내일 자기가 완벽히 준비됐는지 확인하고 싶었어요.",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:0e9850c": {
+    "text": "Moira: 어디 보자...",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:08bcf71": {
+    "text": "Moira: 오오오, 좋아 보여요! 해냈네요, 자기!",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:01d957c": {
+    "text": "Moira: 내일 이 구성으로 꾸민 서점을 어서 보고 싶어요!",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:06e4592": {
+    "text": "Moira: 흐음. 아니, 자기, 이건 부족해요! 해골은 어디 있어요? 가짜 피는요?",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:041ce11": {
+    "text": "Moira: 근데... 이번 한 번은 봐줄게요. 그렇게 하면 상은 못 탈 거예요.",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:0b8a06b": {
+    "text": "Moira: 아무튼, 공포 축제여, 우리가 간다아!",
+    "node": "Moira_FFFLastMinuteCostumeCheck"
+  },
+  "line:0146488": {
+    "text": "Moira: 이야말로 진짜 무시무시한 서점이네요! 상 받을 가능성 높다고 봐요!",
+    "node": "Moira_FFFSoon2_Post"
+  },
+  "line:04cc4b7": {
+    "text": "Moira: 근데 만만찮은 경쟁 상대가 될 만한 곳이 한 군데 있어요...",
+    "node": "Moira_FFFSoon2_Post"
+  },
+  "line:0619edd": {
+    "text": "Moira: ... 좋아요, 아직 아무한테도 말하지 마요. 내가 위원회라서 아는 거니까요...",
+    "node": "Moira_FFFSoon2_Post"
+  },
+  "line:015e17e": {
+    "text": "Moira: 틸데가 자기 옛 가게를 잠깐 유령의 집으로 바꾼대요!!!",
+    "node": "Moira_FFFSoon2_Post"
+  },
+  "line:04cefe5": {
+    "text": "Moira: 친구들이랑 거기 들어가는 게 너무 기대돼요! 역대 최고의 공포 축제가 될 거예요!",
+    "node": "Moira_FFFSoon2_Post"
+  },
+  "line:0b9f5b4": {
+    "text": "Moira: 과연 “최고의 장식상”! 축하해요!",
+    "node": "Moira_FearFestFallback"
+  },
+  "line:0a11cfd": {
+    "text": "Moira: 오늘 밤은 악령 걱정 없을 것 같은 느낌이에요.",
+    "node": "Moira_FearFestFallback"
+  },
+  "line:05ef815": {
+    "text": "Moira: 느껴져요? 공기 중의 한기? 바스락거리는 나뭇잎 소리 들려요?",
+    "node": "Moira_FearFestFallback"
+  },
+  "line:0a1e1f7": {
+    "text": "Moira: 그냥 바람인 거 알아요, 근데 그 바람이 대지의 영혼이 아니라고 누가 장담하겠어요?",
+    "node": "Moira_FearFestFallback"
+  },
+  "line:0a2614b": {
+    "text": "Moira: 안녕! 들어 봐요, 자기한테 제안이 하나 있어요...",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:0a298b5": {
+    "text": "Moira: 이제 여기 시릴 광장에 합류했으니, 가을 공포 축제에 참여해 주면 정말 좋겠어요!",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:0bde149": {
+    "text": "Moira: 틸데가 예전에 여기서 했던 그 멋진 유령의 집 기억할 거예요.",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:08fad94": {
+    "text": "Moira: 하퍼한테 듣자 하니 그 애가 이제 “지난번보다 훨씬 컸고”, “더 이상 유령이 <i>전혀</i> 안 무섭대요”.",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:032f4c9": {
+    "text": "Moira: 둘이서 서점용으로 비슷한 걸 또 만들어 줄 수 있을까요?",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:042b23e": {
+    "text": "Moira: 그럼 정말 큰 도움이 될 거예요! 분명 애들이 좋아할 거예요.",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:0e4f45e": {
+    "text": "Moira: 아 그리고 시간 되면 <i>작은 가게</i>도 꾸미는 거 잊지 마요! 으스스한 정취를 위해 할 수 있는 건 뭐든요.",
+    "node": "Moira_YourHauntedShop"
+  },
+  "line:0c07216": {
+    "text": "Moira: 안녕, 자기! 벼룩시장에서 뭐 필요한 거 있어요?",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:08537ea": {
+    "text": "Moira: 벼룩시장에서 뭐 좀 사다 줄까요?",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:053a083": {
+    "text": "Moira: 오, 그나저나, 벼룩시장에서 뭐 좀 사다 줄까요?",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:0890361": {
+    "text": "Moira: 이번 토요일에 갈 계획이거든요!",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:050446d": {
+    "text": "Moira: 그냥 친구들 좀 만나고, 새 귀걸이나 찾으면 찾는 거 사려고요.",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:026ebfb": {
+    "text": "Moira: 아니, 사실, 자기도 같이 가는 게 어때요?",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:009d040": {
+    "text": "Moira: 일하는 거 아는데, 자기가 둘러보고 싶을 땐 우리가 대신 봐 줄 수 있어요!",
+    "node": "Moira_FleaMarketSoon"
+  },
+  "line:0458a7c": {
+    "text": "Moira: 안녕, 보니 반가워요! 잠깐 쉴래요?",
+    "node": "Moira_FleaMarket"
+  },
+  "line:01ae66b": {
+    "text": "Moira: 마음껏 둘러보고 쇼핑 좀 해요.",
+    "node": "Moira_FleaMarket"
+  },
+  "line:0255021": {
+    "text": "Moira: 약속할게요, 그동안 가게에서 눈 안 뗄게요.",
+    "node": "Moira_FleaMarket"
+  },
+  "line:01af3b3": {
+    "text": "Moira: 내 시선을 사로잡을 책을 찾지만 않는다면요...",
+    "node": "Moira_FleaMarket"
+  },
+  "line:03f662b": {
+    "text": "Moira: 오 안녕. 방금 다가올 시험 때문에 행정처랑 얘기했어요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:0116bf4": {
+    "text": "Moira: 네, 시험 놓치는 게 짜증 나긴 한데, 지금 너무 일이 많아서요... 알잖아요, 틸데랑 카페 때문에.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:0f0a6c7": {
+    "text": "Moira: 근데, 이봐요! 다들 정말 친절하게, 올해 잠깐 쉬는 법을 알려 줬어요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:04058be": {
+    "text": "Moira: 오 안녕. 방금 행정처랑 얘기했어요, 학위 마치려면 아직 봐야 할 시험이 있거든요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:0ffbc7d": {
+    "text": "Moira: 네, 적어도 카페가 다 안정될 때까진, 그거 전부 좀 미룰까 봐요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:0783714": {
+    "text": "Moira: 근데, 이봐요! 다들 정말 친절하게, 나중에라도 학위를 마치고 싶을 때 어떻게 하면 되는지 알려 줬어요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:08ef0e3": {
+    "text": "Moira: 으윽. 이 학위 어서 끝냈으면 좋겠어요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:04bf348": {
+    "text": "Moira: 시험은 충분히 쉬운데, 가뜩이나 카페랑 밴드로 너무 바빠요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:00ece2e": {
+    "text": "Moira: 으윽. 이 학위 어서 끝냈으면 좋겠어요.",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:0c27bc4": {
+    "text": "Moira: 지금은 시험공부할 시간이 도무지 없어요. 너무 일이 많거든요!",
+    "node": "Moira_ExamPhaseSoon_Pre"
+  },
+  "line:013efbf": {
+    "text": "Moira: 세상에, 저 자습실에 1분도 더 못 있겠어요. 정말 우울한 곳이에요.",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:064fd1f": {
+    "text": "Moira: 게다가 산만하기까지! 학창 시절엔 제일 시끄러운 데서도 공부 잘만 했는데.",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:03190aa": {
+    "text": "Moira: 아빠 리허설 중에, 여름 방학 때 리베르테에서... 어떻게 그랬는지 모르겠어요.",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:0de5c04": {
+    "text": "Moira: 오늘 차분하고 집중되는 기분에 가장 가까웠던 곳이 바로 여기예요.",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:07f9b18": {
+    "text": "Moira: 여기서 사람들이 공부하게 하는 거 생각해 본 적 있어요?",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:09de74e": {
+    "text": "Moira: 장식을 좀 옮겨야 할지도 모르지만, 분명 대성공일 거예요!",
+    "node": "Moira_HelpStudyStart"
+  },
+  "line:000610d": {
+    "text": "Moira: 오오오 네! 이 분위기 너무 좋아요. 딱 내가 말하던 거예요.",
+    "node": "Moira_HelpStudyComplete"
+  },
+  "line:0a882e2": {
+    "text": "Moira: <size=85%><i>오. 좀 컸네요, 미안. 흥분했어요.</i><size=100%>",
+    "node": "Moira_HelpStudyComplete"
+  },
+  "line:00129c2": {
+    "text": "Moira: <size=85%><i>아무튼, 멋진 구성 고마워요. 이제 책 좀 팔게요— 아니, 공부할게요.</i><size=100%>",
+    "node": "Moira_HelpStudyComplete"
+  },
+  "line:030afc1": {
+    "text": "Moira: 안녕. 틸데 수술 얘긴 이미 들었겠죠, 응?",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0d33d00": {
+    "text": "Moira: 생각하면 좀 무섭긴 한데... 틸데가 은퇴를 건강 제대로 챙기는 데 쓰고 있어서 정말 다행이에요!",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:00490ad": {
+    "text": "Moira: 그리고 그 양반은 잘 이겨 낼 거예요! 오히려 할머니가 더 걱정이에요...",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0cb5d5b": {
+    "text": "Moira: 수술 위험에 대해 꽤 호들갑을 떨거든요. 근데 내가 그 입장이어도 똑같을 것 같아요. 틸데를 정말 사랑하니까요.",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0985d92": {
+    "text": "Moira: 뭐, 아무튼, 틸데가 회복하는 동안 할머닌 아마 병원에 자주 있을 거예요...",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:01aa50f": {
+    "text": "Moira: 그러니 아직 <i>대놓고</i> 말하진 않았어도, 당분간 내가 카페 매니저가 된단 뜻이 거의 확실해요.",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0b8caaf": {
+    "text": "Moira: 내가 잘 해낼 것 같아요? 어쩌면 할머니가 드디어 내가 할 수 있다는 걸 알아줄까요?",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0685bfd": {
+    "text": "Moira: 생각할 게 많네요... 일단 새 책으로 기분 전환이나 해야겠어요.",
+    "node": "Moira_TildeSurgerySoon"
+  },
+  "line:0ed788c": {
+    "text": "Moira: 이봐요! 미안, 좀 급해요. 지금 카페 일로 정신없는데, 그래도 인사하고 싶었어요!",
+    "node": "Moira_TempCafeTakeover"
+  },
+  "line:042f476": {
+    "text": "Moira: 나랑 나머지 직원들, 아직 내 새 매니저 자리에 좀... <i>적응 중</i>이에요. 근데 그게 정상이겠죠, 그쵸?",
+    "node": "Moira_TempCafeTakeover"
+  },
+  "line:01c1460": {
+    "text": "Moira: 그리고 정신없는 와중에도, 벌써 지속가능성 변화를 몇 가지 도입했어요.",
+    "node": "Moira_TempCafeTakeover"
+  },
+  "line:0fafb12": {
+    "text": "Moira: 이제 식물성 우유 선택지가 늘었고, 다회용 테이크아웃 컵도 잔뜩 주문했어요!",
+    "node": "Moira_TempCafeTakeover"
+  },
+  "line:0279fc4": {
+    "text": "Moira: 그러니, 지금까진 잘하고 있는 셈이죠! 아무튼, 이제 가야 해요. 나중에 봐요!",
+    "node": "Moira_TempCafeTakeover"
+  },
+  "line:09f0200": {
+    "text": "Moira: 안녕, 잘 지내요? 여기 리베르테도 좀 안정됐어요.",
+    "node": "Moira_CafeManagement"
+  },
+  "line:061b6d1": {
+    "text": "Moira: 물론 아직 좀 불안하긴 한데, 같이 일하는 사람들이 요즘 정말 잘 맞춰 줘요.",
+    "node": "Moira_CafeManagement"
+  },
+  "line:04d8c20": {
+    "text": "Moira: 그냥 좋게 물어보면, 사람들이 아직 익숙지 않은 과정들을 기꺼이 다 설명해 준다는 걸 알았어요!",
+    "node": "Moira_CafeManagement"
+  },
+  "line:0b13b30": {
+    "text": "Moira: 그리고 내 나름의 선택을 좀 하는 게 좋아요. 할머니가 한 걸 다 바꾸고 싶다는 건 아니에요— 당연히 그 양반이 전문가죠!",
+    "node": "Moira_CafeManagement"
+  },
+  "line:062088d": {
+    "text": "Moira: 근데... 모르겠어요, 내가 할머니의 좋은 후계자가 될 수 있을 것 같은 기분이 들어요.",
+    "node": "Moira_CafeManagement"
+  },
+  "line:0a2dc37": {
+    "text": "Moira: 흠, 아직 그렇게까지 꿈꾸진 말아야 할지도. 할머닌 늘 그 얘길 질색하며 피하거든요.",
+    "node": "Moira_CafeManagement"
+  },
+  "line:045aa35": {
+    "text": "Moira: 근데 이제 할머니가 없어도 내가 카페를 말아먹지 않으니, 곧 상황이 좀 달라질 것 같은 느낌이에요.",
+    "node": "Moira_CafeManagement"
+  },
+  "line:000bcb1": {
+    "text": "Moira: 아무튼, 틸데가 잘 회복하고 있으니 할머니도 곧 돌아오겠죠. 그러니 그 대화에 행운을 빌어 줘요!",
+    "node": "Moira_CafeManagement"
+  },
+  "line:0e70180": {
+    "text": "Moira: 이봐요, 틸데가 부탁한 페이스트리 가지러 왔어요?",
+    "node": "Moira_Errands03"
+  },
+  "line:033e40f": {
+    "text": "Moira: ... 이거 나랑 할머니 얘기 좀 하게 하려는 그 양반 수작이죠, 안 그래요?",
+    "node": "Moira_Errands03"
+  },
+  "line:0227899": {
+    "text": "Moira: 안 그러면 리베르테에 직접 전화하지, 왜 나한테 전화해서 이걸 가져오라고 하겠어요?",
+    "node": "Moira_Errands03"
+  },
+  "line:0ac8256": {
+    "text": "Moira: 뭐, 내가 누굴 속이겠어요? 난 틸데한테 절대 안 된다고 못 해요. 너무 사랑하고, 그 양반도 그걸 알죠.",
+    "node": "Moira_Errands03"
+  },
+  "line:0203aca": {
+    "text": "Moira: 근데 그 계획은 어차피 실패했어요. 내가 이걸 주문할 때 마리암은 그냥 날 못 본 척했거든요.",
+    "node": "Moira_Errands03"
+  },
+  "line:0220fd8": {
+    "text": "Moira: 이거 내 최애이기도 해요... 뭐, 아무튼, 틸데한테 나 대신 꼭 안아 줘요, 알았죠? 안녕.",
+    "node": "Moira_Errands03"
+  },
+  "line:0aaa75d": {
+    "text": "Moira: 안녕, 오늘 내 배달 기사예요?",
+    "node": "Moira_Errands03"
+  },
+  "line:0d0a954": {
+    "text": "Moira: <size=85%><i>*헤헤*</i><size=100%> 틸데는 사람들 심부름 보내는 거 정말 좋아한다니까요, 그쵸?",
+    "node": "Moira_Errands03"
+  },
+  "line:08904ad": {
+    "text": "Moira: 근데 이 페이스트리는 그럴 만한 가치가 있어요, 정말요! 내 최애이기도 하고요.",
+    "node": "Moira_Errands03"
+  },
+  "line:0d063d9": {
+    "text": "Moira: 자 여기요! 충분히 줬길 바라지만, 모자라면 언제든 다시 와요.",
+    "node": "Moira_Errands03"
+  },
+  "line:045296f": {
+    "text": "Moira: 틸데한테 안부 전해 줘요! 다시 일어선 게 우리 모두 정말 기뻐요.",
+    "node": "Moira_Errands03"
+  },
+  "line:0726388": {
+    "text": "Moira: 안녕, 오늘 내 배달 기사예요?",
+    "node": "Moira_Errands03"
+  },
+  "line:024265e": {
+    "text": "Moira: 자기 페이스트리 여기 있어요. 조심해요, 아직 뜨거워요!",
+    "node": "Moira_Errands03"
+  },
+  "line:0ea43f2": {
+    "text": "Moira: 이게 틸데를 금세 낫게 해 줄 거예요, 확실해요.",
+    "node": "Moira_Errands03"
+  },
+  "line:06c292b": {
+    "text": "Moira: 그리고 틸데랑 할머니 나 대신 꼭 안아 줘요, 알았죠?",
+    "node": "Moira_Errands03"
+  },
+  "line:00cdb47": {
+    "text": "Moira: 여기 좀 안정되면, 나도 곧 보러 갈게요.",
+    "node": "Moira_Errands03"
+  },
+  "line:025496c": {
+    "text": "Moira: 이봐요, 틸데가 부탁한 페이스트리 가지러 왔어요?",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0a7fb2b": {
+    "text": "Moira: 솔직히, 할머니가 뒤로 들어갈 때까지 기다렸다가 이걸 주문했어요... 아직 마주할 마음의 준비가 안 됐거든요.",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0e5176e": {
+    "text": "Moira: 근데 틸데한텐 말하지 마요. 분명 우리가 문제를 풀길 바랐을 테니까요.",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0bf6c65": {
+    "text": "Moira: 그냥 이 타르트가 그 양반 정신을 좀 딴 데로 돌려 주길 바라야죠!",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:02694e5": {
+    "text": "Moira: 안녕, 오늘 내 배달 기사예요?",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:05e7abb": {
+    "text": "Moira: <size=85%><i>*헤헤*</i><size=100%> 틸데는 사람들 심부름 보내는 거 정말 좋아한다니까요, 그쵸?",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0cbd9b7": {
+    "text": "Moira: 근데 이 페이스트리는 그럴 만한 가치가 있어요, 정말요! 내 최애이기도 하고요.",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0a66764": {
+    "text": "Moira: 자 여기요! 충분히 줬길 바라지만, 모자라면 언제든 다시 와요.",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:018f4ac": {
+    "text": "Moira: 안녕, 오늘 내 배달 기사예요?",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:03d5d5b": {
+    "text": "Moira: 자기 페이스트리 여기 있어요. 조심해요, 아직 뜨거워요!",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:0928eaa": {
+    "text": "Moira: 이게 틸데를 금세 낫게 해 줄 거예요, 확실해요.",
+    "node": "Moira_Errands03_Pre"
+  },
+  "line:07ca532": {
+    "text": "Moira: 이봐요! 완전 축하해요, 자기!",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0320ef7": {
+    "text": "Moira: 야, 자기를 광장에서 맞이하는 게 너무 기대돼요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0ecac1e": {
+    "text": "Moira: 가게 열러 올 때 알려 줘요! 커피든 뭐든 자기가 원하는 거 가져다줄게요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0d763da": {
+    "text": "Moira: 광장 우리 건너편에 자기가 있다니 좋겠어요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:05d84d6": {
+    "text": "Moira: 그럼 가끔 서로 도울 수 있잖아요, 알죠?",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:062d8ad": {
+    "text": "Moira: 근데... 솔직히 좀 부럽기도 해요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0006d11": {
+    "text": "Moira: 뭐 어때요. 부디 할머니가 이 후계자 일이 틸데한테 얼마나 잘 풀렸는지 보고, 드디어 내가 한 일을 알아줬으면 좋겠어요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:049ae40": {
+    "text": "Moira: 자기 일이 정말 기뻐요!",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:09f58f1": {
+    "text": "Moira: 근데... 솔직히 좀 부럽기도 해요.",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0e21813": {
+    "text": "Moira: 할머니랑 그 다툼 이후로, 그냥 할머니가 틸데처럼 봐 줬으면 좋겠어요, 알죠?",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:01edb04": {
+    "text": "Moira: 우리도 그 유산에 보탤 게 있다는 걸요!",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:07822c8": {
+    "text": "Moira: 근데 두고 보죠. 어떻게든 나 자신을 증명할 시간이 아직 있을지도 몰라요. 행운을 빌어 줘요!",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:0f89536": {
+    "text": "Moira: 야, 나도 어서 내 때가 왔으면 좋겠어요. 알죠, 카페로요?",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:00e2351": {
+    "text": "Moira: 꽤 오랫동안 할머니의 좋은 후계자가 되려고 애써 왔거든요...",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:097b2a8": {
+    "text": "Moira: 그리고 당연히 자기랑 내가 이 광장에서 같이 일할 수 있으면 정말 멋질 거예요, 그쵸?",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:06473df": {
+    "text": "Moira: 뭐, 두고 보죠. 오늘은 자기 날이에요! 신나게 즐기자고요, 응?",
+    "node": "Moira_BookshopEnding"
+  },
+  "line:072909d": {
+    "text": "Moira: 아아, 이 서점 그리웠어요! 다시 가져와 줘서 너무 멋져요!",
+    "node": "Moira_BookshopEndingFallback"
+  },
+  "line:0d6eaf1": {
+    "text": "Moira: 야, 작년에 이걸 놓쳤다니 믿기지가 않아요.",
+    "node": "Moira_BonfireNight"
+  },
+  "line:0889789": {
+    "text": "Moira: 난 모닥불 밤이 정말 좋아요!",
+    "node": "Moira_BonfireNight"
+  },
+  "line:0037966": {
+    "text": "Moira: 음악을 내가 바꾸게 해 주면 좋겠지만요. 춤출 만한 게 필요하거든요!",
+    "node": "Moira_BonfireNight"
+  },
+  "line:0b4be0e": {
+    "text": "Moira: 헤헤. 으스스한 계절까지 딱 하루 더 자면 돼요.",
+    "node": "Moira_BonfireNight"
+  },
+  "line:0f58da6": {
+    "text": "Moira: 올해는 더 무서운 장식을 준비했길 바라요.",
+    "node": "Moira_BonfireNight"
+  },
+  "line:040b0d9": {
+    "text": "Moira: 좋은 아침!",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:08bf1c3": {
+    "text": "Moira: 자기도 오늘 그 마르셰 소식지 받았어요?",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:0ba0d61": {
+    "text": "Moira: 캐시가 메탈 마니아일 줄은 꿈에도 몰랐어요. 자기는요?",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:0bdc4c8": {
+    "text": "Moira: 당연히 제일 먼저 클라우스한테 전화했죠. 좀 당황한 것 같으면서도, 뿌듯해하는 것 같기도 했어요?",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:0863dcf": {
+    "text": "Moira: 오 봐요, 누가 거기 꽃까지 놔뒀네요.",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:0da27cc": {
+    "text": "Moira: 야! 클라우스 안 죽었어요!",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:08886c4": {
+    "text": "Moira: 그냥 투어 중이라고요!",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:0680a57": {
+    "text": "Moira: 하하, 어머, 여기 사람들이 그 애를 정말 그리워하나 봐요.",
+    "node": "Moira_KlausShrineComment"
+  },
+  "line:07c1135": {
+    "text": "Moira: 오? 저기 무슨 일이에요? 저거 Silens Libri 팬들이에요?",
+    "node": "Moira_FanMeetUp"
+  },
+  "line:0938da9": {
+    "text": "Moira: 야, 저렇게 열성적일 줄 누가 알았겠어요!",
+    "node": "Moira_FanMeetUp"
+  },
+  "line:0e2dd6e": {
+    "text": "Moira: 내가 예전에 베이시스트였다고 말하면 저 사람들이 믿어 줄 것 같아요?",
+    "node": "Moira_FanMeetUp"
+  },
+  "line:08f812e": {
+    "text": "Moira: 근데 그럼 캐시가 나타나서 클라우스한테 그랬듯 나도 권리를 다 넘기라고 꼬셔낼지도 몰라요.",
+    "node": "Moira_FanMeetUp"
+  },
+  "line:02e022a": {
+    "text": "Moira: 그 사람이 예전에 내 대학 수업을 같이 들었던 거 알아요? 꽤 무자비할 수 있어요. <size=85%><i>*한숨*</i><size=100%> 게다가 엄청 예쁘기까지 해서 더 골치 아파요.",
+    "node": "Moira_FanMeetUp"
+  },
+  "line:09e9a5d": {
+    "text": "Moira: 오, 안녕. 바빠요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:09c588e": {
+    "text": "Moira: 우리 할머니가 가르치는 그 사업 강좌 시작했다면서요. 어떻게 돼 가요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0e7a499": {
+    "text": "Moira: 오 그래, 쉬운 일이 아니죠! 근데 꽤 멋지기도 하잖아요, 안 그래요? 사업 실력을 증명할 기회를 얻는다는 게요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:00f8adb": {
+    "text": "Moira: ...뭐, 어쩌면 그건 자기보단 내 얘기에 가깝네요. 솔직히, 할머닌 나한텐 그 강좌를 들으라고 한 번도 안 했거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:023b94d": {
+    "text": "Moira: 틸데가 한 번 권한 적은 있어요! 내가 B.L.A.B.L.A.에 들어가 마리암을 감동시키고 싶어 하는 걸 알아챘거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0a095b1": {
+    "text": "Moira: 근데 거절했어요. 할머니가 날 충분히 유능하다고 안 믿는데, 어떻게 그 등 뒤에서 회원이 되겠어요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0ccd039": {
+    "text": "Moira: <size=85%><i>*크흠*</i><size=100%> 아무튼. 좀 막혔다고요, 그쵸? 음, 괜찮으면 내가 도와줄 수 있어요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:02ac333": {
+    "text": "Moira: 마리암한텐 한마디도 안 할게요, 약속해요. 사실 자기가 <i>날</i> 도와주는 셈이에요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:02fd863": {
+    "text": "Moira: 정말요? 뭐, 자기는 이미 사업 전문 지식이 많은 것 같긴 해요. 그래도 세상에 증명할 수 있다는 건 좋은 일이죠, 그쵸?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0ec8237": {
+    "text": "Moira: ...뭐, 어쩌면 내가 좀 투영하는지도. 솔직히 말하면, 할머닌 나한텐 그 강좌를 들으라고 <i>한 번도</i> 안 했거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0b14913": {
+    "text": "Moira: 틸데가 한 번 권한 적은 있어요! 내가 B.L.A.B.L.A.에 들어가 마리암을 감동시키고 싶어 하는 걸 알아챘거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:08ee23c": {
+    "text": "Moira: 근데 거절했어요. 할머니가 날 충분히 유능하다고 안 믿는데, 어떻게 그 등 뒤에서 회원이 되겠어요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0fa06dc": {
+    "text": "Moira: <size=85%><i>*크흠*</i><size=100%> 아무튼. 자기가 과제들을 잘해 내고 있어서 기뻐요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:059491a": {
+    "text": "Moira: 그래도, 내가... 팁을 좀 줄까요? 마리암은 모를 거고 나도... 적어도 조금은 참여하는 셈이 되니까요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0905d22": {
+    "text": "Moira: 뭐 그래요, 규칙이 좀 <i>구식</i>이긴 하죠. 근데 자신을 증명할 기회를 위해선 그럴 만하지 않아요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:039e3f5": {
+    "text": "Moira: ...뭐, 어쩌면 내가 좀 투영하는지도. 솔직히 말하면, 할머닌 나한텐 그 강좌를 들으라고 <i>한 번도</i> 안 했거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0ddd09b": {
+    "text": "Moira: 틸데가 한 번 권한 적은 있어요! 내가 B.L.A.B.L.A.에 들어가 마리암을 감동시키고 싶어 하는 걸 알아챘거든요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:087178c": {
+    "text": "Moira: 근데 거절했어요. 할머니가 날 충분히 유능하다고 안 믿는데, 어떻게 그 등 뒤에서 회원이 되겠어요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0f15e1e": {
+    "text": "Moira: <size=85%><i>*크흠*</i><size=100%> 아무튼. 그걸 통과하게 팁을 좀 줄까요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:060ba5b": {
+    "text": "Moira: 마리암한텐 한마디도 안 할게요, 약속해요. 사실 자기가 <i>날</i> 도와주는 셈이에요.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:01d5678": {
+    "text": "Moira: 좋아요, 어디 보자. 지금 몇 단계예요?",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:09fc00d": {
+    "text": "Moira: 보니 할머니가 아직도 그 과제들을 시키고 있네요...",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:0dc9add": {
+    "text": "Moira: 이봐요, 할머니가 아직도 그 과제들을 시키고 있네요.",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:0264544": {
+    "text": "Moira: 또 도와줄까요? 어쩌면 내가 도움 될 만한 걸 알려 줄 수 있어요.",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:0374e99": {
+    "text": "Moira: 좋아요, 걱정 마요! 근데 기억해요, 같이 머리 굴릴 사람이 필요하면 언제든 나한테 와도 돼요.",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:08b4d5b": {
+    "text": "Moira: 좋아요, 문제없어요! 어디 보자, 지금 몇 단계예요?",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:0954559": {
+    "text": "Moira: 이봐요, 최근에 그 사업 강좌에 또 도전했네요...",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0691408": {
+    "text": "Moira: 이봐요, 최근에 그 사업 강좌에 또 도전했네요.",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0e02127": {
+    "text": "Moira: 도와줄까요? 어쩌면 내가 도움 될 만한 걸 알려 줄 수 있어요.",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0c81b50": {
+    "text": "Moira: 좋아요, 걱정 마요! 근데 기억해요, 같이 머리 굴릴 사람이 필요하면 언제든 나한테 와도 돼요.",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0ef4658": {
+    "text": "Moira: 좋아요, 문제없어요! 어디 보자, 지금 몇 단계예요?",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0790cae": {
+    "text": "Moira: 아, 맞다, 첫 번째 규칙! <i>“고객을 알지어다”</i>죠, 그쵸?",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:0dfc018": {
+    "text": "Moira: 흠, 그럼 할머니가 하루에 추천 세 번 성공하길 원하는 거네요...",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:014285d": {
+    "text": "Moira: 그거 꽤 어려울 수 있어요, 특히 손님이 지금 없는 걸 요청하면요.",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:028bd6c": {
+    "text": "Moira: 여러 해 틸데를 곁에서 본 바로는, 누군가의 최애 책은 의외의 장르에 숨어 있는 경우가 많아요!",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:015eda6": {
+    "text": "Moira: 근데 어쨌든, 첫 시도에 못 맞혀도 너무 걱정 마요!",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:085835b": {
+    "text": "Moira: 손님들은 또 올 거고, 다음 날 다시 해 보면 돼요.",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:08a34fe": {
+    "text": "Moira: 조금이라도 도움이 됐길 바라요. 행운을 빌어요!",
+    "node": "Moira_1stRuleTip"
+  },
+  "line:0d14290": {
+    "text": "Moira: 아, 맞다, 두 번째 규칙! <i>“마땅한 품위”</i> 어쩌고죠, 그쵸?",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:0d4f4bb": {
+    "text": "Moira: 흠, 그럼 할머니가 가게를 고급스럽게 꾸미길 원하는 거네요...",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:04b458f": {
+    "text": "Moira: 그 고급 물건들은 찾기 어렵죠, 그쵸?",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:08e7fe8": {
+    "text": "Moira: 광고란에서 못 찾았으면, 벼룩시장이 찾아보기 좋은 곳일 것 같아요.",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:00ec13d": {
+    "text": "Moira: 근데 다행히, 이 과제는 시간제한이 없으니, 서두를 필요 없어요.",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:0ac94c3": {
+    "text": "Moira: 그냥 장식 컬렉션을 늘리다가, 가게가 충분히 고급스러워 보이면 카페로 다시 와요.",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:0033086": {
+    "text": "Moira: 도움이 됐길 바라요. 행운을 빌어요!",
+    "node": "Moira_2ndRuleTip"
+  },
+  "line:0a8f979": {
+    "text": "Moira: 아, 맞다, 그 “험한 시절” 조항은 정말 헷갈리죠.",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0b1b092": {
+    "text": "Moira: 잠깐, 우리 할머니가 자기더러 그냥 버티면서 쓰레기통 한복판에서 팔라고 했어요?!",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0a6ea9d": {
+    "text": "Moira: 말도 안 돼! 근데 뭐, 여기까지 왔으니 별 선택의 여지가 없겠네요.",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0ad3c3e": {
+    "text": "Moira: 흠, 그럼 그 추가된 난이도 때문에 매출이 떨어지는 거네요...",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:03b9e33": {
+    "text": "Moira: 그걸 상쇄해야 해요, 어쩌면 매출에 도움 될 만한 기분 좋은 장식을 좀 더해서요.",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0dba986": {
+    "text": "Moira: 그리고, 멋진 추천을 하면 손님이 뭔가를 살 확률이 높아진다는 걸 알아챘어요!",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:047e48b": {
+    "text": "Moira: 마지막으로, 가끔 식물에 물을 줘 봐요. 무성한 초록이 그 냄새에서 좀 시선을 돌려 줄지도 몰라요.",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:032effd": {
+    "text": "Moira: 근데 지금 할머니의 이상한 과제를 도무지 못 넘겨도, 너무 자책하지 마요.",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0fd7408": {
+    "text": "Moira: 여정 중 언제든 다시 돌아오면 돼요! 사업을 좀 더 키우면, 분명 막을 수 없을 거예요!",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:0df6e35": {
+    "text": "Moira: 뭐, 도움이 됐길 바라요. 행운을 빌어요!",
+    "node": "Moira_3rdRuleTip"
+  },
+  "line:09581a0": {
+    "text": "Moira: 아, 맞다, 네 번째 규칙! “지속 가능하라”. 하나도 안 모호하네요!",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:0c4bc54": {
+    "text": "Moira: 이걸 나한테 들고 오다니 잘됐어요! 내가 지속가능경영으로 석사 하는 중이거든요.",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:07b210c": {
+    "text": "Moira: 잠깐, 사흘 연속 판매? 그게 지속가능성이랑 무슨 상관이람?!",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:09a9309": {
+    "text": "Moira: 으, 할머니가 내 전문 지식을 내놔도 도통 안 듣는다는 걸 잘 보여 주네요...",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:0836e2f": {
+    "text": "Moira: 아무튼, 이게 어려운 게 당연해요.",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:0d127ec": {
+    "text": "Moira: 기록을 확인해서 예전에 카페에서 어떤 장르가 잘 팔렸는지 보는 게 어때요?",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:095c9f0": {
+    "text": "Moira: 그러고는 여분 재고를 충분히 확보해 둬요. 책장을 많이 채울수록 좋아요!",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:031eb8c": {
+    "text": "Moira: 그리고 늘 그렇듯, 장식 몇 개가 매출에 도움이 될 거예요.",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:0dfb87b": {
+    "text": "Moira: 도움이 됐길 바라요. 행운을 빌어요!",
+    "node": "Moira_4thRuleTip"
+  },
+  "line:0e0361a": {
+    "text": "Moira: 아, 맞다, 다섯 번째 규칙! “판매를 다각화하라”죠, 그쵸?",
+    "node": "Moira_5thRuleTip"
+  },
+  "line:0175074": {
+    "text": "Moira: 흠, 왜 어려운지 알겠어요. 사람들이 안 찾는데 어떻게 여섯 장르의 책을 다 팔겠어요?",
+    "node": "Moira_5thRuleTip"
+  },
+  "line:05a23dc": {
+    "text": "Moira: 근데 자기가 사람들을 설득해서 다른 장르를 사게 하는 걸 전에 봤어요!",
+    "node": "Moira_5thRuleTip"
+  },
+  "line:0c9a83e": {
+    "text": "Moira: 추천할 때마다, 그들이 요청한 걸 가장 의외의 구석에서 찾아내잖아요!",
+    "node": "Moira_5thRuleTip"
+  },
+  "line:05e5a20": {
+    "text": "Moira: 그러니 난 자기를 전적으로 믿어요. 행운을 빌어요!",
+    "node": "Moira_5thRuleTip"
+  },
+  "line:0db7077": {
+    "text": "Moira: 아, 맞다, 여섯 번째 규칙! 그건 퀴즈죠, 그쵸?",
+    "node": "Moira_6thRuleTip"
+  },
+  "line:0db36ff": {
+    "text": "Moira: 음, 미안하지만 그것만은 정말 답을 못 알려 줘요. 그건 부정행위니까요!",
+    "node": "Moira_6thRuleTip"
+  },
+  "line:093217a": {
+    "text": "Moira: 근데 별문제 안 될 거예요, 그쵸? 퀴즈는 원하는 만큼 풀 수 있으니까요.",
+    "node": "Moira_6thRuleTip"
+  },
+  "line:0ce7d7c": {
+    "text": "Moira: 분명 결국엔 맞힐 거예요. 행운을 빌어요!",
+    "node": "Moira_6thRuleTip"
+  },
+  "line:007a622": {
+    "text": "Moira: 아, 강좌 완료 축하해요. 해낼 줄 알았어요.",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0daffb4": {
+    "text": "Moira: 그동안 난 아직도 못— 아, 미안, 잊어요. 분위기 망치려던 건 아니었어요.",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:032a793": {
+    "text": "Moira: 근데 이 모든 규칙이 나온 협회 편람을 본 적 있어요?",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0288d5c": {
+    "text": "Moira: 듣자 하니, 초판엔 <i>일곱</i> 번째 규칙이 있었는데, 그 후로 오랜 세월 사라졌대요...",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0b9721b": {
+    "text": "Moira: 할머니가 늘 — 잠깐, 그거다! 이게 바로 드디어 할머니를 설득할 방법이에요!",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0881cd4": {
+    "text": "Moira: 미안, 가 봐야 해요! 근데 곧 돌아올게요!",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0ec4be0": {
+    "text": "Moira: 이봐요, 반짝이는 새 사업 명판 축하해요! 해낼 줄 알았어요!",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0b76376": {
+    "text": "Moira: 자긴 진정한 <i>B.L.A.B.L.A. 전문가</i>네요. <size=85%><i>*헤헤*</i><size=100%> 알겠어요? 그러니까... 말이 많다는...",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:0393689": {
+    "text": "Moira: 사실, 그것도 안 맞네요, 자긴 보통 꽤 조용하잖아요. 미안, 좀 멍청한 농담이었네요. 방금 한 말 잊어요.",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:04bdc0c": {
+    "text": "Moira: 아무튼, 새 회원 자격 축하해요, 자기! 이제 그만 가 볼게요.",
+    "node": "Moira_BLABLAPlaque"
+  },
+  "line:08c7d1c": {
+    "text": "Moira: 안녕, 자기. 음. 그게. 할머니랑 그 다툼 이후로 좀 생각을 해 봤어요.",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:09de718": {
+    "text": "Moira: 할머니가 자기한테 완료하라고 한 그 사업 강좌 기억해요?",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0a761cc": {
+    "text": "Moira: ... 그래, 그 옛 규칙들은 할머니한테 늘 꽤 중요했어요.",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0461cb0": {
+    "text": "Moira: 어릴 때 그 역사를 얘기해 주곤 했어요. 그리고 그 사라진 일곱 번째 규칙 소문도요.",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0e24c10": {
+    "text": "Moira: 그걸 찾고 싶어요. 알아요, 바보 같지만... 어쩌면 그게 드디어 할머니가 내 말을 듣게 할지도 몰라요!",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:034ba27": {
+    "text": "Moira: 수백 년 된 사건을 푸는 거, 도와줄래요?",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0933bcc": {
+    "text": "Moira: 자, 내 코르크 보드 가져왔어요. 내 옛 경영대에선, 이게 최고의 기술이었다니까요!",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0513151": {
+    "text": "Moira: 그리고 작은 폴더도 준비했어요. 누가 알아요, 우리 발견을 정리하는 데 유용할지도, 그쵸?",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:00a624f": {
+    "text": "Moira: 자, 난 뭘 하든 폴더를 만들어요. 누가 알아요, 우리 발견을 정리하는 데 유용할지도, 그쵸?",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0efa1f4": {
+    "text": "Moira: 우리 첫걸음은 그 옛 규칙을 누가 썼는지 알아내는 거여야 할 것 같아요.",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:04dd461": {
+    "text": "Moira: 초판 기록이 <i>어딘가엔</i> 분명 있을 거예요. 사업 협회의 다른 회원들한테 물어봐요!",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:003ccce": {
+    "text": "Moira: 월트 삼촌이 거기 있었던 것 같은데...",
+    "node": "Moira_Start7thRuleInvestigation"
+  },
+  "line:0b57b9f": {
+    "text": "Moira: 이건 해 질 때까지 기다리는 게 좋겠어요.",
+    "node": "Moira_7thRuleSeanceWaitForNightfallLoop"
+  },
+  "line:05c945b": {
+    "text": "Moira: 그때가 분명 가장 효과적일 거예요.",
+    "node": "Moira_7thRuleSeanceWaitForNightfallLoop"
+  },
+  "line:02f08c2": {
+    "text": "Moira: 좋아요, 때가 된 것 같아요. 와 줘서 고마워요! 배트랑 로리 만나 봤어요?",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0cc5ea8": {
+    "text": "Moira: 둘이 세부적인 걸 도와줬어요. 설명할게요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0ebe012": {
+    "text": "Moira: 우린 공물을 좀 가져왔어요. 그냥 마을 곳곳에서 모은 것들이지만, 우리한테 중요한 추억이 담겨 있어요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:04ed59c": {
+    "text": "Moira: 이걸 원 안쪽 돌 밑에 묻고, 로더릭 블라이턴을 위해 시구를 좀 읊을 거예요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0e80853": {
+    "text": "Moira: 자, 됐어요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:048907d": {
+    "text": "Moira: 준비됐어요? 좋아요, 이제 눈을 감아요!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0d1cbc7": {
+    "text": "Moira: 오, 바다의 아들이여,<br>우리를 집으로 데려오고 폭풍을 지켜봐 준 이여.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0606734": {
+    "text": "Moira: 그대는 아직 잊히지 않았소!<br>우리는 그대의 말을, 그대의 빛을 기억하오.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:048880b": {
+    "text": "Moira: 그대가 오래전 나누어 준 그 흙 아래,<br>그대를 위한 우리의 선물이 있으리라.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:079670f": {
+    "text": "Moira: 부디, 우리에게 그대 시대의 지혜를 보내 주오!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:02b49db": {
+    "text": "Moira: 우와! 이게 신호가 아니면, 뭐가 신호인지 모르겠네요!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0227453": {
+    "text": "Moira: 등대 탑을 탐험해 봐요. 분명 거기 뭔가 있을 거예요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0f30437": {
+    "text": "Moira: 좋아요, 의미 있어 보이는 거 있나 둘러봐요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0a56e6f": {
+    "text": "Moira: 여기 책장이 있어요! <size=85%><i>*에취*</i><size=100%> 휴, 먼지투성이. 근데 헐거운 페이지가 있어요!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:041d162": {
+    "text": "Moira: 어디 보자... “가장 중요한 규칙”...",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0d133c3": {
+    "text": "Moira: “잊지 말라, 어떤 상인도 무시할 수 없는 규칙이 하나 있으니: 항상 타인을 믿어라.”",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:077d7cc": {
+    "text": "Moira: “어떤 사업도 홀로 이룰 수 없다. 내밀어진 도움의 손길에 기대라, 그것이 가장 굳건한 토대를 쌓느니라.”",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:094ee17": {
+    "text": "Moira: 오, 와. <size=85%><i>*훌쩍*</i><size=100%> 이건... 내가 예상한 게 아니네요... <size=85%><i>*훌쩍*</i> 정말... 할머니랑 풀어야겠어요.<size=100%>",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0cb1e54": {
+    "text": "Moira: <size=85%><i>*크흠*</i><size=100%> 좋아요! 자, 늙은 로더릭이 우릴 후려치기로 마음먹기 전에 여기서 나가요.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:08a3f26": {
+    "text": "Moira: 휴, 정말 짜릿했어요! 뭐, 내일 이 페이지를 할머니한테 보여 줘야겠어요. 부디... 이해해 주길.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0d0d4af": {
+    "text": "Moira: 정말 고마워요! 또 사건 하나 해결, 응?",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0a37f86": {
+    "text": "Moira: 그래서, 첫 사업 편람에 대해 지금까지 뭘 알아냈어요?",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:080a91b": {
+    "text": "Moira: 우와, 제2판을 구했어요?",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:003d953": {
+    "text": "Moira: 이봐요, 잘했어요! 이게 분명 협회 초창기에 대해 좀 더 밝혀 줄 거예요.",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:0258415": {
+    "text": "Moira: 흠, <i>로더릭 블라이턴</i>... 그 이름 어디서 들었더라? 너무 익숙한데...",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:0d61337": {
+    "text": "Moira: <size=85%><i>*한숨*</i><size=100%> 할머니라면 알 텐데, 근데... 이걸 그 양반한테 물어볼 순 없잖아요, 응?",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:0f9849a": {
+    "text": "Moira: 뭐, 그냥 여기저기 물어보죠. 지역 역사 잘 아는 사람이 또 있을 거예요, 그쵸? 근데 18세기 후반에 대해 누가 알까요?",
+    "node": "Moira_7thRuleResponseAuthorReveal"
+  },
+  "line:0ed1372": {
+    "text": "Moira: 그래서 블라이턴이 등대에 살았다고요? 그리고 사람들이 거기서 그 유령을 봤고요?!",
+    "node": "Moira_7thRuleResponseAuthorHomeReveal"
+  },
+  "line:09c3cc2": {
+    "text": "Moira: 그곳이 의미 있는 곳인 줄 늘 알았어요! 느낄 수 있었다고요! 생각해 보니...",
+    "node": "Moira_7thRuleResponseAuthorHomeReveal"
+  },
+  "line:09d7643": {
+    "text": "Moira: 거긴 땅과 바다, 하늘 세 영역을 하나로 잇잖아요. 그리고 그 고대 스톤서클도 있고요...",
+    "node": "Moira_7thRuleResponseAuthorHomeReveal"
+  },
+  "line:0cf5b22": {
+    "text": "Moira: 거기서 그한테 닿아 봐야 해요! 내 친구들이 점술에 대해 좀 알거든요.",
+    "node": "Moira_7thRuleResponseAuthorHomeReveal"
+  },
+  "line:0f0a60b": {
+    "text": "Moira: 거기서 만나요, 알았죠? 내가 다 준비할게요.",
+    "node": "Moira_7thRuleResponseAuthorHomeReveal"
+  },
+  "line:07a1045": {
+    "text": "Moira: 왔네요! 와 주길 바랐어요.",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:02c15e8": {
+    "text": "Moira: 그래서, 영혼의 세계와 처음 접하는 거예요?",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:02dfabd": {
+    "text": "Moira: 오 와, 네. 마음 단단히 먹어요, 꽤 벅찰 수 있거든요. 그 순간이 오면 준비됐을 거라 믿어요.",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:0bfd7bc": {
+    "text": "Moira: 정마알요? 오 와, 정말 굉장하네요!",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:087f385": {
+    "text": "Moira: 영혼들도 우리만큼 계절에 영향을 받는다는 사실에 늘 놀라요!",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:0264788": {
+    "text": "Moira: 오늘 밤 로더릭 블라이턴의 영혼과 닿으려면, 해 질 때까지 기다리면 충분할 것 같아요.",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:045e717": {
+    "text": "Moira: 흠... 사라진 일곱 번째 규칙에 대해 아직 아무것도 못 알아냈어요.",
+    "node": "Moira_7thRuleReminder01_Post"
+  },
+  "line:0175e18": {
+    "text": "Moira: 이걸 조사하고 싶으면 우리 사건 파일을 꼭 장착해요!",
+    "node": "Moira_7thRuleReminder01_Post"
+  },
+  "line:0415acc": {
+    "text": "Moira: 누군가 우리한테 줄 단서가 있을 거예요, 그쵸?",
+    "node": "Moira_7thRuleReminder01_Post"
+  },
+  "line:081c9a7": {
+    "text": "Moira: 마을의 모든 가게 주인들이랑 다시 얘기해 봐요.",
+    "node": "Moira_7thRuleReminder01_Post"
+  },
+  "line:06bdb6b": {
+    "text": "Moira: 야, 우리 밤새 <b>등대</b>에서 자기를 기다렸어요!",
+    "node": "Moira_7thRuleSeanceReminder_Pre"
+  },
+  "line:06b8dbb": {
+    "text": "Moira: 어디 있었어요?! 블라이턴 영혼이랑 하는 교신에 같이하고 싶다는 줄 알았는데?",
+    "node": "Moira_7thRuleSeanceReminder_Pre"
+  },
+  "line:0b725eb": {
+    "text": "Moira: 있잖아요, 사라진 일곱 번째 규칙을 찾으려는 거요! 자기도 B.L.A.B.L.A. 회원이니 진심일 줄 알았어요.",
+    "node": "Moira_7thRuleSeanceReminder_Pre"
+  },
+  "line:0ed375f": {
+    "text": "Moira: 안녕, 보니 반가워요!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0938a5b": {
+    "text": "Moira: 오오, 소식이 있어요. 자기 겨울 시장 놓치고 싶지 않을걸요!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:01aac4e": {
+    "text": "Moira: 자, 소식이 있어요. 자기 겨울 시장 놓치고 싶지 않을걸요!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0d6fdd0": {
+    "text": "Moira: 아무튼, 소식이 있어요. 자기 겨울 시장 놓치고 싶지 않을걸요!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0531a3c": {
+    "text": "Moira: 올해는 내 커피 가판대를 직접 차리기로 했어요.",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:07d7229": {
+    "text": "Moira: 그러니까, 이제 <i>리베르테</i>가 “늘 해 온 방식”에 매여 있지 않거든요.",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0478ca0": {
+    "text": "Moira: 그러니 제대로 경쟁 좀 붙여서, 자기들이 뭘 놓치고 있는지 보여 주는 게 어때요?!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:08f9284": {
+    "text": "Moira: 리베르테가 드디어 거기 가판대에 합류해야겠다고 결정했어요.",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0a50885": {
+    "text": "Moira: 그러니까, 겨울 산책에 손을 데울 따뜻한 음료만큼 잘 어울리는 게 어디 있겠어요?",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0f8bdf3": {
+    "text": "Moira: 이번 달은 우리한테 좀 힘들었어요... 틸데 입원에, 할머니도 영 본인 같지가 않았거든요.",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0277088": {
+    "text": "Moira: 그래서... 좋은 겨울 시장이 사람들을 좀 더 행복하게 해 주길 바라는 거죠, 알죠?",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0fcf03e": {
+    "text": "Moira: 들를래요? 좀 바쁠지도 모르지만, 친구들이 들르면 늘 수다 떨 시간은 있어요!",
+    "node": "Moira_WintermarketRequest"
+  },
+  "line:0d6b36a": {
+    "text": "Moira: 아, 왔네요! 즐거운 동지(冬至)!",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:0736faa": {
+    "text": "Moira: 들러 줘서 고마워요, 자기!",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:01e36c7": {
+    "text": "Moira: 따뜻한 차 한잔이나 맛있는 구운 아몬드 좀 권해 볼까요?",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:056c774": {
+    "text": "Moira: 더 필요하면 그냥 들러요, 응?",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:010d0e4": {
+    "text": "Moira: 아니면, 알죠, 그냥 수다 떨어도 돼요.",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:0fcaf97": {
+    "text": "Moira: 또 봐요!",
+    "node": "Moira_WintermarketVisit_Cutscene"
+  },
+  "line:0a74b57": {
+    "text": "Moira: 안녕, 자기! 오늘은 뭘로 할래요?",
+    "node": "Moira_WinterMarketStall_Shop"
+  },
+  "line:0cfdd9e": {
+    "text": "Moira: 시장 즐겨요!",
+    "node": "Moira_WinterMarketStall_Shop"
+  },
+  "line:0795887": {
+    "text": "Moira: 또 한 잔 하러 왔어요?",
+    "node": "Moira_WinterMarketStall_ShopFallback"
+  },
+  "line:0ec7255": {
+    "text": "Moira: 조심해요, 뜨거워요!",
+    "node": "Moira_WinterMarketStall_ShopFallback"
+  },
+  "line:00ad98f": {
+    "text": "Moira: 즐거운 율(Yule) 보내요!",
+    "node": "Moira_WinterMarketStallSpliceReceiver"
+  },
+  "line:0b660ee": {
+    "text": "Moira: 뭘로 할래요? 걱정 마요, 다 비건 옵션 있어요.",
+    "node": "Moira_WinterMarketStallSpliceReceiver"
+  },
+  "line:0b8000f": {
+    "text": "Moira: 자, 뭘로 할래요? 걱정 마요, 다 비건 옵션 있어요.",
+    "node": "Moira_WinterMarketStallSpliceReceiver"
+  },
+  "line:00cfa91": {
+    "text": "Moira: 아, 못 정하겠어요? 우리 시그니처 율 커피 한번 추천해요!",
+    "node": "Moira_WinterMarketStallSpliceReceiver"
+  },
+  "line:0a4d6cc": {
+    "text": "Moira: 자 여기요!",
+    "node": "Moira_WinterMarketStallSpliceReceiver"
+  },
+  "line:044580e": {
+    "text": "Moira: 아, 정말 미안해요! 지금 다 팔렸어요.",
+    "node": "Moira_WinterMarketStall_SoldOut"
+  },
+  "line:0b97697": {
+    "text": "Moira: 모든 걸 다시 채우는 게 좀 어렵거든요. 나 혼자 하는 거라서요.",
+    "node": "Moira_WinterMarketStall_SoldOut"
+  },
+  "line:06224b9": {
+    "text": "Moira: 리베르테에 보충을 요청했는데, 거기도 꽤 바빠서요.",
+    "node": "Moira_WinterMarketStall_SoldOut"
+  },
+  "line:0fedf73": {
+    "text": "Moira: 야, 잠깐만! 잊기 전에...",
+    "node": "Moira_WinterMarketStall_StartSellOut_Post"
+  },
+  "line:097fde7": {
+    "text": "Moira: 우리 두 가게 다 여기서 꽤 바빴죠, 응?",
+    "node": "Moira_WinterMarketStall_StartSellOut_Post"
+  },
+  "line:0b9f65a": {
+    "text": "Moira: 그러니까, <i>난</i> 분명 벌써 한두 번은 재고를 다 팔았어요. 자긴 따라올 수 있을 것 같아요?",
+    "node": "Moira_WinterMarketStall_StartSellOut_Post"
+  },
+  "line:01eed4b": {
+    "text": "Moira: 다들한테 우리 실력을 보여 주자고요!",
+    "node": "Moira_WinterMarketStall_StartSellOut_Post"
+  },
+  "line:00c4d3b": {
+    "text": "Moira: 우리 할머니가 꽤 감탄할걸요!",
+    "node": "Moira_WinterMarketStall_StartSellOut_Post"
+  },
+  "line:0598916": {
+    "text": "Moira: 안녕, 시장 건너편 장사는 어때요?",
+    "node": "Moira_WinterMarketStall_SellOutReminder_Pre"
+  },
+  "line:0819074": {
+    "text": "Moira: 아직 재고 다 팔려고 애쓰는 중이에요? 뭐, 행운을 빌어요! 난 자기보다 한참 앞서 있어요.",
+    "node": "Moira_WinterMarketStall_SellOutReminder_Pre"
+  },
+  "line:0c67873": {
+    "text": "Moira: 이봐요, 괜찮아요? 스트레스받아 보여요... 아, 아직 재고 다 팔려고 애쓰는 중이에요?",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:07c40e5": {
+    "text": "Moira: 아, 자기, 미안해요. 이걸로 자길 압박하려던 건 아니었어요, 그냥 재미로 하려던 거였는데!",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:07333e2": {
+    "text": "Moira: 근데 어쩌면 지금 내가 도와줄 수 있어요!",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:03283a4": {
+    "text": "Moira: 그러니까, 경영학 학위가 사람들한테 <i>수요</i>랑 <i>공급</i> 얘기로 귀에 못 박는 거 말고 어디 쓰겠어요?",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:09c8363": {
+    "text": "Moira: 근데 오늘은 그건 봐줄게요. 내 조언은 정말 간단해요: 적을수록 좋다. 너무 높이 노리지 마요!",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:0b05687": {
+    "text": "Moira: 그러니까, 누가 책을 <i>수백</i> 권 팔랬어요, 그쵸? 그냥 <i>아주</i> 작은 책장 하나로 시작해서 어떻게 되나 봐요.",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:0353cc9": {
+    "text": "Moira: 근데 내 말 믿어요, 나도 완벽주의는 잘 알거든요. 그냥 한 번 더 해 봐요, 응? 또 봐요, 자기!",
+    "node": "Moira_WinterMarketStall_SellOutTip"
+  },
+  "line:0f3624c": {
+    "text": "Moira: 오오, 자기, 좀 봐! 완전 다 팔았어요?",
+    "node": "Moira_WinterMarketStall_SellOutComplete"
+  },
+  "line:0c2e77e": {
+    "text": "Moira: 내가 보기엔 정말 대단해요!",
+    "node": "Moira_WinterMarketStall_SellOutComplete"
+  },
+  "line:0b1401b": {
+    "text": "Moira: 우리 사업 실력을 한턱으로 축하해요, 그럴까요?",
+    "node": "Moira_WinterMarketStall_SellOutComplete"
+  },
+  "line:0b2d7de": {
+    "text": "Moira: 건배!",
+    "node": "Moira_WinterMarketStall_SellOutComplete"
+  },
+  "line:027b050": {
+    "text": "Moira: 안녕. 올해 우리 겨울 시장 즐겼길 바라요!",
+    "node": "Moira_NewYearsEve"
+  },
+  "line:0c096a3": {
+    "text": "Moira: 오늘이 마지막 날이라, 구운 아몬드 다 팔리기 전에 챙길 마지막 기회예요!",
+    "node": "Moira_NewYearsEve"
+  },
+  "line:03089e7": {
+    "text": "Moira: 오늘이 마지막 날이라, 가판대 둘러볼 마지막 기회예요.",
+    "node": "Moira_NewYearsEve"
+  },
+  "line:0851a10": {
+    "text": "Moira: 아무튼, 이따 여기서 또 봐요?",
+    "node": "Moira_NewYearsEve"
+  },
+  "line:0c49014": {
+    "text": "Moira: 자정 10분 전에 모여서 다 같이 새해를 맞이할 거예요!",
+    "node": "Moira_NewYearsEve"
+  },
+  "line:09bb01c": {
+    "text": "Moira: 그거 들었죠, 응?",
+    "node": "Moira_PostFightConversation"
+  },
+  "line:03dcd63": {
+    "text": "Moira: <size=85%><i>*한숨*</i><size=100%> 젠장, 광장 전체가 들은 것 같네요...",
+    "node": "Moira_PostFightConversation"
+  },
+  "line:000c509": {
+    "text": "Moira: 내가 우리 할머니랑 리베르테를 사랑하는 거 알죠... 근데 가끔 그 양반은 사람 속을 뒤집어 놔요!",
+    "node": "Moira_PostFightConversation"
+  },
+  "line:088b0cb": {
+    "text": "Moira: 어떻게 사람이 그렇게 고집불통일 수 있죠?! <size=85%><i>*중얼* ... 우리 아빠가 누굴 닮았는지 이제 알겠네...</i><size=100%>",
+    "node": "Moira_PostFightConversation"
+  },
+  "line:0644b5f": {
+    "text": "Moira: 아무튼, 지금은 여기 못 있겠어요. 미안해요.",
+    "node": "Moira_PostFightConversation"
+  },
+  "line:01efdc0": {
+    "text": "Moira: <size=85%><i>*한숨*</i><size=100%> 안녕, 자기. 잘 지내길 바라요... 음, 요즘 우리 할머니랑 얘기해 봤어요?",
+    "node": "Moira_StillFighting"
+  },
+  "line:0461faa": {
+    "text": "Moira: — 아 아니, 사실, 말하지 마요. 이 한심한 다툼에 내 모든 생각과 에너지를 쏟지 않기로 했거든요.",
+    "node": "Moira_StillFighting"
+  },
+  "line:0d89b5d": {
+    "text": "Moira: 그러니까, 그걸 다 더 생산적인 데 쏟는 게 어때서요?!",
+    "node": "Moira_StillFighting"
+  },
+  "line:0033492": {
+    "text": "Moira: 이를테면, 석사 논문 연구를 다시 시작했어요. 그리고 새 곡 아이디어도 엄청 많이 떠올랐고요!",
+    "node": "Moira_StillFighting"
+  },
+  "line:0d61bed": {
+    "text": "Moira: <i>Silens Libri</i>가 투어에서 돌아오면, 새 앨범 곡이 필요할 거잖아요, 그쵸?",
+    "node": "Moira_StillFighting"
+  },
+  "line:042e3cb": {
+    "text": "Moira: 그러니까, 아무것도 안 되더라도, 그냥 밴드랑 시간 보내는 게 좋고 편안해요.",
+    "node": "Moira_StillFighting"
+  },
+  "line:0f9de80": {
+    "text": "Moira: 아무튼, 제1 규칙은 슬픔에 빠져 허우적대지 않는 거예요. 그리고 머잖아, 할머니 마음을 바꿀 뭔가를 떠올릴 거예요.",
+    "node": "Moira_StillFighting"
+  },
+  "line:08f72a0": {
+    "text": "Moira: 오 와, 너무 후련해요. 할머니랑 매일 말 안 하는 게 정말 싫었거든요.",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:042f9e3": {
+    "text": "Moira: 그리고 할머니가 마음을 열어 줘서 정말 기뻐요. 드디어 리베르테에 대한 할머니 마음을 이해했어요.",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:0b7c61e": {
+    "text": "Moira: 근데 당연히, 새 매니저로서, 여전히 내 식대로 만들고 싶어요!",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:067226e": {
+    "text": "Moira: 카페는 나한테도 소중해요, 알죠. 근데 <i>바로 그래서</i> 시대에 발맞춰 나아가게 하고 싶어요.",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:0c4adb0": {
+    "text": "Moira: 첫 번째 할 일은 모두를 위한 더 나은 일과 삶의 균형을 만드는 거예요. 어쩌면 할머니도 눈치챌지도 모르죠.",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:0d53700": {
+    "text": "Moira: 벌써 근무 일정을 다시 짜고, 정신 건강 휴가 같은 더 나은 복지를 도입했어요!",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:04a5871": {
+    "text": "Moira: 아무튼, 이 모든 일 내내 내 곁을 지켜 줘서 고맙다고 말하고 싶었어요!",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:0806eb1": {
+    "text": "Moira: 사업 매니저로서 사업 매니저에게: 자기가 최고예요! 고마워요!",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:0341775": {
+    "text": "Moira: 좋아요, 나 눈물 나기 전에 어서 책 한 권 넘겨줘요.",
+    "node": "Moira_PostReconciliation"
+  },
+  "line:09d59f9": {
+    "text": "Moira: 안녕, 잘 지내요?",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:03c1bcd": {
+    "text": "Moira: 아, 고마워요 자기! 정말 다정하네요.",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0d59cc6": {
+    "text": "Moira: 들러 줘서 좋아요!",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0f51891": {
+    "text": "Moira: 응, 맞아요. 왜요, 나 줄 선물이라도 샀어요?",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:05bba76": {
+    "text": "Moira: ... 아니, 걱정 마요, 농담이에요! 나한테 뭐 안 줘도 돼요.",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:01ca7be": {
+    "text": "Moira: 좋은 아침! 다 괜찮아요?",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0f8dff4": {
+    "text": "Moira: 뭔가 잊은 사람처럼 보여요...",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:079c562": {
+    "text": "Moira: 좋아요, 인사해 줘서 고마워요, 자기! 아, 그리고 한 가지 더...",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:0d36dd3": {
+    "text": "Moira: 일 끝나고, 클라우스네 집에 깜짝 방문하려고요. 같이 갈래요?",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:01e463d": {
+    "text": "Moira: 걘 생일에 뭘 한 적이 없어요— 아마 대개 그런 건 미리 챙겨야 한다는 걸 까먹어서겠죠.",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:0e11fe8": {
+    "text": "Moira: 근데 걘 내 파티는 한 번도 안 빠졌고, 늘 인파랑 술자리가 괜찮은 척해 줬어요...",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:00b8831": {
+    "text": "Moira: 그래서 난 그 애 생일에 편안한 게임이랑 걔 최애 간식을 들고 찾아가서 보답하는 거예요.",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:0d0d84b": {
+    "text": "Moira: 우리 다른 성격이 우정에 걸림돌이 된 적 없는 게 좋아요. 오히려 클라우스를 더 소중히 여기게 되거든요.",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:01d4514": {
+    "text": "Moira: 그냥 느긋하게 게임 좀 할 거예요, 거창한 거 아니에요.",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:0a77ab2": {
+    "text": "Moira: 아, 자긴 아마 재고 정리할 게 있겠죠. 이해해요.",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:036213a": {
+    "text": "Moira: 근데 걔한테 자기 안부 전할게요. 이따 봐요, 자기!",
+    "node": "Moira_KlausBirthday_Post"
+  },
+  "line:09a9884": {
+    "text": "Moira: 오 안녕! 와, 개를 입양했어요, 아니면 그냥 봐 주는 거예요?",
+    "node": "Moira_DogAdopted"
+  },
+  "line:02f4f12": {
+    "text": "Moira: 아, 정말 착하네요, 그쵸? 난 개가 너무 좋아요!",
+    "node": "Moira_DogAdopted"
+  },
+  "line:0c66775": {
+    "text": "Moira: 직접 안 키운 유일한 이유는 즉흥 여행을 너무 좋아해서예요.",
+    "node": "Moira_DogAdopted"
+  },
+  "line:06d72bc": {
+    "text": "Moira: 근데... 가끔 자기 개랑 놀게 해 줄 거죠, 그쵸 자기?",
+    "node": "Moira_DogAdopted"
+  },
+  "line:03b5e48": {
+    "text": "Moira: 헤헤, 우린 절친이 될 거예요!",
+    "node": "Moira_DogAdopted"
+  },
+  "line:063efac": {
+    "text": "Moira: 안녀엉, 버디!",
+    "node": "Moira_Dog_Short"
+  },
+  "line:07fed9a": {
+    "text": "Moira: 안녀엉, 모시!",
+    "node": "Moira_Dog_Short"
+  },
+  "line:0f979fc": {
+    "text": "Moira: 안녀엉, 베일리!",
+    "node": "Moira_Dog_Short"
+  },
+  "line:04bb56f": {
+    "text": "Moira: 안녕 자기! 자기도 스터디 모임 들어왔네요?",
+    "node": "Moira_StudyGroup_Pre"
+  },
+  "line:063029f": {
+    "text": "Moira: 다른 사람들도 같이 읽으면 의욕 유지에 정말 도움이 돼요.",
+    "node": "Moira_StudyGroup_Pre"
+  },
+  "line:0eb5fa2": {
+    "text": "Moira: 우리 그 점에서 좀 비슷한 것 같아요, 응?",
+    "node": "Moira_StudyGroup_Pre"
+  },
+  "line:0e63175": {
+    "text": "Moira: 아무튼, 재밌게 해요, 알았죠?",
+    "node": "Moira_StudyGroup_Pre"
+  },
+  "line:004ab5f": {
+    "text": "Moira: 있잖아요, 꽃 축제가 돌아와서 틸데한테 너무 잘됐어요! 그 양반한테 그 얘길 정말 많이 들었거든요.",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:090789e": {
+    "text": "Moira: 그래서 할 수 있는 데서 기획을 돕고 있어요! 물론 대회 준비만 빼고요...",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0fe5623": {
+    "text": "Moira: 안 그러면 내가 불공평한 우위에 있다고 생각할 테니까요... 사실 <i>그럴</i> 거지만, 다른 이유로요.",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:060f83f": {
+    "text": "Moira: 앤 코완이랑 팀을 짤 거예요. 대학에서 알게 됐는데, 식물에 관한 한 전문가라더라고요.",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0c4a93b": {
+    "text": "Moira: <size=85%><i>*헤헤*</i><size=100%> 우린 이 트로피 <i>무조건</i> 가져갈 거예요.",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0b31405": {
+    "text": "Moira: 오 이런, 또 꽃 축제가 거의 다 됐네요!",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0a14cbd": {
+    "text": "Moira: 곧 앤한테 연락해서 다음 대회 준비를 시작해야겠어요.",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:029e52f": {
+    "text": "Moira: 이번엔 그 트로피 없이 집에 안 갈 거예요!",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0ea6534": {
+    "text": "Moira: 거기서 봐요!",
+    "node": "Moira_FlowerFestivalSoon"
+  },
+  "line:0e69c6f": {
+    "text": "Moira: 이봐요! 꽃 축제 재밌었어요?",
+    "node": "Moira_FlowerArrangementGift"
+  },
+  "line:0e68cd3": {
+    "text": "Moira: 난 분명 재밌었어요. 그리고 <i>꼭</i> 대회에서 이겨서만은 아니에요.",
+    "node": "Moira_FlowerArrangementGift"
+  },
+  "line:0dd3bf9": {
+    "text": "Moira: 그나저나 좋은 평점 고마워요. 자기가 준 점수 없었으면 못 이겼을 거예요.",
+    "node": "Moira_FlowerArrangementGift"
+  },
+  "line:01148f8": {
+    "text": "Moira: 이거 자기 가게용으로 받아요!",
+    "node": "Moira_FlowerArrangementGift"
+  },
+  "line:080191e": {
+    "text": "Moira: 내 말 믿어요, 분명 눈길을 끌 거예요.",
+    "node": "Moira_FlowerArrangementGift"
+  },
+  "line:02268e6": {
+    "text": "Moira: 안녕, 낯선 사람! 즐거운 꽃 축제!",
+    "node": "Moira_FlowerArrangementIntro_Pre"
+  },
+  "line:0c75d3e": {
+    "text": "Moira: 우린 <i>Les Fleurs Du Mal</i>이에요! 그리고 이게 우리 걸작이고요.",
+    "node": "Moira_FlowerArrangementIntro_Pre"
+  },
+  "line:07332a6": {
+    "text": "Moira: 우리 작품 또 감상하러 왔어요?",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0cf1306": {
+    "text": "Moira: 그래서, 어떻게 생각해요?",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:035acd5": {
+    "text": "Moira: 고마워요, 앤! 너랑 작업하는 거 정말 재밌었어. 곧 또 같이 프로젝트 하면 좋겠다.",
+    "node": "FlowerFestival_JudgingMoira_Fallback"
+  },
+  "line:06f8a49": {
+    "text": "Moira: 근데 오해는 마요. 결과도 <i>중요해요</i>. 그리고 우린 분명 <i>이길</i> 거예요.",
+    "node": "FlowerFestival_JudgingMoira_Fallback"
+  },
+  "line:06db493": {
+    "text": "Moira: 거기서 멋지게 해 줘요!",
+    "node": "Klaus_Goodbye_Cutscene"
+  }
+}

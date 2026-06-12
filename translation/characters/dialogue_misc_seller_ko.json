@@ -1,0 +1,38 @@
+{
+  "line:02920a9": {
+    "text": "Misc Seller: 으.",
+    "node": "Fleamarket_Misc_Shop"
+  },
+  "line:0f084c4": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 뭐, 한번 둘러보든가요.",
+    "node": "Fleamarket_Misc_Shop"
+  },
+  "line:084c590": {
+    "text": "Misc Seller: 고마워요.",
+    "node": "Fleamarket_Misc_Shop"
+  },
+  "line:003a96a": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 또 뭐 필요해요?",
+    "node": "Fleamarket_Misc_ShopFallback"
+  },
+  "line:0527562": {
+    "text": "Misc Seller: 뭐 어쩌라고.",
+    "node": "Fleamarket_Misc_ShopFallback"
+  },
+  "line:07333f1": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 미안, 다 팔렸어요.",
+    "node": "Fleamarket_Misc_SoldOut"
+  },
+  "line:005e627": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 어어, 이봐요. 당신 책깨나 좋아하는 부류 같은데...",
+    "node": "Fleamarket_MiscTypewriter"
+  },
+  "line:0c464f9": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 이 물건이 도무지 안 팔리네요. 가질래요?",
+    "node": "Fleamarket_MiscTypewriter"
+  },
+  "line:0ee8a70": {
+    "text": "Misc Seller: <b>벼룩시장 상인:</b> 상태도 멀쩡하고 다 좋아요. 모르겠어요, 그냥 좀 저주받은 것 같달까.",
+    "node": "Fleamarket_MiscTypewriter"
+  }
+}

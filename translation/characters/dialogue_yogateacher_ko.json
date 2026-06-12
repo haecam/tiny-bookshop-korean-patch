@@ -1,0 +1,26 @@
+{
+  "line:03ab709": {
+    "text": "YogaTeacher: <i>공원 요가</i>에 오신 걸 환영해요!",
+    "node": "Park_YogaGroup_Welcome"
+  },
+  "line:012337a": {
+    "text": "YogaTeacher: 자세를 유지하세요!",
+    "node": "Park_YogaGroup_Fallback"
+  },
+  "line:0f33e6c": {
+    "text": "YogaTeacher: 그리고오 숨을 내쉬고!",
+    "node": "Park_YogaGroup_Fallback"
+  },
+  "line:07a658d": {
+    "text": "YogaTeacher: 자, 여러분, 이제 집에 갈 시간이에요!",
+    "node": "Park_YogaGroup_Late"
+  },
+  "line:023eaf0": {
+    "text": "YogaTeacher: 자, 몸을 길게 쭉 펴세요!",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0b75530": {
+    "text": "YogaTeacher: 안녕하세요, 여러분.",
+    "node": "Park_YogaGroup_Shop"
+  }
+}

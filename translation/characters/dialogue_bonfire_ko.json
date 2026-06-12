@@ -1,0 +1,38 @@
+{
+  "line:00d80bf": {
+    "text": "Bonfire: <i>그들의 메모가 매혹적이고 생기 넘치는 불길에 휩싸인다.</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:01a19df": {
+    "text": "Bonfire: <i>그 빛깔과 빛에, 연기 냄새와 달콤한 여름 음료에 마음을 빼앗기는 사이...</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0b661cc": {
+    "text": "Bonfire: <i>... 그리고 나직이 타닥이는 장작 소리에, 당신의 상념이 서서히 흘러간다.</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0b8231c": {
+    "text": "Bonfire: <i>북스톤버리에서 보낸 다사다난한 첫여름을 돌이켜 본다.<br>무엇을 떠나보내고 싶나요?</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0d713e4": {
+    "text": "Bonfire: <i>북스톤버리에서 보낸 일 년 남짓한 시간을 돌이켜 본다.<br>무엇을 떠나보내고 싶나요?</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:006ddba": {
+    "text": "Bonfire: <i>북스톤버리에서 보낸 지난 세월을 돌이켜 본다.<br>무엇을 떠나보내고 싶나요?</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0255b7f": {
+    "text": "Bonfire: <i>얇은 종이쪽지가 당신의 손에서 불 속으로 떠가고, 글자들이 서서히 재로 사그라드는 것을 지켜본다.</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0d82607": {
+    "text": "Bonfire: <i>안도감과 결의가 밀려든다.<br>미래엔 무엇이 당신을 기다리고 있을까요?</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:02193fb": {
+    "text": "Bonfire: <i>결심이 당신만의 작은 불꽃으로 피어오르자, 모닥불에서 한 걸음 물러나 별들로 시선을 옮긴다.</i>",
+    "node": "Bonfire_Cutscene"
+  }
+}

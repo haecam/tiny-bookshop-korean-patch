@@ -1,0 +1,22 @@
+{
+  "line:0e48f51": {
+    "text": "Title: <b>벼룩시장</b>",
+    "node": "Journal_Fleamarket"
+  },
+  "line:05a21aa": {
+    "text": "Title: <b>메가마르셰</b>",
+    "node": "Journal_Supermarket"
+  },
+  "line:0062758": {
+    "text": "Title: <b>세인트 북스톤 대학교</b>",
+    "node": "Journal_University"
+  },
+  "line:01c8a4a": {
+    "text": "Title: <b>성터</b>",
+    "node": "Journal_Castle"
+  },
+  "line:0142b8e": {
+    "text": "Title: <b>북스톤 종합병원</b>",
+    "node": "Journal_Hospital"
+  }
+}

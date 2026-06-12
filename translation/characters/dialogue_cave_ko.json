@@ -1,0 +1,26 @@
+{
+  "line:0f87bfb": {
+    "text": "Cave: 메아리",
+    "node": "Cave_EchoLoop"
+  },
+  "line:0335378": {
+    "text": "Cave: <b>크로오오아아</b>",
+    "node": "Cave_EchoLoop"
+  },
+  "line:01e17df": {
+    "text": "Cave: <size=85%>메아리",
+    "node": "Cave_EchoLoop"
+  },
+  "line:08ff870": {
+    "text": "Cave: <size=65%>메아리",
+    "node": "Cave_EchoLoop"
+  },
+  "line:05d2bc4": {
+    "text": "Cave: <b>크로오오아아</b>",
+    "node": "Cutscene_SeaLionIntro"
+  },
+  "line:0754564": {
+    "text": "Cave: <b>크로오오아아</b>",
+    "node": "Cave_AgitatedSealionLoop"
+  }
+}

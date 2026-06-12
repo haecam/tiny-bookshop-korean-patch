@@ -1,0 +1,138 @@
+{
+  "line:0e5f4c8": {
+    "text": "Professor: <b>웬 교수:</b> 아, 흥미롭군요. 이동식 서점이라.",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:0ae0c2b": {
+    "text": "Professor: <b>웬 교수:</b> 당신 책 중 하나를 사고 싶긴 한데, 그 전에...",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:0b159e8": {
+    "text": "Professor: <b>웬 교수:</b> 당신이 문학에 얼마나 정통한지 한번 볼까요, 흠?",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:031f823": {
+    "text": "Professor: 흠. 나쁘지 않군요.",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:05cb716": {
+    "text": "Professor: <b>웬 교수:</b> <i>{0}</i>는 물론 이미 알고 있지만...",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:069553b": {
+    "text": "Professor: <b>웬 교수:</b> 그래도 난... 늘 학생들에게 기증할 책을 찾고 있거든요!",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:0c31d63": {
+    "text": "Professor: <b>웬 교수:</b> 그래서 쉽게 포기하는 편이군요? 그렇다면 학문 쪽엔 어울리지 않는 사람인지도 모르겠네요.",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:09717b1": {
+    "text": "Professor: <b>웬 교수:</b> 내 비교문학 수업이라도 한번 들어 보는 게 어떨까요...",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:093ac0d": {
+    "text": "Professor: <b>웬 교수:</b> 누구나 성장할 여지가 있죠, 안 그래요? 다음에 다시 해 봐요.",
+    "node": "Professor_AcademicRelevanceStart"
+  },
+  "line:04698ef": {
+    "text": "Professor: <b>웬 교수:</b> 흠? 그래, 오늘은 뭘 가져왔나요? 문학적 가치가 있는 게 좀 있나요?",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0dba62d": {
+    "text": "Professor: <b>웬 교수:</b> 이런 이런. 생각보다 박식하군요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0e2f46e": {
+    "text": "Professor: <b>웬 교수:</b> <i>{0}</i>를 내 연구 목록에 추가하겠어요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0395e9d": {
+    "text": "Professor: <b>웬 교수:</b> 그리고 내일 다음 책을 사러 다시 오죠. 좋은 하루 보내요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0b76e33": {
+    "text": "Professor: <b>웬 교수:</b> 인정해야겠군요, 감탄했어요. 지금껏 누구도 내 문학적 식견에 견준 적이 없었거든요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:089fd1f": {
+    "text": "Professor: <b>웬 교수:</b> 자, 이건 당신이 가져야 할 것 같군요:",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0efbfd6": {
+    "text": "Professor: <b>웬 교수:</b> 그리고 잃어버리지 마요. 북스톤이 언젠가 당신에게 비밀을 드러낼지도 모르니...",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0505683": {
+    "text": "Professor: <b>웬 교수:</b> 자, 이제 좀 혼자 있게 해 줘요. 연구할 게 있어서요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0f04e3e": {
+    "text": "Professor: <b>웬 교수:</b> 시도조차 안 하면서 어떻게 성공하길 바라죠?",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0902505": {
+    "text": "Professor: <b>웬 교수:</b> 당신 학력이 뭐라고 했죠?",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:094d82d": {
+    "text": "Professor: <b>웬 교수:</b> 흠, 그래, 그럴 줄 알았어요. 내 <i>입문</i> 강좌부터 신청하는 게 좋겠네요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0964cfc": {
+    "text": "Professor: <b>웬 교수:</b> 그리고 다음에 다시 해 봐요. 좋은 하루 보내요.",
+    "node": "Professor_AcademicRelevanceProgress"
+  },
+  "line:0edbb26": {
+    "text": "Professor: 네? 지금 무척 바쁜데요...",
+    "node": "Professor_Fallback"
+  },
+  "line:0ed11ce": {
+    "text": "Professor: 당신, 여기",
+    "node": "Professor_Weekend"
+  },
+  "line:0dfade8": {
+    "text": "Professor: 방학 때도 와 있는 거예요?",
+    "node": "Professor_Weekend"
+  },
+  "line:05270e7": {
+    "text": "Professor: 당신, 여기",
+    "node": "Professor_Weekend"
+  },
+  "line:0df5924": {
+    "text": "Professor: 주말에도 와 있는 거예요?",
+    "node": "Professor_Weekend"
+  },
+  "line:0018dbb": {
+    "text": "Professor: 아주 성실하군요.",
+    "node": "Professor_Weekend"
+  },
+  "line:01e7375": {
+    "text": "Professor: 하지만",
+    "node": "Professor_Weekend"
+  },
+  "line:0b4b601": {
+    "text": "Professor: 추가 학점은 못 줘요.",
+    "node": "Professor_Weekend"
+  },
+  "line:0f7c5f7": {
+    "text": "Professor: <b>웬 교수:</b> 난 늘 학생들에게 이렇게 말해요. “잘 가르치려면, 스스로도 기꺼이 배우려 해야 한다.”",
+    "node": "Professor_HonoraryDegree"
+  },
+  "line:062909b": {
+    "text": "Professor: <b>웬 교수:</b> 그리고 <i>당신은</i> 이곳에 온 뒤로 내게 꽤 많은 걸 가르쳐 줬어요. 그 점 고마워요.",
+    "node": "Professor_HonoraryDegree"
+  },
+  "line:033cd32": {
+    "text": "Professor: <b>웬 교수:</b> 이 기관에 등록한 적이 한 번도 없는데도, 당신은 올해 내 최고의 학생이었어요.",
+    "node": "Professor_HonoraryDegree"
+  },
+  "line:029944a": {
+    "text": "Professor: <b>웬 교수:</b> 그래서 이걸 당신에게 수여하는 게 내 도리라고 생각해요.",
+    "node": "Professor_HonoraryDegree"
+  },
+  "line:087d908": {
+    "text": "Professor: 현명하게 쓰세요.",
+    "node": "Professor_HonoraryDegree"
+  }
+}

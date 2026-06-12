@@ -1,0 +1,154 @@
+{
+  "line:034a4b8": {
+    "text": "Dog: 멍멍!!",
+    "node": "Cafe_EndingHubCutscene"
+  },
+  "line:09a420b": {
+    "text": "Dog: 멍!",
+    "node": "Dog_SpliceReceiver"
+  },
+  "line:055e515": {
+    "text": "Dog: 멍!",
+    "node": "Dog_SpliceReceiver"
+  },
+  "line:0a97b73": {
+    "text": "Dog: 멍? 멍!",
+    "node": "Dog_SpliceReceiver"
+  },
+  "line:0d224d3": {
+    "text": "Dog: 왈!",
+    "node": "Dog_SpliceReceiver"
+  },
+  "line:073a64f": {
+    "text": "Dog: 컹!",
+    "node": "Dog_SpliceReceiver"
+  },
+  "line:0a96c3c": {
+    "text": "Dog: 크르릉!",
+    "node": "Dog_Hello"
+  },
+  "line:0433992": {
+    "text": "Dog: 멍!",
+    "node": "Dog_Hello"
+  },
+  "line:09640c3": {
+    "text": "Dog: 크르릉 컹!",
+    "node": "Dog_StillHungry"
+  },
+  "line:02d798f": {
+    "text": "Dog: 멍!",
+    "node": "Dog_StillHungry"
+  },
+  "line:0b6ef8a": {
+    "text": "Dog: <i>*낑낑*</i>",
+    "node": "Dog_Scared"
+  },
+  "line:00baf53": {
+    "text": "Dog: <i>*깨갱*</i>",
+    "node": "Dog_Scared"
+  },
+  "line:0fbd82d": {
+    "text": "Dog: 멍! 멍!",
+    "node": "Dog_FeedMe"
+  },
+  "line:061785a": {
+    "text": "Dog: 멍멍! 멍!",
+    "node": "Dog_FeedMe"
+  },
+  "line:00e6563": {
+    "text": "Dog: <i>*낑낑*</i>",
+    "node": "Dog_FeedMe"
+  },
+  "line:0f409f3": {
+    "text": "Dog: 멍멍! 멍!",
+    "node": "Dog_FeedMe"
+  },
+  "line:0a2fc9b": {
+    "text": "Dog: <i>*낑낑*</i>",
+    "node": "Dog_FeedMe"
+  },
+  "line:0b0d92e": {
+    "text": "Dog: 컹컹!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:06d6fec": {
+    "text": "Dog: 컹컹!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0a07990": {
+    "text": "Dog: 왈!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:01a5cad": {
+    "text": "Dog: 컹!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:00ebe29": {
+    "text": "Dog: 멍!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:07adc87": {
+    "text": "Dog: 왈! 왈!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:09098e2": {
+    "text": "Dog: 멍!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:07558b3": {
+    "text": "Dog: 크르릉!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0831b8c": {
+    "text": "Dog: 크르릉!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0762852": {
+    "text": "Dog: 크르르릉!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:061ed5e": {
+    "text": "Dog: 멍멍멍!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:00f2fbf": {
+    "text": "Dog: 멍?",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0cb13b0": {
+    "text": "Dog: 멍멍멍!",
+    "node": "Dog_HangingOut3"
+  },
+  "line:08b3c26": {
+    "text": "Dog: 멍멍멍!",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0de834a": {
+    "text": "Dog: 왈!",
+    "node": "Dog_HangingOut3"
+  },
+  "line:04c508b": {
+    "text": "Dog: 아우우!",
+    "node": "Dog_Rain_Short"
+  },
+  "line:0282013": {
+    "text": "Dog: 멍멍!",
+    "node": "Dog_Rain_Short"
+  },
+  "line:0b05421": {
+    "text": "Dog: 크르르르릉! 컹!",
+    "node": "Dog_Bonfire"
+  },
+  "line:01151d8": {
+    "text": "Dog: 왈왈왈!",
+    "node": "Dog_Bonfire"
+  },
+  "line:051ba63": {
+    "text": "Dog: 아우우!",
+    "node": "Dog_BookshopEnding"
+  },
+  "line:0548e82": {
+    "text": "Dog: 멍멍!",
+    "node": "Dog_BookshopEnding"
+  }
+}

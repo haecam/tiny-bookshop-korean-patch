@@ -1,0 +1,15 @@
+# 개발 아티팩트
+preview/
+translation/_work/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 아카이브 (구버전 스크립트)
+scripts/archive/
+
+# OS
+.DS_Store
+Thumbs.db

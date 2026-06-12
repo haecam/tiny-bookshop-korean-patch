@@ -1,0 +1,66 @@
+{
+  "line:0ddb96d": {
+    "text": "SpookySeller: 쉿, 이쪽이에요.",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:0d265f6": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 아, 봄은 아름답죠, 안 그래요?",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:0a0d964": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 물론 저야 가을을 더 좋아하지만요...",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:08e657c": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 근데 들어 봐요, 당신한테 제안이 하나 있어요. 제가 이스터 에그를 찾고 있거든요.",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:038e9f0": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 이맘때만 나타나는 경향이 있는데, 그 초(超)서사적 특성으로 귀하게 쳐 주죠!",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:06c141d": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 이를테면... 이스터 에그 여섯 개만 구해다 주면, 후하게 보답할게요.",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:06bfe2b": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 오, 이게 웬일? 벌써 여섯 개나 있다고요? 수완이 좋으시네요?",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:0e02026": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 그거 제가 받을게요!",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:053f0a8": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 자, 여기요. 저로 말할 것 같으면 약속은 꼭 지키는 사람이죠.",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:09fe78b": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 받아요! 세상은 험하지만, 어쩌면 이게 행운을 가져다줄지도...",
+    "node": "FlowerFestival_EasterEggHunt"
+  },
+  "line:0e177e3": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 훌륭해요, 그거 제가 받을게요!",
+    "node": "FlowerFestival_EasterEggHuntCompletion"
+  },
+  "line:02034da": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 자, 여기요. 저로 말할 것 같으면 약속은 꼭 지키는 사람이죠.",
+    "node": "FlowerFestival_EasterEggHuntCompletion"
+  },
+  "line:0423420": {
+    "text": "SpookySeller: <b>고딕 상인:</b>받아요! 세상은 험하지만, 어쩌면 이게 행운을 가져다줄지도...",
+    "node": "FlowerFestival_EasterEggHuntCompletion"
+  },
+  "line:0e6b4df": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 어디 보자...",
+    "node": "FlowerFestival_EasterEggHuntProgress"
+  },
+  "line:081b095": {
+    "text": "SpookySeller: <b>고딕 상인:</b> 이스터 에그가 부족해요. 제 계획을 마무리하려면 좀 더 필요해요... 계속 찾아봐요!",
+    "node": "FlowerFestival_EasterEggHuntProgress"
+  },
+  "line:0c981b5": {
+    "text": "SpookySeller: <i>*헤헤헤*</i>",
+    "node": "FlowerFestival_EasterEggHuntFallback"
+  }
+}

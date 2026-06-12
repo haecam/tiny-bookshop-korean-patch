@@ -1,0 +1,34 @@
+{
+  "line:0db8260": {
+    "text": "Description: 리베르테와 당신의 아늑한 서점이 자리한 유서 깊은 광장.",
+    "node": "Journal_Cafe"
+  },
+  "line:0a371c1": {
+    "text": "Description: 이 북적이는 거리 시장에서 그림, 식물, 가구, 장식을 사세요.",
+    "node": "Journal_Fleamarket"
+  },
+  "line:08e3af5": {
+    "text": "Description: 온갖 별난 상인과 빈티지 물건이 가득한 거리 시장.",
+    "node": "Journal_Fleamarket"
+  },
+  "line:003e49c": {
+    "text": "Description: 널찍한 콘크리트 주차장을 갖춘 마을에서 가장 큰 슈퍼마켓.",
+    "node": "Journal_Supermarket"
+  },
+  "line:026ae00": {
+    "text": "Description: 이 지식의 전당은 진이 빠진 학생들과 깜빡깜빡하는 교수들로 분주해요.",
+    "node": "Journal_University"
+  },
+  "line:075a52f": {
+    "text": "Description: 역사와 자연 애호가 모두에게 인기 있는 명소.",
+    "node": "Journal_Castle"
+  },
+  "line:011216d": {
+    "text": "Description: 엄밀히 따지면 성은 아니지만... 이 견고한 성벽엔 100년이 넘는 역사가 담겨 있어요!",
+    "node": "Journal_Castle"
+  },
+  "line:091a37f": {
+    "text": "Description: 환자, 의사, 방문객 할 것 없이 모두가 기분 전환거리를 찾는 현대식 병원.",
+    "node": "Journal_Hospital"
+  }
+}

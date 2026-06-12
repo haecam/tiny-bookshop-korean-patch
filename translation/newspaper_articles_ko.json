@@ -1,0 +1,342 @@
+{
+  "line:063121e": {"text": "H1: 타이니 북숍, 북스턴버리에 등장", "node": "Main_BookshopIntro"},
+  "line:0eb916b": {"text": "H2: 북스턴버리의 새 얼굴, 이동식 서점으로 주민들에게 깊은 인상 남겨<br>", "node": "Main_BookshopIntro"},
+  "line:08e8882": {"text": "Body: <b>모든 것을 뒤로하고</b> 해외에서 소박한 사업을 시작하는 꿈을 꿔본 적 있으신가요? 바로 이 타이니 북숍 운영자가 그 꿈을 실현하며, 우리 북스턴버리를 새로운 목적지로 선택했습니다.<br><br>", "node": "Main_BookshopIntro"},
+  "line:0cd97bc": {"text": "Body: 작은 차량에는 <b>놀라운 다양성</b>의 책들이 가득하여, 범죄 소설부터 판타지, SF, 드라마 팬은 물론 고전 애호가와 논픽션 독자까지 모든 연령대를 아우릅니다. 리뷰지에서는 재고가 소진되기 전에 일찍 방문하실 것을 추천드립니다!", "node": "Main_BookshopIntro"},
+  "line:078790e": {"text": "Author: by 페른 에스트라다", "node": "Main_BookshopIntro"},
+
+  "line:010537f": {"text": "H1: 타이니 북숍, 북스턴버리에 등장", "node": "Main_FernIntroQuestions"},
+  "line:06f0afb": {"text": "H2: 북스턴버리의 새 얼굴, 새로운 시작<br>", "node": "Main_FernIntroQuestions"},
+  "line:0f2351e": {"text": "Body: 혹시 꿈꿔본 적 있으신가요,", "node": "Main_FernIntroQuestions"},
+  "line:0e38c3c": {"text": "Body: <b>과거의 삶을 벗어나는 것</b>", "node": "Main_FernIntroQuestions"},
+  "line:0a941b8": {"text": "Body: <b>진정한 보금자리를 찾는 것</b>", "node": "Main_FernIntroQuestions"},
+  "line:0955e3d": {"text": "Body: <b>모험을 떠나는 것</b>", "node": "Main_FernIntroQuestions"},
+  "line:031c4ce": {"text": "Body: 그리고 해외에서 소박한 사업을 시작하는 것을? 바로 이 타이니 북숍 운영자가 그 꿈을 실현하며, 우리 북스턴버리를 새로운 목적지로 선택했습니다.<br><br>", "node": "Main_FernIntroQuestions"},
+  "line:0f9df27": {"text": "Body: 첫인상을 묻자, 새내기 서적상은 북스턴버리가", "node": "Main_FernIntroQuestions"},
+  "line:01d5dbd": {"text": "Body: <b><i>\"매우 상쾌하다\"</i></b>고 답했습니다.", "node": "Main_FernIntroQuestions"},
+  "line:0f13936": {"text": "Body: <b><i>\"매우 인상적이다\"</i></b>고 답했습니다.", "node": "Main_FernIntroQuestions"},
+  "line:0b2d38a": {"text": "Body: <b><i>\"매우 친근하다\"</i></b>고 답했습니다.", "node": "Main_FernIntroQuestions"},
+  "line:0426e4d": {"text": "Body: 내일 워터프론트를 방문하시면 새롭고 설레는 이 서점에 대해 더 많은 이야기를 들으실 수 있습니다!", "node": "Main_FernIntroQuestions"},
+  "line:0ad1be9": {"text": "Author: by 페른 에스트라다", "node": "Main_FernIntroQuestions"},
+
+  "line:076d612": {"text": "H1: 북스턴버리의 책 사랑", "node": "Main_BooksInBookstonbury"},
+  "line:0a4ea79": {"text": "H2: 타이니 북숍, 활발한 토론의 불씨를 지피다<br>", "node": "Main_BooksInBookstonbury"},
+  "line:01a5d91": {"text": "Body: 등장한 지 불과 며칠 만에 이 이동식 서점이 북스턴버리의 <b>문학계를 들썩이게</b> 만들고 있습니다.<br>", "node": "Main_BooksInBookstonbury"},
+  "line:083afb4": {"text": "Body: 그렇다면 쾌적한 서점 경험이란 무엇일까요? 전 서점 주인 <b>틸데 산켈룬드</b>에 따르면, 비결은 바로 선별에 있다고 합니다. \"손님의 취향에 맞는 책이 많을수록, 원하는 책을 찾을 가능성이 높아지죠.\"<br><br>", "node": "Main_BooksInBookstonbury"},
+  "line:07268b4": {"text": "Body: 아직 어떤 책을 골라야 할지 모르는 독자들에게는, 동네 서점 직원의 <b>도움을 구해보시길</b> 리뷰지에서 권합니다.", "node": "Main_BooksInBookstonbury"},
+  "line:0c36674": {"text": "Author: by 페른 에스트라다", "node": "Main_BooksInBookstonbury"},
+
+  "line:0ed687c": {"text": "H1: 오늘 밤, 등대에서 메탈 공연 펼쳐져", "node": "Main_ConcertTonight"},
+  "line:0ecc1bd": {"text": "H2: 첫 헤비메탈 공연을 앞두고 마을 전체가 들떠<br>", "node": "Main_ConcertTonight"},
+  "line:0236481": {"text": "Body: 오늘 밤 대형 공연을 앞두고, 리뷰지는 밴드 멤버 <b>클라우스 빈터</b>를 만나 <i>실렌스 리브리</i>의 음악 철학에 대해 이야기를 나눴습니다.<br><br>", "node": "Main_ConcertTonight"},
+  "line:0b1b097": {"text": "Body: \"때로는 한참을 고민해도 <b>영감</b>이 떠오르지 않는 경우도 있어요. 그런데 전혀 예상치 못한 순간에 불쑥 찾아오더라고요. 예를 들어, 새 서점에서 책을 구경하다가도 좋은 아이디어가 많이 떠오르더니까요!\" 카리스마 넘치는 보컬 겸 기타리스트의 말입니다.<br>", "node": "Main_ConcertTonight"},
+  "line:0fd7099": {"text": "Body: 공연 입장은 오후 6시부터이며, <b>입장료는 무료</b>입니다.", "node": "Main_ConcertTonight"},
+  "line:030044a": {"text": "Author: by 페른 에스트라다", "node": "Main_ConcertTonight"},
+
+  "line:0d2fabf": {"text": "H1: 페른, 1주년을 축하하며!", "node": "Main_FernAnniversary"},
+  "line:0435fee": {"text": "H2: 북스턴버리 리뷰 편집부, 뛰어난 기여자에게 감사를 전하다<br>", "node": "Main_FernAnniversary"},
+  "line:0d573f6": {"text": "Body: 우리의 소중한 편집자 <b>페른</b>이 이제 한 이정표에 도달했습니다. 리뷰에 글을 쓰기 시작한 지 꼭 1년이 된 것입니다!", "node": "Main_FernAnniversary"},
+  "line:06df8f7": {"text": "Body: 당신이 인턴으로 처음 왔을 때부터, 우리 신문은 훨씬 더 나아졌습니다. 그 이후로 이 작은 마을에 대한 <b>멋진 이야기들</b>을 전해준 덕분입니다.<br><br>", "node": "Main_FernAnniversary"},
+  "line:026daf2": {"text": "Body: <b>기사 쓰는 일은 정말 쉽지 않죠</b>. 어떻게 매일 그렇게 해내는지 모르겠어요. 정말 대단해요, 페른! 오늘 아침 사무실에서 깜짝 선물을 기다리고 있어요.", "node": "Main_FernAnniversary"},
+  "line:0668f7b": {"text": "Author: by 다이앤 올슨", "node": "Main_FernAnniversary"},
+
+  "line:08905a0": {"text": "H1: 벼룩시장, 오늘 하루뿐!", "node": "Main_Fleamarket_Today"},
+  "line:0abd79a": {"text": "H2: 완벽한 날씨 덕분에 역대 최다 방문객 예상<br>", "node": "Main_Fleamarket_Today"},
+  "line:01e4a67": {"text": "Body: 타임에서 열리고 있는 마을 <b>벼룩시장</b>에서, 오늘도 방문객들이 마음껏 구경하고, 흥정하고, 쇼핑을 즐길 수 있습니다.<br><br>", "node": "Main_Fleamarket_Today"},
+  "line:0824e9b": {"text": "Body: 행사장에는 빈티지 의류, 미술품, 식물, 주방용품, 음반 등 다양한 물품을 판매하는 가판대들이 즐비합니다.<br><br>", "node": "Main_Fleamarket_Today"},
+  "line:074ca57": {"text": "Body: 또한 주최 측은 젊은 독자부터 연로한 독자까지 오늘 시장에 끌어들이기 위해, <b>마을의 새로운 책 마차가 등장해주기를 기대하고</b> 있습니다.", "node": "Main_Fleamarket_Today"},
+  "line:04240b2": {"text": "Author: by 페른 에스트라다", "node": "Main_Fleamarket_Today"},
+
+  "line:0919ad6": {"text": "H1: 시내 중심 매장 비어", "node": "Main_TildeIsMoving01Complete"},
+  "line:0591487": {"text": "H2: 산켈룬드 은퇴 후 전 서점 자리 정리돼<br>", "node": "Main_TildeIsMoving01Complete"},
+  "line:0d7d4d3": {"text": "Body: 많은 독자 여러분께서는 틸데 산켈룬드가 언제나 알맞은 책 한 권으로 위안을 건네던 시릴 플라자 4번지의 <b>\"보크한델 & 안티크바리아트\"</b>를 그리운 마음으로 기억하실 것입니다.<br>", "node": "Main_TildeIsMoving01Complete"},
+  "line:06f04d2": {"text": "Body: 76세의 그녀가 몇 년 전 행복하게 은퇴했음에도 불구하고, 그 문이 마침내 영원히 닫히는 것을 보는 것은 여전히 <b>한 시대의 끝</b>처럼 느껴집니다.<br>", "node": "Main_TildeIsMoving01Complete"},
+  "line:0531a12": {"text": "Body: 과연 북스턴버리의 새로운 이동식 서점이 그녀의 빛나는 발자취를 따라갈 수 있을까요? 그리고 시릴 플라자의 이 요지는 앞으로 어떻게 활용될까요?<br><br><b>틸데 산켈룬드 인터뷰 7페이지</b>", "node": "Main_TildeIsMoving01Complete"},
+  "line:060c462": {"text": "Author: by 페른 에스트라다", "node": "Main_TildeIsMoving01Complete"},
+
+  "line:0bc04cd": {"text": "H1: 서점에서 불쾌한 악취 발생", "node": "Main_RawFishSmell"},
+  "line:024b3a6": {"text": "H2: 서점 방문객들, 생선 냄새 속 관람 불편 호소<br>", "node": "Main_RawFishSmell"},
+  "line:0d6a636": {"text": "Body: 중고 서점을 방문하는 가장 명백한 목적이 아직 읽지 못한 특별한 책을 찾는 것이라면, 조용한 분위기와 <b>낡은 책장의 기분 좋은 냄새</b> 역시 그 매력의 일부임을 부정할 수 없습니다.<br>", "node": "Main_RawFishSmell"},
+  "line:05b9a3d": {"text": "Body: 그러나 어제, 현지 서점을 찾은 방문객들은 <b>좁은 공간을 가득 채운 비릿한 냄새</b>로 인해 쾌적한 방문 경험을 방해받았다고 합니다.<br>", "node": "Main_RawFishSmell"},
+  "line:0f3d565": {"text": "Body: 발행 시점에서 <b>발생 원인은 아직 밝혀지지 않았으나</b>, 리뷰지는 타이니 북숍 관계자들이 신속히 해결해주기를 바라며 이 사안을 알리는 바입니다.", "node": "Main_RawFishSmell"},
+  "line:0b7f1ec": {"text": "Author: by 페른 에스트라다", "node": "Main_RawFishSmell"},
+
+  "line:0a2ddbf": {"text": "H1: 모닥불 축제 준비 한창", "node": "Main_BonfireSoon"},
+  "line:04a4d76": {"text": "H2: 자원봉사자들, 이번 일요일 연례 여름 모닥불 행사에 모두를 초대<br>", "node": "Main_BonfireSoon"},
+  "line:0997ef0": {"text": "Body: 따뜻한 날씨가 가을 바람에 자리를 내어주면서, 북스턴버리 주최 측은 <b>이번 일요일 파 비치에서</b> 열리는 연례 모닥불 행사에 대한 기대감을 높이고 있습니다.<br>", "node": "Main_BonfireSoon"},
+  "line:06e0ae6": {"text": "Body: 음식과 음료가 제공되며, 지역 전통인 <b>\"편지 태우기\"</b>를 위한 재료도 준비됩니다. 참여를 원하시는 분은 재활용 종이에 과거에 대한 후회나 미래에 대한 다짐을 적어 오시면 됩니다.<br>", "node": "Main_BonfireSoon"},
+  "line:0166dae": {"text": "Body: 이후 참가자들은 공동 의식으로 편지를 불태우게 됩니다.", "node": "Main_BonfireSoon"},
+  "line:0cea911": {"text": "Author: by 페른 에스트라다", "node": "Main_BonfireSoon"},
+
+  "line:09a3e7d": {"text": "H1: 관광 명소, 북스턴버리", "node": "Main_Continenta"},
+  "line:05f0ef5": {"text": "H2: 북스턴버리 관광의 짧은 역사<br>", "node": "Main_Continenta"},
+  "line:0752af7": {"text": "Body: 오늘날, 우리 아름다운 마을이 한때 훨씬 더 큰 관광 산업을 지녔으며, 해안을 따라 수많은 <b>해변 리조트</b>가 성업했다는 사실은 믿기 어렵습니다.<br>", "node": "Main_Continenta"},
+  "line:0624079": {"text": "Body: 당시 많은 주민들이 <b>계절성 고용</b>에 의존했으나, 단기 수입은 이내 지속 불가능함이 드러났고, 매 겨울마다 생계를 걱정해야 했습니다.<br>", "node": "Main_Continenta"},
+  "line:0a6497f": {"text": "Body: 주민들의 경제적 우려에 직면한 76년 의회는 일련의 <b>고용법 개선</b> 조치를 단행했고, 이로 인해 호텔 부유층들은 \"<b>사업장을 다른 곳으로 옮기게</b>\" 되었습니다.", "node": "Main_Continenta"},
+  "line:0b9a51f": {"text": "Author: by 페른 에스트라다", "node": "Main_Continenta"},
+
+  "line:00d8051": {"text": "H1: '율리우스 카이사르' 개막, 관객 압도", "node": "Main_Play_Review"},
+  "line:04b695c": {"text": "H2: 시대를 초월한 고전의 충실한 재현, 관객에게 깊은 울림 선사\"<br>", "node": "Main_Play_Review"},
+  "line:0751a03": {"text": "Body: 여덟 명의 십 대 배우들이 <b>새롭게 마련된 무대</b>에서 셰익스피어의 <i>율리우스 카이사르</i>를 공연하겠다고 선언했을 때, 이처럼 많은 관객이 모일 줄은 아무도 예상하지 못했습니다.<br>", "node": "Main_Play_Review"},
+  "line:042f534": {"text": "Body: 단 한 명을 제외하고는요. 바로 우리 동네 서점 운영자로, 처음부터 극단과 젊은 연출가 <b>토마시 스테파네크</b>를 믿었던 것 같습니다.<br>", "node": "Main_Play_Review"},
+  "line:01ff01a": {"text": "Body: <b>프로듀서</b>의 아낌없는 지원 덕분에, 극단은 이 규모의 아마추어 공연에서는 전례 없이 탁월한 무대 완성도를 이루어냈습니다.", "node": "Main_Play_Review"},
+  "line:08027a8": {"text": "H1: '율리우스 카이사르' 개막", "node": "Main_Play_Review"},
+  "line:046def6": {"text": "H2: 리뷰: 젊은 극단의 칭찬할 만한 노력<br>", "node": "Main_Play_Review"},
+  "line:01dc446": {"text": "Body: 지난 금요일, 13세에서 16세 사이의 야심찬 연극 애호가 여덟 명이 셰익스피어의 가장 복잡한 희곡 중 하나에 도전했습니다. <b>토마시 스테파네크</b>를 중심으로 한 젊은 재능들은 무대 위에서 빛을 발했고, <i>율리우스 카이사르</i>의 초연은 기대를 저버리지 않았습니다.<br><br>", "node": "Main_Play_Review"},
+  "line:07bf857": {"text": "Body: <b>적은 예산에도 불구하고</b>, 배우들은 <b>소름 돋는 독백</b>으로 관객들을 고대 로마의 정치적 분위기 속으로 이끌었습니다.", "node": "Main_Play_Review"},
+  "line:07d9583": {"text": "Author: by 페른 에스트라다", "node": "Main_Play_Review"},
+
+  "line:04bbc06": {"text": "H1: 새로운 세인트 북스턴 시 발견", "node": "Main_StBookstonInvestigation"},
+  "line:0b3fc15": {"text": "H2: 작가의 작품집에 전혀 없던 글, 가장 뜻밖의 장소에서 발견돼<br>", "node": "Main_StBookstonInvestigation"},
+  "line:048c23e": {"text": "Body: 오랫동안 실전된 것으로 여겨졌던 시 한 편이 <b>수백 년 만에 다시 세상에 모습을 드러냈습니다.</b><br>", "node": "Main_StBookstonInvestigation"},
+  "line:0e92b7c": {"text": "Body: 초등학생 <b>하퍼 나짐</b>이 파 비치 근처 해식 동굴에서 세인트 북스턴의 소네트 <b>\"잿빛 회색\"</b> 전문을 발견한 것입니다.<br>", "node": "Main_StBookstonInvestigation"},
+  "line:05c29c3": {"text": "Body: 1672년 필사본 메모를 통해 역사가들에게 제목은 알려져 있었으나, 소네트 본문은 출판 당시 지나치게 사적인 것으로 여겨졌는지 작가의 작품집 어디에도 실리지 않았습니다.", "node": "Main_StBookstonInvestigation"},
+  "line:0bb452a": {"text": "Author: by 페른 에스트라다", "node": "Main_StBookstonInvestigation"},
+
+  "line:0a7eade": {"text": "H1: 북스턴의 비밀, 마침내 밝혀지다", "node": "Main_StBookstonReveal"},
+  "line:05b39f4": {"text": "H2: 유명 극작가의 실제 정체 공개<br>", "node": "Main_StBookstonReveal"},
+  "line:022d3c6": {"text": "Body: 전문가들이 이제 확인한 바에 따르면, <b>소피아 테오도시아 브라이트</b>라는 여성이 세인트 북스턴이라는 이름으로 출판된 작품들의 실제 저자입니다. 연구진은 1590년 브라이트 사후 충격적인 사건들의 연쇄를 밝혀냈습니다:", "node": "Main_StBookstonReveal"},
+  "line:0f01b31": {"text": "Body: 전 라이캐스터 대학 행정부는 그녀의 작품 출판 독점권을 주장하며, 브라이트의 성별과 출신을 감추기 위해 <b>지금은 유명해진 \"세인트\" 페르소나를 만들어냈고</b>, 북스턴버리를 남성 천재의 고향으로 홍보하고자 했습니다.", "node": "Main_StBookstonReveal"},
+  "line:06f2d39": {"text": "Author: by 페른 에스트라다", "node": "Main_StBookstonReveal"},
+
+  "line:0336db6": {"text": "H1: 메가 마스코트, 악의적 훼손 당해", "node": "Main_MascotMurder"},
+  "line:04353b6": {"text": "H2: 정체불명의 범인이 공기 주입식 북스턴 인형 훼손<br>", "node": "Main_MascotMurder"},
+  "line:0ba5de8": {"text": "Body: 새로운 메가 마르쉐 마스코트를 선보인 지 불과 며칠 만에, 슈퍼마켓 체인 측은 <b>기물 파손 행위</b>로 새로운 공기 주입식 인형이 수리 불가 수준으로 손상되자 이를 즉시 폐기해야 했습니다.<br>", "node": "Main_MascotMurder"},
+  "line:0f6f9ae": {"text": "Body: 리뷰와 가까운 소식통의 추가 조사에 따르면 현장 근처에서 <b>범행에 사용된 것으로 추정되는 물건</b>이 발견되었으며, 인터뷰를 통해 해당 인형과 세인트 북스턴과의 유사성에 대한 반감이 있다는 사실이 드러났습니다. 그러나 다른 모든 단서는 막다른 길에 이르러 <b>사건은 여전히 미해결로 남아 있습니다... 지금은요.</b>", "node": "Main_MascotMurder"},
+  "line:0904b3c": {"text": "Author: by 페른 에스트라다", "node": "Main_MascotMurder"},
+
+  "line:04a8a90": {"text": "H1: 피어 페스트가 코앞에!", "node": "Main_FFFSoon"},
+  "line:0f6002a": {"text": "H2: 일요일 카페 리베르테에서 열리는 연례 행사<br>", "node": "Main_FFFSoon"},
+  "line:018d587": {"text": "Body: 폴 피어 페스트는 절대 놓쳐서는 안 될 오랜 전통입니다! 매년 <b>가을 28일</b>에 북스턴 지역에서 열리며, 주민들은 악령으로부터 자신을 보호하기 위해 귀신으로 분장하고 집을 꾸밉니다.<br><br>", "node": "Main_FFFSoon"},
+  "line:0423dc7": {"text": "Body: 이 풍습은 가을 분점에 망자의 세계와 현실 세계 사이의 장막이 가장 얇아져 <b>영혼이 현세로 건너올 수 있다</b>는 고대 믿음에서 비롯되었습니다.<br>", "node": "Main_FFFSoon"},
+  "line:0b4ba38": {"text": "Body: 행사에 참여하시려면, 행사 주최 측의 요청에 따라 <b>적합한 분장이나 장식</b>을 갖추어 오시기 바랍니다.", "node": "Main_FFFSoon"},
+  "line:08824ba": {"text": "Author: by 페른 에스트라다", "node": "Main_FFFSoon"},
+
+  "line:04052f0": {"text": "H1: 북숍, B.L.A.B.L.A. 회원으로 합류", "node": "Main_BLABLAMember"},
+  "line:02ce7b4": {"text": "H2: 상인 협회, 오랫동안 기다려온 회원을 환영하다<br>", "node": "Main_BLABLAMember"},
+  "line:0cfbba7": {"text": "Body: 북스턴버리의 상점에서 특정 <b>황금 명판</b>을 마주하는 일은 1800년대 초부터 소비자들에게 해당 업소의 신뢰성과 성실함을 보증해왔습니다.<br>", "node": "Main_BLABLAMember"},
+  "line:0c5df9b": {"text": "Body: 최근, 인기 있는 이동식 서점이 비즈니스 육주 도전으로 알려진 <b>일련의 시험</b>을 완수하고 존경받는 기업들의 대열에 합류했습니다.<br>", "node": "Main_BLABLAMember"},
+  "line:00aff1a": {"text": "Body: 북스턴버리 지역 사업·리더십·행정 협회에 가장 최근 합류한 이 새 회원은 틸데 산켈룬드의 은퇴 이후 처음으로 <b>협회에 서점을 되찾아</b> 주었습니다.", "node": "Main_BLABLAMember"},
+  "line:0790f98": {"text": "Author: by 페른 에스트라다", "node": "Main_BLABLAMember"},
+
+  "line:004c38b": {"text": "H1: 겨울 꿈나라, 곧 문 열어", "node": "Main_WintermarketSoon"},
+  "line:0567e8d": {"text": "H2: 분위기 넘치는 마켓이 추운 계절을 생동감 있게 만들어줄 것<br>", "node": "Main_WintermarketSoon"},
+  "line:014bb47": {"text": "Body: 곧 명절 분위기가 찾아오고, 타임 광장의 전통 겨울 마켓도 시작됩니다!<br><br>", "node": "Main_WintermarketSoon"},
+  "line:0d6111f": {"text": "Body: <b>겨울 15일 월요일부터</b>, 상인들은 따뜻한 음료와 과자부터 아늑한 조명, 그리고 집까지 가져갈 수 있는 율 트리까지 모든 것을 선보일 예정입니다.<br><br>", "node": "Main_WintermarketSoon"},
+  "line:03bf994": {"text": "Body: 이 마법 같은 겨울 마을은 이달 말까지 방문하실 수 있으며, <b>새해 전야에는 자정이 조금 지나서야 문을 닫을 예정</b>입니다.", "node": "Main_WintermarketSoon"},
+  "line:025483c": {"text": "Author: by 페른 에스트라다", "node": "Main_WintermarketSoon"},
+
+  "line:0fe916f": {"text": "H1: 올해의 TOP 112 순간", "node": "Main_NYETonight"},
+  "line:0e582da": {"text": "H2: 리뷰, 북스턴버리의 빛나는 한 해를 돌아보다<br>", "node": "Main_NYETonight"},
+  "line:02548a7": {"text": "Body: 새해 전야는 새 달력을 받고 새해를 맞이하는 기회만이 아닙니다. 북스턴버리에서 자정에 공동체가 함께하는, <b>가장 추운 계절의 끝</b>을 기념하는 날이기도 합니다.<br>", "node": "Main_NYETonight"},
+  "line:02d4232": {"text": "Body: 리뷰 편집부는 봄의 길어지는 낮을 기대하며, 모든 독자분들의 앞으로 다가올 모든 노력에서 <b>행복과 번영, 그리고 성공</b>을 기원합니다.<br><br>", "node": "Main_NYETonight"},
+  "line:0727f4d": {"text": "Body: 이제 올해의 112가지 눈부신 순간을 담은 전통적인 <b>카운트다운</b>은 2페이지를 펼쳐보세요!", "node": "Main_NYETonight"},
+  "line:0def952": {"text": "Author: by 페른 에스트라다", "node": "Main_NYETonight"},
+
+  "line:0b72416": {"text": "H1: 리베르테, 새 경영진 맞아", "node": "Main_CafeManagementChange"},
+  "line:019f102": {"text": "H2: 왈시, 가족 사업 대표로 드부아르 계승<br>", "node": "Main_CafeManagementChange"},
+  "line:03f6cb3": {"text": "Body: 열아홉 살에 사업을 물려받은 이후, <b>마리암 드부아르</b>는 약 60년 동안 카페 리베르테의 든든한 경영인이었습니다.<br>", "node": "Main_CafeManagementChange"},
+  "line:0b62e4d": {"text": "Body: 그녀의 리더십 없이 이 인기 카페를 상상하기 어려웠던 많은 사람들은, 최근 드부아르의 손녀 <b>모이라 왈시</b>가 이 업계의 젊은 신동으로 등장했을 때 적지 않게 놀랐습니다.<br>", "node": "Main_CafeManagementChange"},
+  "line:04a77e5": {"text": "Body: 오늘 가족 측은 경영학 학위를 지닌 왈시가 <b>할머니로부터 경영권을 이어받을 것</b>이라고 발표했으며, 할머니는 은퇴 전까지 행정 업무를 계속 맡을 예정입니다.", "node": "Main_CafeManagementChange"},
+  "line:0da129b": {"text": "Author: by 페른 에스트라다", "node": "Main_CafeManagementChange"},
+
+  "line:00815a6": {"text": "H1: 인기 축제의 부활", "node": "Main_FlowerFestSoon"},
+  "line:0babc1a": {"text": "H2: 지역 사회, 봄 축제를 다시 되살리다<br>", "node": "Main_FlowerFestSoon"},
+  "line:04bfb85": {"text": "Body: 1950년대 관광 진흥을 위해 처음 시작된 <b>북스턴버리 연례 꽃 축제</b>는 빠르게 독자적인 행사로 자리 잡았으며, 1963년에는 전통적인 꽃꽂이 대회에 소규모 놀이공원이 추가되었습니다.<br>", "node": "Main_FlowerFestSoon"},
+  "line:08fa4dd": {"text": "Body: 그러나 70년대 후반부터 방문객 수가 꾸준히 감소하면서, 결국 <b>1981년에 폐지되었습니다</b>.<br>", "node": "Main_FlowerFestSoon"},
+  "line:0359d18": {"text": "Body: 올봄, 헌신적인 소수 시민들의 끊임없는 노력으로 이 꽃 축제의 부활이 가능해졌으며, <b>봄 28일 일요일 라이 공원</b>에서 개최될 예정입니다.", "node": "Main_FlowerFestSoon"},
+  "line:050decb": {"text": "Author: by 페른 에스트라다", "node": "Main_FlowerFestSoon"},
+
+  "line:004eebe": {"text": "H1: 창작 원고 모집 공고", "node": "Main_CallForManuscripts"},
+  "line:039ba8f": {"text": "H2: 지금 바로 인쇄 프로젝트에 원고를 제출하세요!<br>", "node": "Main_CallForManuscripts"},
+  "line:0c8db4a": {"text": "Body: 작은 규모라도 출판 작가가 되고 싶었던 독자 여러분께: <b>지금이 바로 그 기회입니다!</b><br>", "node": "Main_CallForManuscripts"},
+  "line:0c3974c": {"text": "Body: 산문, 시, 소설 또는 논픽션 원고를 650페이지 이내로 타이니 북숍에 제출하시면, 곧 대학 캠퍼스에서 열릴 <b>창작 인쇄 프로젝트</b>에 실릴 수 있습니다.<br>", "node": "Main_CallForManuscripts"},
+  "line:073a925": {"text": "Body: 프로젝트 주최 측은 \"<b>여러분만의 독특한 시각은 세상과 나눌 가치가 있으며</b>, 기존 출판 방식에 접근하기 어려운 모든 분들의 목소리를 담고 싶습니다\"라고 전했습니다.", "node": "Main_CallForManuscripts"},
+  "line:01bda8a": {"text": "Author: by 페른 에스트라다", "node": "Main_CallForManuscripts"},
+
+  "line:0196fd5": {"text": "H1: 새 인쇄소, 모두에게 개방", "node": "Main_PrintingPressRestored"},
+  "line:0964a27": {"text": "H2: SBU 캠퍼스에서 나만의 특별한 인쇄물을 만나보세요!<br>", "node": "Main_PrintingPressRestored"},
+  "line:0b0460f": {"text": "Body: 역사적 인쇄 프로젝트의 성공적인 첫 번째 성과에 이어, 리뷰의 <b>페른 에스트라다</b>가 이제 지역 사회 구성원들을 SBU 캠퍼스에 <b>새롭게 문을 연 인쇄소</b>로 초대합니다!", "node": "Main_PrintingPressRestored"},
+  "line:02edb46": {"text": "Body: 개인 원고를 가져오시면, <b>작품 25부</b>를 원하는 대로 배포하실 수 있으며, 원하시는 천 표지가 씌워진 <b>기념 <i>초판본</i></b>도 받으실 수 있습니다. 모두 단돈 <nobr>30 {0}</nobr>에 드립니다.<br>", "node": "Main_PrintingPressRestored"},
+  "line:0567668": {"text": "Body: 더욱이, 이 책들은 19세기 희귀 인쇄기로 인쇄되어 어디서도 찾아볼 수 없는 빈티지한 매력을 지니게 됩니다.", "node": "Main_PrintingPressRestored"},
+  "line:0cc5539": {"text": "Author: by 다이앤 올슨", "node": "Main_PrintingPressRestored"},
+
+  "line:0db5fea": {"text": "H1: 사랑받는 서점, 새롭게 문 열어", "node": "Main_FernNewBookshopInterview"},
+  "line:0991c1a": {"text": "H2: 산켈룬드, 최근 은퇴 후 후계자 선정<br>", "node": "Main_FernNewBookshopInterview"},
+  "line:0f77421": {"text": "Body: 이동식 서점을 아끼는 팬들은 이 모바일 <b>사업이 드디어 확장</b>된다는 소식에 기뻐할 것입니다.", "node": "Main_FernNewBookshopInterview"},
+  "line:01e0b7a": {"text": "Body: 치열한 협상 끝에, 은퇴한 서적업 거물 틸데 산켈룬드가 자신의 핵심 부동산을 다음 세대에 넘기기로 합의했습니다.<br>", "node": "Main_FernNewBookshopInterview"},
+  "line:0bbcc78": {"text": "Body: 새로운 사업에 대해 묻자, 젊은 서점 운영자가 리뷰에 이렇게 전했습니다:", "node": "Main_FernNewBookshopInterview"},
+  "line:01176d3": {"text": "Body: <b>\"아늑하고 편안해요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:06b0294": {"text": "Body: <b>\"이동식 서점이 그리울 것 같아요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:01d485e": {"text": "Body: <b>\"더 크게 키우고 싶어요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:08380dd": {"text": "Body: 북스턴버리와의 관계에 대해서도 한마디 했습니다:", "node": "Main_FernNewBookshopInterview"},
+  "line:039dc35": {"text": "Body: <b>\"이 풍경에 반해버렸어요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:08b19b0": {"text": "Body: <b>\"사람들이 정말 좋아요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:09ac935": {"text": "Body: <b>\"이곳이 제 집이에요.\"</b>", "node": "Main_FernNewBookshopInterview"},
+  "line:048b807": {"text": "Body: 카페 리베르테 근처 시릴 플라자를 방문하시면 새롭고 흥미로운 확장에 대해 더 알아보실 수 있습니다.", "node": "Main_FernNewBookshopInterview"},
+  "line:08a24a2": {"text": "Author: by 페른 에스트라다", "node": "Main_FernNewBookshopInterview"},
+
+  "line:0e26fcf": {"text": "H1: 북스턴버리의 두뇌들이여, 축하해요!", "node": "Main_Graduation"},
+  "line:0f5a90c": {"text": "H2: 대학교, 졸업생들의 역대 최고 평균 성적을 축하하다<br>", "node": "Main_Graduation"},
+  "line:0bdc9f5": {"text": "Body: 지난 토요일, 세인트 북스턴 대학교는 네 개 학부 모두의 학부생 및 대학원생들에게 <b>연례 졸업식</b>에서 학위를 수여했습니다.<br>", "node": "Main_Graduation"},
+  "line:0504300": {"text": "Body: 문학·문화학과 학과장인 웬 교수는 이번 졸업생들에 대해 특히 높이 평가하며 다음과 같이 말했습니다:", "node": "Main_Graduation"},
+  "line:02d1413": {"text": "Body: \"지금껏 이렇게 <b>문학 연구와 탐구에 헌신하는</b> 학생들을 본 적이 없으며, 뛰어난 비판적 사고 능력에 박수를 보냅니다.\" 이러한 평가는 <b>역대 가장 높은 평균 학점</b>에도 반영되어 있습니다.<br>", "node": "Main_Graduation"},
+  "line:0751eae": {"text": "Author: by 페른 에스트라다", "node": "Main_Graduation"},
+
+  "line:020e175": {"text": "H1: 공원, 취미 활동의 장으로 활기 넘쳐", "node": "Main_ParkGroups"},
+  "line:0c3dc7b": {"text": "H2: 새롭게 단장된 라이 공원에 야외 동아리들 모여들어<br>", "node": "Main_ParkGroups"},
+  "line:0d12261": {"text": "Body: 라이 공원이 방문객들에게 공식적으로 재개장한 이후, 지역 정원에는 지역 사회를 위한 <b>여가 활동</b>을 운영하는 다양한 취미인들이 모여들고 있습니다.<br>", "node": "Main_ParkGroups"},
+  "line:0023f05": {"text": "Body: 간단히 살펴보면, 모든 모임은 <b>신입 회원을 환영하며</b>, 참여는 무료입니다. 독자 여러분을 위해 <b>매주 열리는 모든 활동 목록</b>을 정리해 드립니다:<br><br>", "node": "Main_ParkGroups"},
+  "line:05c6cf1": {"text": "Body: 체스 클럽: <pos=55%>월 & 수</pos><br>", "node": "Main_ParkGroups"},
+  "line:03afa23": {"text": "Body: 요가 클럽: <pos=60%>화 & 목</pos><br>", "node": "Main_ParkGroups"},
+  "line:071d9b5": {"text": "Body: 작가 클럽: <pos=63%>금 & 일</pos><br>", "node": "Main_ParkGroups"},
+  "line:0096e1d": {"text": "Body: 스터디 그룹: <pos=65%>토요일</pos><br>", "node": "Main_ParkGroups"},
+  "line:013d25c": {"text": "Author: by 페른 에스트라다", "node": "Main_ParkGroups"},
+
+  "line:0dc3525": {"text": "H1: 워터프론트에 생선 튀김 가게 문 열어", "node": "Main_WaltNewShop"},
+  "line:02eb342": {"text": "H2: 주민들의 새로운 단골 장소가 될 듯<br>", "node": "Main_WaltNewShop"},
+  "line:08848d0": {"text": "Body: 은퇴한 어부 <b>월터 오클리어리</b>는 날씨와 상관없이 워터프론트 광장을 찾는 모든 이에게 항상 같은 자리에서 유쾌하게 맞이해주는 인물입니다.<br><br>", "node": "Main_WaltNewShop"},
+  "line:0c37a99": {"text": "Body: 하지만 훌륭한 명성에도 불구하고, 오클리어리의 매출은 과거에 부진했습니다. 다행히도 전 선원은 <b>굳건한 마음가짐</b>을 지니고 있습니다. \"잡을 준비가 됐으면 춤을 멈추지 마라!\" — 즉, <b>절대 포기하지 말라</b>는 뜻입니다.<br>", "node": "Main_WaltNewShop"},
+  "line:073177a": {"text": "Body: 상품에 대한 새로운 관심을 기대하며, 오클리어리는 이제 <b>따뜻한 음식과 해산물 보물을 선보이는</b> 상설 생선 튀김 가게를 열었습니다.", "node": "Main_WaltNewShop"},
+  "line:0dace62": {"text": "Author: by 페른 에스트라다", "node": "Main_WaltNewShop"},
+
+  "line:0b15bcb": {"text": "H1: 지역 밴드, 빠르게 명성 얻어", "node": "Main_KlausStartsTour"},
+  "line:0e29e79": {"text": "H2: <i>실렌스 리브리</i>, 전국 투어에 나서, 팬들 환호<br>", "node": "Main_KlausStartsTour"},
+  "line:0ea0a2b": {"text": "Body: 북스턴버리에서의 초기 성공에 이어, <b>로컬 메탈 밴드 <i>실렌스 리브리</i></b>가 코딩턴과 라이포트의 권위 있는 라이브 음악 공연장 무대에 초대받았습니다.<br>", "node": "Main_KlausStartsTour"},
+  "line:0feefa1": {"text": "Body: 밴드와 가까운 소식통에 따르면 <b>첫 공연은 이미 매진</b>되었으며, <b>첫 싱글 \"할로우 홀스 오브 히스토리\"</b>가 대안 음악을 즐기는 십 대들 사이에서 인기를 끌고 있는 신흥 스타들의 성공적인 투어가 기대됩니다.<br>", "node": "Main_KlausStartsTour"},
+  "line:03a84b2": {"text": "Body: 한편, 각계각층의 북스턴 주민들은 <b>프론트맨 클라우스 빈터</b>에게 축하의 말을 전하면서도, 밴드가 고향에 빨리 돌아오길 바라고 있습니다.", "node": "Main_KlausStartsTour"},
+  "line:024a249": {"text": "Author: by 페른 에스트라다", "node": "Main_KlausStartsTour"},
+
+  "line:01854b9": {"text": "H1: 타이니 북숍 1주년 기념일 오늘", "node": "Main_OneYearAnniversary"},
+  "line:0cd5dee": {"text": "H2: 이동식 사업, 두 번째 해로 힘차게 출발<br>", "node": "Main_OneYearAnniversary"},
+  "line:0cb1288": {"text": "Body: <b>꼭 1년 전 오늘</b>, 한 이방인이 책으로 가득 찬 마차 하나를 끌고 우리 마을에 찾아왔습니다.<br><br>", "node": "Main_OneYearAnniversary"},
+  "line:0aea0de": {"text": "Body: 사 계절이 지난 지금, 그들의 매력적인 사업은 <b>주민들의 완전한 지지를 얻었습니다</b>. 선택 폭은 좁지만, <b>단골 손님들의 취향을 고려한 탁월한 선별</b>을 자랑합니다.<br><br>", "node": "Main_OneYearAnniversary"},
+  "line:02e1215": {"text": "Body: 리뷰지는 지금까지의 <b>성공적인 운영</b>을 축하하며, 편집진은 북스턴버리에 타이니 북숍이 앞으로도 오래도록 함께해주기를 진심으로 바랍니다.", "node": "Main_OneYearAnniversary"},
+  "line:07adf45": {"text": "Author: by 페른 에스트라다", "node": "Main_OneYearAnniversary"},
+
+  "line:0e98482": {"text": "H1: 서점 운영자, 여전히 책 판매 중", "node": "Main_SalesReport"},
+  "line:0396abb": {"text": "H2: 지역 서점 운영자의 최신 소식<br>", "node": "Main_SalesReport"},
+  "line:023c6c9": {"text": "Body: 어제 <b>{0}에서</b> 지역 서점 운영자는...<br><br>", "node": "Main_SalesReport"},
+  "line:0d88032": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:060030f": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:001c733": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:0e157ba": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:0ab73c3": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:017836e": {"text": "Body: {0} <indent=20%>{1}권</indent><br>", "node": "Main_SalesReport"},
+  "line:0c7f9b8": {"text": "Body: {0} <indent=20%>{1}권</indent><br><br>", "node": "Main_SalesReport"},
+  "line:0f5351c": {"text": "Body: {0} <indent=20%>합계</indent><br><br>", "node": "Main_SalesReport"},
+  "line:0c19e88": {"text": "Body: 경비 제외 후 <b>총 {0} {1}</b>입니다.<br><br>", "node": "Main_SalesReport"},
+  "line:080d255": {"text": "Body: 우리 서점 운영자가 다음으로 어디로 향할지 기대됩니다.", "node": "Main_SalesReport"},
+  "line:09f9d1e": {"text": "Author: by 페른 에스트라다", "node": "Main_SalesReport"},
+
+  "line:05797ac": {"text": "H2: 동향 분침 실종", "node": "Support_MinuteHand"},
+  "line:0850f17": {"text": "Body: 타임 시계탑의 구리 분침이 사라져 무용지물이 됐다", "node": "Support_MinuteHand"},
+
+  "line:00bc804": {"text": "H2: 어시장에 갈매기 떼 몰려와", "node": "Support_Fishmarket"},
+  "line:091b638": {"text": "Body: 하늘의 불청객들, 워터프론트의 생선 별미에 눈독", "node": "Support_Fishmarket"},
+
+  "line:0619476": {"text": "H2: 오늘 밤 유성우 예보", "node": "Support_MeteorShowers"},
+  "line:0097601": {"text": "Body: 23:00부터 03:00까지 하늘을 주목하세요", "node": "Support_MeteorShowers"},
+
+  "line:0a74bb7": {"text": "H2: 모닥불 행사에 역대급 인파 몰려", "node": "Support_BonfireSuccess"},
+  "line:00b28f2": {"text": "Body: 북스턴 주민들, 해변에서 여름의 끝을 함께 기념해", "node": "Support_BonfireSuccess"},
+
+  "line:002d0df": {"text": "H2: 만(灣)에 부표 넘쳐나", "node": "Support_WaltBuoys"},
+  "line:0d74e9b": {"text": "Body: 지역 어부들의 그물에 미등록 부표가 잔뜩", "node": "Support_WaltBuoys"},
+
+  "line:0d5a08c": {"text": "H2: 갈매기들, 해변 점령", "node": "Support_SeagullInvasion"},
+  "line:0af5640": {"text": "Body: 하늘의 소란스러운 새들, 조직적인 공중 공격에 사정없이", "node": "Support_SeagullInvasion"},
+
+  "line:0311404": {"text": "H2: 서점, 성(城)을 방문하다", "node": "Support_CastleVisit"},
+  "line:0130a92": {"text": "Body: \"무척 반가운 깜짝 방문\", 열성적인 피핏 개척단원 말해", "node": "Support_CastleVisit"},
+
+  "line:0d3bfc9": {"text": "H2: 학생들을 위한 새로운 독서 목록", "node": "Support_UniVisit"},
+  "line:051535e": {"text": "Body: 이동식 서점, SBU에서 학문의 지평을 넓히다", "node": "Support_UniVisit"},
+
+  "line:0f28f61": {"text": "H2: 등대에서 분위기 있는 독서를", "node": "Support_LighthouseVisit"},
+  "line:0507c65": {"text": "Body: 외톨이 청소년들, 서점에서 공통점을 찾다", "node": "Support_LighthouseVisit"},
+
+  "line:0088cbb": {"text": "H2: 오늘의 훈훈한 이야기", "node": "Support_DogAdopted"},
+  "line:0f67e8d": {"text": "Body: 유기견, 아늑한 서가에서 드디어 새 보금자리 찾아", "node": "Support_DogAdopted"},
+
+  "line:0060fd8": {"text": "H2: ~ 오싹한 하루 되세요 ~", "node": "Support_FearFestToday"},
+  "line:0539e26": {"text": "Body: 오늘 밤 폴 피어 페스트를 위한 의상과 장식 잊지 마세요!", "node": "Support_FearFestToday"},
+
+  "line:02e5adc": {"text": "H2: 대학 자퇴생 수 증가세", "node": "Support_UniDropouts"},
+  "line:0c01ade": {"text": "Body: 학생들, 감당하기 어려운 스트레스를 자퇴 이유로 꼽아", "node": "Support_UniDropouts"},
+
+  "line:0885533": {"text": "H2:", "node": "Support_HospitalVisit_WIP"},
+  "line:0d00362": {"text": "Body:", "node": "Support_HospitalVisit_WIP"},
+
+  "line:0f00b93": {"text": "H2:", "node": "Support_WintermarketStartToday_WIP"},
+  "line:003b4f3": {"text": "Body:", "node": "Support_WintermarketStartToday_WIP"},
+
+  "line:0ceb033": {"text": "H2:", "node": "Support_NewStageBuilt_WIP"},
+  "line:086819d": {"text": "Body:", "node": "Support_NewStageBuilt_WIP"},
+
+  "line:0e222df": {"text": "H2:", "node": "Support_ParkUnlock_WIP"},
+  "line:0c7a3b6": {"text": "Body:", "node": "Support_ParkUnlock_WIP"},
+
+  "line:0c34af4": {"text": "H2:", "node": "Support_FlowerFestToday_WIP"},
+  "line:0e96212": {"text": "Body:", "node": "Support_FlowerFestToday_WIP"},
+
+  "line:0ed695d": {"text": "H2:", "node": "Support_EndgameStarted_WIP"},
+  "line:0286ba2": {"text": "Body:", "node": "Support_EndgameStarted_WIP"},
+
+  "line:07e1d4c": {"text": "H2:", "node": "Support_ScoutCamp_WIP"},
+  "line:09ae793": {"text": "Body:", "node": "Support_ScoutCamp_WIP"},
+
+  "line:0c30dd2": {"text": "H2:", "node": "Support_FlowerFestWinner_WIP"},
+  "line:00edeb8": {"text": "Body:", "node": "Support_FlowerFestWinner_WIP"},
+
+  "line:0261236": {"text": "H2:", "node": "Support_CrazedCannoneer_WIP"},
+  "line:0bfe995": {"text": "Body:", "node": "Support_CrazedCannoneer_WIP"},
+
+  "line:0abcfff": {"text": "H2:", "node": "Support_HikingTrailOpened_WIP"},
+  "line:056c379": {"text": "Body:", "node": "Support_HikingTrailOpened_WIP"},
+
+  "line:0a53eb8": {"text": "H2:", "node": "Support_SeaCaveNoises_WIP"},
+  "line:03a2e42": {"text": "Body:", "node": "Support_SeaCaveNoises_WIP"},
+
+  "line:00856b6": {"text": "H2:", "node": "Support_HospitalRomance_WIP"},
+  "line:010bc37": {"text": "Body:", "node": "Support_HospitalRomance_WIP"},
+
+  "line:004c068": {"text": "H2:", "node": "Support_NewSeasonBegins_WIP"},
+  "line:00eafb1": {"text": "Body:", "node": "Support_NewSeasonBegins_WIP"},
+
+  "line:00f37d2": {"text": "H2:", "node": "Support_ZeroBooks_WIP"},
+  "line:090db55": {"text": "Body: 어제 0권 판매한 서점 운영자, 주민들 걱정", "node": "Support_ZeroBooks_WIP"},
+
+  "line:0a2e708": {"text": "H2:", "node": "Support_HundredBooks_WIP"},
+  "line:02104e1": {"text": "Body: 어제 서점 운영자, 책 100권 판매", "node": "Support_HundredBooks_WIP"},
+
+  "line:0c1e9e0": {"text": "H2:", "node": "Support_ScienceFair_WIP"},
+  "line:0a196f5": {"text": "Body: 나짐(9세), 과학 박람회에서 또 우승", "node": "Support_ScienceFair_WIP"},
+
+  "line:09343ac": {"text": "H2:", "node": "Support_MegaDeal_WIP"},
+  "line:0c0b776": {"text": "Body: 지역 서점, 메가 코프와 브랜드 계약 체결... 주민들은 어리둥절", "node": "Support_MegaDeal_WIP"},
+
+  "line:01747ea": {"text": "H2:", "node": "Support_SciFi_WIP"},
+  "line:0919114": {"text": "Body: 지역 서점, SF 소설 품절 상태인 것으로 기자 확인", "node": "Support_SciFi_WIP"},
+
+  "line:0196a6d": {"text": "H2:", "node": "Support_ZeroMoney_WIP"},
+  "line:0a396c4": {"text": "Body: 잔고 마이너스 전환... 지역 서점 위기 돌입", "node": "Support_ZeroMoney_WIP"},
+
+  "line:03c78bf": {"text": "H2:", "node": "Support_Cricket01_WIP"},
+  "line:07c4f42": {"text": "Body: 북스턴 배트맨들 또 패배", "node": "Support_Cricket01_WIP"},
+
+  "line:0f52bbc": {"text": "H2:", "node": "Support_Cricket02_WIP"},
+  "line:00dfcd6": {"text": "Body: 일요일 경기에 관심 집중, 배트맨들 계속 버텨낼까", "node": "Support_Cricket02_WIP"},
+
+  "line:0ec0b4c": {"text": "H2:", "node": "Support_Kitschy_WIP"},
+  "line:047b1f2": {"text": "Body: 관광객, 북스턴버리가 촌스럽다고 발언... 주민들 충격", "node": "Support_Kitschy_WIP"},
+
+  "line:025a134": {"text": "H2:", "node": "Support_Brewery_WIP"},
+  "line:0ab5426": {"text": "Body: 지역 양조장, 권위 있는 상 수상", "node": "Support_Brewery_WIP"},
+
+  "line:0d33611": {"text": "H2:", "node": "Support_SemesterStart_WIP"},
+  "line:057a7cd": {"text": "Body: 북스턴 대학교 새 학기 개강, 새 얼굴들 많아", "node": "Support_SemesterStart_WIP"},
+
+  "line:08d6e92": {"text": "H2:", "node": "Support_NoBreak_WIP"},
+  "line:0f9ae02": {"text": "Body: 지역 서점 운영자 질주 중... X일째 쉬지 않아", "node": "Support_NoBreak_WIP"}
+}

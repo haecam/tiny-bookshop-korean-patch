@@ -1,0 +1,70 @@
+{
+  "line:059611b": {
+    "text": "YogaGroup: <b>요가 강사:</b> 이 모임은 실력에 상관없이 누구에게나 열려 있어요. 천천히 한다고 부끄러울 건 없답니다.",
+    "node": "Park_YogaGroup_Welcome"
+  },
+  "line:05bb8aa": {
+    "text": "YogaGroup: <b>요가 강사:</b> 우린 그저 자연 속에서 함께 몸을 움직이는 걸 즐길 뿐이에요! 맑은 공기를 들이마시니 좋지 않아요?",
+    "node": "Park_YogaGroup_Welcome"
+  },
+  "line:03779cf": {
+    "text": "YogaGroup: <b>요가 강사:</b> 다음 동작에 함께해 주세요.",
+    "node": "Park_YogaGroup_Welcome"
+  },
+  "line:0bc75ea": {
+    "text": "YogaGroup: <b>요가 강사:</b> 자 여러분, 준비 운동부터 시작할게요!",
+    "node": "Park_YogaGroup_Hub"
+  },
+  "line:0f55508": {
+    "text": "YogaGroup: <b>요가 강사:</b> 자 여러분, 준비 운동부터 시작할게요!",
+    "node": "Park_YogaGroup_Hub"
+  },
+  "line:0487c34": {
+    "text": "YogaGroup: <b>요가 강사:</b> 척추를 최대한 곧게 펴고, 코어에 힘을 유지하세요.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:01273e9": {
+    "text": "YogaGroup: <b>요가 강사:</b> 어깨에 힘을 빼세요. 팔을 양옆으로 늘어뜨리고 깊게 몇 번 숨을 쉬세요. 네, 아주 좋아요.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:01e6770": {
+    "text": "YogaGroup: <b>요가 강사:</b> 멋진 시간 함께해 줘서 모두 고마워요! 다음에 또 봐요.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:06383c0": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 이 완벽한 하루에 딱 하나 빠진 게 있다면, 바로 좋은 책이겠네요!",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:088b0ce": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 흠, 정말 깨달음을 주네요. 고마워요.",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:0013790": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 우와, <i>{0}</i> 같은 책을 읽을 생각은 한 번도 못 해 봤어요.",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:0509bc4": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 지금까지는요. 독서 선택도 좀 더 유연해져야겠네요.",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:0cb06b3": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 저한텐 줄 게 없어요? 흠. 괜찮아요? 좀 긴장돼 보여요.",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:03cbe8a": {
+    "text": "YogaGroup: <b>유연한 요가 학생:</b> 흠, 아쉽지만 제 취향은 아니네요.",
+    "node": "Park_YogaGroup_Recommendation"
+  },
+  "line:0de168d": {
+    "text": "YogaGroup: <b>요가 강사:</b> 여행하며 모은 책 몇 권을 가져왔어요!",
+    "node": "Park_YogaGroup_Shop"
+  },
+  "line:0218895": {
+    "text": "YogaGroup: <b>요가 강사:</b> 다양한 문화로 시야를 넓혀 보길 강력히 추천해요.",
+    "node": "Park_YogaGroup_Shop"
+  },
+  "line:0099d7b": {
+    "text": "YogaGroup: <b>요가 강사:</b> 평화와 사랑이 함께하길, 친구.",
+    "node": "Park_YogaGroup_Shop"
+  }
+}

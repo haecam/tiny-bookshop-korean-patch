@@ -1,0 +1,22 @@
+{
+  "line:0a5b8b1": {
+    "text": "Typewriter: ... ... ...",
+    "node": "Typewriter_Looping"
+  },
+  "line:0393147": {
+    "text": "Typewriter: 나머지 하루는 창작의 기운이 무르익게 놔두는 게 최선이지.",
+    "node": "Typewriter_Looping"
+  },
+  "line:06ca74a": {
+    "text": "Typewriter: ... ... ...",
+    "node": "Typewriter_OutOfInspo"
+  },
+  "line:017b5f6": {
+    "text": "Typewriter: 오늘은 도무지 안 떠오르네... 휴가라도 가야 하나? 아니면 운동을 좀 더?",
+    "node": "Typewriter_OutOfInspo"
+  },
+  "line:0d2e8f1": {
+    "text": "Typewriter: 이런, 이게 뭐야?!",
+    "node": "Typewriter_Finish"
+  }
+}

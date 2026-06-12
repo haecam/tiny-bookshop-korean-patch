@@ -1,0 +1,4410 @@
+{
+  "line:00d026a": {
+    "text": "완전 그렇죠!",
+    "node": "Anne_Intro"
+  },
+  "line:08e19a5": {
+    "text": "음—",
+    "node": "Anne_Intro"
+  },
+  "line:04d719b": {
+    "text": "무슨 휴식?",
+    "node": "Anne_Break"
+  },
+  "line:09aa991": {
+    "text": "어째서?",
+    "node": "Anne_Break"
+  },
+  "line:067c304": {
+    "text": "다육식물?",
+    "node": "Anne_FavePlant"
+  },
+  "line:0cb8de7": {
+    "text": "스트로판투스 페테르시아누스(Strophanthus petersianus).",
+    "node": "Anne_FavePlant"
+  },
+  "line:0190711": {
+    "text": "마늘!",
+    "node": "Anne_FavePlant"
+  },
+  "line:0a7e4c9": {
+    "text": "방금 봤는데!",
+    "node": "Anne_Harper"
+  },
+  "line:0e91ea7": {
+    "text": "당연하지!",
+    "node": "Anne_LifeguardDuties"
+  },
+  "line:0ce6321": {
+    "text": "아직 몰라.",
+    "node": "Anne_LifeguardDuties"
+  },
+  "line:002970c": {
+    "text": "절대 안 놓치지!",
+    "node": "Anne_LifeguardDuties"
+  },
+  "line:0174bc3": {
+    "text": "내가 선택권이 있나?",
+    "node": "Anne_LifeguardDuties"
+  },
+  "line:04420c6": {
+    "text": "안전요원 고용.",
+    "node": "Anne_Crime03Active"
+  },
+  "line:0a19b10": {
+    "text": "까다로운 부모 달래기.",
+    "node": "Anne_Crime03Active"
+  },
+  "line:07dedcd": {
+    "text": "하나 줄까?",
+    "node": "Anne_CoffeeMachine_Pre"
+  },
+  "line:04f590e": {
+    "text": "응.",
+    "node": "Anne_CoffeeMachine_Pre"
+  },
+  "line:081c663": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_PitcherPlantSeedling"
+  },
+  "line:093f1f2": {
+    "text": "작은 새싹으로 자란 것 같아.",
+    "node": "Cutscene_PitcherPlantSeedling"
+  },
+  "line:0c484d9": {
+    "text": "귀여워라!",
+    "node": "Cutscene_PitcherPlantSeedling"
+  },
+  "line:03f0163": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_PitcherPlantGrowth"
+  },
+  "line:0563b8f": {
+    "text": "와, 네 식물이 꽤 많이 자랐네!",
+    "node": "Cutscene_PitcherPlantGrowth"
+  },
+  "line:06f8ccf": {
+    "text": "잘했어, 식물학자!",
+    "node": "Cutscene_PitcherPlantGrowth"
+  },
+  "line:0a81fa7": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_PitcherPlantFullyGrown"
+  },
+  "line:01a41ec": {
+    "text": "세상에, 엄청 크다!",
+    "node": "Cutscene_PitcherPlantFullyGrown"
+  },
+  "line:0eb976f": {
+    "text": "누구 하나 물어뜯지 않길 바라자...",
+    "node": "Cutscene_PitcherPlantFullyGrown"
+  },
+  "line:0fb3551": {
+    "text": "다 자랐으니, 앤이 한번 보고 싶어 할 거야.",
+    "node": "Cutscene_PitcherPlantFullyGrown"
+  },
+  "line:0a7c742": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_BleedingHeartSeedling"
+  },
+  "line:0a381ef": {
+    "text": "작은 새싹으로 자란 것 같아.",
+    "node": "Cutscene_BleedingHeartSeedling"
+  },
+  "line:0357f5b": {
+    "text": "귀여워라!",
+    "node": "Cutscene_BleedingHeartSeedling"
+  },
+  "line:0ac069b": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_BleedingHeartPlantGrowth"
+  },
+  "line:00549fa": {
+    "text": "와, 네 식물이 꽤 많이 자랐네!",
+    "node": "Cutscene_BleedingHeartPlantGrowth"
+  },
+  "line:0ceecfd": {
+    "text": "잘했어, 원예가!",
+    "node": "Cutscene_BleedingHeartPlantGrowth"
+  },
+  "line:0cdc4b5": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_BleedingHeartFullyGrown"
+  },
+  "line:0d2198b": {
+    "text": "세상에, 엄청 크다!",
+    "node": "Cutscene_BleedingHeartFullyGrown"
+  },
+  "line:038e600": {
+    "text": "다 자랐으니, 앤이 한번 보고 싶어 할 거야.",
+    "node": "Cutscene_BleedingHeartFullyGrown"
+  },
+  "line:0a46361": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_WolfsbaneSeedling"
+  },
+  "line:05b09a8": {
+    "text": "작은 새싹으로 자란 것 같아.",
+    "node": "Cutscene_WolfsbaneSeedling"
+  },
+  "line:08d421f": {
+    "text": "귀여워라!",
+    "node": "Cutscene_WolfsbaneSeedling"
+  },
+  "line:0c40a0b": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_WolfsbanePlantGrowth"
+  },
+  "line:0250ea2": {
+    "text": "와, 네 식물이 꽤 많이 자랐네!",
+    "node": "Cutscene_WolfsbanePlantGrowth"
+  },
+  "line:0b002a2": {
+    "text": "잘했어, 과학자!",
+    "node": "Cutscene_WolfsbanePlantGrowth"
+  },
+  "line:054a170": {
+    "text": "오! 뭔가 일어나고 있어!",
+    "node": "Cutscene_WolfsbaneFullyGrown"
+  },
+  "line:0af31be": {
+    "text": "세상에, 엄청 크다!",
+    "node": "Cutscene_WolfsbaneFullyGrown"
+  },
+  "line:0678cf7": {
+    "text": "다 자랐으니, 앤이 한번 보고 싶어 할 거야.",
+    "node": "Cutscene_WolfsbaneFullyGrown"
+  },
+  "line:00c4499": {
+    "text": "\"무대로 모셔 주세요... 우리 자연과학·공학대학의 새내기 졸업생들을!\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:088f301": {
+    "text": "\"... 다음 졸업생은 앤 코완입니다!\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:0eb2258": {
+    "text": "\"돌연변이 식물 변종이 지역 환경 조건에 적응하는 능력에 관한 그녀의 연구는...\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:0ba7c51": {
+    "text": "\"...이학 석사 학위를 받을 자격을 얻었습니다!\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:0616807": {
+    "text": "\"학위증을 수여하게 되어 기쁩니다, 코완 양. 정말 잘했어요.\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:07ab4a9": {
+    "text": "\"... 그리고 마지막으로, 올해의 명예 학위 수여자를 축하하고자 합니다.\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:06f6f5a": {
+    "text": "\"이 학교 구성원들에 대한 뛰어난 봉사에 대하여...\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:0f48444": {
+    "text": "\"...타이니 북샵을 기립니다!\"",
+    "node": "Cutscene_AnnesGraduation"
+  },
+  "line:013ae71": {
+    "text": "더 잘 챙길게요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:0fa9489": {
+    "text": "진정하세요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:0a740df": {
+    "text": "저요?!",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:02d0112": {
+    "text": "아무것도요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0588008": {
+    "text": "<i>다들 끝난 것 같아. 이제 네 차례야.</i>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0353988": {
+    "text": "예전 이 자리의 기억.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0a335d9": {
+    "text": "새롭고 낯선 것에 대한 두려움.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0d8c860": {
+    "text": "남을 기쁘게 해야 한다는 강박.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:02c6454": {
+    "text": "남을 기쁘게 해야 한다는 강박.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0cebc87": {
+    "text": "내 자기 의심.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:046781f": {
+    "text": "끝맺음에 대한 두려움.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:05cab12": {
+    "text": "내 부정적인 자기 대화.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:061c21d": {
+    "text": "끝맺음에 대한 두려움.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:08f6cbc": {
+    "text": "이룰 수 없는 완벽이라는 내 관념.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0846245": {
+    "text": "그 과정을 받아들일 거야.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:00e0040": {
+    "text": "나 자신을 믿을 거야.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0596a36": {
+    "text": "어려움을 피하지 않을 거야.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0ec7cdf": {
+    "text": "어두운 동굴을 들여다보니, 바람과 파도의 희미한 속삭임이 들린다.",
+    "node": "Cave_EchoLoop"
+  },
+  "line:0dcaa8b": {
+    "text": "<i>\"메아리!\"라고 외친다</i>",
+    "node": "Cave_EchoLoop"
+  },
+  "line:098041f": {
+    "text": "<i>계속 살펴본다</i>",
+    "node": "Cave_EchoLoop"
+  },
+  "line:0f204f2": {
+    "text": "<i>떠난다</i>",
+    "node": "Cave_EchoLoop"
+  },
+  "line:0f6e76c": {
+    "text": "CastleKid01: 더 파!",
+    "node": "Cutscene_SandcastleKidsBigCastle"
+  },
+  "line:054cf46": {
+    "text": "CastleKid01: 하퍼가 이거 어제까지 끝냈어야 한다 그랬어!",
+    "node": "Cutscene_SandcastleKidsBigCastle"
+  },
+  "line:077ba60": {
+    "text": "CastleKid02: 네, 알겠습니다!",
+    "node": "Cutscene_SandcastleKidsBigCastle"
+  },
+  "line:0264a02": {
+    "text": "CastleKid03: 우린 판다!",
+    "node": "Cutscene_SandcastleKidsBigCastle"
+  },
+  "line:07b569b": {
+    "text": "CastleKid01: 연설! 연설!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0644a40": {
+    "text": "CastleKid02: 하퍼, 하퍼!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0b41689": {
+    "text": "CastleKid01: 만세!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0f885e4": {
+    "text": "CastleKid02: 하퍼 만세!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0c9e4ed": {
+    "text": "CastleKid03: 우후!",
+    "node": "Cutscene_SandcastlesCompleted"
+  },
+  "line:0ae73ff": {
+    "text": "CastleKid02: 나 바빠!",
+    "node": "SandCastle_BaseLoopDuringConstruction01"
+  },
+  "line:014d8c8": {
+    "text": "CastleKid03: 더. 빨리. 파야 해!",
+    "node": "SandCastle_BaseLoopDuringConstruction02"
+  },
+  "line:0ff7f4e": {
+    "text": "북스톤버리의 이 최신 명소를 바라보며, 그럴 가치가 있었나 또 한 번 생각해 본다.",
+    "node": "SandCastle_ConstructedLoop"
+  },
+  "line:0aadb73": {
+    "text": "여보세요?",
+    "node": "SandCastle_ConstructedLoop"
+  },
+  "line:0b0161a": {
+    "text": "지금은 완전히 버려진 것 같다.",
+    "node": "SandCastle_ConstructedLoop"
+  },
+  "line:010c04c": {
+    "text": "<i>계속 살펴본다</i>",
+    "node": "SandCastle_ConstructedLoop"
+  },
+  "line:0c243e9": {
+    "text": "<i>떠난다</i>",
+    "node": "SandCastle_ConstructedLoop"
+  },
+  "line:038fa0d": {
+    "text": "안심이 되도록 하퍼 곁에 바짝 붙어, 함께 옛 서점으로 들어간다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0c48543": {
+    "text": "익숙한 책장 냄새는 희미하고, 대부분 퀴퀴하고 먼지 낀 냄새에 묻혀 있다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0d456c2": {
+    "text": "생각보다 어둡다. 이 빛 속에선, 침대 시트로 덮인 듯한 책장들의 윤곽만 겨우 알아볼 수 있다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0c05eb9": {
+    "text": "… 다음에 어디로 가는지 보기 어렵게 작은 미로처럼 비스듬히 놓여 있다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:012abfc": {
+    "text": "조심스러운 발걸음마다, 가벼운 거미줄을 스친다. 장식일까, 아니면 정말 그렇게 오래 비어 있었던 걸까?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0934f4b": {
+    "text": "다음 모퉁이를 돌자, 낡은 거울이 벽에 기대 있다. 방금 네 뒤에 뭔가 있었나?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0ab6077": {
+    "text": "갑자기, 보이지 않는 어딘가에서 삐걱대는 속삭임이 새어 나온다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0d61a59": {
+    "text": "어둠 속에서 그녀의 작은 손이 네 손을 잡고, 출구 쪽으로 끌어당기는 게 느껴진다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:065d07b": {
+    "text": "이 끝없는 미로의 마지막 모퉁이가 분명하다고 느낀 곳을 돌자, 책 한 권이 묵직한 소리를 내며 네 앞에 떨어진다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0b82355": {
+    "text": "거미줄과 켜켜이 쌓인 먼지로 덮여 있다. 그 신비로운 빛에 묘하게 이끌리는데... 만져 볼까?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0a65b47": {
+    "text": "응.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:062e197": {
+    "text": "아니, 절대 안 돼.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:026cab3": {
+    "text": "책 제목을 알아보려 여전히 몸을 숙이고 있는데, 갑자기 뒤편 낡은 옷장에서 검은 형체가 튀어나온다!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0dd28b4": {
+    "text": "<i>비명을 지른다</i>",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0d45d85": {
+    "text": "너와 하퍼는 공포에 질려 비명을 지르고, 바깥으로 나가는 문으로 밀고 나가려다 서로 거의 넘어질 뻔한다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0092f43": {
+    "text": "<i>두려움을 감춘다</i>",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:066c5d3": {
+    "text": "여전히 목청껏 비명을 지르며 달리기 시작하는 하퍼를 조용히 따라가, 바깥으로 나가는 문으로 서둘러 나간다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:03fdc7a": {
+    "text": "손잡아 줘서 고마워.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0cdd956": {
+    "text": "너 정말 용감했어.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0768865": {
+    "text": "하퍼가 숨을 고르려 애쓰는 사이, 갑작스러운 추위 속에 그녀 얼굴 앞 공기가 하얗게 보이는 것을 지켜본다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:06a8b94": {
+    "text": "너와 하퍼는 나란히 옛 서점으로 들어가, 둘 다 눈을 부릅뜨고 유령의 기척이 있나 귀를 기울인다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0b7e584": {
+    "text": "익숙한 책장 냄새는 희미하고, 대부분 퀴퀴하고 먼지 낀 냄새에 묻혀 있다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0817d1d": {
+    "text": "생각보다 어둡다. 이 빛 속에선, 침대 시트로 덮인 듯한 책장들의 윤곽만 겨우 알아볼 수 있다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:010b01e": {
+    "text": "… 다음에 어디로 가는지 보기 어렵게 작은 미로처럼 비스듬히 놓여 있다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0d55267": {
+    "text": "조심스러운 발걸음마다, 가벼운 거미줄을 스친다. 장식일까, 아니면 정말 그렇게 오래 비어 있었던 걸까?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0da1d3d": {
+    "text": "다음 모퉁이를 돌자, 낡은 거울이 벽에 기대 있다. 하퍼가 살짝 움찔하지만, 너는 놀리는 말은 속으로만 삼킨다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0547a0f": {
+    "text": "갑자기, 보이지 않는 어딘가에서 삐걱대는 속삭임이 새어 나온다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0a80b52": {
+    "text": "블라이턴? 그 등대지기?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:004b5a2": {
+    "text": "틸데가 로더릭 블라이턴 이야기를 해 준 게 기억난다. 꽤... 망신스러운 이야기였던 것도 기억난다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:02918b1": {
+    "text": "틸데 말로는, 그가 여기가 아직 술집이던 시절 1층 창문에서 떨어졌다고 했다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:03488f3": {
+    "text": "당신은 누구야?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0e781b3": {
+    "text": "하퍼, 나 무서워.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0d2cf81": {
+    "text": "그 뻔한 수법에 눈을 굴리지 않으려 애쓰며 계속 앞으로 간다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:03406dd": {
+    "text": "이 끝없는 미로의 마지막 모퉁이가 분명하다고 느낀 곳을 돌자, 책 한 권이 묵직한 소리를 내며 네 앞에 떨어진다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0c575f4": {
+    "text": "거미줄과 켜켜이 쌓인 먼지로 덮여 있다. 그 신비로운 빛에 묘하게 이끌리는데... 만져 볼까?",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0792922": {
+    "text": "응.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:00f773c": {
+    "text": "아니, 절대 안 돼.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:02e9fa4": {
+    "text": "책 제목을 알아보려 여전히 몸을 숙이고 있는데, 갑자기 뒤편 낡은 옷장에서 검은 형체가 튀어나온다!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0537697": {
+    "text": "이 유령의 집도 이제 좀 시들해졌다고 느끼기 시작할 무렵, 갑자기 뒤편 낡은 옷장에서 검은 형체가 튀어나온다!",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0cc3e0a": {
+    "text": "둘 다 웃음을 참으려 애쓴다. 하지만 문에 다다라 바깥으로 비틀거리며 나올 즈음엔, 더는 들뜬 마음을 주체할 수 없다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:00e6788": {
+    "text": "하퍼가 배를 잡고 웃으며 숨을 고르려 애쓰는 사이, 갑작스러운 추위 속에 그녀 얼굴 앞 공기가 하얗게 보이는 것을 지켜본다.",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:039f762": {
+    "text": "시선이 위로 향한다. 뭔가가 속눈썹에 걸린다. 첫눈을 맞은 모양이다...",
+    "node": "Cafe_FFF_Harper_Haunted_House_Exploration_Cutscene"
+  },
+  "line:0286fd6": {
+    "text": "하퍼가 벌써 가게의 \"으스스함의 잠재력\"을 살피러 달려가는 사이, 너는 서둘러 문을 닫고 블라인드를 친다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0f06a73": {
+    "text": "이제 익숙해질 만도 한데, 이 어린 소녀가 세상에 품은 경이로움에 가끔 여전히 압도된다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0d87311": {
+    "text": "그리고 함께 유령 놀이를 한다는 생각에 하퍼가 즐겁게 키득거리는 걸 보며, 너도 가끔 혼자 미소 짓는 걸 어쩔 수 없다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0499cdb": {
+    "text": "준비를 마친 뒤, 조심스레 모든 불을 끄고, 호기심 어린 이들을 들이려 가게 문을 살짝만 열어 둔다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0e01691": {
+    "text": "서둘러 책장 뒤 제자리로 가자, 잠시 후 문 쪽에서 속삭이는 대화가 들려온다...",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:00b5386": {
+    "text": "그들의 머뭇거리는 발소리에 귀를 기울이며, 어디쯤 있는지 가늠하려 애쓴다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:04f4c78": {
+    "text": "갑자기, 네가 숨은 곳 반대편에서, 책들이 책장에서 떨어지며 비명이 들린다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:07479d2": {
+    "text": "하퍼가 정성껏 설치한 장치가 작동한 모양이다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0bf244f": {
+    "text": "긴장된 순간이 몇 차례 지나고, 두 아이가 네 숨은 곳으로 걸어오는 소리가 들린다. 조금만 더, 그리고...",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:06c8c4e": {
+    "text": "이 마지막 말에 무게를 더하려는 듯, 또 다른 새하얀 유령 형체가 겁에 질린 아이들 뒤에서 \"우워!\" 하고 튀어나온다!",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:05d990b": {
+    "text": "더 망설일 것도 없이, 두 어린아이는 출구를 향해 비틀거리며 달아난다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:01a03cf": {
+    "text": "잠시 후, 하퍼가 머리에 쓴 하얀 천을 벗고, 배를 잡고 웃는다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0aad24c": {
+    "text": "둘은 저녁 내내 이 연극을 이어 가다, 하퍼가 더는 하품을 참지 못할 지경에 이른다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:08b8c7f": {
+    "text": "오늘 저녁을 여기서 끝내자는 네 결정에 그 애가 따지지도 않는 걸 보고, 정말 얼마나 피곤한지 깨닫는다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:07b496d": {
+    "text": "마침내 그 애를 밖으로 데려다주고 가게 문을 잠그자, 차가운 공기에 목덜미 솜털이 곤두선다.",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0fa790d": {
+    "text": "시선이 위로 향한다. 뭔가가 속눈썹에 걸린다. 첫눈을 맞은 모양이다...",
+    "node": "Cafe_FFF_Your_Haunted_Shop_Cutscene"
+  },
+  "line:0ca11ff": {
+    "text": "이거 세인트 북스톤 아니야? 하퍼라면 분명 더 자세히 보고 싶어 할 거야.",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:09b5247": {
+    "text": "<i>살펴본다</i>",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:04b7bf6": {
+    "text": "분수는 세월에 좀 닳았지만, 여전히 기품 있는 신사의 모습이 그대로 보인다.",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:0c78521": {
+    "text": "하지만 잠깐... 그의 눈에 반짝임이 있다. 진짜 반짝임이. 저거 버튼인가?",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:0cd6bbd": {
+    "text": "<i>감탄한다</i>",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:0252154": {
+    "text": "<i>떠난다</i>",
+    "node": "CafeFountain_FindClue"
+  },
+  "line:004ebb1": {
+    "text": "\"세인트 북스톤. 시인, 사상가, 선각자.\"",
+    "node": "CafeFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:0f99e31": {
+    "text": "아래의 더 새 명판에는 이렇게 적혀 있다",
+    "node": "CafeFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:0ee0769": {
+    "text": "\"<i>소피아 테오도시아 브라이트</i>로도 알려짐\"",
+    "node": "CafeFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:05a9fcc": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> <i>핍핏, 안녕!</i> 피핏 파이어니어에 들어올 거야?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:09c237f": {
+    "text": "피핏이 뭔데?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:06b4653": {
+    "text": "Scout01: 뭐?!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:02139f5": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 피핏이 뭔지 어떻게 모를 수가 있어? 너 무슨 동굴에 살아?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:091173d": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 피핏은 세상에서 제일 멋진 새야! 특히 초원 피핏, 우리 마스코트!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:071025a": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 그리고 우리 작은 야외 탐험 단체, 피핏 파이어니어의 이름의 주인공이지!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0566e30": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 그리고 우리 새 파이어니어 캡틴, 코완 선생님은 엄청 멋지고 똑똑해.",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:03dfa3b": {
+    "text": "Scout01: <b>장난꾸러기 파이어니어:</b> 우리한테 그냥 앤이라고 부르랬어!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0fc381c": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> <size=85%><i>*에험*</i><size=100%> 그래, 당연하지. <i>파이어니어 캡틴 앤</i>은 엄청 멋지고 똑똑해.",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:006ab78": {
+    "text": "들어가고 싶어!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:05d80c5": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 근데... 넌 제대로 된 스카프도 안 했잖아...",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0503f80": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 그리고 공식 피핏 인사에 답도 안 했어! 네 경례는 어디 갔어?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:00909f5": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 쯧. 배울 게 많네. 그래도, 피핏 캠프에 온 걸 환영해! 너 그 서점지기 맞지?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0ee077c": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 잠깐만! 네가 피핏 캠프에 어울릴 만큼 강한지 봐야 해!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0d304c9": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 야, 무서운 캠프파이어 이야기 좀 알아?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0505da6": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 음, 그래, 혹시 네 책장에 좀 있어?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:02740a6": {
+    "text": "Scout03: 와, 죽인다!",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0fd3202": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 어, <i>{0}</i> 우리가 진짜 읽어도 돼? 그거 어른용 아니야?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:036d4fd": {
+    "text": "Scout03: 어? 아무것도 없어?",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:0c62163": {
+    "text": "Scout03: 어어, 됐어, 괜찮아.",
+    "node": "Scouts_NightmareFuelStart"
+  },
+  "line:06936d1": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 내가 아마야한테 숲에 뱀파이어가 있다고 했는데, 눈 하나 깜짝 안 했어! 게다가 걘 겨우 일곱 살이야!",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:009413a": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 그래서, 이번엔 더 무서운 게 필요해, 알았지?",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:07959e9": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> <i>{0}</i>? 와, 으스스하게 들리는데!",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:0052484": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 그건 좀 잘 모르겠어...",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:01a56c3": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 야! 오늘 밤 캠프파이어는 으스스 끝내줄 거야!",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:079e695": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 야, 무서운 이야기 고마워. 너 좀 멋진데.",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:07b536b": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 어? 도와준다고 하지 않았어?",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:0841093": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 그건 더 애기들용 같은데. 됐어!",
+    "node": "Scouts_NightmareFuelRequest"
+  },
+  "line:0e58526": {
+    "text": "Scout03: \"하지만 소년이 잠든 사이...\"",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0dddf80": {
+    "text": "Scout03: \"무슨 소리가 났어...\"",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:02071f0": {
+    "text": "Scout03: \"숲속 저 멀리서...\"",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:05ea4d5": {
+    "text": "Scout03: \"그리고 튀어나온 건...\"",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:09b021d": {
+    "text": "Scout03: \"늑대인간!\"",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0a50d7b": {
+    "text": "Scout02: 꺄아악!",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:02da562": {
+    "text": "Scout01: 으아아악!",
+    "node": "Scouts_EnjoyingTheHorror"
+  },
+  "line:0c60532": {
+    "text": "Scout02: <i>*하품*</i>",
+    "node": "Scouts_HavingNightmares"
+  },
+  "line:0dc3065": {
+    "text": "Scout02: 아이고...",
+    "node": "Scouts_HavingNightmares"
+  },
+  "line:0258ecb": {
+    "text": "Scout02: 어젯밤에 또 악몽 꿨어...",
+    "node": "Scouts_HavingNightmares"
+  },
+  "line:06b155b": {
+    "text": "Scout02: ...어, 난 안 무서워!",
+    "node": "Scouts_HavingNightmares"
+  },
+  "line:09942f7": {
+    "text": "Scout02: 전혀! 난 애기 아니야!",
+    "node": "Scouts_HavingNightmares"
+  },
+  "line:03994be": {
+    "text": "Scout02: 끄아아악!",
+    "node": "Scouts_Fallback"
+  },
+  "line:0c1080a": {
+    "text": "Scout02: ... 아, 너였구나.",
+    "node": "Scouts_Fallback"
+  },
+  "line:0ad4aca": {
+    "text": "Scout01: 미안, 나 책 읽느라 꽤 바빠.",
+    "node": "Scouts_Fallback"
+  },
+  "line:078772c": {
+    "text": "Scout01: 핍핏 안녕!",
+    "node": "Scouts_Fallback"
+  },
+  "line:077277b": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 으, 이제 정말 지루한 자연 안내서를 읽어야 해?",
+    "node": "Scouts_PreNatureFuel"
+  },
+  "line:0a62b16": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 근데 내 공포 책은 어떡해? 아직 다 읽지도 못했는데!",
+    "node": "Scouts_PreNatureFuel"
+  },
+  "line:01a43e9": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 우리 파이어니어 캡틴들은 왜 우리가 그걸 못 감당한다고 생각할까? 늘 우릴 어린애 취급해.",
+    "node": "Scouts_PreNatureFuel"
+  },
+  "line:007b9af": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 우리 파이어니어 캡틴들이 동물이랑 자연에 관한 책을 충분히 읽으면 \"연구\" 배지를 주겠다고 약속했어!",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:0c2c934": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 와, 진짜 멋지다!! 그런 종이 있는 줄도 몰랐어!",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:027e605": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 좋아! 이제 드디어 가서 파이어니어 캡틴 앤한테 새 배지를 받을 수 있어!",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:0f168fa": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 알았어... 알고 보니 연구가 꽤 멋지네.",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:092e245": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 그치? 이제 드디어 가서 파이어니어 캡틴 앤한테 새 배지를 받을 수 있어!",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:0f1ec69": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 아, 제발! 딱 하나만 더 필요하다고!",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:030135c": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 흠... 이건 연구 과제엔 도움이 안 될 것 같은데...",
+    "node": "Scouts_NatureFuelRequest"
+  },
+  "line:08bf2b8": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 어, 안녕. 우리 연구 배지 따는 거 도와줘서 정말 멋졌어...",
+    "node": "Scouts_NatureFuelComplete"
+  },
+  "line:056ab96": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 그래서, 음, 파이어니어 캡틴 앤이 이거 고맙다고 주래...",
+    "node": "Scouts_NatureFuelComplete"
+  },
+  "line:0dc879b": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 좋아, 또 봐!",
+    "node": "Scouts_NatureFuelComplete"
+  },
+  "line:0c2a6d0": {
+    "text": "Scout02: 또 안녕!",
+    "node": "Scouts_SeeingScribbleAgain"
+  },
+  "line:0782788": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 그-그-그거 어디서 찾았어?!",
+    "node": "Scouts_SeeingScribbleAgain"
+  },
+  "line:0212652": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 으, 또 너도밤나무 열매 찾았어. 나랑 바꿀래?",
+    "node": "Scouts_Foraging"
+  },
+  "line:07fa144": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 흠, 밤 세 개랑 너도밤나무 열매 여섯 개 바꿔 줄 수 있어. 그리고 도토리 있어?",
+    "node": "Scouts_Foraging"
+  },
+  "line:02fcd8f": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> ... 좋아. 이끼 좀 끼워 주면 거래 성사!",
+    "node": "Scouts_Foraging"
+  },
+  "line:0aa651f": {
+    "text": "Scout03: 거래!",
+    "node": "Scouts_ForagingFallback"
+  },
+  "line:053055f": {
+    "text": "Scout01: 거래 잘했어.",
+    "node": "Scouts_ForagingFallback"
+  },
+  "line:02df74e": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 야! 우리가 찾은 멋진 길 얘기 들었어?",
+    "node": "Scouts_Research"
+  },
+  "line:022b843": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 그게 그 성이랑 무슨 관련 있는지 정말 알고 싶어!",
+    "node": "Scouts_Research"
+  },
+  "line:01d336e": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 우리 연구에 도움 될 책 있어?",
+    "node": "Scouts_Research"
+  },
+  "line:0178803": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 야, <i>{0}</i> 역사적으로 들리는데! 가 보자!",
+    "node": "Scouts_Research"
+  },
+  "line:02ab9ea": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 흠... 흥미로운데... 여기서 뭔가 찾은 것 같아!",
+    "node": "Scouts_Research"
+  },
+  "line:070cfcb": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 근데 완전히는 이해가 안 돼... 파이어니어 캡틴 앤한테 물어봐야 할 것 같아!",
+    "node": "Scouts_Research"
+  },
+  "line:0e9f0fd": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 흠, <i>{0}</i> 쓸모 있을지도!",
+    "node": "Scouts_Research"
+  },
+  "line:043a805": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 흠... 흥미로운데... 여기서 뭔가 찾은 것 같아!",
+    "node": "Scouts_Research"
+  },
+  "line:09e2bdf": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 근데 완전히는 이해가 안 돼... 파이어니어 캡틴 앤한테 물어봐야 할 것 같아!",
+    "node": "Scouts_Research"
+  },
+  "line:0e016f2": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 아... 그럼 책을 좀 더 채워 둬야겠다!",
+    "node": "Scouts_Research"
+  },
+  "line:0b791da": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 으음, 그건 내가 찾던 게 아닌 것 같아, 미안.",
+    "node": "Scouts_Research"
+  },
+  "line:0441c7a": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 밀수꾼들이 여기에 보물을 숨겨 뒀을 것 같지 않아?",
+    "node": "Scouts_Smugglers"
+  },
+  "line:06d0bf9": {
+    "text": "Scout02: <b>수줍은 파이어니어:</b> 돌을 다 뒤집어 봐야 해! 분명 어딘가 있을 거야!",
+    "node": "Scouts_Smugglers"
+  },
+  "line:0016f68": {
+    "text": "Scout02: 보물이 분명 여기 있어!",
+    "node": "Scouts_SmugglersFallback"
+  },
+  "line:0042bef": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 맥스, 넌 학교에서 서명 모을 거지?",
+    "node": "Scouts_Petition"
+  },
+  "line:0dde57d": {
+    "text": "Scout02: 응, 그럴게!",
+    "node": "Scouts_Petition"
+  },
+  "line:0cb413c": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 알렉스, 넌 축구 동아리에 있지? 거기서 서명 좀 받아 줄래?",
+    "node": "Scouts_Petition"
+  },
+  "line:0d625d1": {
+    "text": "Scout03: <b>장난꾸러기 파이어니어:</b> 으. 갑자기 누가 널 대장으로 뽑았대?!",
+    "node": "Scouts_Petition"
+  },
+  "line:05da8bc": {
+    "text": "Scout01: <b>모범생 파이어니어:</b> 야! 난 그냥 이 청원서에 서명받고 싶을 뿐이야. 더 좋은 생각 있어?",
+    "node": "Scouts_Petition"
+  },
+  "line:036becf": {
+    "text": "Scout03: ...없어.",
+    "node": "Scouts_Petition"
+  },
+  "line:0a99922": {
+    "text": "Scout01: 서명이 더 필요해!",
+    "node": "Scouts_PetitionFallback"
+  },
+  "line:0122b36": {
+    "text": "묘지... 세인트 북스톤이 북스톤버리에서 죽었다면, 여기 묻혀 있어야 하지 않을까?",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:03bb8f8": {
+    "text": "비문을 한번 살펴보자.",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:0d9f9dc": {
+    "text": "<i>비문을 읽는다</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:06762ae": {
+    "text": "<i>\"새뮤얼 오스월드 라이캐스터\"</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:07bcc81": {
+    "text": "<i>\"소피아 테오도시아 브라이트\"</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:0e97d96": {
+    "text": "<i>\"오드리 로위나 해링턴\"</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:0198995": {
+    "text": "어느 게 북스톤의 무덤일까?",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:0ad6742": {
+    "text": "시야 한구석의 묘비 하나가 눈길을 끈다.",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:049ef09": {
+    "text": "<i>살펴본다</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:019a1b2": {
+    "text": "뭔가가 빛에 반짝이고 있다.",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:009c72e": {
+    "text": "세인트 북스톤 문장의 또 다른 조각이다!",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:016a2ea": {
+    "text": "이 오랜 세월이 지나도록 아직 여기 있다니, 운이 좋네. 근데 이건 누구 무덤이지?",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:05a456b": {
+    "text": "<b>\"소피아 테오도시아 브라이트\"</b>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:04a7fde": {
+    "text": "... 그럼 이게 그녀의 진짜 이름이었나?",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:0546f37": {
+    "text": "에이, 무덤은 으스스해.",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:088f7a7": {
+    "text": "</i>떠난다</i>",
+    "node": "Grave_InvestigationBaseLoop"
+  },
+  "line:002bbe6": {
+    "text": "\"여기 소피아 테오도시아 브라이트 잠들다. 1558년 출생, 1590년 사망.\"",
+    "node": "Grave_BaseLoopAfterInvestigation"
+  },
+  "line:0dcffc4": {
+    "text": "\"A.R.H.와 약혼함.\"",
+    "node": "Grave_BaseLoopAfterInvestigation"
+  },
+  "line:051f969": {
+    "text": "\"여기 소피아 테오도시아 브라이트 잠들다. 1558년 출생, 1590년 사망.\"",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:03df508": {
+    "text": "\"A.R.H.와 약혼함.\"",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0adc0f5": {
+    "text": "<i>되새긴다</i>",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0f4b666": {
+    "text": "참 짧은 삶이었다. 그리고 그녀의 작품이 마땅히 받아야 할 어떤 인정도 없이. 하지만... 그녀에겐 그게 중요하지 않았을 것 같다.",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:011d577": {
+    "text": "그녀는 무엇이 가장 중요한지 늘 알고 있던 그런 시인 중 하나였던 것 같다. 사랑하고, 또 사랑받는 것.",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0788181": {
+    "text": "<i>시를 다시 읽는다</i>",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:047d63d": {
+    "text": "<i>\"불길이 거닐고, 마을은 고통 속에 깨어나네;<br>허나 내 두려움은 오직 그녀 눈에 비친 그 불꽃뿐.\"</i>",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0e99f9d": {
+    "text": "<i>\"가망 없는 갈망에 희망 품은 내 심장은 저미고;<br>잿빛 바람이 그토록 잿빛인 그녀 눈길을 향해 부니.\"</i>",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0db1833": {
+    "text": "이건 A.R.H.에 대해 쓴 게 분명한 것 같다.",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0be7ae0": {
+    "text": "<i>편지를 읽는다</i>",
+    "node": "Grave_BaseLoopAfterFindingOut"
+  },
+  "line:0504f3c": {
+    "text": "묘지... 풍화된 묘비들로 보아, 이제 아무도 돌보지 않는 모양이다.",
+    "node": "Grave_PreInvestigationLoop"
+  },
+  "line:02fd550": {
+    "text": "하지만 직감은 역사의 어떤 큰 비밀이 여기 숨겨져 있을지도 모른다고 말한다.",
+    "node": "Grave_PreInvestigationLoop"
+  },
+  "line:09acc23": {
+    "text": "북스톤버리의 역사적 인물들에 대해 더 알게 되면, 여기 다시 와 봐야겠다...",
+    "node": "Grave_PreInvestigationLoop"
+  },
+  "line:0cf7aed": {
+    "text": "흠... 세인트 북스톤이 북스톤버리에서 죽었다면, 여기 묻혀 있어야 하지 않을까?",
+    "node": "Grave_PreInvestigationLoop"
+  },
+  "line:0a72a3c": {
+    "text": "사건 관련 메모를 가지고 다시 와서 더 알아봐야겠다.",
+    "node": "Grave_PreInvestigationLoop"
+  },
+  "line:01bcc18": {
+    "text": "안녕!",
+    "node": "Dog_Hello"
+  },
+  "line:0e6ff4b": {
+    "text": "착한 강아지!",
+    "node": "Dog_Hello"
+  },
+  "line:0b02554": {
+    "text": "이 작은 떠돌이 개가 좀 배고파 보이는데...",
+    "node": "Dog_Hello"
+  },
+  "line:0aeed68": {
+    "text": "강아지를 쓰다듬어 줄래?",
+    "node": "Dog_Hello"
+  },
+  "line:0875234": {
+    "text": "응",
+    "node": "Dog_Hello"
+  },
+  "line:0d06767": {
+    "text": "아니",
+    "node": "Dog_Hello"
+  },
+  "line:0543cd5": {
+    "text": "떠돌이 개가 아직도 먹을 걸 달라고 하는 것 같아...",
+    "node": "Dog_StillHungry"
+  },
+  "line:0c67540": {
+    "text": "강아지를 쓰다듬어 볼래?",
+    "node": "Dog_StillHungry"
+  },
+  "line:0adcaac": {
+    "text": "누가 착한 아이지?",
+    "node": "Dog_StillHungry"
+  },
+  "line:012c68d": {
+    "text": "아니",
+    "node": "Dog_StillHungry"
+  },
+  "line:0afbcb7": {
+    "text": "어. 겁먹었나? 숨으려는 것 같은데.",
+    "node": "Dog_Scared"
+  },
+  "line:054edd5": {
+    "text": "강아지를 쓰다듬어 볼래?",
+    "node": "Dog_Scared"
+  },
+  "line:0c88555": {
+    "text": "이리 와, 친구!",
+    "node": "Dog_Scared"
+  },
+  "line:0f9260c": {
+    "text": "갈매기들이 너무 무서운 모양이야...",
+    "node": "Dog_Scared"
+  },
+  "line:0f8c9c7": {
+    "text": "아니",
+    "node": "Dog_Scared"
+  },
+  "line:01d74d0": {
+    "text": "날생선을 뚫어지게 보고 있어...",
+    "node": "Dog_FeedMe"
+  },
+  "line:029e381": {
+    "text": "그래 친구, 이거 너 주는 거야!",
+    "node": "Dog_FeedMe"
+  },
+  "line:01f8c71": {
+    "text": "아, 엄청 신나 보여! 생선을 좋아하나 봐.",
+    "node": "Dog_FeedMe"
+  },
+  "line:0922ce4": {
+    "text": "안 돼! 앉아! 생선은 안 줄 거야!",
+    "node": "Dog_FeedMe"
+  },
+  "line:05b0eb4": {
+    "text": "좀 못 먹은 것 같긴 한데...",
+    "node": "Dog_FeedMe"
+  },
+  "line:0132536": {
+    "text": "그래 그럼! 자!",
+    "node": "Dog_FeedMe"
+  },
+  "line:070263e": {
+    "text": "아, 엄청 신나 보여! 생선을 좋아하나 봐.",
+    "node": "Dog_FeedMe"
+  },
+  "line:037a25a": {
+    "text": "아니! 이건 아직 내가 써야 해!",
+    "node": "Dog_FeedMe"
+  },
+  "line:02eb3c5": {
+    "text": "야, 널 따라오네! 서점에 정말 같이 있고 싶어 하나 봐.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:045be15": {
+    "text": "오, 또 널 따라오네! 서점에 <i>정말</i> 같이 있고 싶어 하나 봐.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0529692": {
+    "text": "집에 데려갈래?",
+    "node": "Dog_AdoptMe"
+  },
+  "line:02e125c": {
+    "text": "응.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0caa734": {
+    "text": "아유, 신났네!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:06d8da0": {
+    "text": "이제 제대로 된 이름만 있으면 돼.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0178031": {
+    "text": "버디",
+    "node": "Dog_AdoptMe"
+  },
+  "line:04b6036": {
+    "text": "마음에 들어 하네!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0cab6d4": {
+    "text": "베헤모스",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0d6d90f": {
+    "text": "좋아, 벌써 그 이름에 반응하는 것 같아!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:02428a8": {
+    "text": "베일리",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0455436": {
+    "text": "마음에 들어 하네!",
+    "node": "Dog_AdoptMe"
+  },
+  "line:08d5fbf": {
+    "text": "안 돼.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0b05566": {
+    "text": "네 책 마차는 꽤 작고 비좁아. 그리고 강아지를 돌볼 시간이 없을 것 같아.",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0c67580": {
+    "text": "정말 귀여워서 마음이 아프지만... 아마 이게 최선이겠지...",
+    "node": "Dog_AdoptMe"
+  },
+  "line:0ad940f": {
+    "text": "착하지, 버디!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:0fe5748": {
+    "text": "착하지, 베헤모스!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:0bd1bca": {
+    "text": "착하지, 베일리!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:0e1c137": {
+    "text": "누가 제일 사랑스러운 아이지?",
+    "node": "Dog_HangingOut1"
+  },
+  "line:01cc083": {
+    "text": "그래, 너야!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:078ecd1": {
+    "text": "아유!",
+    "node": "Dog_HangingOut1"
+  },
+  "line:06032e2": {
+    "text": "좋아 그럼. 오늘은 훈련을 좀 해 보자!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0564f01": {
+    "text": "그래! 짖어 봐!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:08a7cf4": {
+    "text": "놀고 싶어?",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0883bc4": {
+    "text": "물어 와!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:0424ccb": {
+    "text": "굴러!",
+    "node": "Dog_HangingOut2"
+  },
+  "line:075eec3": {
+    "text": "흠, 그건 모르나 보네...",
+    "node": "Dog_HangingOut2"
+  },
+  "line:041081e": {
+    "text": "왜 그래 아가? 무슨 할 말 있어?",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0e457fb": {
+    "text": "멍!",
+    "node": "Dog_HangingOut3"
+  },
+  "line:07cfb3f": {
+    "text": "응? 여기가 좋아?",
+    "node": "Dog_HangingOut3"
+  },
+  "line:096c185": {
+    "text": "버디한테 강아지 침대가 필요할지도 몰라.",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0052fc4": {
+    "text": "베헤모스한테 강아지 침대가 필요할지도 몰라.",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0bb53d4": {
+    "text": "베일리한테 강아지 침대가 필요할지도 몰라.",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0ea3cba": {
+    "text": "신문에서 하나 있나 잘 살펴봐야겠어.",
+    "node": "Dog_HangingOut3"
+  },
+  "line:0cdd100": {
+    "text": "비 좋아해?",
+    "node": "Dog_Rain_Short"
+  },
+  "line:066aa33": {
+    "text": "이제 안으로 들어갈 시간이야, 버디!",
+    "node": "Dog_Rain_Short"
+  },
+  "line:0bfd0d7": {
+    "text": "이제 안으로 들어갈 시간이야, 베헤모스!",
+    "node": "Dog_Rain_Short"
+  },
+  "line:0712cda": {
+    "text": "이제 안으로 들어갈 시간이야, 베일리!",
+    "node": "Dog_Rain_Short"
+  },
+  "line:003451e": {
+    "text": "아직도 널 따라오고 싶어 하는 것 같은데...",
+    "node": "Dog_AdoptThisTime_Post"
+  },
+  "line:0305c7d": {
+    "text": "다시 한번 생각해 보는 게 어때?",
+    "node": "Dog_AdoptThisTime_Post"
+  },
+  "line:063fcde": {
+    "text": "불꽃놀이 기대돼?",
+    "node": "Dog_Bonfire"
+  },
+  "line:0c1fdaf": {
+    "text": "긁어 줄까?",
+    "node": "Dog_Bonfire"
+  },
+  "line:0f834ed": {
+    "text": "새집이 마음에 들어?",
+    "node": "Dog_BookshopEnding"
+  },
+  "line:09464a5": {
+    "text": "새로운 장의 시작이야, 버디!",
+    "node": "Dog_BookshopEnding"
+  },
+  "line:04046ad": {
+    "text": "새로운 장의 시작이야, 베헤모스!",
+    "node": "Dog_BookshopEnding"
+  },
+  "line:0f51135": {
+    "text": "새로운 장의 시작이야, 베일리!",
+    "node": "Dog_BookshopEnding"
+  },
+  "line:0ba6644": {
+    "text": "탈출구가 필요했어",
+    "node": "Fern_Intro"
+  },
+  "line:04a0958": {
+    "text": "내가 속할 곳을 찾으며",
+    "node": "Fern_Intro"
+  },
+  "line:0b44aa6": {
+    "text": "모험을 원했어",
+    "node": "Fern_Intro"
+  },
+  "line:010f0d6": {
+    "text": "아주, 어, 바람이 많이 불어?",
+    "node": "Fern_Intro"
+  },
+  "line:06198f7": {
+    "text": "좀 위압적이야...",
+    "node": "Fern_Intro"
+  },
+  "line:06a611b": {
+    "text": "친절한 것 같아.",
+    "node": "Fern_Intro"
+  },
+  "line:0466824": {
+    "text": "난 늘 알지는 못해.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:07fdf2d": {
+    "text": "잘못 말해도 괜찮아.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:04f3937": {
+    "text": "사람들이 좋은 질문을 해.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0cf2cc6": {
+    "text": "Fern:",
+    "node": "Fern_SeagullReporter_WIP"
+  },
+  "line:02b7fde": {
+    "text": "신비로워.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:07948bd": {
+    "text": "말이 안 돼.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:008ccaf": {
+    "text": "난 시엔 별로 관심 없어.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0c03d07": {
+    "text": "그냥 평소처럼 일.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:02c436f": {
+    "text": "아무것도 아니야! 맹세해!",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:070d93d": {
+    "text": "기억 안 나.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:0442788": {
+    "text": "좁은 출입구로 들어서자, 방 절반을 차지한 거대한 기계식 인쇄기에 눈길이 간다.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:03e8077": {
+    "text": "참 아름다운 장치다. 펀이 정교한 묵직한 금속 부품들을 제자리로 옮기자, 사방으로 솟고 돌아간다.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:06f136a": {
+    "text": "기름과 잉크 냄새가 기분 좋게 난다. 그리고 공기 중에 다른 무언가도 있다. 미묘하지만, 느껴진다. 가능성. 무한한 가능성.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:04327d2": {
+    "text": "기계가 작동하기 시작하더니, 곧 안정되고 매혹적인 리듬에 안착한다.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0b850cc": {
+    "text": "빈 종이들이 하나씩 기계를 통과해 반대편에서 책장으로 변해 나오는 모습이, 거의 마법 같다.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0f528d8": {
+    "text": "아, 지금은 아무도 없는 모양이네.",
+    "node": "Fern_NotInRightNow"
+  },
+  "line:0db955b": {
+    "text": "그는 피시 앤 칩스를 팔아.",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:0fec422": {
+    "text": "난파선에서 나온 잃어버린 보물 상자, 같은 거?",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:07bafac": {
+    "text": "아마 부표가 더 많겠지.",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:0e0c4f1": {
+    "text": "뭘 듣고 있었어?",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0f0417a": {
+    "text": "방해할 생각은 아니었어.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:03cacbb": {
+    "text": "엄청 너드 같아.",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:0ac57cd": {
+    "text": "정말 친절했어.",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:001fd2a": {
+    "text": "펀이 교환 책장 기둥을 끼울 작은 구멍을 파는 걸 돕는다. 수평을 맞추는 데 좀 공이 들지만, 이제 보기 좋다!",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:06d66f0": {
+    "text": "잠깐! 생일 축하해!",
+    "node": "Fern_Birthday_Post"
+  },
+  "line:0f36f57": {
+    "text": "<i>아무 말도 하지 않는다</i>",
+    "node": "Fern_Birthday_Post"
+  },
+  "line:061a9f5": {
+    "text": "Fern:",
+    "node": "Fern_ConcertReporter_WIP"
+  },
+  "line:0c0214a": {
+    "text": "아늑하고 편안해.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0389c5d": {
+    "text": "이동할 수 있던 게 그리울 거야.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:06b3ba8": {
+    "text": "더 크게 키우고 싶어.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0eac724": {
+    "text": "그 풍경에 반했어.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0bb861c": {
+    "text": "사람들이 좋아.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:08a647d": {
+    "text": "여기가 내 집이야.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0de1be5": {
+    "text": "두우울...",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:051ae42": {
+    "text": "하나!",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0c4f3d8": {
+    "text": "잠깐, 그렇게 빨리는 안 돼!",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0f33007": {
+    "text": "열일곱?",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:011caae": {
+    "text": "멀리서 들리는 부드러운 종소리, 손에 든 김 나는 음료, 친구들과의 함께함이 너를 따뜻하게 채운다.",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:07b3dd7": {
+    "text": "안도와 확신이 밀려온다. 한 해 중 가장 어두운 시기가 네 뒤에 있다.",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:053e481": {
+    "text": "어쩌면 약간의 아쉬움과 함께, 벌써 눈이 녹아내리는 것이 느껴진다.",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:02a7b2a": {
+    "text": "조개?",
+    "node": "Harper_Seashells"
+  },
+  "line:0ba1c3f": {
+    "text": "줍는다고?",
+    "node": "Harper_Seashells"
+  },
+  "line:0f55061": {
+    "text": "영광이지.",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:0878a02": {
+    "text": "안 하는 게 낫겠어.",
+    "node": "Harper_Sandcastle03SwordGift_Pre"
+  },
+  "line:08b5950": {
+    "text": "무슨 일이야?",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:0ba01a8": {
+    "text": "나눌 거라도 있어?",
+    "node": "Harper_SandcastlePause_Pre"
+  },
+  "line:05b798d": {
+    "text": "우리가 이 가게에 출몰할 거야!",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:09c2896": {
+    "text": "그냥 애들 좀 놀래 줄 거야.",
+    "node": "Harper_YourHauntedShopSoon"
+  },
+  "line:022d4b5": {
+    "text": "가자!",
+    "node": "Harper_FFFEndTheEvent"
+  },
+  "line:06cc4b8": {
+    "text": "아직 할 일이 있어.",
+    "node": "Harper_FFFEndTheEvent"
+  },
+  "line:0fb9621": {
+    "text": "가자!",
+    "node": "Harper_FFFEndTheEvent_Cutscene"
+  },
+  "line:00157e4": {
+    "text": "아직 할 일이 있어.",
+    "node": "Harper_FFFEndTheEvent_Cutscene"
+  },
+  "line:0c82a65": {
+    "text": "아직 쓰는 중이야.",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:06a2154": {
+    "text": "운전면허 있어?",
+    "node": "Harper_BookshopEnding"
+  },
+  "line:031452d": {
+    "text": "어, 없는데?",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:09d5913": {
+    "text": "왜?",
+    "node": "Harper_CaveQuestIntro"
+  },
+  "line:0c11252": {
+    "text": "가자!",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:00f6b8e": {
+    "text": "어두운 바다 동굴로 들어서자, 바람과 파도의 희미한 속삭임이 들린다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:061fc75": {
+    "text": "깜빡이는 노란 빛줄기가 앞쪽 이끼 낀 동굴 벽을 비춘다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0ee5108": {
+    "text": "흠. 이거 엄청 무책임한 짓 같은데.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0951b7f": {
+    "text": "하퍼가 다음 모퉁이를 엿보려 고개를 돌리자, 흔들리는 빛의 원이 벽의 무언가를 스친다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0754959": {
+    "text": "도무지 눈을 믿을 수가 없다. 모래빛 벽면을 따라 아름다운 필기체 연들이 적혀 있다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0b6f0c5": {
+    "text": "<i>\"불길이 거닐고, 마을은 고통 속에 깨어나네;<br>허나 내 두려움은 오직 그녀 눈에 비친 그 불꽃뿐.\"</i>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0c0cff1": {
+    "text": "<i>\"가망 없는 갈망에 희망 품은 내 심장은 저미고;<br>잿빛 바람이 그토록 잿빛인 그녀 눈길을 향해 부니.\"</i>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0f3be30": {
+    "text": "소네트는 계속 이어지고, 손에 닿을 듯하면서도 닿을 수 없는 연인에 대한 이 이야기에 너는 꽤 마음이 움직인다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:04fcb09": {
+    "text": "흐릿해진 글자 아래, 또 한 줄이 가까스로 읽힌다. 급하게 덧붙인 서명 같다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:013d4c9": {
+    "text": "<i>*바스락*</i>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0fed203": {
+    "text": "하퍼의 손전등 불빛이 방금 네가 밟은 것을 찾아 바닥을 훑자, 너는 겁에 질려 멈춰 선다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:044061e": {
+    "text": "황금빛 조각이 빛을 반사한다. 한때 오래된 가문 문장의 일부였던 것 같다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0754bde": {
+    "text": "동굴의 어슴푸레한 빛 속에서, 하퍼가 떠오르는 질문들을 황급히 적어 내려간다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:09ca849": {
+    "text": "바깥의 스러져 가는 햇빛을 향해 하퍼를 따라간다. 그런데... 여기 들어온 이유가 뭐였더라?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0f358e8": {
+    "text": "<size=120%><b>크어어엉</b><size=100%>",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:031f96d": {
+    "text": "졸리고 오래된 바닷가 마을 북스톤버리의 동굴에서 공룡이 살아남았을 리는 없다고 생각한다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:060517f": {
+    "text": "그래도, 하퍼를 쫓아 내달린다. 굳이 위험을 무릅쓸 필요는 없잖아?",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0712043": {
+    "text": "그물 하나로 물고기 둘? 그건... 흠. 동네 속담인가 보다.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:0338e7d": {
+    "text": "아직.",
+    "node": "Harper_CaveCutscene"
+  },
+  "line:022159b": {
+    "text": "*딸깍*",
+    "node": "Harper_InvestigatesStBookstonBust"
+  },
+  "line:0fa78cd": {
+    "text": "차갑고 축축한 외풍이 아래에서 불어온다. 어슴푸레한 빛 속에선, 굽이진 계단이 얼마나 아래까지 이어질지 가늠하기 어렵다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:051383f": {
+    "text": "하지만 마침내, 손전등이 평평한 돌바닥을 비춘다. 네 앞에 자그마한 방이 펼쳐진다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:00fe3d1": {
+    "text": "천장의 채광창으로 들어오는 마지막 황혼빛이 희미하게 비춘다. 수백 년의 먼지가 공기에 스며 있는 듯하다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:067500a": {
+    "text": "옛 지하 묘소가 떠오를 뻔하다... 벽의 돌 선반에 수십, 수십 권의 책이 늘어서 있지만 않았다면.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:08cade1": {
+    "text": "그렇지. 구석의 삐걱대는 낡은 의자 한 쌍과 촛농으로 덮인 작은 탁자가, 이 공간을... 거의 아늑하게 느껴지게 한다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0942b27": {
+    "text": "갈색과 금색 표지로 손수 엮은 종이 뭉치. 이건 급히 잊힌 게 아니다. 너에게 발견되도록, 준비된 것이다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0d0f6c0": {
+    "text": "엮인 원고 위에 편지 한 통이 놓여 있다. 바로 이거다. 마침내 세인트 북스톤이라는 인물의 진실을 밝혀낼 순간이다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:076cf49": {
+    "text": "하퍼가 돌아서자, 그녀의 손전등이 사라지며 잠시 너는 어둠에 잠긴다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0a3a639": {
+    "text": "두 사람이 함께 가장 행복한 순간들을 보낸 이 비밀 서재를 마지막으로 한 번 바라본다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:01ccc39": {
+    "text": "가슴이 조금 먹먹해지고, 잠시 후 너는 모험심 넘치는 어린 친구를 따라 계단을 서둘러 오른다.",
+    "node": "Harper_CrestInsertedCutscene"
+  },
+  "line:0269128": {
+    "text": "Tourist01: 오오오!",
+    "node": "Harper_MysteryTour_Cutscene"
+  },
+  "line:0948cef": {
+    "text": "표지판에는 이렇게 적혀 있다...",
+    "node": "Harper_SignText"
+  },
+  "line:0f68315": {
+    "text": "\"하퍼의 북스톤버리 공식 투어의 일부.\"",
+    "node": "Harper_SignText"
+  },
+  "line:0bc4d94": {
+    "text": "\"투어 예약은, 1-800-하퍼-투어로 전화하세요.\"",
+    "node": "Harper_SignText"
+  },
+  "line:0c6fdd1": {
+    "text": "\"농담이야, 나 전화기 없어, 하하.\"",
+    "node": "Harper_SignText"
+  },
+  "line:0af6058": {
+    "text": "Harper:",
+    "node": "Harper_KlausShrineComment_WIP"
+  },
+  "line:0ccec8a": {
+    "text": "뭐?",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:045fc3c": {
+    "text": "생일이랑 관련 있어?",
+    "node": "Harper_BirthdayGirl"
+  },
+  "line:0c11214": {
+    "text": "그럴 것 같아.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0bb129f": {
+    "text": "넌 그대로이길 바라.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0604eff": {
+    "text": "난 그대로이길 바라.",
+    "node": "Harper_NewYearsEve"
+  },
+  "line:0c9dbb1": {
+    "text": "Harper:",
+    "node": "Harper_PermanentShopVisit_WIP"
+  },
+  "line:07e51aa": {
+    "text": "넋을 잃을 만큼 멋져.",
+    "node": "Mascot_Intro"
+  },
+  "line:0d55a77": {
+    "text": "<i>바라본다</i>",
+    "node": "Mascot_Intro"
+  },
+  "line:07c4d56": {
+    "text": "<i>떠난다</i>",
+    "node": "Mascot_Intro"
+  },
+  "line:01bff6a": {
+    "text": "틸데.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0548d21": {
+    "text": "당신.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:003e5ae": {
+    "text": "말하고 싶지 않아.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:040c78b": {
+    "text": "응!",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:0b31588": {
+    "text": "글쎄?",
+    "node": "Harper_ActiveMascotInvestigation"
+  },
+  "line:0c73777": {
+    "text": "응.",
+    "node": "Tilde_ConfessionMascot"
+  },
+  "line:0151daa": {
+    "text": "마을이 알 자격이 있어.",
+    "node": "Tilde_ConfessionMascot"
+  },
+  "line:0f6c3c8": {
+    "text": "마리암이 건물 입구 바로 앞에서 너를 맞으며, 초조하게 승강기 쪽으로 어서 가라고 손짓한다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0d151b3": {
+    "text": "여전히 지쳐 보이지만, 머리는 다시 단정하게 쪽을 졌고, 산뜻해 보이려 옷매무새도 가다듬었다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:00f83d2": {
+    "text": "대부분의 병원이 그렇듯, 이 건물은 다 똑같아 보이는 하얀 복도의 미로다. 하지만 마리암은 망설임 없이 앞장선다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:01daa73": {
+    "text": "가슴이 살짝 따끔해지며, 그녀가 사랑하는 이를 걱정하며 이곳에 몇 번이나 와 봤을지 생각한다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0f5a644": {
+    "text": "마침내, 두 사람은 환자실 하얀 문을 정중히 두드리고, 조용히 안으로 들어선다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:007eeaf": {
+    "text": "처음 보이는 병상은 틸데의 것이 아니다. 비슷한 연배의 여인이 가십 잡지 너머로 주름진 미소로 너를 맞는다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0e81ca9": {
+    "text": "역시 틸데는 창가 침대다. 반쯤만 쳐진 칸막이 커튼을 지나, 너는 처음으로 마음을 놓는다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0a25e27": {
+    "text": "틸데가 깨어 미소 짓는 모습 — 막 낮잠에서 깬 듯 비몽사몽하긴 하지만 — 을 둘이 함께 보며, 옆에서 마리암도 같은 안도를 하는 게 느껴진다.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0783d7d": {
+    "text": "심부름 퀘스트는 절대 못 거절하지.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0e26aff": {
+    "text": "원하는 건 뭐든.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:09356a5": {
+    "text": "환자실로 들어서자, 틸데는 눈 내리는 하늘을 바라보고 있고, 생각은 어딘가 멀리 가 있는 듯하다.",
+    "node": "Tilde_HospitalVisit02"
+  },
+  "line:06e9d0d": {
+    "text": "틸데가 마침내 너를 향해 돌아서며 늘 짓던 미소를 띠기 직전, 그 얼굴에 스친 무언가를 마지막으로 흘끗 본다.",
+    "node": "Tilde_HospitalVisit02"
+  },
+  "line:0b095bc": {
+    "text": "틸데처럼 굳건한 사람도 가끔은 길을 잃을 수 있는 모양이다. 하지만 그걸 곱씹을 시간은 많지 않다.",
+    "node": "Tilde_HospitalVisit02"
+  },
+  "line:05044c4": {
+    "text": "어느새 틸데는 어떻게든 너를 구슬려, 그녀가 놓쳤을지 모를 <i>온갖</i> 북스톤버리 소식을 풀어놓게 만든다.",
+    "node": "Tilde_HospitalVisit02"
+  },
+  "line:09fe3bf": {
+    "text": "오늘은 안 좋은 때에 온 모양이다. 공용 환자실엔 지젤만 있다.",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:01d7033": {
+    "text": "그녀가 수술 후 관리에 대해 뭔가 설명하지만, 너는 틸데 침대맡 탁자의 무언가를 발견하고 한 귀로만 듣고 있다.",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:0c6ab41": {
+    "text": "생각할수록, 틸데라면 네가 한번 보는 걸 개의치 않으리라는 확신이 점점 커진다...",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:08c2719": {
+    "text": "와. 틸데가 이렇게 시적일 줄 누가 알았겠어? 그리고 뭐—",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:027be1f": {
+    "text": "지젤이 또 다른 일화로 네 주의를 끌려 큰 소리로 목을 가다듬는 바람에, 네 생각이 갑자기 끊긴다.",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:0438064": {
+    "text": "그녀가 시작하기 전에, 너는 정중히 양해를 구하고 방을 나선다. 승강기 안에서, 주머니 속 편지를 발견한다...",
+    "node": "Tilde_HospitalVisit03"
+  },
+  "line:0ebf8fa": {
+    "text": "오늘은 틸데가 수다스러운 기분이다. 침대 옆 의외로 편안한 의자에 앉으라고 권한다.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:01781d2": {
+    "text": "틸데가 가장 좋아하던 손님들을 떠올리고, 프레야와 가게에 들어온 새 한 마리에 얽힌 이야기를 들려주는 동안 너는 귀 기울여 듣는다.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:02466cd": {
+    "text": "틸데의 눈에 반짝임이 어리고, 그녀가 묘사하는 이 아늑하고 환대 어린 공간이 또렷이 그려진다.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:03db397": {
+    "text": "사람들이 늘 다시 돌아오고 싶어 하던 곳.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:0af3ed5": {
+    "text": "이야기를 하면서 틸데가 동시에 너를 살피며, 네 얼굴에서 무언가를 찾는 듯하다는 걸 깨닫는다.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:033c422": {
+    "text": "무얼 찾는지 모른 채 너도 따뜻하게 미소로 답하는데, 그녀가 답으로 짓는 미소는 어쩌면 그걸 찾았음을 말해 준다.",
+    "node": "Tilde_HospitalVisit04"
+  },
+  "line:0c37e33": {
+    "text": "오늘 면회 시간이 끝났다.",
+    "node": "Tilde_HospitalFallback"
+  },
+  "line:090d585": {
+    "text": "Doctor01: 그래서, 들었어?",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:0fed2ac": {
+    "text": "Doctor02: 뭘? 크루즈 선생 얘기?",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:08fe6f5": {
+    "text": "Doctor01: 응, 듣자 하니 그가—",
+    "node": "Hospital_HotGoss01Start"
+  },
+  "line:0e4b30c": {
+    "text": "Doctor02: 아무튼, 어머님은 어떠셔?",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:0f50d0e": {
+    "text": "Doctor01: 그 새 드라마 본 사람?",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:0172216": {
+    "text": "Doctor03: 흠, 난 너무 비현실적이더라.",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:058bd1e": {
+    "text": "Doctor03: ... 그리고 그렇게 알게 된 거야.",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:0ab1ed9": {
+    "text": "Doctor02: 뭐, 그의 아버지가 한 번도 <i>말 안</i> 했다고?",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:01fc037": {
+    "text": "Doctor03: 응. 다 DNA에 있었어.",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:0517217": {
+    "text": "Doctor01: 임신이 분명—",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:00ffcc9": {
+    "text": "Doctor02: 잠깐, 임신?!",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:09e6ffe": {
+    "text": "Doctor01: 이런. 말이 너무 많았네.",
+    "node": "Hospital_HotGossFallback"
+  },
+  "line:0d560a3": {
+    "text": "그래?",
+    "node": "Hospital_UpToCodeStart"
+  },
+  "line:0d63691": {
+    "text": "멋지지, 그치?",
+    "node": "Hospital_UpToCodeStart"
+  },
+  "line:0da0dc5": {
+    "text": "세상에, 네 말이 맞아!",
+    "node": "Hospital_UpToCodeStart"
+  },
+  "line:090a86f": {
+    "text": "수상한데...",
+    "node": "Hospital_UpToCodeStart"
+  },
+  "line:05aea92": {
+    "text": "Event01: 여름 28일 모닥불",
+    "node": "Journal_Beach"
+  },
+  "line:09ec359": {
+    "text": "Event01: 가을 28일 가을 공포 축제",
+    "node": "Journal_Cafe"
+  },
+  "line:01b67ff": {
+    "text": "Event01: 부두에 크루즈선이 입항했습니다",
+    "node": "Journal_Waterfront"
+  },
+  "line:0a205d3": {
+    "text": "Event02: 매주 수요일 수산시장",
+    "node": "Journal_Waterfront"
+  },
+  "line:05bc2ab": {
+    "text": "Event01: 매주 토요일 벼룩시장",
+    "node": "Journal_Fleamarket"
+  },
+  "line:044e429": {
+    "text": "Event02: 겨울 마지막 2주간 겨울 시장",
+    "node": "Journal_Fleamarket"
+  },
+  "line:038b8c6": {
+    "text": "Event01: 매주 월요일 메가 절약의 날",
+    "node": "Journal_Supermarket"
+  },
+  "line:0a52735": {
+    "text": "Event02: 일요일 휴무",
+    "node": "Journal_Supermarket"
+  },
+  "line:0259365": {
+    "text": "Event01: 매주 금요일 <i>율리우스 카이사르</i> 공연",
+    "node": "Journal_Lighthouse"
+  },
+  "line:08ba225": {
+    "text": "Event02: 목요일 <i>Silens Libri</i> 콘서트",
+    "node": "Journal_Lighthouse"
+  },
+  "line:0d4a5b6": {
+    "text": "Event01: 봄 28일 꽃 축제",
+    "node": "Journal_Park"
+  },
+  "line:00ef8a0": {
+    "text": "Event02: 체스 동아리 월·수요일 모임",
+    "node": "Journal_Park"
+  },
+  "line:059de8b": {
+    "text": "Event03: 화·목요일 요가 모임",
+    "node": "Journal_Park"
+  },
+  "line:04a4a50": {
+    "text": "Event04: 금·일요일 창작 글쓰기 동아리",
+    "node": "Journal_Park"
+  },
+  "line:035bddd": {
+    "text": "Event05: 토요일 스터디 모임",
+    "node": "Journal_Park"
+  },
+  "line:0346463": {
+    "text": "Event01: 여름·겨울 방학 동안 학기 휴식",
+    "node": "Journal_University"
+  },
+  "line:0d4e3b2": {
+    "text": "Event02: 학생들이 현재 시험 기간입니다",
+    "node": "Journal_University"
+  },
+  "line:0dd04bf": {
+    "text": "Event01: 캠프에 있는 피핏 파이어니어를 방문하세요!",
+    "node": "Journal_Castle"
+  },
+  "line:02ea108": {
+    "text": "Event01: 틸데의 수술이 겨울 5일로 예정됨",
+    "node": "Journal_Hospital"
+  },
+  "line:006fb5f": {
+    "text": "Event02: 따뜻한 계절 동안 공동 텃밭 가꾸기",
+    "node": "Journal_Hospital"
+  },
+  "line:0dcfbbf": {
+    "text": "응, 느긋해.",
+    "node": "Klaus_Intro"
+  },
+  "line:0c67b26": {
+    "text": "좀 스트레스야.",
+    "node": "Klaus_Intro"
+  },
+  "line:0ebcd5e": {
+    "text": "실연에 관한 노래?",
+    "node": "Klaus_ConceptAlbum"
+  },
+  "line:019c649": {
+    "text": "취하는 거에 관한 노래?",
+    "node": "Klaus_ConceptAlbum"
+  },
+  "line:0b0e831": {
+    "text": "Klaus:",
+    "node": "Klaus_SandcastlesVisit_WIP"
+  },
+  "line:0ce4708": {
+    "text": "Klaus:",
+    "node": "Klaus_Seashells_WIP"
+  },
+  "line:058c64d": {
+    "text": "나 갈게!",
+    "node": "Klaus_BonfireAnnounced"
+  },
+  "line:08c1626": {
+    "text": "흠, 모르겠어.",
+    "node": "Klaus_BonfireAnnounced"
+  },
+  "line:002725d": {
+    "text": "넌 연주해야 해!",
+    "node": "Klaus_BonfireAnnounced"
+  },
+  "line:0557514": {
+    "text": "어, 행운을 빌어?",
+    "node": "Klaus_PlaysAtBonfire_Pre"
+  },
+  "line:071181a": {
+    "text": "넌 할 수 있어!",
+    "node": "Klaus_PlaysAtBonfire_Pre"
+  },
+  "line:0ff00ec": {
+    "text": "락 정신으로!",
+    "node": "Klaus_PlaysAtBonfire_Pre"
+  },
+  "line:06e50d6": {
+    "text": "그게 현실적이야?",
+    "node": "Klaus_ConcertToday"
+  },
+  "line:0475e11": {
+    "text": "정신 차려!",
+    "node": "Klaus_ConcertToday"
+  },
+  "line:0637388": {
+    "text": "적어도 시도는 해 봐야지.",
+    "node": "Klaus_ConcertToday"
+  },
+  "line:0946d38": {
+    "text": "{0}.",
+    "node": "Klaus_Granddad"
+  },
+  "line:08671dc": {
+    "text": "전혀 모르겠어, 친구.",
+    "node": "Klaus_Granddad"
+  },
+  "line:0bf3e10": {
+    "text": "{0}.",
+    "node": "Klaus_Granddad"
+  },
+  "line:080d615": {
+    "text": "그럼, 그렇게 해.",
+    "node": "Klaus_Granddad"
+  },
+  "line:0104b3e": {
+    "text": "안부 전해 줘!",
+    "node": "Klaus_Granddad"
+  },
+  "line:0fc489a": {
+    "text": "응, 계절이.",
+    "node": "Klaus_BackFromTour01"
+  },
+  "line:0cfff5d": {
+    "text": "새 모자 샀어.",
+    "node": "Klaus_BackFromTour01"
+  },
+  "line:092edc0": {
+    "text": "아니, 그대로야.",
+    "node": "Klaus_BackFromTour01"
+  },
+  "line:0fb56ac": {
+    "text": "변절해.",
+    "node": "Klaus_SellOutStart"
+  },
+  "line:04fb5a3": {
+    "text": "변절해 버려!",
+    "node": "Klaus_SellOutStart"
+  },
+  "line:07d44a0": {
+    "text": "별로.",
+    "node": "Klaus_NewYearsEve"
+  },
+  "line:042e8b6": {
+    "text": "이곳을 내 집으로 만들기.",
+    "node": "Klaus_NewYearsEve"
+  },
+  "line:028627c": {
+    "text": "저가 브랜드 옵션.<br><nobr><b>- 35 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0905923": {
+    "text": "고급 옵션.<br><nobr><b>- 60 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0bdbed9": {
+    "text": "더 좋은 품질을 살 형편이 됐으면 좋겠어.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:01986b6": {
+    "text": "둘 다 살 형편이 안 돼.",
+    "node": "Tomasz_Challenge3WhatToBuy01"
+  },
+  "line:0cb0bf2": {
+    "text": "단순한 것.<br><nobr><b>- 49 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0058d4c": {
+    "text": "고품질.<br><nobr><b>- 99 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0b94722": {
+    "text": "고급 풍경을 살 형편이 됐으면 좋겠어.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:049879f": {
+    "text": "둘 다 살 형편이 안 돼.",
+    "node": "Tomasz_Challenge3WhatToBuy02"
+  },
+  "line:0d855ac": {
+    "text": "접이식 의자.<br><nobr><b>- 60 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:026dc61": {
+    "text": "편안한 의자.<br><nobr><b>- 135 {0}</b></nobr>",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:0752b52": {
+    "text": "디자이너 의자를 살 형편이 됐으면 좋겠어.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:03fe226": {
+    "text": "둘 다 살 형편이 안 돼.",
+    "node": "Tomasz_Challenge3WhatToBuy03"
+  },
+  "line:092cfe5": {
+    "text": "관객석에 다른 이들과 함께 앉으니, 너에게도 긴장이 스며든다. 세상에, 토마시한테 이게 잘되길 정말 바란다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0ef0c60": {
+    "text": "들뜬 잡담이 막이 오르며 서서히 잦아든다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0f0ba6c": {
+    "text": "이 아이들이 얼마나 긴장했는지는 연극 평론가가 아니어도 알 수 있다. 그래도 그 헌신엔 감탄하지 않을 수 없다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0f3827c": {
+    "text": "단 한 순간, — 인정컨대 아주 불편한 — 의자 위에서 너를 걱정스레 들썩이게 하는 장면이 있다...",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0d3e526": {
+    "text": "토마시가 무대 앞에 서 있고, 이마엔 땀이 또렷이 맺히고, 눈동자가 흔들린다. 정말 저렇게 긴장한 걸까?",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0d0406c": {
+    "text": "목소리는 긴장한 것 같지 <i>않은데</i>... 아. 저 조명 때문이구나. 토마시가 과열되기 쉽다고 미리 경고했었지...",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:01164b3": {
+    "text": "하지만 저 소년을 얕봐선 안 된다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0b0925e": {
+    "text": "프로다운 능숙함으로, 그는 이마를 극적으로 닦는 동작을 배역의 대사에 녹여 넣고 넘어간다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:037d0a7": {
+    "text": "공연은 절제되고 단순하지만, 관객이 한마디 한마디에 매달리는 게 느껴진다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:09d7c06": {
+    "text": "그리고 마지막 인사를 위해 막이 오르자, 관객은 무대 위 어린 재능들에게 정중한 박수로 화답한다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:074122e": {
+    "text": "눈 깜짝할 사이에 1막과 2막이 끝나고, 잠시 막이 내려진다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0aa152e": {
+    "text": "다음에 막이 오르자, 새로운 무대가 네 앞에 펼쳐진다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:06c8eb7": {
+    "text": "주위 관객이 로마 원로원의 풍경을 정교하게 손으로 그린 배경에 감탄하며 웅성거린다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0fa69dc": {
+    "text": "부드러운 무대 조명에 무언가 번뜩이는 게 보인다. 카시우스의 소매에 숨겨진 소품 칼이다. 음모자들이 천천히 다가간다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:099692d": {
+    "text": "조명이 더욱 어두워지고 모든 것이 아주 빠르게 벌어지는 듯하다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:081c0f4": {
+    "text": "카스카가 토마시에게 칼을 찔러 넣지만, 아무 일도 없다. 그러다 갑자기, 어린 소년의 옆구리에서 피가 솟구친다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:083c9c4": {
+    "text": "카시우스와 브루투스도 움직이고, 곧 음모를 꾸민 십 대들이 토마시를 바닥에 쓰러뜨리고, 칼을 단단히 쥔 채 그 위에 선다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0934f77": {
+    "text": "그는 피 묻은 의상을 움켜쥐고 반항하듯 올려다보며, 갈라지는 어린 목소리가 담을 수 있는 온갖 배신감을 대사에 실어 낸다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:06680db": {
+    "text": "토마시가 눈을 감고 누워, 아직 숨 쉬는 티를 내지 않으려 애쓰는 동안, 관객은 공포에 질려 지켜본다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0b239cb": {
+    "text": "이 어린 재능들에게 이렇게 높은 제작비를 댄 것에 대해, 너는 속으로 스스로의 어깨를 토닥인다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0366b90": {
+    "text": "그리고 마지막 인사를 위해 막이 오르자, 너는 우레와 같은 박수를 받는 토마시를 향해 미소 짓는다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0aae17f": {
+    "text": "물론, <b>등대 연극단</b>의 십 대들이 흠 하나 없는 건 아니다. 그래도 이 끈기의 성취에 너는 뿌듯함을 느낀다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0c56dee": {
+    "text": "30분쯤 지나자, 오늘 하루가 얼마나 길었는지 문득 깨닫는다. 네 눈꺼풀이 늘 이렇게 무거웠던가?",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:082b81a": {
+    "text": "하지만 지금 졸 순 없어! 졸음과 싸우려 애쓰며, 접이식 의자 위에서 불편하게 몸을 뒤척이기 시작한다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:02e5062": {
+    "text": "네 움직임에 의자의 녹슨 경첩이 큰 소리로 끽끽대자, 뒷줄의 누군가가 너에게 조용히 하라고 한다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0ea9503": {
+    "text": "3막이 다가오자, 너는 관객의 반응을 조심스레 살핀다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0d29fa5": {
+    "text": "절제된 무대 디자인이 누구의 몰입도 방해하지 않는 듯하다. 토마시가 무대에서 쓰러지자 숨 들이쉬는 소리와 걱정스러운 웅성거림이 들린다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0ff88b7": {
+    "text": "음모자들의 칼에 피는 없지만, 토마시의 배신당한 쉰 목소리만으로 관객이 느껴야 할 모든 것이 전해진다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:04b4262": {
+    "text": "더듬거리거나 멈칫하는 것도 다 무리 없이 넘어가는 듯하다. 이 아이들 프로다! 그런데...",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0b37525": {
+    "text": "안토니우스가 무대 앞에 서 있고, 이마엔 땀이 또렷이 맺히고, 눈동자가 흔들린다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0bc7cd4": {
+    "text": "지금이 그의 결정적 순간이야! 근데 무슨 일이지? 정말 저렇게 긴장한 걸까?",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:088e893": {
+    "text": "목소리는 긴장한 것 같지 <i>않은데</i>... 아. 저 조명 때문이구나. 토마시가 과열되기 쉽다고 미리 경고했었지...",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:02dcd72": {
+    "text": "하지만 프로다운 능숙함으로, 안토니우스는 이마를 극적으로 닦는 동작을 배역의 대사에 녹여 넣고 넘어간다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:050d79d": {
+    "text": "공연은 절제되고 단순하지만, 관객이 한마디 한마디에 매달리는 게 느껴진다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0196312": {
+    "text": "마지막 인사를 위해 막이 오르자, 관객은 무대 위 어린 재능들에게 우레와 같은 박수로 화답한다.",
+    "node": "Lighthouse_TheatrePerformance_Cutscene"
+  },
+  "line:0f553df": {
+    "text": "이제 <i>율리우스 카이사르</i> 대사를 거의 외울 지경이다. 공연을 다시 볼래?",
+    "node": "Lighthouse_RepeatPerformance_Cutscene"
+  },
+  "line:07afa31": {
+    "text": "응, 이 연극 정말 좋아!",
+    "node": "Lighthouse_RepeatPerformance_Cutscene"
+  },
+  "line:0a890d4": {
+    "text": "오늘은 이만 끝내는 게 낫겠어.",
+    "node": "Lighthouse_RepeatPerformance_Cutscene"
+  },
+  "line:04b0243": {
+    "text": "Kid03: \"내가 카이사르를 덜 사랑해서가 아니라,\"",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:0e1f5a2": {
+    "text": "Kid03: \"로마를 더 사랑했기 때문이오!\"",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:0f0699b": {
+    "text": "Kid02: 잠깐!",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:0a64591": {
+    "text": "Kid02: 토마시가 나더러 브루투스 하라고 했어!",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:0d3fa56": {
+    "text": "Kid03: 내가 너보다 더 잘하면 아니지.",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:08f248a": {
+    "text": "Kid03: 그치?",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:075d134": {
+    "text": "Kid02: 뭐?! 그건 너무 불공평해!",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:06e85d3": {
+    "text": "Kid02: <i>Sic semper tyrannis...</i>",
+    "node": "Cutscene_FirstRehearsals"
+  },
+  "line:004b3e6": {
+    "text": "Kid01: \"3월의 파도를 조심하라!\"",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:081e826": {
+    "text": "Kid02: 아니, 3월의 <i>파도</i>가 아니라,",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:08d01a0": {
+    "text": "Kid02: 3월의 <i>이데스</i>!",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:021ab5a": {
+    "text": "Kid01: 이데스가 뭔데?",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:014c1af": {
+    "text": "Kid03: 그게 한 달의 중간쯤",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:03c148b": {
+    "text": "Kid03: 뭐 그런 거야.",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:00ad27e": {
+    "text": "Kid04: 얘들아, 다시 본론으로 돌아갈 수 있을까?",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:08eac98": {
+    "text": "Kid01: 알았어... 대사가 뭐였지?",
+    "node": "Lighthouse_TheatreRehearsals_01"
+  },
+  "line:08241fc": {
+    "text": "Kid03: \"내가 카이사르를 덜 사랑해서가 아니라,\"",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:04d3ba4": {
+    "text": "Kid03: \"로마를 더 사랑했기 때문이오!\"",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:0cadc60": {
+    "text": "Kid02: 잠깐!",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:0748977": {
+    "text": "Kid02: 토마시가 나더러 브루투스 하라고 했어!",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:01fac53": {
+    "text": "Kid03: 내가 너보다 더 잘하면 아니지.",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:0214c54": {
+    "text": "Kid03: 그치?",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:014c902": {
+    "text": "Kid02: 뭐?! 그건 너무 불공평해!",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:0c4d7b8": {
+    "text": "Kid02: <i>Sic semper tyrannis...</i>",
+    "node": "Lighthouse_TheatreRehearsals_02"
+  },
+  "line:03ded08": {
+    "text": "Kid04: 칼로 찌르는 장면을 연습하자!",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:0190e02": {
+    "text": "Kid01: 으, 또?",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:0108099": {
+    "text": "Kid04: 동선이 아주 중요해.",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:053f381": {
+    "text": "Kid04: 자, 누가 먼저 가지... 브루투스?",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:032f226": {
+    "text": "Kid02: 응?",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:079ec64": {
+    "text": "Kid03: 응?",
+    "node": "Lighthouse_TheatreRehearsals_03"
+  },
+  "line:0df533f": {
+    "text": "흠... 여기서 뭐가 보이려나...",
+    "node": "Lighthouse_TelescopeIntro"
+  },
+  "line:0712cfc": {
+    "text": "저 멀리 섬이 있어! 어쩌면 거기 보물이... 아니면 퍼핀이 있을지도?",
+    "node": "Lighthouse_TelescopeIntro"
+  },
+  "line:0baf75e": {
+    "text": "응.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0cacc8a": {
+    "text": "아니.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0da84e4": {
+    "text": "일요일.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:082f826": {
+    "text": "월요일.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0d1039f": {
+    "text": "수요일.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0aafa37": {
+    "text": "겨울.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0a39f44": {
+    "text": "가을.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0e73137": {
+    "text": "여름.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:076f4a8": {
+    "text": "따뜻한 거라면 뭐든.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:089730e": {
+    "text": "무서운 거라면 뭐든.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0f6c8da": {
+    "text": "반려동물!",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0302b6b": {
+    "text": "<b>{0}</b>",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0e08c1f": {
+    "text": "<b>{0}</b>",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0300138": {
+    "text": "<b>{0}</b>",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0e9997a": {
+    "text": "크루아상.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0bb8d5c": {
+    "text": "두루미.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0621acf": {
+    "text": "수탉.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0800f97": {
+    "text": "응.",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:0b8aa4d": {
+    "text": "아니.",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:0f6f2ee": {
+    "text": "Maryam:",
+    "node": "Maryam_ConcertSoon_WIP"
+  },
+  "line:07224b3": {
+    "text": "Maryam:",
+    "node": "Maryam_ConcertSoon_WIP"
+  },
+  "line:08a0385": {
+    "text": "Maryam:",
+    "node": "Maryam_ConcertSoon_WIP"
+  },
+  "line:0b3df71": {
+    "text": "Maryam:",
+    "node": "Maryam_ConcertSoon_WIP"
+  },
+  "line:0cd01da": {
+    "text": "어어... 아무도?",
+    "node": "Moira_Intro"
+  },
+  "line:01b6221": {
+    "text": "음, 마리암이 좀...",
+    "node": "Moira_Intro"
+  },
+  "line:0d22ba6": {
+    "text": "이름이 뭐예요?",
+    "node": "Moira_Intro"
+  },
+  "line:02ed79b": {
+    "text": "아니, 이게 내 평소 장식이야.",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0e59df2": {
+    "text": "응, 한 수 둬 봐!",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0e8843f": {
+    "text": "Witch01: *꺄아악*",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0814a97": {
+    "text": "Witch02: 저 으스스한 서점은 뭐야?",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:07c7639": {
+    "text": "Witch01: 으웩",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:05dee3b": {
+    "text": "Witch02: 완전 노잼이네",
+    "node": "Moira_FFFCommittee"
+  },
+  "line:0a2f9c2": {
+    "text": "Witch01: 흠, 또 뭐 있지?",
+    "node": "Moira_FFFCommitteeFallback"
+  },
+  "line:066642c": {
+    "text": "Witch02: 아! 잊지 마!",
+    "node": "Moira_FFFCommitteeFallback"
+  },
+  "line:090d757": {
+    "text": "Witch02: 우리 양초 300개 필요해!",
+    "node": "Moira_FFFCommitteeFallback"
+  },
+  "line:0396c67": {
+    "text": "Moira:",
+    "node": "Moira_HelpStudyDistracting_WIP"
+  },
+  "line:0f8ffff": {
+    "text": "너무 어려워.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0066e67": {
+    "text": "식은 죽 먹기지.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0cf7c72": {
+    "text": "내가 장사하는 방식은 아니야.",
+    "node": "Moira_BLABLACourseStarted"
+  },
+  "line:0c1277b": {
+    "text": "사양할게.",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:06606de": {
+    "text": "응, 부탁해!",
+    "node": "Moira_BLABLATip_Base"
+  },
+  "line:0f9184b": {
+    "text": "사양할게.",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:079909e": {
+    "text": "응, 부탁해!",
+    "node": "Moira_BLABLATip_RecentProgress"
+  },
+  "line:0acc6a2": {
+    "text": "Lighthouse01: 여기 어둡다...",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:06cf444": {
+    "text": "Lighthouse01: 누가 전등 스위치 좀 찾아 줄래?",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:00b4a39": {
+    "text": "Lighthouse02: 으, 거미줄 진짜 많네.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0ae4728": {
+    "text": "<i>모이라를 따라간다</i>",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0cc0ab9": {
+    "text": "<i>탑 꼭대기를 확인한다</i>",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:097f163": {
+    "text": "천천히, 삐걱대는 계단을 올라 등대 꼭대기로 향한다.",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:049ede3": {
+    "text": "Lighthouse03: 오, 말도 안 돼!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:038d44d": {
+    "text": "Lighthouse03: 바로 이거야, 얘들아! 우리가 찾았어!",
+    "node": "Moira_7thRuleSeance"
+  },
+  "line:0555f0d": {
+    "text": "응, 난 영적인 아마추어야.",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:01ad2d5": {
+    "text": "가을 공포 축제 때 유령을 봤어.",
+    "node": "Moira_7thRuleSeanceTodayConversation"
+  },
+  "line:0dcd524": {
+    "text": "생일 축하해!",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0c2fea2": {
+    "text": "오늘 생일 아니야?",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0f1feee": {
+    "text": "좋은 아침.",
+    "node": "Moira_Birthday_Pre"
+  },
+  "line:0319ad2": {
+    "text": "Moira:",
+    "node": "Moira_MaryamsBirthday_WIP"
+  },
+  "line:063121e": {
+    "text": "H1: 타이니 북샵, 북스톤버리에 입성하다",
+    "node": "Main_BookshopIntro"
+  },
+  "line:0eb916b": {
+    "text": "H2: 북스톤버리 새내기, 새 장을 열다 — 이동식 서점으로 주민들을 사로잡다<br>",
+    "node": "Main_BookshopIntro"
+  },
+  "line:010537f": {
+    "text": "H1: 타이니 북샵, 북스톤버리에 입성하다",
+    "node": "Main_FernIntroQuestions"
+  },
+  "line:06f0afb": {
+    "text": "H2: 북스톤버리 새내기, 새 장을 열다<br>",
+    "node": "Main_FernIntroQuestions"
+  },
+  "line:076d612": {
+    "text": "H1: 책을 향한 북스톤버리의 사랑",
+    "node": "Main_BooksInBookstonbury"
+  },
+  "line:0a4ea79": {
+    "text": "H2: 새 타이니 북샵, 뜨거운 논쟁을 불러일으키다<br>",
+    "node": "Main_BooksInBookstonbury"
+  },
+  "line:0ed687c": {
+    "text": "H1: 오늘 밤 등대 메탈 공연",
+    "node": "Main_ConcertTonight"
+  },
+  "line:0ecc1bd": {
+    "text": "H2: 첫 지역 헤비메탈 콘서트를 앞두고 들썩이는 마을<br>",
+    "node": "Main_ConcertTonight"
+  },
+  "line:0d2fabf": {
+    "text": "H1: 1주년 축하해요, 펀!",
+    "node": "Main_FernAnniversary"
+  },
+  "line:0435fee": {
+    "text": "H2: 북스톤버리 리뷰 편집진, 그들의 탁월한 기여를 인정하다<br>",
+    "node": "Main_FernAnniversary"
+  },
+  "line:08905a0": {
+    "text": "H1: 벼룩시장 오늘 단 하루",
+    "node": "Main_Fleamarket_Today"
+  },
+  "line:0abd79a": {
+    "text": "H2: 주최 측, 완벽한 날씨 덕에 사상 최대 인파 예상<br>",
+    "node": "Main_Fleamarket_Today"
+  },
+  "line:0919ad6": {
+    "text": "H1: 시내 중심 가게 텅 비다",
+    "node": "Main_TildeIsMoving01Complete"
+  },
+  "line:0591487": {
+    "text": "H2: 산켈룬드 은퇴 후 옛 서점 정리되다<br>",
+    "node": "Main_TildeIsMoving01Complete"
+  },
+  "line:0bc04cd": {
+    "text": "H1: 서점에 진동하는 불쾌한 냄새",
+    "node": "Main_RawFishSmell"
+  },
+  "line:024b3a6": {
+    "text": "H2: 서점 손님들, 비린내 속에서 책을 둘러봤다 호소<br>",
+    "node": "Main_RawFishSmell"
+  },
+  "line:0a2ddbf": {
+    "text": "H1: 모닥불 준비 한창",
+    "node": "Main_BonfireSoon"
+  },
+  "line:04a4d76": {
+    "text": "H2: 자원봉사자들, 이번 일요일 연례 여름 모닥불에 모두를 초대<br>",
+    "node": "Main_BonfireSoon"
+  },
+  "line:09a3e7d": {
+    "text": "H1: 관광지 북스톤버리",
+    "node": "Main_Continenta"
+  },
+  "line:05f0ef5": {
+    "text": "H2: 북스톤버리 관광의 짧은 역사<br>",
+    "node": "Main_Continenta"
+  },
+  "line:00d8051": {
+    "text": "H1: '율리우스 카이사르' 개막, 관객을 사로잡다",
+    "node": "Main_Play_Review"
+  },
+  "line:04b695c": {
+    "text": "H2: 시대를 초월한 고전의 충실한 재현에 관객이 감명받다<br>",
+    "node": "Main_Play_Review"
+  },
+  "line:08027a8": {
+    "text": "H1: '율리우스 카이사르' 개막",
+    "node": "Main_Play_Review"
+  },
+  "line:046def6": {
+    "text": "H2: 리뷰: 어린 연극단의 칭찬할 만한 노력<br>",
+    "node": "Main_Play_Review"
+  },
+  "line:04bbc06": {
+    "text": "H1: 새 세인트 북스톤 시 발견",
+    "node": "Main_StBookstonInvestigation"
+  },
+  "line:0b3fc15": {
+    "text": "H2: 가장 뜻밖의 장소에서 작가의 정전에 추가될 작품 발견<br>",
+    "node": "Main_StBookstonInvestigation"
+  },
+  "line:0a7eade": {
+    "text": "H1: 북스톤 음모 밝혀지다",
+    "node": "Main_StBookstonReveal"
+  },
+  "line:05b39f4": {
+    "text": "H2: 유명 극작가의 실제 정체 드러나다<br>",
+    "node": "Main_StBookstonReveal"
+  },
+  "line:0336db6": {
+    "text": "H1: 메가 마스코트 악의적으로 훼손",
+    "node": "Main_MascotMurder"
+  },
+  "line:04353b6": {
+    "text": "H2: 정체불명의 가해자에 의해 공기 주입식 북스톤 구멍 나다<br>",
+    "node": "Main_MascotMurder"
+  },
+  "line:04a8a90": {
+    "text": "H1: 공포 축제 코앞으로",
+    "node": "Main_FFFSoon"
+  },
+  "line:0f6002a": {
+    "text": "H2: 일요일 카페 리베르테에서 열리는 연례 행사<br>",
+    "node": "Main_FFFSoon"
+  },
+  "line:04052f0": {
+    "text": "H1: 서점, B.L.A.B.L.A. 일원이 되다",
+    "node": "Main_BLABLAMember"
+  },
+  "line:02ce7b4": {
+    "text": "H2: 사업 협회, 오랜 기다림 끝에 신규 회원을 환영<br>",
+    "node": "Main_BLABLAMember"
+  },
+  "line:004c38b": {
+    "text": "H1: 겨울 꿈나라 곧 개장",
+    "node": "Main_WintermarketSoon"
+  },
+  "line:0567e8d": {
+    "text": "H2: 분위기 있는 시장이 추운 계절을 생기 있게 만들 것<br>",
+    "node": "Main_WintermarketSoon"
+  },
+  "line:0fe916f": {
+    "text": "H1: 올해의 순간 베스트 112",
+    "node": "Main_NYETonight"
+  },
+  "line:0e582da": {
+    "text": "H2: 리뷰가 북스톤버리의 눈부신 한 해를 돌아보다<br>",
+    "node": "Main_NYETonight"
+  },
+  "line:0b72416": {
+    "text": "H1: 리베르테 새 경영진",
+    "node": "Main_CafeManagementChange"
+  },
+  "line:019f102": {
+    "text": "H2: 월시, 데부아의 뒤를 이어 가업의 수장이 되다<br>",
+    "node": "Main_CafeManagementChange"
+  },
+  "line:00815a6": {
+    "text": "H1: 인기 축제의 부활",
+    "node": "Main_FlowerFestSoon"
+  },
+  "line:0babc1a": {
+    "text": "H2: 마을이 봄 행사를 되살리다<br>",
+    "node": "Main_FlowerFestSoon"
+  },
+  "line:004eebe": {
+    "text": "H1: 창작 원고 모집",
+    "node": "Main_CallForManuscripts"
+  },
+  "line:039ba8f": {
+    "text": "H2: 지금 인쇄 프로젝트에 당신의 글을 출품하세요!<br>",
+    "node": "Main_CallForManuscripts"
+  },
+  "line:0196fd5": {
+    "text": "H1: 새 인쇄소, 누구에게나 개방",
+    "node": "Main_PrintingPressRestored"
+  },
+  "line:0964a27": {
+    "text": "H2: 지금 SBU 캠퍼스를 방문해 당신만의 인쇄물을 받으세요!<br>",
+    "node": "Main_PrintingPressRestored"
+  },
+  "line:0db5fea": {
+    "text": "H1: 사랑받던 책의 안식처, 재개장",
+    "node": "Main_FernNewBookshopInterview"
+  },
+  "line:0991c1a": {
+    "text": "H2: 산켈룬드, 최근 은퇴 후 후계자를 정하다<br>",
+    "node": "Main_FernNewBookshopInterview"
+  },
+  "line:0e26fcf": {
+    "text": "H1: 브라보, 북스톤버리 수재들!",
+    "node": "Main_Graduation"
+  },
+  "line:0f5a90c": {
+    "text": "H2: 대학, 졸업생 사상 최고 평균 학점을 기념<br>",
+    "node": "Main_Graduation"
+  },
+  "line:020e175": {
+    "text": "H1: 공원의 활기찬 취미 활동",
+    "node": "Main_ParkGroups"
+  },
+  "line:0c3dc7b": {
+    "text": "H2: 새단장한 라이 공원이 야외 동아리들을 끌어모으다<br>",
+    "node": "Main_ParkGroups"
+  },
+  "line:0dc3525": {
+    "text": "H1: 워터프런트에 칩 가게 개업",
+    "node": "Main_WaltNewShop"
+  },
+  "line:02eb342": {
+    "text": "H2: 주민들, 새 단골 아지트를 찾을지도<br>",
+    "node": "Main_WaltNewShop"
+  },
+  "line:0b15bcb": {
+    "text": "H1: 지역 밴드의 빠른 성공 가도",
+    "node": "Main_KlausStartsTour"
+  },
+  "line:0e29e79": {
+    "text": "H2: <i>Silens Libri</i>, 전국 투어에 나서고, 팬들은 열광<br>",
+    "node": "Main_KlausStartsTour"
+  },
+  "line:01854b9": {
+    "text": "H1: 오늘은 타이니 북샵 기념일",
+    "node": "Main_OneYearAnniversary"
+  },
+  "line:0cd5dee": {
+    "text": "H2: 이동식 사업, 두 번째 해로 출범<br>",
+    "node": "Main_OneYearAnniversary"
+  },
+  "line:0e98482": {
+    "text": "H1: 서점지기, 계속 책을 팔다",
+    "node": "Main_SalesReport"
+  },
+  "line:0396abb": {
+    "text": "H2: 우리 동네 서점지기의 근황<br>",
+    "node": "Main_SalesReport"
+  },
+  "line:05797ac": {
+    "text": "H2: 동쪽을 향한 분침 사라지다",
+    "node": "Support_MinuteHand"
+  },
+  "line:00bc804": {
+    "text": "H2: 수산시장이 갈매기 떼를 불러들이다",
+    "node": "Support_Fishmarket"
+  },
+  "line:0619476": {
+    "text": "H2: 오늘 밤 유성우 예상",
+    "node": "Support_MeteorShowers"
+  },
+  "line:0a74bb7": {
+    "text": "H2: 모닥불 밤에 뜨거운 인파",
+    "node": "Support_BonfireSuccess"
+  },
+  "line:002d0df": {
+    "text": "H2: 부표로 어수선해진 만",
+    "node": "Support_WaltBuoys"
+  },
+  "line:0d5a08c": {
+    "text": "H2: 갈매기들이 해변을 위협하다",
+    "node": "Support_SeagullInvasion"
+  },
+  "line:0311404": {
+    "text": "H2: 서점, 성을 방문하다",
+    "node": "Support_CastleVisit"
+  },
+  "line:0d3bfc9": {
+    "text": "H2: 학생들을 위한 새 읽을거리",
+    "node": "Support_UniVisit"
+  },
+  "line:0f28f61": {
+    "text": "H2: 등대에서 즐기는 분위기 있는 읽을거리",
+    "node": "Support_LighthouseVisit"
+  },
+  "line:0088cbb": {
+    "text": "H2: 오늘의 훈훈한 이야기",
+    "node": "Support_DogAdopted"
+  },
+  "line:0060fd8": {
+    "text": "H2: ~ 으스스한 하루 되세요 ~",
+    "node": "Support_FearFestToday"
+  },
+  "line:02e5adc": {
+    "text": "H2: 대학 중퇴자 수 증가",
+    "node": "Support_UniDropouts"
+  },
+  "line:0885533": {
+    "text": "H2:",
+    "node": "Support_HospitalVisit_WIP"
+  },
+  "line:0d00362": {
+    "text": "Body:",
+    "node": "Support_HospitalVisit_WIP"
+  },
+  "line:0f00b93": {
+    "text": "H2:",
+    "node": "Support_WintermarketStartToday_WIP"
+  },
+  "line:003b4f3": {
+    "text": "Body:",
+    "node": "Support_WintermarketStartToday_WIP"
+  },
+  "line:0ceb033": {
+    "text": "H2:",
+    "node": "Support_NewStageBuilt_WIP"
+  },
+  "line:086819d": {
+    "text": "Body:",
+    "node": "Support_NewStageBuilt_WIP"
+  },
+  "line:0e222df": {
+    "text": "H2:",
+    "node": "Support_ParkUnlock_WIP"
+  },
+  "line:0c7a3b6": {
+    "text": "Body:",
+    "node": "Support_ParkUnlock_WIP"
+  },
+  "line:0c34af4": {
+    "text": "H2:",
+    "node": "Support_FlowerFestToday_WIP"
+  },
+  "line:0e96212": {
+    "text": "Body:",
+    "node": "Support_FlowerFestToday_WIP"
+  },
+  "line:0ed695d": {
+    "text": "H2:",
+    "node": "Support_EndgameStarted_WIP"
+  },
+  "line:0286ba2": {
+    "text": "Body:",
+    "node": "Support_EndgameStarted_WIP"
+  },
+  "line:07e1d4c": {
+    "text": "H2:",
+    "node": "Support_ScoutCamp_WIP"
+  },
+  "line:09ae793": {
+    "text": "Body:",
+    "node": "Support_ScoutCamp_WIP"
+  },
+  "line:0c30dd2": {
+    "text": "H2:",
+    "node": "Support_FlowerFestWinner_WIP"
+  },
+  "line:00edeb8": {
+    "text": "Body:",
+    "node": "Support_FlowerFestWinner_WIP"
+  },
+  "line:0261236": {
+    "text": "H2:",
+    "node": "Support_CrazedCannoneer_WIP"
+  },
+  "line:0bfe995": {
+    "text": "Body:",
+    "node": "Support_CrazedCannoneer_WIP"
+  },
+  "line:0abcfff": {
+    "text": "H2:",
+    "node": "Support_HikingTrailOpened_WIP"
+  },
+  "line:056c379": {
+    "text": "Body:",
+    "node": "Support_HikingTrailOpened_WIP"
+  },
+  "line:0a53eb8": {
+    "text": "H2:",
+    "node": "Support_SeaCaveNoises_WIP"
+  },
+  "line:03a2e42": {
+    "text": "Body:",
+    "node": "Support_SeaCaveNoises_WIP"
+  },
+  "line:00856b6": {
+    "text": "H2:",
+    "node": "Support_HospitalRomance_WIP"
+  },
+  "line:010bc37": {
+    "text": "Body:",
+    "node": "Support_HospitalRomance_WIP"
+  },
+  "line:004c068": {
+    "text": "H2:",
+    "node": "Support_NewSeasonBegins_WIP"
+  },
+  "line:00eafb1": {
+    "text": "Body:",
+    "node": "Support_NewSeasonBegins_WIP"
+  },
+  "line:00f37d2": {
+    "text": "H2:",
+    "node": "Support_ZeroBooks_WIP"
+  },
+  "line:0a2e708": {
+    "text": "H2:",
+    "node": "Support_HundredBooks_WIP"
+  },
+  "line:0c1e9e0": {
+    "text": "H2:",
+    "node": "Support_ScienceFair_WIP"
+  },
+  "line:09343ac": {
+    "text": "H2:",
+    "node": "Support_MegaDeal_WIP"
+  },
+  "line:01747ea": {
+    "text": "H2:",
+    "node": "Support_SciFi_WIP"
+  },
+  "line:0196a6d": {
+    "text": "H2:",
+    "node": "Support_ZeroMoney_WIP"
+  },
+  "line:03c78bf": {
+    "text": "H2:",
+    "node": "Support_Cricket01_WIP"
+  },
+  "line:0f52bbc": {
+    "text": "H2:",
+    "node": "Support_Cricket02_WIP"
+  },
+  "line:0ec0b4c": {
+    "text": "H2:",
+    "node": "Support_Kitschy_WIP"
+  },
+  "line:025a134": {
+    "text": "H2:",
+    "node": "Support_Brewery_WIP"
+  },
+  "line:0d33611": {
+    "text": "H2:",
+    "node": "Support_SemesterStart_WIP"
+  },
+  "line:08d6e92": {
+    "text": "H2:",
+    "node": "Support_NoBreak_WIP"
+  },
+  "line:0d06c56": {
+    "text": "Writer05: 환영해요!",
+    "node": "Park_WritingGroup_Welcome"
+  },
+  "line:01adc25": {
+    "text": "Writer01: 응?",
+    "node": "Park_WritingGroup_Fallback"
+  },
+  "line:0df4f5c": {
+    "text": "Writer01: 별들이 영감을 주네...",
+    "node": "Park_WritingGroup_Late"
+  },
+  "line:0fef48a": {
+    "text": "Writer01: 하지만 아아, 시간이 늦어 가는군.",
+    "node": "Park_WritingGroup_Late"
+  },
+  "line:0c00081": {
+    "text": "Writer01: 야!",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:024bcae": {
+    "text": "Writer01: 좋아, 다들 잘 들어 봐!",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:0277831": {
+    "text": "<i>다음 단체 활동에 참여한다</i>",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:04bd268": {
+    "text": "<i>누군가에게 영감을 준다</i>",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:09527f6": {
+    "text": "<i>새 책을 구한다</i>",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:0839fa8": {
+    "text": "모두가 놀랍게도, 너는 완성한 원고 한 부를 들어 올린다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0317cbd": {
+    "text": "네가 가장 좋아하는 단락을 읽기 시작하자, 갓 마른 타자기 잉크의 기분 좋은 냄새가 공원에 퍼진다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0f5744a": {
+    "text": "앞에 있는 무리가 부지런히 듣는다. 누군가는 펜 끝을 무심코 씹으며 필기까지 한다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0827b71": {
+    "text": "발표를 마치자, 흩어진 박수가 호기심 어린 행인 몇몇의 주의를 끈다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:02f80bc": {
+    "text": "작업하던 타자 친 초안을 꺼내자, 불안에 속이 철렁 내려앉는다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:06197bc": {
+    "text": "갑자기, 눈앞 종이 위의 글이 우스꽝스럽게 들리지만, 초조하게 목을 가다듬고 어쨌든 읽기 시작한다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:04e22f6": {
+    "text": "작업하던 타자 친 초안을 꺼내자, 불안에 속이 철렁 내려앉는다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0c0a4c4": {
+    "text": "갑자기, 눈앞 종이 위의 글이 두서없게 들리지만, 초조하게 목을 가다듬고 어쨌든 읽기 시작한다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0596c41": {
+    "text": "작업하던 타자 친 초안을 꺼내자, 불안에 속이 철렁 내려앉는다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:03b799f": {
+    "text": "갑자기, 눈앞 종이 위의 글이 한심하게 들리지만, 초조하게 목을 가다듬고 어쨌든 읽기 시작한다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:050988a": {
+    "text": "몇몇이 손을 들자, 너는 그들의 신랄할지 모를 평가에 대비해 마음을 다잡는다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:07bc39d": {
+    "text": "하지만 놀랍게도, 전반적인 평은 꽤 긍정적이고, 너는 칭찬과 계속 쓰라는 격려를 받는다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0bbac49": {
+    "text": "다른 몇몇 멤버가 머뭇거리며 손을 드는 동안, 너는 기대를 누른다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0a5db50": {
+    "text": "Writer02: 내가 해 볼게.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:03a1b11": {
+    "text": "놀랍게도, 너는 그 작가의, 분쟁에 휩싸인 고향과 떠나기로 한 결심에 관한 씁쓸달콤한 이야기에 순식간에 빠져든다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0a4a23a": {
+    "text": "그건 잠시 너를 돌아보게 하고, 네가 서 있는 이 아름답고 평화로운 마을에 대한 감사로 가슴이 벅차오른다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:07c783d": {
+    "text": "Writer03: 안녕!",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:049c539": {
+    "text": "그들이 자기 연극의 복잡한 정치적 줄거리를 설명하며 말이 길어지자, 멍 때리지 않기가 점점 어려워진다...",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:02039c0": {
+    "text": "잠시 눈을 감고 얼굴에 닿는 따뜻한 바람을 즐긴다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0d9cecb": {
+    "text": "다 따져 봐도, 여기 모두가 자기 일에 이렇게 열정적인 건 정말 영감을 준다.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:015d03b": {
+    "text": "Writer04: 안녕!",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:00707e6": {
+    "text": "Writer01: 그래...",
+    "node": "Park_WritingGroup_Shop"
+  },
+  "line:07b83a8": {
+    "text": "익숙해.",
+    "node": "Park_ChessGroup_Welcome"
+  },
+  "line:0abb494": {
+    "text": "난 체커밖에 몰라.",
+    "node": "Park_ChessGroup_Welcome"
+  },
+  "line:0ba7eaf": {
+    "text": "Senior01: 하!<br>체크메이트!",
+    "node": "Park_ChessGroup_Fallback"
+  },
+  "line:0679855": {
+    "text": "Senior02: 흥.",
+    "node": "Park_ChessGroup_Fallback"
+  },
+  "line:0bb5938": {
+    "text": "Senior02: 재대결 신청.",
+    "node": "Park_ChessGroup_Fallback"
+  },
+  "line:006f898": {
+    "text": "Senior01: 미안, 오늘은 더는 게임 없어.",
+    "node": "Park_ChessGroup_Late"
+  },
+  "line:02a7b46": {
+    "text": "Senior02: 내 취침 시간 한참 지났거든.",
+    "node": "Park_ChessGroup_Late"
+  },
+  "line:0045dbc": {
+    "text": "<i>새 체스 게임에 참여한다</i>",
+    "node": "Park_ChessGroup_Hub"
+  },
+  "line:0a06b04": {
+    "text": "<i>누군가에게 추천을 해 준다</i>",
+    "node": "Park_ChessGroup_Hub"
+  },
+  "line:0114c37": {
+    "text": "<i>새 책을 구한다</i>",
+    "node": "Park_ChessGroup_Hub"
+  },
+  "line:025a964": {
+    "text": "흑.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0e387e0": {
+    "text": "게임은 꽤 평범하게 시작된다. 상대가 퀸스 갬빗을 두기로 한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0a77aed": {
+    "text": "갬빗을 받아들이고 상대의 폰들을 잡기 시작한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0a4ff4d": {
+    "text": "냠, 폰 하나 더. 기분 좋은데.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:002a7a5": {
+    "text": "하지만... 그게 바로 상대가 원하던 거였어!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0b90e30": {
+    "text": "어떻게 된 건지 정확히는 모르겠지만, 상대가 재빠르게 기물을 전개하자, 네 킹이 큰 위기에 빠진다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0817b63": {
+    "text": "아직 캐슬링도 안 한 킹은, 감자 자루처럼 보드 한복판에 발이 묶여 있다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:045aca3": {
+    "text": "필사적으로 방어하지만 압박이 어마어마하다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:022410c": {
+    "text": "체크메이트를 막으려는 필사적 시도 끝에 퀸을 잃자, 너는 경기를 포기하기로 한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0c2dc81": {
+    "text": "백.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:045e6b8": {
+    "text": "체스를 잘하진 못하지만, 기본 오프닝 몇 개는 안다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0ff19f1": {
+    "text": "잉글리시 오프닝을 두기로 한다. 견실한 선택. 여기선 별 탈 없겠지.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0f7f15b": {
+    "text": "상대는 안전하게 두며 네 오프닝에 도전하지 않는다. 모든 기물을 전개하고 나니, 너는 이기는 형세다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0454baf": {
+    "text": "압박을 느낀 상대가 공세로 나서기로 하지만, 미심쩍은 몇 수 끝에 너는 그의 비숍을 가두어 잡는 데 성공한다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:06dbc7f": {
+    "text": "둘 다 반대편으로 캐슬링을 하기로 하고, 이제 적의 폰 진영을 무너뜨리는 게 관건이다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0f817b1": {
+    "text": "우세를 잡은 너는 상대 진영으로 폰들을 던지기 시작한다. 날아라, 이 바보들아!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:074852b": {
+    "text": "폰 진영이 무너지고, 너는 네 라이트 스퀘어 비숍의 보호를 받는 퀸을 그곳에 들이는 데 성공한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:03cb084": {
+    "text": "흑.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0fe45b6": {
+    "text": "상대가 잉글리시 오프닝을 두기로 한다. 견실한 선택이지만, 너도 받아칠 줄 안다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0198975": {
+    "text": "상대가 안전하게 두기에 너는 그의 오프닝에 도전하기 시작한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0f45980": {
+    "text": "그의 폰 구조를 무너뜨리고 보드의 주도권을 쥐자, 너는 이기는 형세다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:048e07f": {
+    "text": "압박을 느낀 상대가 공세로 나서기로 하지만, 미심쩍은 몇 수 끝에 너는 그의 비숍을 가두어 잡는 데 성공한다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0bbbcd4": {
+    "text": "둘 다 반대편으로 캐슬링을 하기로 하고, 이제 적의 폰 진영을 무너뜨리는 게 관건이다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:04dd223": {
+    "text": "우세를 잡은 너는 상대 진영으로 폰들을 던지기 시작한다. 날아라, 이 촌놈들아!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0b84c1b": {
+    "text": "폰 진영이 무너지고, 너는 네 라이트 스퀘어 비숍의 보호를 받는 퀸을 그곳에 들이는 데 성공한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0fba63e": {
+    "text": "백.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0669ce2": {
+    "text": "게임은 꽤 평범하게 시작된다. 너는 퀸스 갬빗을 두기로 한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0e2e821": {
+    "text": "상대가 갬빗을 받아들이고 네 폰들을 잡기 시작한다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0624837": {
+    "text": "폰 하나 더. 좋아, 다 계획대로야.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:05edd7d": {
+    "text": "상대가 네 폰을 잡느라 쓰는 시간을 이용해 기세를 끌어올린다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0dc31e6": {
+    "text": "하지만 재앙이 닥친다! 어떻게 된 건지 정확히는 모르겠지만, 나이트를 엉뚱한 칸으로 옮겨서 잡히고 만다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0d6845b": {
+    "text": "보드 한복판에 폰이 하나도 안 남자, 네 킹은 감자 자루처럼 그냥 거기 앉아 있다!",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:04f05e2": {
+    "text": "나이트, 비숍, 퀸의 무시무시한 합동 공격이 이어지고, 너는 달아날 곳이 없다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0f2a664": {
+    "text": "경기를 이어 가려 기물을 희생하기 시작하지만, 이미 너무 늦었다.",
+    "node": "Park_ChessGroup_Activity"
+  },
+  "line:0f54978": {
+    "text": "Senior01: 오오, 안녕.",
+    "node": "Park_ChessGroup_Recommendation"
+  },
+  "line:00c460b": {
+    "text": "Senior02: 다들!",
+    "node": "Park_ChessGroup_Shop"
+  },
+  "line:0068f8d": {
+    "text": "Student02: 환영해요!",
+    "node": "Park_StudyGroup_Welcome"
+  },
+  "line:0928ff8": {
+    "text": "Student01: 독서 시간이에요, 여러분!",
+    "node": "Park_StudyGroup_Welcome"
+  },
+  "line:0fd515c": {
+    "text": "Student02: 쉿!",
+    "node": "Park_StudyGroup_Fallback"
+  },
+  "line:033a93f": {
+    "text": "Student02: 독서 시간엔 대화를 최소한으로 해 주세요.",
+    "node": "Park_StudyGroup_Fallback"
+  },
+  "line:08d6087": {
+    "text": "Student02: 미안해요, 오늘은 정리하는 중이라서요.",
+    "node": "Park_StudyGroup_Late"
+  },
+  "line:04ca882": {
+    "text": "Student02: 저기...",
+    "node": "Park_StudyGroup_Hub"
+  },
+  "line:062fe96": {
+    "text": "Student02: 좋아요!",
+    "node": "Park_StudyGroup_Hub"
+  },
+  "line:09913dd": {
+    "text": "<i>공부에 참여한다</i>",
+    "node": "Park_StudyGroup_Hub"
+  },
+  "line:06919c9": {
+    "text": "<i>누군가에게 책을 추천한다</i>",
+    "node": "Park_StudyGroup_Hub"
+  },
+  "line:0afa992": {
+    "text": "<i>새 책을 구한다</i>",
+    "node": "Park_StudyGroup_Hub"
+  },
+  "line:0973824": {
+    "text": "주위의 학구적인 사람들에 자극받아, 바쁜 하루 중 시간을 내어 새 주제를 공부한다.",
+    "node": "Park_StudyGroup_Activity"
+  },
+  "line:0a911ce": {
+    "text": "서점지기조차 가끔은 그 모든 걸 따라가기 벅차니까.",
+    "node": "Park_StudyGroup_Activity"
+  },
+  "line:081dec7": {
+    "text": "넋을 잃고 빠져들어, 한 번도 생각해 본 적 없던 삶의 또 다른 면을 발견한다.",
+    "node": "Park_StudyGroup_Activity"
+  },
+  "line:0b736fa": {
+    "text": "세상의 또 다른 어두운 구석에 빛이 드는 게 거의 느껴지고, 너는 햇빛을 올려다보며 눈을 깜빡인다.",
+    "node": "Park_StudyGroup_Activity"
+  },
+  "line:0a8e17b": {
+    "text": "다른 멤버도 고개를 들고, 모임이 끝날 때까지 둘은 새로 얻은 깨달음을 신나게 나눈다.",
+    "node": "Park_StudyGroup_Activity"
+  },
+  "line:008fc3d": {
+    "text": "Student01: 오, 안녕...",
+    "node": "Park_StudyGroup_Recommendation"
+  },
+  "line:050a1fd": {
+    "text": "Student03: 안녕...",
+    "node": "Park_StudyGroup_Shop"
+  },
+  "line:09ce4f7": {
+    "text": "<i>준비운동에 참여한다</i>",
+    "node": "Park_YogaGroup_Hub"
+  },
+  "line:0066e81": {
+    "text": "<i>누군가에게 독서 팁을 준다</i>",
+    "node": "Park_YogaGroup_Hub"
+  },
+  "line:0a8a0f6": {
+    "text": "<i>새 책을 구한다</i>",
+    "node": "Park_YogaGroup_Hub"
+  },
+  "line:041ed8b": {
+    "text": "여기까진 순조롭다. 막 차분함이 자리 잡는 걸 느끼기 시작하는데, 동료 요가 수강생들이 갑자기 플랭크 자세를 취한다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:075f35f": {
+    "text": "재빨리 따라잡으려 하지만, 온몸의 체중을 버티려는 팔 근육이 비명을 지르며 떨린다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:07c15ce": {
+    "text": "리듬에 맞춰 숨을 들이쉬고 내쉬는 단순한 일이 이제 불가능해 보이고, 이마에 땀이 흐르는 게 느껴진다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0b8008c": {
+    "text": "이게 어떻게 <i>준비운동</i>일 뿐이라는 거지?",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0a90d14": {
+    "text": "45분과 스무 번쯤의 전사 자세 끝에, 마침내 요가 매트에 납작 누워 네 선택을 곱씹는다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:063343c": {
+    "text": "하루 종일 서점 안에 갇혀 있다가 여기 햇빛 아래서 몸을 펴니 기분이 좋다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0aa0711": {
+    "text": "그리고 근육이 어려운 자세를 버티려 안간힘을 쓰는 동안에도, 너는 호흡을 꾸준히 유지하는 데 성공한다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0d2500b": {
+    "text": "힘을 쓰니 심장 박동이 빨라지고 얼굴로 피가 몰린다. 너는... 생기를 되찾은 기분이다. 살아 있다.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:05dae11": {
+    "text": "흠. 이 운동이라는 게, 알고 보니 생각만큼 나쁘진 않네.",
+    "node": "Park_YogaGroup_Activity"
+  },
+  "line:0411910": {
+    "text": "타이니 북스왑이다!",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0619a0d": {
+    "text": "그야말로 이웃 간 선의의 본보기.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:056e64e": {
+    "text": "<i>새 읽을거리가 있나 확인한다</i>",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0bc6b25": {
+    "text": "저것 좀 봐! 숨은 보석이 눈길을 끈다.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:01cd296": {
+    "text": "그 책을 빼고 네 책 한 권으로 채워 둔다.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0ec9be4": {
+    "text": "흐음, 다 좀 평범하긴 한데, 이건 가벼운 읽을거리로 괜찮겠어.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:08c89bf": {
+    "text": "그 책을 빼고 네 책 한 권으로 채워 둔다.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:01a5203": {
+    "text": "한참 둘러봐도, 딱히 마음을 끄는 게 없다.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0a272fa": {
+    "text": "어쨌든 너는 예리한 문학적 안목을 지녔으니까.",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0605b47": {
+    "text": "<i>책들을 바라본다</i>",
+    "node": "SwapShelf_BaseLoop"
+  },
+  "line:0043cd4": {
+    "text": "공원의 다른 이들을 위해 좀 남겨 두는 게 좋겠어.",
+    "node": "SwapShelf_Fallback"
+  },
+  "line:0072178": {
+    "text": "<i>그래도 책들을 바라본다</i>",
+    "node": "SwapShelf_Fallback"
+  },
+  "line:0c0fa15": {
+    "text": "<i>떠난다</i>",
+    "node": "SwapShelf_Fallback"
+  },
+  "line:04f6adb": {
+    "text": "게시판에 전단이 여러 장 붙어 있다.",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:036c237": {
+    "text": "<i>전단을 살펴본다</i>",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:0ec8cbe": {
+    "text": "\"체스 애호가를 자처하시나요? <b>월요일</b>과 <b>수요일</b>에 시니어 체스 동아리에 함께하세요!\"",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:098a171": {
+    "text": "\"매주 <b>화요일</b>과 <b>목요일</b> 공동 요가 수업. 와서 차크라를 열어 보세요!\"",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:0ec463c": {
+    "text": "\"우리 창작 글쓰기 모임은 <b>금요일</b>과 <b>일요일</b>에 만나요...",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:08c2bf5": {
+    "text": "...우리는 취미 작가와 전문 작가의 모임으로, 모든 수준을 환영합니다.\"",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:090aff8": {
+    "text": "\"안녕, 여긴 북스톤 대학 스터디 모임이야! <b>토요일</b>에 만나는데, 날씨가 좋을 때만!\"",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:087110f": {
+    "text": "<i>떠난다</i>",
+    "node": "NoticeBoard_BaseLoop"
+  },
+  "line:0fe0a98": {
+    "text": "흥미를 끄는 게 없다.",
+    "node": "NoticeBoard_Fallback"
+  },
+  "line:019125f": {
+    "text": "기뻐하라! 올해도 북스톤버리의 연례 꽃 축제가 돌아왔다!",
+    "node": "NoticeBoard_FlowerFest"
+  },
+  "line:019d98c": {
+    "text": "하퍼의 작품을 꼼꼼히 살펴본다.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0de79f4": {
+    "text": "두 작품이 합쳐져 화산 멸종 사건을 묘사한 것 같다... 가엾은 블루모사우루스.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0cb0ef4": {
+    "text": "응.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:090d89d": {
+    "text": "<i>3점을 준다</i>",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:04887ad": {
+    "text": "<i>2점을 준다</i>",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:02b1dd8": {
+    "text": "<i>1점을 준다</i>",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:04873bf": {
+    "text": "<i>떠난다</i>",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:06f0f82": {
+    "text": "아직.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:042cf80": {
+    "text": "<i>Les Fleurs Du Mal</i> 작품을 꼼꼼히 살펴본다.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:05b0637": {
+    "text": "흠. 정말이지 콕 집기 어렵네... 이게 뭘 떠오르게 하는 거지?",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0335863": {
+    "text": "응.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:00971a4": {
+    "text": "<i>3점을 준다</i>",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:02592de": {
+    "text": "<i>2점을 준다</i>",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0961b01": {
+    "text": "<i>1점을 준다</i>",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0cbd1a4": {
+    "text": "<i>떠난다</i>",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0cee4ec": {
+    "text": "아직.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0171cb6": {
+    "text": "월트와 펀의 작품을 꼼꼼히 살펴본다.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:007110e": {
+    "text": "단순하지만, 동시에 사랑스럽다. 펀과 월트가 이렇게 합이 잘 맞을 줄 누가 알았겠어?",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:03c56fa": {
+    "text": "응.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0b37965": {
+    "text": "<i>3점을 준다</i>",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:013c67a": {
+    "text": "<i>2점을 준다</i>",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:027ebe5": {
+    "text": "<i>1점을 준다</i>",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0b33025": {
+    "text": "<i>떠난다</i>",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0ca7ea8": {
+    "text": "아직.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0569741": {
+    "text": "와. 이 둘은 서로 꽤 편해진 것 같네.",
+    "node": "FlowerFestival_JudgingWalt_Fallback"
+  },
+  "line:094ae55": {
+    "text": "<b>북스톤버리 명소</b>",
+    "node": "StBookstonSign_BaseLoop"
+  },
+  "line:08d9917": {
+    "text": "소피아 테오도시아 브라이트 기념 투어",
+    "node": "StBookstonSign_BaseLoop"
+  },
+  "line:05f3c3e": {
+    "text": "뭐, 어떻게?!",
+    "node": "Tilde_Intro"
+  },
+  "line:0d24e52": {
+    "text": "어떤 거?",
+    "node": "Tilde_Intro"
+  },
+  "line:0a37226": {
+    "text": "당신은 누구야?",
+    "node": "Tilde_Intro"
+  },
+  "line:0d7867c": {
+    "text": "근데 난 여기 있고 싶어!",
+    "node": "Tilde_UnlockCafe"
+  },
+  "line:01d5251": {
+    "text": "좋은 판단이야!",
+    "node": "Tilde_UnlockCafe"
+  },
+  "line:0d8622a": {
+    "text": "응, 준비됐어.",
+    "node": "Tilde_BonfireEndTheEvent1"
+  },
+  "line:04e4981": {
+    "text": "아니, 시간이 더 필요해.",
+    "node": "Tilde_BonfireEndTheEvent1"
+  },
+  "line:098b327": {
+    "text": "응, 준비됐어.",
+    "node": "Tilde_BonfireEndTheEvent2"
+  },
+  "line:0ec023a": {
+    "text": "아니, 아직 준비 안 됐어.",
+    "node": "Tilde_BonfireEndTheEvent2"
+  },
+  "line:0439f1f": {
+    "text": "난 차려입는 거 좋아해!",
+    "node": "Tilde_Fashion"
+  },
+  "line:0307d1a": {
+    "text": "난 내 옷을 직접 만들어.",
+    "node": "Tilde_Fashion"
+  },
+  "line:051a6d0": {
+    "text": "별로.",
+    "node": "Tilde_Fashion"
+  },
+  "line:02593c8": {
+    "text": "기꺼이요!",
+    "node": "Tilde_SurgerySoon"
+  },
+  "line:0261dd3": {
+    "text": "미안해요, 못 할 것 같아요.",
+    "node": "Tilde_SurgerySoon"
+  },
+  "line:0586981": {
+    "text": "확실해, 미안.",
+    "node": "Tilde_SurgerySoon"
+  },
+  "line:036615d": {
+    "text": "네 말이 맞아, 데려갈게.",
+    "node": "Tilde_SurgerySoon"
+  },
+  "line:0afbc37": {
+    "text": "응, 준비됐어.",
+    "node": "Tilde_BookshopEndingEndTheEvent1"
+  },
+  "line:041b67f": {
+    "text": "아니, 시간이 더 필요해.",
+    "node": "Tilde_BookshopEndingEndTheEvent1"
+  },
+  "line:0f1d4ca": {
+    "text": "응, 준비됐어.",
+    "node": "Tilde_BookshopEndingEndTheEvent2"
+  },
+  "line:04e06c8": {
+    "text": "아니, 아직 준비 안 됐어.",
+    "node": "Tilde_BookshopEndingEndTheEvent2"
+  },
+  "line:09ac8b5": {
+    "text": "그럼, 그렇고말고!",
+    "node": "Tilde_SeesMegaSignOnBookshopFirst"
+  },
+  "line:09a189b": {
+    "text": "돈벌이가 좋아.",
+    "node": "Tilde_SeesMegaSignOnBookshopFirst"
+  },
+  "line:000ca83": {
+    "text": "난 이중간첩이야!",
+    "node": "Tilde_SeesMegaSignOnBookshopFirst"
+  },
+  "line:09e6eb4": {
+    "text": "그거 알아?",
+    "node": "Tilde_StBookstonInvestigation"
+  },
+  "line:0494eaf": {
+    "text": "S.T.B.가 누구야?",
+    "node": "Tilde_StBookstonInvestigation"
+  },
+  "line:084340f": {
+    "text": "당신?",
+    "node": "Tilde_StBookstonReveal"
+  },
+  "line:0f58389": {
+    "text": "왜?",
+    "node": "Tilde_StBookstonReveal"
+  },
+  "line:08e0294": {
+    "text": "생일 축하해!",
+    "node": "Tilde_RegularBirthday_Pre"
+  },
+  "line:0008df6": {
+    "text": "오래오래 행복하길.",
+    "node": "Tilde_RegularBirthday_Pre"
+  },
+  "line:0e3d53b": {
+    "text": "<b>북스톤버리 성의 역사를 알아보기</b>",
+    "node": "CastleSign"
+  },
+  "line:09cf148": {
+    "text": "<i>계속 읽는다</i>",
+    "node": "CastleSign"
+  },
+  "line:0dba7cf": {
+    "text": "북스톤버리 역사에 대해 지금 네가 아는 게 얼마나 적은지 깨닫는다.",
+    "node": "CastleSign"
+  },
+  "line:0054cb7": {
+    "text": "하지만 배울 시간은 늘 있으니, 표지판 글을 잠깐 훑어본다.",
+    "node": "CastleSign"
+  },
+  "line:0c9d579": {
+    "text": "\"8세기 어느 무렵, 노르드 탐험가들이 이 지역 해안에 관심을 갖기 시작했다.\"<br>...",
+    "node": "CastleSign"
+  },
+  "line:0ce37e2": {
+    "text": "\"역사가들은 9세기에 작은 촌락 정착지가 있었다는 증거를 찾았다.\"<br>...",
+    "node": "CastleSign"
+  },
+  "line:0181e52": {
+    "text": "\"발판을 마련하기 위해, <b>언덕 위 요새</b> <noparse>(</noparse>고대 노르드어로 <i>borg</i><noparse>)</noparse>가 세워졌다.\"<br>...",
+    "node": "CastleSign"
+  },
+  "line:02b79d1": {
+    "text": "본능적으로, 또 다른 한 줄이 흥미를 끌어 몇 단락을 건너뛴다.",
+    "node": "CastleSign"
+  },
+  "line:01b37fb": {
+    "text": "\"이 요새가 더 넓은 지역에 위협이 된다고 주장하며, 지역 반란군은 1298년에 병력을 규합할 수 있었다.\"",
+    "node": "CastleSign"
+  },
+  "line:0925c66": {
+    "text": "\"세 달간의 교전 끝에, 지역민들은 노르드 세력을 성공적으로 제압하고 요새를 점령했다.\"",
+    "node": "CastleSign"
+  },
+  "line:043ce4a": {
+    "text": "여기서 함성이 울려 퍼졌다니 상상하기 어렵다. 고요한 숲 곁에서, 그 모든 게 이제 너무 멀게만 느껴진다...",
+    "node": "CastleSign"
+  },
+  "line:07b9775": {
+    "text": "\"14세기에, 라이캐스터 공국은 성장하는 정착지들로 영향력을 넓혔다...\"",
+    "node": "CastleSign"
+  },
+  "line:0402331": {
+    "text": "\"...엘강을 따라, 그리고 대략 1350년부터, 공작의 군대가 훗날 <b>포트 부르그</b>로 알려진 곳을 지켰다.\"",
+    "node": "CastleSign"
+  },
+  "line:0a60610": {
+    "text": "\"지금 네 앞에 보이는 성벽은 1460년경, 제12대 공작 미하일 라이캐스터가...\"",
+    "node": "CastleSign"
+  },
+  "line:0b9c9a0": {
+    "text": "\"...100년 된 요새가 너무 작고, 비실용적이며, 전하는 바로는 '흉하다'고 여겨 여러 차례 개축을 명하면서 세워진 것으로 추정된다.\"",
+    "node": "CastleSign"
+  },
+  "line:00c18fb": {
+    "text": "\"안타깝게도, 그 호화로움 탓에 지역민들이 비웃으며 '성'이라 부른 새 요새는, 1575년 화재까지만 버텼다.\"",
+    "node": "CastleSign"
+  },
+  "line:0cc3a40": {
+    "text": "허. 북스톤버리엔 흥미로운 인물들이 정말 많았네. 근데, 어쩐지, 그게 완전히 말이 되는걸...",
+    "node": "CastleSign"
+  },
+  "line:01a9dee": {
+    "text": "<i>떠난다</i>",
+    "node": "CastleSign"
+  },
+  "line:0668b69": {
+    "text": "<b>북스톤 만의 해안 야생동물</b>",
+    "node": "LighthouseSign"
+  },
+  "line:00484f7": {
+    "text": "<i>계속 읽는다</i>",
+    "node": "LighthouseSign"
+  },
+  "line:0245909": {
+    "text": "게시판 대부분은 등대를 둘러싼 절벽에 서식하는 해안 동물 삽화로 채워져 있다.",
+    "node": "LighthouseSign"
+  },
+  "line:01e4b96": {
+    "text": "줄무늬가 있는 회갈색 깃털의, 작고 수수한 새 <i>바위 피핏</i>이 있다.",
+    "node": "LighthouseSign"
+  },
+  "line:0f82998": {
+    "text": "\"이 텃새는 절벽 틈에 둥지 틀기를 좋아하고, 바위나 얕은 물에서 작은 무척추동물을 잡아먹는다.\"",
+    "node": "LighthouseSign"
+  },
+  "line:0188a6c": {
+    "text": "초록빛 <i>바위게</i>가 얕은 바위 웅덩이에 앉아, 집게로 해초 한 조각을 들고 있는 모습이 그려져 있다.",
+    "node": "LighthouseSign"
+  },
+  "line:06e3505": {
+    "text": "\"바위게의 색은 초록에서 갈색, 빨강까지 다양한데, 빨간 개체가 더 공격적인 경우가 많다.\"",
+    "node": "LighthouseSign"
+  },
+  "line:036296b": {
+    "text": "유일하게 보이는 포유류는 <i>회색물범</i>으로, 긴 주둥이를 물 밖으로 호기심 어린 듯 내밀고 있다.",
+    "node": "LighthouseSign"
+  },
+  "line:0879ef3": {
+    "text": "\"물범은 푸짐한 생선 식사를 소화하느라 쉴 때면 가끔 뭍에서 볼 수 있다.\"",
+    "node": "LighthouseSign"
+  },
+  "line:03c7825": {
+    "text": "\"물범은 바다사자, 바다코끼리와 조상을 공유하지만, 이 사촌들은 우리 지역 토종이 아니다.\"",
+    "node": "LighthouseSign"
+  },
+  "line:0488563": {
+    "text": "세상에, 이 새끼 물범들 귀엽네. 오늘 해안 생물들을 완전히 새롭게 보게 된 기분이다.",
+    "node": "LighthouseSign"
+  },
+  "line:0e1d95e": {
+    "text": "<i>떠난다</i>",
+    "node": "LighthouseSign"
+  },
+  "line:0daee32": {
+    "text": "<b>북스톤 만의 해안 야생동물</b>",
+    "node": "WaterfrontSign"
+  },
+  "line:0b9d12b": {
+    "text": "<i>계속 읽는다</i>",
+    "node": "WaterfrontSign"
+  },
+  "line:08bd79e": {
+    "text": "게시판 대부분은 동네 만에 서식하는 바다 동물 삽화로 채워져 있다.",
+    "node": "WaterfrontSign"
+  },
+  "line:0efccad": {
+    "text": "보라색 원 네 개가 있는 <i>보름달물해파리</i>를 알아본다. 전에 파 비치에서 떠밀려 온 걸 본 게 기억난다.",
+    "node": "WaterfrontSign"
+  },
+  "line:0b5b7d2": {
+    "text": "\"섬세한 촉수는 플랑크톤 같은 먹이를 잡는 데 쓰이지만, 인간에겐 무해하다.\"",
+    "node": "WaterfrontSign"
+  },
+  "line:029a49a": {
+    "text": "날고 있는 <i>재갈매기</i> 그림도 보인다. 그 외엔 노란 부리에 특유의 밝은 주황색 점이 있다.",
+    "node": "WaterfrontSign"
+  },
+  "line:07740ce": {
+    "text": "\"이 청소동물들은 인간에게 위협적으로 보일 수 있지만, 점점 도시화되는 서식지에 적응하려 애쓰고 있다.\"",
+    "node": "WaterfrontSign"
+  },
+  "line:035ed44": {
+    "text": "\"이들은 엄청나게 영리하다. 예를 들어, 연구자들은 이들이 책을 '훔치는' 걸 관찰했는데, 아마 둥지 짓는 데 쓰는 듯하다.\"",
+    "node": "WaterfrontSign"
+  },
+  "line:02ce2c8": {
+    "text": "마지막으로, 작고 회색인 <i>조무래기따개비</i> 무리가 그려져 있고, 물 위와 아래에서 다르게 보이는 모습이 나와 있다.",
+    "node": "WaterfrontSign"
+  },
+  "line:002ce96": {
+    "text": "\"바위와 배에서 흔히 보이는 딱딱한 돌기가 사실은 작은 절지동물의 껍데기라는 걸 알았는가?\"",
+    "node": "WaterfrontSign"
+  },
+  "line:088b85f": {
+    "text": "\"조무래기따개비의 다리는 밀물이 들면 꼭대기에서 삐져나와, 물에서 플랑크톤을 잡는다.\"",
+    "node": "WaterfrontSign"
+  },
+  "line:037473a": {
+    "text": "매혹적인 생물들이다. 오늘 해안 생물들을 완전히 새롭게 보게 된 기분이다.",
+    "node": "WaterfrontSign"
+  },
+  "line:03e9dae": {
+    "text": "<i>떠난다</i>",
+    "node": "WaterfrontSign"
+  },
+  "line:044b22d": {
+    "text": "그리고 마지막 자판 소리와 함께, 타자기는 잠잠해졌다.",
+    "node": "Typewriter_Finish"
+  },
+  "line:063bcd3": {
+    "text": "Professor:",
+    "node": "Professor_StBookstonMysteryProgress_WIP"
+  },
+  "line:07bcc97": {
+    "text": "Professor:",
+    "node": "Professor_StBookstonReveal_WIP"
+  },
+  "line:02f2088": {
+    "text": "\"세인트 북스톤. 시인, 사상가, 선각자.\"",
+    "node": "UniFountain_BaseLoop"
+  },
+  "line:0867772": {
+    "text": "\"세인트 북스톤. 시인, 사상가, 선각자.\"",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:0f02e2d": {
+    "text": "<i>계속 읽는다</i>",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:084dceb": {
+    "text": "대학에서 세운 청동 명판이, 세인트 북스톤에 관한 약간의 전기적 기록을 담고 있다.",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:0b4236b": {
+    "text": "\"이 세계적 석학은 대학이 아직 <i>라이캐스터 공립 칼리지</i>이던 1574년부터 1590년까지 이 캠퍼스에서 가르쳤다.\"",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:09ed592": {
+    "text": "\"그는 철학, 문헌학, 예술 수업을 가르쳤고, <i>엘 협회</i> <noparse>(</noparse>1630–1640<noparse>)</noparse>의 훗날 혁명가들에게 영향을 주었다.\"",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:09936ba": {
+    "text": "\"역사가들은 그가 오늘날 <b>카페 리베르테</b> 근처 시릴 플라자에 살았다고 본다. 그러나 세인트 북스톤의 <b>매장지</b>는 여전히 알려지지 않았다.\"",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:0bc35a6": {
+    "text": "<i>떠난다</i>",
+    "node": "UniFountain_InvestigationBaseLoop"
+  },
+  "line:0ad1232": {
+    "text": "\"세인트 북스톤. 시인, 사상가, 선각자.\"",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:05452cb": {
+    "text": "<i>살펴본다</i>",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0053f11": {
+    "text": "오, 문장이 여기 딱 들어맞을 것 같아! 근데 하퍼가 그 순간에 함께 있고 싶어 할 거야.",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0ee4a7d": {
+    "text": "오, 여기 이 홈이 그 문장 조각들이랑 똑 닮았네. 근데 끼우려면 먼저 합쳐야 해.",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0af3428": {
+    "text": "어쩌면 하퍼가 그걸 도와줄 수 있을지도.",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:07ce774": {
+    "text": "오, 여기 이 홈이 우리가 찾은 그 조각들이랑 닮았네.",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0c75f73": {
+    "text": "너랑 하퍼가 그 문장을 다 맞추고 나면 다시 와 봐야겠어.",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0e29ab3": {
+    "text": "<i>감탄한다</i>",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0b48d28": {
+    "text": "<i>떠난다</i>",
+    "node": "UniFountain_InvestigationFindClue"
+  },
+  "line:0511c9a": {
+    "text": "\"세인트 북스톤. 시인, 사상가, 선각자.\"",
+    "node": "UniFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:017bf2e": {
+    "text": "그 아래, 훨씬 급하고 비공식적으로 붙인 듯한 더 새 명판에는 이렇게 적혀 있다...",
+    "node": "UniFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:0c39ec1": {
+    "text": "\"<i>소피아 테오도시아 브라이트</i>로도 알려짐\"",
+    "node": "UniFountain_BaseLoopAfterStBookstonReveal"
+  },
+  "line:07c436c": {
+    "text": "HelplessStudent01: 음, 반려동물을 학교에 데려와도 돼요?",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:0e3c43e": {
+    "text": "HelplessStudent01: ... 그럼요. 당연하죠!",
+    "node": "Cutscene_OrientationDay01"
+  },
+  "line:08063d2": {
+    "text": "HelplessStudent02: 에이, 반려동물 안 된대?!",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:08dd9e9": {
+    "text": "HelplessStudent01: 로봇은요?",
+    "node": "Cutscene_OrientationDay02"
+  },
+  "line:005d8fc": {
+    "text": "없어.",
+    "node": "Walt_FishmarketInvite"
+  },
+  "line:05e3067": {
+    "text": "데스티니.",
+    "node": "Walt_FishmarketInvite"
+  },
+  "line:014e46f": {
+    "text": "SS 스캄피.",
+    "node": "Walt_FishmarketInvite"
+  },
+  "line:0117400": {
+    "text": "없어.",
+    "node": "Walt_FishmarketWelcome"
+  },
+  "line:0b99db8": {
+    "text": "데스티니.",
+    "node": "Walt_FishmarketWelcome"
+  },
+  "line:00a5270": {
+    "text": "SS 스캄피.",
+    "node": "Walt_FishmarketWelcome"
+  },
+  "line:01eb45f": {
+    "text": "고마워.",
+    "node": "Walt_GivesManuscript"
+  },
+  "line:0ea7a8a": {
+    "text": "좀 길지 않아?",
+    "node": "Walt_GivesManuscript"
+  },
+  "line:0cde3a9": {
+    "text": "그냥 바빠.",
+    "node": "Walt_LongTimeNoSee"
+  },
+  "line:0b59cc9": {
+    "text": "응. 큰 거 한 마리 잡았어!",
+    "node": "Walt_LongTimeNoSee"
+  },
+  "line:012a959": {
+    "text": "그렇게 나쁘진 않은 것 같은데.",
+    "node": "Walt_ContinentaFirstSeen"
+  },
+  "line:05fd0e3": {
+    "text": "응. 망할 관광객들.",
+    "node": "Walt_ContinentaFirstSeen"
+  },
+  "line:07e7f3f": {
+    "text": "무슨 일인지 전혀 몰라.",
+    "node": "Walt_ContinentaScaredOff"
+  },
+  "line:002f3a9": {
+    "text": "아... 그거 내 생선이었던 것 같아.",
+    "node": "Walt_ContinentaScaredOff"
+  },
+  "line:007fb3c": {
+    "text": "기념일 축하해!",
+    "node": "Walt_FFFTonight"
+  },
+  "line:059db38": {
+    "text": "*한숨* 나한테도 그런 일이 일어났으면.",
+    "node": "Walt_FFFTonight"
+  },
+  "line:0045a3a": {
+    "text": "축하해, 월트!",
+    "node": "Walt_PromoComplete"
+  },
+  "line:0e2ba04": {
+    "text": "자랑 좀 심한데?",
+    "node": "Walt_PromoComplete"
+  },
+  "line:05f029b": {
+    "text": "달력엔 그렇다네, 응.",
+    "node": "Walt_Birthday"
+  },
+  "line:031ee42": {
+    "text": "생일 축하해, 월트!",
+    "node": "Walt_Birthday"
+  },
+  "line:0d692eb": {
+    "text": "Walt:",
+    "node": "Walt_BookshopQuest_WIP"
+  },
+  "line:08bd3e8": {
+    "text": "Walt:",
+    "node": "Walt_NewYearsEve_WIP"
+  },
+  "line:0017f34": {
+    "text": "Walt:",
+    "node": "Walt_UnlockedLighthouseViaTelescope_WIP"
+  },
+  "line:037aa67": {
+    "text": "모이라한테 정말 필요해.",
+    "node": "Walt_7thRuleSale"
+  },
+  "line:026c4b5": {
+    "text": "북스톤버리를 위한 거야!",
+    "node": "Walt_7thRuleSale"
+  },
+  "line:07fec7e": {
+    "text": "EvilSeagull01: 까악!!!",
+    "node": "EvilSeagullsIntro"
+  },
+  "line:0241544": {
+    "text": "EvilSeagull02: 내 거! 내 거!",
+    "node": "EvilSeagullsIntro"
+  },
+  "line:05a8584": {
+    "text": "Continenta01: 자외선 차단제 잊지 마, 여보!",
+    "node": "Continenta_MainIntro_Cutscene"
+  },
+  "line:0459ced": {
+    "text": "Continenta02: 응, 자기야, 알아...",
+    "node": "Continenta_MainIntro_Cutscene"
+  },
+  "line:09de809": {
+    "text": "Continenta01: 아, 참 고즈넉한 작은 마을이네...",
+    "node": "Continenta_MainOutro"
+  },
+  "line:06cbe6b": {
+    "text": "EvilSeagull01: 내 거!!!",
+    "node": "EvilSeagulls_MainIntro_Cutscene"
+  },
+  "line:02a3609": {
+    "text": "EvilSeagull02: 내 거! 내 거!",
+    "node": "EvilSeagulls_MainIntro_Cutscene"
+  },
+  "line:07a86cd": {
+    "text": "EvilSeagull01: 까악!",
+    "node": "EvilSeagulls_MainIntro_Cutscene"
+  },
+  "line:0596786": {
+    "text": "EvilSeagull02: 내 거!!",
+    "node": "EvilSeagulls_ShortIntro_Cutscene"
+  },
+  "line:0971979": {
+    "text": "EvilSeagull01: 까악 까악!",
+    "node": "EvilSeagulls_ShortIntro_Cutscene"
+  },
+  "line:08a54b3": {
+    "text": "EvilSeagull01: 내 거!!!",
+    "node": "EvilSeagulls_ScaringContinentaAway_Cutscene"
+  },
+  "line:0376df7": {
+    "text": "EvilSeagull02: 내 거! 내 거!",
+    "node": "EvilSeagulls_ScaringContinentaAway_Cutscene"
+  },
+  "line:0006a93": {
+    "text": "EvilSeagull01: 까악!",
+    "node": "EvilSeagulls_ScaringContinentaAway_Cutscene"
+  },
+  "line:0ed4150": {
+    "text": "Continenta01: 이",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:01b3f44": {
+    "text": "Continenta01: 빌어먹을",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:05a1ecf": {
+    "text": "Continenta01: 곳!!",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:0b81b47": {
+    "text": "Continenta02: 이렇게 무시무시한 갈매기는",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:0225914": {
+    "text": "Continenta02: 한 번도 못 봤어...",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:0866417": {
+    "text": "Continenta02: 에휴, 다시 수영장으로.",
+    "node": "EvilSeagulls_Ending_Cutscene"
+  },
+  "line:0d23e71": {
+    "text": "콘티넨타... 흠, 전망을 가리네.",
+    "node": "TelescopeContinentaInTown"
+  },
+  "line:0e05883": {
+    "text": "야, 다시 작동한다! 시 유지보수 만세!",
+    "node": "TelescopeWorkingAgain"
+  },
+  "line:0429ecf": {
+    "text": "지금은 망원경이 고장 난 모양이야...",
+    "node": "TelescopeBroken"
+  },
+  "line:0bd450f": {
+    "text": "이따 다시 와 보는 게 낫겠어.",
+    "node": "TelescopeBroken"
+  },
+  "line:00de549": {
+    "text": "응...",
+    "node": "Cutscene_CannonFireWaltFirstReaction"
+  },
+  "line:0f1b2ee": {
+    "text": "내가 안 그랬어!",
+    "node": "Cutscene_CannonFireWaltFirstReaction"
+  }
+}

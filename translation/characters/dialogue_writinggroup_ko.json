@@ -1,0 +1,138 @@
+{
+  "line:0462642": {
+    "text": "WritingGroup: <b>몽상가 시인:</b><br>함께하실래요?",
+    "node": "Park_WritingGroup_Welcome"
+  },
+  "line:0a7ce27": {
+    "text": "WritingGroup: <b>몽상가 시인:</b><br>우린 여기서 글쓰기를 연습해요.",
+    "node": "Park_WritingGroup_Welcome"
+  },
+  "line:0d79762": {
+    "text": "WritingGroup: <b>몽상가 시인:</b><br>전 하이쿠를 써요, 당신은요?",
+    "node": "Park_WritingGroup_Welcome"
+  },
+  "line:04e26f1": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 아, 당신 글을 낭독하고 싶어 안달이 나셨군요, 맞죠?",
+    "node": "Park_WritingGroup_Fallback"
+  },
+  "line:0c7acab": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 차례를 기다려 주세요. 우린 늘 금요일과 일요일에 모여요.",
+    "node": "Park_WritingGroup_Fallback"
+  },
+  "line:07749cb": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 오늘 모임에 오신 걸 환영해요.",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:0514789": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 곧 순서대로 시작할게요.",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:0a24612": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 다음 순서는 뭐죠?",
+    "node": "Park_WritingGroup_Hub"
+  },
+  "line:0bd65d6": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 당신이 쓴 걸 낭독해 보실래요?",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:08370d6": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 정말 인상적이에요! 첫 작품을 완성한 걸 축하해요!",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:09741e1": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 판타지 소설이라니! 해내기 무척 어려운 장르인데, 당신 작품의 악역은 꽤 흥미롭게 들리네요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0eb1b03": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 오, 우리의 첫 논픽션 초고네요! 곤충학은 잘 모르지만, 자료 조사를 제대로 한 것 같아요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0b79004": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 우와, 정말 생생하네요! 음... 근데 이거 자전적인 건... 아니죠? 좋아요, 휴!",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0036cc2": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 여기서 작품을 나누는 데는 큰 용기가 필요하죠, 그러니 고마워요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0a93905": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 자, 이제 피드백을 받아 볼까요. 의견 있어요?",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0f9c8ce": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 오늘은 누가 초고를 발표하고 싶어요?",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0c920f9": {
+    "text": "WritingGroup: <b>떠오르는 신예 작가:</b> 다음 달에 기고하고 싶은 창작 글쓰기 잡지가 있어요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0c9e468": {
+    "text": "WritingGroup: <b>떠오르는 신예 작가:</b> 그래서, 어떻게 생각하는지 알려 줘요, 네? 이건 제 고향에 관한 이야기예요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0050576": {
+    "text": "WritingGroup: <b>극작가 지망생:</b> 음, 아시는 분도 있겠지만, 전 연극 동아리에 올릴 희곡을 작업하고 있어요.",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0a3e432": {
+    "text": "WritingGroup: <b>극작가 지망생:</b> 이 장면은 두 조연을 좀 더 발전시키려는 건데...",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0e94028": {
+    "text": "WritingGroup: <b>극작가 지망생:</b> ...근데 아직 그들의 암살 음모를 여기서 꺼내야 할지 잘 모르겠어요...",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0162c30": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 좋아요, 모두 고마워요! 오늘은 여기까지, 다음에 이어서 할게요!",
+    "node": "Park_WritingGroup_Activity"
+  },
+  "line:0d40824": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 작가들이랑 그들의 문체 선택을 좀 조사하고 싶었어요. 그쪽으로 도와줄래요?",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:05bf1d5": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 우와! <i>{0}</i>는 딱 제가 쓰고 싶은 방식으로 쓰였어요!",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:00439b8": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 완전 멋진 예시네요, 고마워요!",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:04df0e4": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 오, 흥미롭네요.",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:0c2b56c": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 이 작가는 처음 들어 보는데, <i>{0}</i>는 꽤 괜찮을 것 같아요.",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:0784d6a": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 어어... 아무것도 없어요? 진짜요?!",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:075ffa6": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 그거 알아요? 뭐 어때요! 어차피 전 제 스타일을 고수하는 게 나아요.",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:0839a44": {
+    "text": "WritingGroup: <b>십 대 작가:</b> 미안한데, 이건 제가 작업 중인 이야기랑 안 맞아요.",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:00003fb": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 좋아요, 그럼 다음 발표로 넘어가죠. 누가 초고를 읽어 볼래요?",
+    "node": "Park_WritingGroup_Recommendation"
+  },
+  "line:0f43459": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 영감이 더 필요한 분들을 위해 책을 몇 권 가져왔어요!",
+    "node": "Park_WritingGroup_Shop"
+  },
+  "line:0a58848": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 근데 이 작가들이 한 걸 그대로 베끼진 마세요, 알았죠? 제가 <i>분명히</i> 알아챌 테니까요.",
+    "node": "Park_WritingGroup_Shop"
+  },
+  "line:08486e2": {
+    "text": "WritingGroup: <b>글쓰기 지도교사:</b> 좋아요, 그럼 작업 중인 다른 작품을 읽어 볼까요. 누가 먼저 발표할래요?",
+    "node": "Park_WritingGroup_Shop"
+  }
+}

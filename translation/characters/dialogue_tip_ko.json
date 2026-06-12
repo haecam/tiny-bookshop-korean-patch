@@ -1,0 +1,110 @@
+{
+  "line:043c067": {
+    "text": "Tip: 겨울 동안 휴업.<br>",
+    "node": "Journal_Beach"
+  },
+  "line:0802f39": {
+    "text": "Tip: 선크림 잊지 마세요!<br>",
+    "node": "Journal_Beach"
+  },
+  "line:0ee0f9d": {
+    "text": "Tip: 할 일:<br>바다 동굴 소리 조사하기",
+    "node": "Journal_Beach"
+  },
+  "line:094b16a": {
+    "text": "Tip: 할 일:<br>마리암의 강좌 끝내기<br>",
+    "node": "Journal_Cafe"
+  },
+  "line:04a8a89": {
+    "text": "Tip: 할 일:<br><s>마리암의 강좌 끝내기</s><br>",
+    "node": "Journal_Cafe"
+  },
+  "line:0330dd3": {
+    "text": "Tip: 틸데의 친구 소유.<br>",
+    "node": "Journal_Cafe"
+  },
+  "line:017aee0": {
+    "text": "Tip: 여기서 세인트 북스톤에 대해 더 알아낼 수 있을지도...",
+    "node": "Journal_Cafe"
+  },
+  "line:01896ac": {
+    "text": "Tip: 월트를 찾아 갓 잡은 생선을 사세요!<br>",
+    "node": "Journal_Waterfront"
+  },
+  "line:0cb7f83": {
+    "text": "Tip: <i>월트의 잡동사니와 보물</i>에 가 봐야겠어.<br>",
+    "node": "Journal_Waterfront"
+  },
+  "line:05404d9": {
+    "text": "Tip: 이런... 그 대포 일은 미안해요.",
+    "node": "Journal_Waterfront"
+  },
+  "line:0540a9c": {
+    "text": "Tip: 틸데의 상자 가져가는 거 잊지 마!",
+    "node": "Journal_Fleamarket"
+  },
+  "line:0136355": {
+    "text": "Tip: 가게에 둘 가구를<br>좀 찾을 수 있을지도.",
+    "node": "Journal_Fleamarket"
+  },
+  "line:0518e31": {
+    "text": "Tip: 수사 중인 범죄 현장!",
+    "node": "Journal_Supermarket"
+  },
+  "line:0e7143d": {
+    "text": "Tip: <i>Silens Libri</i> 팬들의 성지.",
+    "node": "Journal_Supermarket"
+  },
+  "line:0667db4": {
+    "text": "Tip: 장보기 목록:<br>- 감열지<br>- 화장지<br>",
+    "node": "Journal_Supermarket"
+  },
+  "line:041b22d": {
+    "text": "Tip: - 고양이 사료<br>",
+    "node": "Journal_Supermarket"
+  },
+  "line:0697d40": {
+    "text": "Tip: - 강아지 사료<br>",
+    "node": "Journal_Supermarket"
+  },
+  "line:00082ae": {
+    "text": "Tip: - 간식 <3",
+    "node": "Journal_Supermarket"
+  },
+  "line:00be05f": {
+    "text": "Tip: 전망이 끝내주고 양들은 식탐이 끝이 없어요.",
+    "node": "Journal_Lighthouse"
+  },
+  "line:0c94e6c": {
+    "text": "Tip: 여기서 세인트 북스톤에 대해 더 알아낼 수 있을지도...<br>",
+    "node": "Journal_University"
+  },
+  "line:0394e4f": {
+    "text": "Tip: 아니면 내 식으로 부르자면: <b>소피아 T. 브라이트 대학교</b><br>",
+    "node": "Journal_University"
+  },
+  "line:07d1840": {
+    "text": "Tip: - 잃어버린 책 반납하기",
+    "node": "Journal_University"
+  },
+  "line:093de67": {
+    "text": "Tip: 마을의 유서 깊은 묘지 터.",
+    "node": "Journal_Castle"
+  },
+  "line:0316c33": {
+    "text": "Tip: 할 일:<br>1. 대포 쏘기<br>2. 보물 찾기<br>3. ???<br>4. 세계 정복",
+    "node": "Journal_Castle"
+  },
+  "line:05b1f9b": {
+    "text": "Tip: 할 일:<br>내 무 돌보기",
+    "node": "Journal_Hospital"
+  },
+  "line:084d5d9": {
+    "text": "Tip: 할 일:<br>괜찮은 가십 좀 캐기",
+    "node": "Journal_Hospital"
+  },
+  "line:03fdbca": {
+    "text": "Tip: 여러분, 건강하세요!",
+    "node": "Journal_Hospital"
+  }
+}

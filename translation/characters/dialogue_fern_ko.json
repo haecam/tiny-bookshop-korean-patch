@@ -1,0 +1,1606 @@
+{
+  "line:0199b4f": {
+    "text": "Fern: <size=90%><i>“아무도 날 이해 못 한다고 느낄 때조차, 나는 혼자가 아니다.”</i><size=100%>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:00b224f": {
+    "text": "Fern: ...",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0286359": {
+    "text": "Fern: 잘했어요!",
+    "node": "Cafe_EndingHubCutscene"
+  },
+  "line:0ce536d": {
+    "text": "Fern: 음, 네, 저도 생일 축하해요, 틸데. 그리고 초대해 줘서 고마워요, 안 그래도 됐는데…",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0b3a1a5": {
+    "text": "Fern: 당황",
+    "node": "Fern_EmotionsTest"
+  },
+  "line:08fdfb9": {
+    "text": "Fern: 안녕하세요. 괜찮으면 그냥 새 책 한 권 고를게요...",
+    "node": "Fern_SpliceReceiver"
+  },
+  "line:074ebb0": {
+    "text": "Fern: 괜찮으면 그냥 새 책 한 권 고를게요...",
+    "node": "Fern_SpliceReceiver"
+  },
+  "line:09bece4": {
+    "text": "Fern: 네, 음, 아무튼... 그냥 새 책 한 권 고르고 바로 갈게요.",
+    "node": "Fern_SpliceReceiver"
+  },
+  "line:0cc715d": {
+    "text": "Fern: ... ...",
+    "node": "Fern_SpliceReceiver"
+  },
+  "line:0362477": {
+    "text": "Fern: 고마워요... 안녕히.",
+    "node": "Fern_SpliceReceiver"
+  },
+  "line:01770fc": {
+    "text": "Fern: 오늘은 새 책 한 권 찾을까 해서 들렀어요.",
+    "node": "Fern_Recommendation"
+  },
+  "line:0850edd": {
+    "text": "Fern: 음, 안녕하세요. 당신이 그 책방지기죠?",
+    "node": "Fern_Intro"
+  },
+  "line:07c8dc5": {
+    "text": "Fern: 틸데랑 벌써 얘기했나 보네요... 당신에 대해 이미 다 알고 있던가요?",
+    "node": "Fern_Intro"
+  },
+  "line:01cd74f": {
+    "text": "Fern: <size=85%><i>*하*</i><size=100%> 네, 그런 분이에요. 제가 일 시작하기도 전에 「리뷰」에 대해 다 알려 줬다니까요.",
+    "node": "Fern_Intro"
+  },
+  "line:0da4774": {
+    "text": "Fern: 아, 음, 북스톤버리 「리뷰」 얘기예요. 지역 신문이죠. 네, 제가 거기에 글을 좀 써요.",
+    "node": "Fern_Intro"
+  },
+  "line:0e2ed2e": {
+    "text": "Fern: 제 이름은 펀 에스트라다예요. 만나서 반가워요.",
+    "node": "Fern_Intro"
+  },
+  "line:0177ca0": {
+    "text": "Fern: 당신이 온 게 한동안 이 동네에서 일어난 유일하게 흥미로운 일이라고 할 수 있어요.",
+    "node": "Fern_Intro"
+  },
+  "line:0eab036": {
+    "text": "Fern: 그래서, 제 참견을 양해해 줘요, 근데... 이제 당신에 대해 쓰는 게 제 일이거든요.",
+    "node": "Fern_Intro"
+  },
+  "line:005ef07": {
+    "text": "Fern: 음... 제 질문 몇 개에 답해서 절 도와주면, 그 대가로 무료 구독을 드릴게요, 어때요?",
+    "node": "Fern_Intro"
+  },
+  "line:0b29006": {
+    "text": "Fern: 행사 달력이 마음에 들 거예요. 그리고 사람들이 광고란에 중고책을 자주 내놓거든요!",
+    "node": "Fern_Intro"
+  },
+  "line:0855824": {
+    "text": "Fern: 좋아요. 그럼, 음, 기록을 위해서... 북스톤버리엔 무슨 계기로 오게 됐어요?",
+    "node": "Fern_Intro"
+  },
+  "line:0f59ba7": {
+    "text": "Fern: 오, 우와. 저랑 좀 비슷한 마음이네요. 잘 풀리길 바라요!",
+    "node": "Fern_Intro"
+  },
+  "line:09a726c": {
+    "text": "Fern: 좋아요, 그리고... 지금까지 이 마을의 첫인상은 어때요?",
+    "node": "Fern_Intro"
+  },
+  "line:0a98a48": {
+    "text": "Fern: 오, 하긴 그렇네요. 그래도 전 여기 날씨가 좋아요. 제 고향엔 <i>비</i> 오는 계절과 <i>비 덜</i> 오는 계절뿐이었거든요.",
+    "node": "Fern_Intro"
+  },
+  "line:04732a7": {
+    "text": "Fern: 정말요? 그게, 저— 전 <i>늘</i> 겁에 질려 있는데... 당신은 무척 자신감 있어 보였어요!",
+    "node": "Fern_Intro"
+  },
+  "line:022cfed": {
+    "text": "Fern: 걱정 마요, 정말 그래요. 사람들이 참견은 좀 해도, 다들 좋은 뜻뿐이거든요.",
+    "node": "Fern_Intro"
+  },
+  "line:01f63fa": {
+    "text": "Fern: 짧은 인터뷰 정말 고마워요. 진심으로요.",
+    "node": "Fern_Intro"
+  },
+  "line:065ec3a": {
+    "text": "Fern: 그리고 약속할게요, 내일 아침까지 「리뷰」 첫 부를 받게 될 거예요.",
+    "node": "Fern_Intro"
+  },
+  "line:04a88fd": {
+    "text": "Fern: 괜찮으면 이제 당신 책들을 좀 둘러볼게요. 음... 또 봐요?",
+    "node": "Fern_Intro"
+  },
+  "line:079675b": {
+    "text": "Fern: 어, 안녕하세요. 여기서 뭐 해요?",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:00669b1": {
+    "text": "Fern: 그래서 다들 그렇듯 당신도 해변에 있을 줄 알았는데— 아.",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:09df471": {
+    "text": "Fern: 근데, 어, 여기서 뭐 해요? 다들 그렇듯 당신도 해변에 있을 줄 알았는데— 아.",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:0fad1cd": {
+    "text": "Fern: 정말 미안해요! 당신이 새로 온 거 또 깜빡했네요! 너무 자연스럽게 어울려서, 저— <size=85%>정말 미안해요—<size=100%>",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:0627ce1": {
+    "text": "Fern: <size=85%>*크흠*<size=100%> 미안해요! 자, 혹시 곧 들르고 싶을까 봐, 파 비치로 가는 길을 알려 줄게요.",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:07672af": {
+    "text": "Fern: 저 자신은 딱히 해변 체질은 아니지만, 분명 거기 모인 사람들이 당신 읽을거리를 좀 필요로 할 거예요!",
+    "node": "Fern_UnlockBeach"
+  },
+  "line:0d073a2": {
+    "text": "Fern: 어, 안녕하세요. 여기서 뭐 해요?",
+    "node": "Fern_BeachWeatherToday_Pre"
+  },
+  "line:0b7c182": {
+    "text": "Fern: 우리 신문 기상 담당이 그러는데 오늘이 올해 가장 더운 날일 거래요!",
+    "node": "Fern_BeachWeatherToday_Pre"
+  },
+  "line:0ecf294": {
+    "text": "Fern: 그래서 다들 그렇듯 당신도 해변에 있을 줄 알았는데— 아.",
+    "node": "Fern_BeachWeatherToday_Pre"
+  },
+  "line:090377a": {
+    "text": "Fern: 어, 안녕하세요. 여기서 보니 반갑네요!",
+    "node": "Fern_BeachWeatherTomorrow_Pre"
+  },
+  "line:08fd592": {
+    "text": "Fern: 아쉽게도 둘러볼 시간이 별로 없어요. 그리고 내일은 여기 없겠죠?",
+    "node": "Fern_BeachWeatherTomorrow_Pre"
+  },
+  "line:0d27859": {
+    "text": "Fern: 우리 신문 기상 담당이 그러는데 올해 가장 더운 날일 거래요.",
+    "node": "Fern_BeachWeatherTomorrow_Pre"
+  },
+  "line:0dab359": {
+    "text": "Fern: 그러니 다들 그렇듯 당신도 해변에 있겠죠— 아.",
+    "node": "Fern_BeachWeatherTomorrow_Pre"
+  },
+  "line:031c528": {
+    "text": "Fern: 안녕하세요. 우리 작은 벼룩시장을 발견했다니 기뻐요. 어때요?",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0e541b6": {
+    "text": "Fern: 안녕하세요, 보니 반갑네요.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0608669": {
+    "text": "Fern: 우리 작은 벼룩시장을 발견했다니 기뻐요. 어때요?",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0856d61": {
+    "text": "Fern: 그래서, 오늘 벼룩시장은 즐기고 있어요?",
+    "node": "Fern_Fleamarket"
+  },
+  "line:06fac2a": {
+    "text": "Fern: 아무튼, 지금까지 우리 벼룩시장은 어때요?",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0efa061": {
+    "text": "Fern: 아무튼, 음, 오늘 사람 많네요, 그쵸?",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0c93c14": {
+    "text": "Fern: 저기 저 CD 중 하나를 사고 싶었는데... 음, 바빠 보이네요. 방해되고 싶진 않아요.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0d902b8": {
+    "text": "Fern: 새 보드게임을 찾고 있어요. 아니... 정확히는, 오래된 보드게임이요.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0815c08": {
+    "text": "Fern: 새 재킷을 샀는데... 이제 좀 확신이 안 서네요. <size=85%> 저한텐 잘 안 어울리는 것 같아요.<size=100%>",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0de987f": {
+    "text": "Fern: 이 근처 어디서 새 자전거를 구할 수 있을까요? 제 게 얼마 전에 망가져서요.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:04affb2": {
+    "text": "Fern: 오늘은 관심 가는 게 없네요.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:0b53a3c": {
+    "text": "Fern: 전에 여기서 보물을 좀 찾은 적도 있지만... 운이 좀 따라야 하죠.",
+    "node": "Fern_Fleamarket"
+  },
+  "line:00211a9": {
+    "text": "Fern: 아무튼, 저, 어— 뭐, 봐서 반가웠어요! 안녕!",
+    "node": "Fern_Fleamarket"
+  },
+  "line:08b691e": {
+    "text": "Fern: 네, 음, 남은 하루 잘 보내요!",
+    "node": "Fern_FleamarketSoon_Post"
+  },
+  "line:0616cae": {
+    "text": "Fern: 그리고 토요일까지 좋은 날씨가 이어지면 좋겠어요. 다들 벼룩시장을 위해 그것만 바라고 있거든요.",
+    "node": "Fern_FleamarketSoon_Post"
+  },
+  "line:08eb016": {
+    "text": "Fern: 그리고 토요일까지 날씨가 개면 좋겠어요. 다들 벼룩시장을 위해 그것만 바라고 있거든요.",
+    "node": "Fern_FleamarketSoon_Post"
+  },
+  "line:0290827": {
+    "text": "Fern: ... ... ...",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0b54a8c": {
+    "text": "Fern: 오, 안녕하세요! 미안해요, 잠깐 생각에 잠겨 있었어요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0f988ae": {
+    "text": "Fern: 어. 오늘 하루는 어때요?",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0967e29": {
+    "text": "Fern: ... 당신이 이 공동체에 얼마나 잘 녹아들었는지 정말 존경스러워요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:004fb77": {
+    "text": "Fern: 단 한 달 만에, 제가 이 마을에서 일 년 넘게 한 것보다 더 멀리 갔네요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0625ce0": {
+    "text": "Fern: 그— 뭐, 적어도 우리가 서로 알게 돼서 다행이에요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:05ea83f": {
+    "text": "Fern: 오늘 밤 모닥불 모임에 초대받았어요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:057df46": {
+    "text": "Fern: 거창한 건 아니고, 그냥 지역 글쓰기·출판계 사람 몇 명이 모여 한잔하는 거예요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:091f8a9": {
+    "text": "Fern: 근데, 있잖아요, 이런 사교 모임을 제대로 해 본 적이 없어서... 좀 설레요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0ab32e1": {
+    "text": "Fern: 괜찮으면 당신도 들러요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0b3f113": {
+    "text": "Fern: 오늘 밤 모닥불 모임에 초대받았어요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0b9c1d7": {
+    "text": "Fern: 거창한 건 아니고, 그냥 창작 글쓰기 동아리 사람 몇 명이 모이는 거예요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0ef4dbb": {
+    "text": "Fern: 근데, 있잖아요, 그냥 재미로 하는 모임에 초대받은 게 처음이라... 좀 설레요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0930738": {
+    "text": "Fern: 괜찮으면 당신도 들러요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:04ff356": {
+    "text": "Fern: 저요? 네, 잘 지내요. 아직 뭔가 찾고 있긴 한데... 뭐랄까.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:03cb492": {
+    "text": "Fern: 취미, 같은 거요? 마음 맞는 사람들? 어쨌든 일 말고 다른 거요.",
+    "node": "Fern_BonfireDay"
+  },
+  "line:0e97215": {
+    "text": "Fern: ...",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0423302": {
+    "text": "Fern: 정말 사람들을 알아가고 싶어요! 그냥... 무슨 말을 해야 할지 모르겠어요, 아시죠?",
+    "node": "Fern_BonfireNight"
+  },
+  "line:075500b": {
+    "text": "Fern: 당신은 어떻게 늘 아는 거예요?",
+    "node": "Fern_BonfireNight"
+  },
+  "line:04e4fd5": {
+    "text": "Fern: 흠... 그래도 그렇게 말해 주니 좋네요. 덜 외로운 기분이에요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:097ac89": {
+    "text": "Fern: 흠... 그렇게 생각해요? 그런 것 같진 않은데.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0da8f21": {
+    "text": "Fern: 흠... 흥미롭네요. 그렇게는 생각 못 해 봤어요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0ebbf78": {
+    "text": "Fern: 들어줘서 고마워요. 음— 이제 다른 사람들한테 돌아가는 게 좋겠어요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0387fb2": {
+    "text": "Fern: 더 많은 인연을 맺으라고 격려해 줘서 고마워요. 오늘 밤은 훨씬 덜 외로웠어요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:03a090a": {
+    "text": "Fern: 올해 더 어울려 보려고 <i>노력은</i> 했어요, 정말로요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0af0075": {
+    "text": "Fern: 근데 그게 다 절 지치게만 했어요... 계속 시도하는 게 정말 힘드네요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:0d1bba2": {
+    "text": "Fern: 미안해요, 신경 쓰지 마요. 그냥... 긴 밤이었어요. 내일이면 괜찮아질 거예요.",
+    "node": "Fern_BonfireNight"
+  },
+  "line:018fd2c": {
+    "text": "Fern: 음... 지금 제가 별로 좋은 말동무는 못 될 것 같아요.",
+    "node": "Fern_BonfireFallback"
+  },
+  "line:0369491": {
+    "text": "Fern: 이 쪽지에 쓸 거 떠올리기가 꽤 어렵네요...",
+    "node": "Fern_BonfireFallback"
+  },
+  "line:0afe529": {
+    "text": "Fern: <size=85%><i>*중얼*</i> ... 영혼 목격담 ... 분장 전통 ...<size=100%>",
+    "node": "Fern_FFFTonight"
+  },
+  "line:0c30a4c": {
+    "text": "Fern: 이게 제가 북스톤버리를 사랑하는 이유예요. 아무리 오래 살아도, 캐낼 전통이 늘 더 있거든요.",
+    "node": "Fern_FFFTonight"
+  },
+  "line:0df1a18": {
+    "text": "Fern: 드디어 다들 왜 그렇게 극찬했는지 알겠네요.",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:046bdff": {
+    "text": "Fern: 틸데처럼 똑같이 하진 않을지 몰라도, 그녀가 당신이 자기 뜻을 이어 갈 거라고 장담했어요.",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:05e930b": {
+    "text": "Fern: 물어봐도 될지 모르겠는데, 지금 기분이 어때요? 앞으로의 계획은요?",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:04f930a": {
+    "text": "Fern: 아 미안해요, 한 번에 질문이 너무 많았네요. 그리고 지금 분명 머릿속이 복잡하겠죠.",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:02d82d8": {
+    "text": "Fern: 개업 날 인터뷰를 해 주는 게 어때요? 전통을 위해서요.",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:0164370": {
+    "text": "Fern: 좋아요. 자, 반짝이는 새 가게에서 즐겁게 지내요!",
+    "node": "Fern_BookshopEnding"
+  },
+  "line:0440d9e": {
+    "text": "Fern: 곧 「리뷰」에서 당신에 대한 또 다른 기사를 보는 게 기대되죠?",
+    "node": "Fern_BookshopEndingFallback"
+  },
+  "line:03a78b4": {
+    "text": "Fern: 이봐요! 꽤 흥미로운 걸 발견했다면서요. 미발견 세인트 북스톤 시라니? 놀라운데요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:08af195": {
+    "text": "Fern: 하퍼가 이미 자세한 인터뷰를 해 줬는데, 당신 의견도 물어보고 싶었어요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0637fe8": {
+    "text": "Fern: 이 발견을 어떻게 생각해요?",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0961fa6": {
+    "text": "Fern: 저도 전적으로 동감이에요. 세인트 북스톤이 왜 자신의 — 아마도 마지막 — 소네트를 그런 숨겨진 곳에 썼을까요?",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:05c9928": {
+    "text": "Fern: 그럼 그의 작품이 더 있을 수도 있다는 뜻일까요?",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:044a776": {
+    "text": "Fern: 흠, 그렇게 유명하고 다작한 작가가 자신의 — 아마도 마지막 — 소네트를 그런 숨겨진 곳에 썼다니 꽤 이상하긴 하네요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0f5266a": {
+    "text": "Fern: 어쩌면 다른 숨길 게 있었는지도 몰라요. 그의 정체에 대해선 <i>정말</i> 알려진 게 거의 없거든요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0161913": {
+    "text": "Fern: 아, 네, 음... 저도 몰라요!",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:01b048a": {
+    "text": "Fern: 근데, 어, 이 소네트는 분명 학계의 관심을 좀 끌 거예요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0406041": {
+    "text": "Fern: 어쨌든 세인트 북스톤의 정체에 대해선 <i>정말</i> 알려진 게 거의 없으니까요. 그리고 이게 귀중한 단서를 줄 수도 있고요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0a928fa": {
+    "text": "Fern: 뭐, 어쨌든, 하퍼가 계속 조사할 마음을 먹어서 기뻐요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:01d9e03": {
+    "text": "Fern: 어쩌면 세인트 북스톤의 고전도 좀 더 들여놓는 게 좋겠어요. 이번 주엔 수요가 높을지도 몰라요.",
+    "node": "Fern_StBookstonInvestigation"
+  },
+  "line:0aa4f77": {
+    "text": "Fern: 이봐요! 있잖아요, 이 소피아 브라이트 건을 다 밝혀 줘서 고맙다고 하고 싶었어요!",
+    "node": "Fern_StBookstonReveal"
+  },
+  "line:0bbef08": {
+    "text": "Fern: 당신의 발견 이후로, 대학 기록이랑 신문 보관소를 깊이 파고들었고, 내일 큰 폭로 기사를 낼 거예요.",
+    "node": "Fern_StBookstonReveal"
+  },
+  "line:0193bff": {
+    "text": "Fern: 세상이 소피아에 대해 알아야 해요! 그리고 바라건대, 이런 학술적 조사가 신문에도 도움이 되면 좋겠어요.",
+    "node": "Fern_StBookstonReveal"
+  },
+  "line:029dd2e": {
+    "text": "Fern: 음... 내일 그 기사를 읽어 보는 게 어때요? 제 조사 결과가 꽤 흥미로웠다고 장담해요.",
+    "node": "Fern_StBookstonReveal"
+  },
+  "line:0249f35": {
+    "text": "Fern: 아, 안녕하세요. 음, 꽤 오랜만이죠?",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:0a8ded0": {
+    "text": "Fern: 그동안 뭐 하고 지냈어요? 뭐 기삿거리 될 만한 거라도요?",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:09235b5": {
+    "text": "Fern: 아, 맞다! 사실 저도요.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:07d5c82": {
+    "text": "Fern: 네에. 할 게 많아요.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:009dcae": {
+    "text": "Fern: 바쁘다 바빠! 하. 그게 저예요!",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:0c3da72": {
+    "text": "Fern: ...네? 음, 미안해요, 캐물으려던 건 아니었어요.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:0f5f692": {
+    "text": "Fern: 오, 음, 괜찮아요?",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:08adf09": {
+    "text": "Fern: 머리 부딪힌 거 아니죠? 최근에 책이 떨어진 적은요? 없어요?",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:0f29ff7": {
+    "text": "Fern: <size=85%><i>*크흠*</i><size=100%> 음. 그럼 됐네요. 어쨌든 돌아와서 기뻐요.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:047cd32": {
+    "text": "Fern: 저... 사실 사무실에 뭘 두고 왔어요. 어어. 안녕.",
+    "node": "Fern_LongTimeNoSee"
+  },
+  "line:03024b3": {
+    "text": "Fern: 안녕하세요. 여기서 보니 반갑네요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:00a4237": {
+    "text": "Fern: 인상적인 건물이죠? 방금 페도로프 교수님한테 안내를 받았어요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0456679": {
+    "text": "Fern: 여기서 미술사를 가르치시는데, 「리뷰」에 인터뷰를 해 주셨어요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:00cbaf3": {
+    "text": "Fern: 아무튼, 음, 지하의 어떤 창고 같은 데를 지나갔거든요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0ebb94e": {
+    "text": "Fern: 그런데 페도로프 교수님이 거기 작동 안 하는 19세기 인쇄기가 있다고 하시더라고요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0af0f42": {
+    "text": "Fern: 솔직히, 흥미가 동해요. 작은 신문사에서 일하면 인쇄 과정을 좀 알게 되긴 하지만...",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0559fd1": {
+    "text": "Fern: 전부 직접? 수동으로요? 음, 그건— 그건 완전히 다른 일일 것 같아요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0dbe689": {
+    "text": "Fern: <size=85%><i>*크흠*</i><size=100%> 네, 뭐. 한번 생각해 볼 만하죠, 그쵸? 좋아요, 나중에 봐요.",
+    "node": "Fern_PrintingPressDiscovery"
+  },
+  "line:0c0c04c": {
+    "text": "Fern: 그래서, 음, 들어 봐요. 당신한테 물어볼 게 있어요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:06a58ff": {
+    "text": "Fern: 그게, 틸데를 마주쳤는데— 아, 그분 어떤지 알잖아요. 제가 뭔가 마음에 두고 있다는 걸 바로 알아채더라고요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:0dc9537": {
+    "text": "Fern: 그래서 그 낡은 인쇄기랑, 그걸 다시 쓰면 멋질 것 같다는 얘길 했죠, 그쵸?",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:010307c": {
+    "text": "Fern: 당연히 그분은 신나서 온갖 계획을 세웠어요. 근데 우리 둘 다 그걸 공동으로 쓰자는 데엔 마음이 맞았어요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:0207b7e": {
+    "text": "Fern: 그러니까... 여기 사람들한텐 이야기가 정말 많잖아요! 우리가... 모르겠어요... 그걸 오래 남기면 어떨까요? 어떻게 생각해요?",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:094e09e": {
+    "text": "Fern: 뭐, 틸데는 무슨 일이 있어도 못 말리니까, 우리, 음— 포스터를 만들었어요. 당신 가게용으로요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:082aa0b": {
+    "text": "Fern: 괜찮아요? 당신이 이 포스터를 붙여 두면 사람들이 원고를 가져오기 시작하길 바라거든요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:02603cc": {
+    "text": "Fern: 그냥 평소대로 장사하면서 책으로 계속 사람들한테 영감을 주면 돼요!",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:0c17c15": {
+    "text": "Fern: 틸데가 그러는데 먼저 월터 오클리어리한테 말해 보래요. 오랫동안 뭔가 쓰려고 해 온 모양이거든요.",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:09c6e87": {
+    "text": "Fern: 그 꿈을 좇기 시작하려면 마지막으로 살짝 떠밀어 줄 손길이 필요한 것 같아요... 그쵸?",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:0a2a403": {
+    "text": "Fern: 그리고 원고가 몇 편 모이면, 이 낡은 기계를 복원하는 수고도 보람 있을 거예요!",
+    "node": "Fern_CollectingStoriesStart"
+  },
+  "line:036570b": {
+    "text": "Fern: 안녕하세요. 누가 새 이야기를 가져왔다고 들었어요. 맞아요?",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:003a5aa": {
+    "text": "Fern: 봐도 돼요? 좋은 거면 좋겠네요.",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:0f1a43b": {
+    "text": "Fern: ... ... ...",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:09b2ecd": {
+    "text": "Fern: 오 우와. 네, 이런 독특한 시각이라면 우리 첫 작품집에 아주 좋겠어요.",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:07a3bac": {
+    "text": "Fern: 정말 흥미로운 문체네요... 더 읽고 싶어 못 견디겠어요.",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:0f8bbe0": {
+    "text": "Fern: 정말 감동적이에요. 이런 목소리야말로 제가 우리 공동체의 이야기를 모으고 싶었던 이유예요.",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:0e62366": {
+    "text": "Fern: 이거 모아 줘서 고마워요.",
+    "node": "Fern_NewManuscript_Pre"
+  },
+  "line:021a330": {
+    "text": "Fern: 오 안녕하세요. 우리한테 또 이야기를 모아다 줬네요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:069dc37": {
+    "text": "Fern: 이제 첫 인쇄에 충분할 것 같죠, 그쵸?",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:098beb6": {
+    "text": "Fern: 흠, 사실... 이제 첫 인쇄에 충분할 것 같아요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:0086f80": {
+    "text": "Fern: 이만큼 공동체의 참여가 있으면, 대학 행정처를 설득해 인쇄기를 고치게 할 수 있을 거예요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:04eb0e3": {
+    "text": "Fern: 근데 그동안 좀 알아봤는데, 수리비가 만만치 않을 것 같아요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:06a4761": {
+    "text": "Fern: 틸데는 공동 모금을 제안했어요, 다들 이 일로 득을 볼 테니까요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:0162cb7": {
+    "text": "Fern: 이미 당신한테 부탁을 많이 한 거 알지만, 음, 기부금을 좀 모아 줄 수 있을까요?",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:0ce4be0": {
+    "text": "Fern: 마을의 다른 소상공인들도 동참하기로 약속했으니... 음, 고마워요. 큰 의미예요.",
+    "node": "Fern_CollectingStoriesComplete"
+  },
+  "line:0eadfd7": {
+    "text": "Fern: 이봐요, 당신 기부함이 벌써 꽤 찼네요! 제가 총액을 세 줄까요?",
+    "node": "Fern_PrintingFundraiserComplete"
+  },
+  "line:0361e09": {
+    "text": "Fern: <size=85%><i>*중얼* ... 십, 이십... 오십, 칠십...</i><size=100%> {0}!",
+    "node": "Fern_PrintingFundraiserComplete"
+  },
+  "line:063c280": {
+    "text": "Fern: 다 있네요! 기여해 줘서 정말 고마워요.",
+    "node": "Fern_PrintingFundraiserComplete"
+  },
+  "line:010e30f": {
+    "text": "Fern: 약속할게요, 그만한 가치가 있을 거예요. 그 인쇄기는 정말 아름답거든요.",
+    "node": "Fern_PrintingFundraiserComplete"
+  },
+  "line:0be9629": {
+    "text": "Fern: 자, 음, 그럼 이제 제가 복원 작업을 시작해야 한다는 뜻이겠네요. 행운을 빌어 줘요!",
+    "node": "Fern_PrintingFundraiserComplete"
+  },
+  "line:00cdfc5": {
+    "text": "Fern: 안녕하세요, 잘 지내요?",
+    "node": "Fern_FirstPrint"
+  },
+  "line:0c39c2e": {
+    "text": "Fern: 인쇄기가 이제 준비됐다는 걸 알려 주고 싶었어요.",
+    "node": "Fern_FirstPrint"
+  },
+  "line:04df6a5": {
+    "text": "Fern: 정말 힘든 복원 과정이었어요, 그것만은 장담할 수 있어요.",
+    "node": "Fern_FirstPrint"
+  },
+  "line:063dee8": {
+    "text": "Fern: 특히 이백 년이 넘은 기계의 교체 부품을 구하는 게요.",
+    "node": "Fern_FirstPrint"
+  },
+  "line:03e85d0": {
+    "text": "Fern: 그래도 창고를 좀 더 뒤진 끝에, 원래 설명서를 찾았어요. 그게 정말 큰 도움이 됐죠.",
+    "node": "Fern_FirstPrint"
+  },
+  "line:0e3a7d0": {
+    "text": "Fern: 이제 시험해 보기만 하면 돼요... 그리고 물론 조정도 좀 하고요.",
+    "node": "Fern_FirstPrint"
+  },
+  "line:0820538": {
+    "text": "Fern: 저기 옛 관리인 오두막에 다 차려 놨어요. 여기 일 끝나면 와 줘요, 네?",
+    "node": "Fern_FirstPrint"
+  },
+  "line:05ce104": {
+    "text": "Fern: 음, 방해해서 미안한데...",
+    "node": "Fern_FirstPrintReminder"
+  },
+  "line:074fc0f": {
+    "text": "Fern: 그 첫 인쇄에 아직 당신 도움이 필요해요. 그러니까, 그 자리에 함께하고 싶댔잖아요, 그쵸?",
+    "node": "Fern_FirstPrintReminder"
+  },
+  "line:0a99963": {
+    "text": "Fern: 음, 그래서, 나중에 관리인 오두막에서 만날 수 있으면 좋겠어요...",
+    "node": "Fern_FirstPrintReminder"
+  },
+  "line:09dd6a6": {
+    "text": "Fern: 네, 그래서... SBU 캠퍼스에 다 차려 놨어요. 거기서 만나요, 알았죠?",
+    "node": "Fern_FirstPrintReminder"
+  },
+  "line:0af5d28": {
+    "text": "Fern: 오 안녕하세요, 절 찾았네요.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:059880b": {
+    "text": "Fern: 아직 짐을 옮기는 중이지만, 꽤 아늑하죠?",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:0e83b05": {
+    "text": "Fern: 여기서 멋진 책들을 좀 인쇄하게 될 것 같은 예감이 들어요.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:0bc48ec": {
+    "text": "Fern: 인쇄기를 보여 줄게요, 그다음 첫 인쇄를 해 봐요!",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:0cb2acc": {
+    "text": "Fern: 어디 보자... 뭘 제일 먼저 인쇄하고 싶어요?",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:013ff13": {
+    "text": "Fern: 머— 뭐라고요— <i>제</i> 단편집이요?!",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:00595e8": {
+    "text": "Fern: <i>저게</i> 정말 제일 먼저 인쇄하고 싶은 거 확실해요? 별것도 아닌데...",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:08d6c12": {
+    "text": "Fern: ... 근데, 알았어요. 네. 해요. 그, 그리고 고마워요!",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:0ebc39a": {
+    "text": "Fern: 어어... 못 정했어요? 음, 알았어요. 원하면 이건 다음에 해도 돼요.",
+    "node": "Fern_FirstPrint_Shop"
+  },
+  "line:01ba81c": {
+    "text": "Fern: 이봐요, 아주 잘됐어요! 품질이 예상보다 훨씬 좋아요.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0724dd6": {
+    "text": "Fern: 좀 더 인쇄하고 싶으면, 오늘 여기 좀 더 있을게요. 그냥 문 두드려요.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0fa03c5": {
+    "text": "Fern: 판본을 더 찍어도 되고, 아니면 새 원고를 가져와도 돼요.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0522f9d": {
+    "text": "Fern: 이거... 재밌죠, 그쵸? 아니면 저만 그런가요?",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0aa00c6": {
+    "text": "Fern: <size=85%><i>*크흠*</i><size=100%> 어쨌든, 할 게 많아요, 할 게 많아, 어...",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:04c8c01": {
+    "text": "Fern: 나중에 봐요. 이 모든 일에 도와줘서 고마워요.",
+    "node": "Cutscene_FirstPrintHappening"
+  },
+  "line:0c2414b": {
+    "text": "Fern: 오, 안녕하세요. 뭐 인쇄할 거 고를래요?",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:0b09905": {
+    "text": "Fern: 머— 뭐라고요— <i>제</i> 단편집이요?!",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:0ddd85e": {
+    "text": "Fern: 정말요? 별것도 아닌데...",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:095c43e": {
+    "text": "Fern: ... 근데, 알았어요. 인쇄가 꽤 잘 나온 것 같네요!",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:072badd": {
+    "text": "Fern: 잘 나왔네요. 곧 읽어 보는 게 기대돼요.",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:0b5af05": {
+    "text": "Fern: 그럼 다음에 해요.",
+    "node": "Fern_PrintLoop_Shop"
+  },
+  "line:08dc552": {
+    "text": "Fern: 다시 해 볼래요?",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:05ca8fc": {
+    "text": "Fern: 머— 뭐라고요— <i>제</i> 단편집이요?!",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:09693dc": {
+    "text": "Fern: 정말요? 별것도 아닌데...",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:076b6a7": {
+    "text": "Fern: ... 근데, 알았어요. 인쇄가 꽤 잘 나온 것 같네요!",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:0894262": {
+    "text": "Fern: 잘 나왔네요. 곧 읽어 보는 게 기대돼요.",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:0aca720": {
+    "text": "Fern: 그럼 다음에 해요.",
+    "node": "Fern_PrintFallback_Shop"
+  },
+  "line:0c042d3": {
+    "text": "Fern: 음, 정말 미안한데, 오늘은 잉크가 말라 버렸어요.",
+    "node": "Fern_NoPrintFallback"
+  },
+  "line:0fae810": {
+    "text": "Fern: 이 낡은 걸 새로 한 번 돌릴 준비를 하는 데 시간이 좀 걸려서...",
+    "node": "Fern_NoPrintFallback"
+  },
+  "line:0591257": {
+    "text": "Fern: 내일 다시 와 줄 수 있을까요?",
+    "node": "Fern_NoPrintFallback"
+  },
+  "line:0820c5b": {
+    "text": "Fern: ... 네? 아, 네, 안녕하세요. 미안해요, 오늘 좀 피곤해서요.",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:059e3ca": {
+    "text": "Fern: 이 인쇄 일을 혼자 하려니 꽤 힘에 부치네요.",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:08a2457": {
+    "text": "Fern: 열정만으론 사실상 출판사를 혼자 꾸리기엔 부족한 모양이에요.",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:0ac5f60": {
+    "text": "Fern: 더 많은 사람을 끌어들여야 할 텐데... 아직 이 프로젝트를 아는 사람이 별로 없어요.",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:0c70a9f": {
+    "text": "Fern: 우리 책을 더 많이 세상에 내놓아야 해요. 당신 도움을 믿어도 될까요?",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:09897b4": {
+    "text": "Fern: 고마워요. 정말 고마워요.",
+    "node": "Fern_EstablishPrintStart"
+  },
+  "line:0fce3fc": {
+    "text": "Fern: 흠... {0}! 그게 맞아요?",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:0b90041": {
+    "text": "Fern: 정말 당신이 우리 인쇄본을 {0}권이나 추천했다고요?",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:07f73b2": {
+    "text": "Fern: 그건... 우와. 정말 대단한 이정표네요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:0d7d893": {
+    "text": "Fern: 그게 관심을 모으는 데 정말 도움이 됐어요. 「리뷰」의 다이앤이랑 해럴드도 당신한테서 몇 부 샀고, 둘 다 돕고 싶어 해요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:00aced2": {
+    "text": "Fern: 그리고 대학생 몇 명이랑 독립 작가들도 저한테 연락해 왔고요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:0ab8e1b": {
+    "text": "Fern: 저— 제가 하는 일에 이렇게 많은 사람이 관심을 가진 건 처음이에요. 무섭긴 한데, 그래도...",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:022ddb4": {
+    "text": "Fern: ... 좋기도 해요. 그러니까, 제가 전문 지식을 꽤 쌓았잖아요. 그 사람들 질문에 답할 수 있다는 게 기분 좋네요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:07159f9": {
+    "text": "Fern: 인터뷰 말고 낯선 사람이랑 이렇게 많이 얘기해 본 적이 없는 것 같아요. 어쩌면 저... 친구를 사귀고 있는 걸까요?",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:0880173": {
+    "text": "Fern: ... 뭐, 너무 깊이 생각하지 않으려고요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:00ab166": {
+    "text": "Fern: 그리고... 그동안 내 친구가 되어 줘서 고마워요. 큰 의미예요.",
+    "node": "Fern_EstablishPrintComplete"
+  },
+  "line:0cafb48": {
+    "text": "Fern: 아, 워터프런트에 흥미로운 일이 생겼네요.",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:05d0d62": {
+    "text": "Fern: “월트의 잡동사니와 보물”. 혹시 그 이름 뒤에 뭐가 있는지 알아요?",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:05276c7": {
+    "text": "Fern: 흥미롭네요. 어쩌면 월터가 계산대 뒤를 좀 보게 해 줄지도 몰라요.",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:0498e0f": {
+    "text": "Fern: 뭔가 예상 밖의 걸 발견하면 다시 알려 줄게요.",
+    "node": "Fern_WaltsNewShop"
+  },
+  "line:08e7883": {
+    "text": "Fern: <size=85%><i>*에에<size=115%>취이*</i><size=100%>",
+    "node": "Fern_Dog_Short"
+  },
+  "line:0b0bb24": {
+    "text": "Fern: <size=85%><i>*훌쩍*</i><size=100%> 아, 안녕 버디.",
+    "node": "Fern_Dog_Short"
+  },
+  "line:0126a6d": {
+    "text": "Fern: <size=85%><i>*훌쩍*</i><size=100%> 아, 안녕 베헤모스.",
+    "node": "Fern_Dog_Short"
+  },
+  "line:03496ef": {
+    "text": "Fern: <size=85%><i>*훌쩍*</i><size=100%> 아, 안녕 베일리.",
+    "node": "Fern_Dog_Short"
+  },
+  "line:09d486b": {
+    "text": "Fern: ... ... ...",
+    "node": "Fern_WinterMarket"
+  },
+  "line:07c5385": {
+    "text": "Fern: 오, 안녕하세요. 잠깐, 미안해요, 이어버드 좀 뺄게요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:02b80c6": {
+    "text": "Fern: 오, 음, 아무것도 아니에요! 그냥 소음 차단용으로 쓰고 있었어요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0483fc2": {
+    "text": "Fern: 가판대 주인 몇 명이 명절 음악을 꽤 크게 틀거든요, 게다가 인파까지...",
+    "node": "Fern_WinterMarket"
+  },
+  "line:05f3e75": {
+    "text": "Fern: 그래서 보통 붐비는 시간대는 피하려고 해요. 오늘은 그냥... 당신 가게를 놓치고 싶지 않았어요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0267f44": {
+    "text": "Fern: 아! 당연히 책이 필요해서요!",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0a01ffa": {
+    "text": "Fern: 오 아, 아니요! 음, 괜찮아요, 방해 안 됐어요!",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0c80b45": {
+    "text": "Fern: 그냥 소음 차단용으로 쓰는 거예요. 알다시피, 이 근처 명절 음악이 꽤 시끄럽거든요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0fda166": {
+    "text": "Fern: 게다가 인파까지... 그래서 네, 여기선 보통 붐비는 시간대를 피하려고 해요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0858161": {
+    "text": "Fern: 근데 오늘은 제가... 음, 그냥, 음— 책이 필요했어요! 네, 급했어요.",
+    "node": "Fern_WinterMarket"
+  },
+  "line:029a996": {
+    "text": "Fern: 그래서... 네, 책 말이에요. 저쪽에 있죠, 그쵸? 음... 안녕!",
+    "node": "Fern_WinterMarket"
+  },
+  "line:0b3b509": {
+    "text": "Fern: 안녕하세요. 그래서, 음, 올해 마지막 날이네요?",
+    "node": "Fern_NewYearsEve"
+  },
+  "line:024d81d": {
+    "text": "Fern: 신나는 한 해였어요? 제 해는, 흥미로웠다고 해야겠네요.",
+    "node": "Fern_NewYearsEve"
+  },
+  "line:016508b": {
+    "text": "Fern: 신문 취재 때문에 분명 꽤 흥미로운 곳들에 가 봤거든요.",
+    "node": "Fern_NewYearsEve"
+  },
+  "line:09ae249": {
+    "text": "Fern: 게다가 옛 통조림 공장과 관련된 소소한 스캔들까지 파헤쳤다니까요!",
+    "node": "Fern_NewYearsEve"
+  },
+  "line:0aae032": {
+    "text": "Fern: 그래서 좋은 기삿거리가 된다는 이유만으로 내년에 나쁜 일이 일어나길 바라지 않으려고 애쓰고 있어요...",
+    "node": "Fern_NewYearsEve"
+  },
+  "line:0e23736": {
+    "text": "Fern: 오, 음, 안녕하세요. 공원에서 서점을 보니 반갑네요!",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:039cb48": {
+    "text": "Fern: 오늘 시간이 좀 나서, 산책이나 할까 했는데...",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:02539e2": {
+    "text": "Fern: ... 음, 아니, 사실 그건 아니에요. 음, 소문으로 들은 그 새 창작 글쓰기 동아리를 좀 찾아보려던 거였어요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0eeb534": {
+    "text": "Fern: 보여요? 안 돼, 지금 돌아보지 마요! 우릴 볼 거예요!",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:07e90fc": {
+    "text": "Fern: 저— 아직 그들한테 무슨 말을 해야 할지 모르겠어요, 알았죠?",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0e1abd7": {
+    "text": "Fern: 근데 오늘은 여기 없는 것 같네요... 날씨가 나빠서 그런가 봐요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0633571": {
+    "text": "Fern: 어쨌든, 아직 들어갈 준비가 안 된 것 같아요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:01f52b5": {
+    "text": "Fern: 근데 오늘은 여기 없는 것 같네요... 금요일에만 모이나 봐요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:05a4e34": {
+    "text": "Fern: 어쨌든, 아직 들어갈 준비가 안 된 것 같아요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:079792b": {
+    "text": "Fern: 대체 어떻게 다가가죠? 제가 이미 「리뷰」에 글을 쓰는데 동아리에 들어가고 싶어 하면 다들 이상하게 여길 거예요...",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:02f9593": {
+    "text": "Fern: <size=85%><i>*한숨*</i><size=100%> 이런 식이면 북스톤버리에서 새 친구를 영영 못 사귈지도 몰라요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:01055bb": {
+    "text": "Fern: 음, 물론 당신 빼고요.<br>근데... <i>당신은</i> 어떻게 하는 거예요? 사실상 모든 사람이랑 친구잖아요!",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0fbabd4": {
+    "text": "Fern: 흠. 당신이 공원에서 동아리 몇 개에 들어가는 걸 지켜보면, 의식 못 하더라도 당신이 뭘 제대로 하는지 분명 알아낼 수 있을 것 같아요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0fba43b": {
+    "text": "Fern: 좀 도와줄래요?",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:0b4a032": {
+    "text": "Fern: 고마워요, 도와줘서 정말 감사해요.",
+    "node": "Fern_JoinParkGroups"
+  },
+  "line:06400c4": {
+    "text": "Fern: 오, 벌써 창작 글쓰기 동아리에 들어갔어요? 빠르네요.",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:05f9b90": {
+    "text": "Fern: 그래서, 음... 분위기가 어땠어요?",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:09eaec0": {
+    "text": "Fern: 오! 저도... 종종 “너드” 소리를 듣거든요. 저도... 어쩌면 어울릴 수 있을까요? 그쵸?",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:0c28f0f": {
+    "text": "Fern: 정말요? 그러니까, 그냥 친절한 거요? 아니면 “속으로는 너 비웃는 중” 친절이요?",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:04c4fa6": {
+    "text": "Fern: 그런 게 있다고 들었는데, 음... 뭐, 됐어요, 그냥 긍정적으로 생각하려고요!",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:0fc5e6f": {
+    "text": "Fern: 그래서, 그들이 절 반겨 줄 것 같아요? 아직 잘 모르겠는데...",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:081187e": {
+    "text": "Fern: 그래도 다른 모임들을 먼저 둘러보는 게 좋겠어요.",
+    "node": "Fern_JoinedWritingGroup"
+  },
+  "line:0e7e179": {
+    "text": "Fern: 오, 음... 신경 쓰지 마요.",
+    "node": "Fern_ObservingGroups"
+  },
+  "line:042a620": {
+    "text": "Fern: 그냥, 어, 안경을 떨어뜨려서요.",
+    "node": "Fern_ObservingGroups"
+  },
+  "line:0cd59e2": {
+    "text": "Fern: 네. 다시 찾았어요!",
+    "node": "Fern_ObservingGroups"
+  },
+  "line:0d78c00": {
+    "text": "Fern: 이봐요, 이제 여기 모임에 다 들어간 거죠?",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:0b1ebc4": {
+    "text": "Fern: 제 생각보다 훨씬 쉬워 보이게 했네요... 아무도 당신이 왜 들어오려는지 따져 묻지 않았나 봐요.",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:04b0f19": {
+    "text": "Fern: 어쩐 일인지, 전 변명을 잔뜩 해야 할 줄 알았거든요.",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:056d78f": {
+    "text": "Fern: 근데 다들 그냥 새 회원이 와서 기쁜 것 같네요.",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:03c263c": {
+    "text": "Fern: ... 그럼 이제 저도... 가서 들어가야겠죠, 응?",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:0aeabc6": {
+    "text": "Fern: 자, 행운을 빌어 줘요!",
+    "node": "Fern_JoinedAllGroups"
+  },
+  "line:0e39850": {
+    "text": "Fern: <size=85%><i>*한숨*</i><size=100%> 당신이 여기 있어서 다행이에요.",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0ce83ed": {
+    "text": "Fern: 또 읽을거리가 떨어져 가는데, 당신이 없을 때면 이 공원은 무슨 책의 사막 같다니까요...",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0d89f24": {
+    "text": "Fern: 글쓰기 동아리 회원들끼리 책을 바꿔 보기 시작했을 정도예요, 그러다— 잠깐!",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:00f5d0c": {
+    "text": "Fern: 작은 교환 책장을 만드는 게 똑똑한 생각 아닐까요? 그럼 당신이 다른 데 가게를 차려도, 사람들이 즉흥적으로 읽을 걸 찾을 수 있잖아요!",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0ae9337": {
+    "text": "Fern: 단 하나 문제는... 아직 도는 책이 충분치 않다는 거예요. 적어도 동아리에선, 이미 다들 책을 다 돌려 봤거든요.",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0fdc289": {
+    "text": "Fern: 먼저 몇 사람이 다 읽은 책을 더 가져와야 해요. 그러니까... <size=85%><i>*계산 중얼*</i><size=100%>",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0ff1919": {
+    "text": "Fern: 음, 약 {0}권쯤 팔리면, 충분한 책이 모일 것 같아요!",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:0c84b55": {
+    "text": "Fern: 이게 당신 사업엔 별로 이득이 안 될지도 모르지만... 공동체엔 정말 좋을 것 같아요.",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:028ed0d": {
+    "text": "Fern: 그리고 어차피, 제 독서 목록 책을 찾을 땐 늘 당신한테 먼저 올게요.",
+    "node": "Fern_SwapShelfStart"
+  },
+  "line:004f040": {
+    "text": "Fern: 무슨 일이 있었는지 믿기지 않을 거예요. 우리 작전이 통했어요!",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0ad0619": {
+    "text": "Fern: 이 근처에서 사람들이 책을 어찌나 많이 읽었는지, 책이 사방에서 나타나고 있어요!",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0c0abe7": {
+    "text": "Fern: 누구는 벤치에 두고 갔고, 누구는 공원 정문 옆에 쌓아 두기까지 했어요.",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:08fca3e": {
+    "text": "Fern: 그래서, 우리 작가 동아리가 자금을 댄 교환 책장이 드디어 준비됐어요.",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0cc5f71": {
+    "text": "Fern: 자, 같이 가서 세워요!",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0d0e12f": {
+    "text": "Fern: 멋지지 않아요? 어느 정도 당신 서점을 본떠 만들었어요.",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0c5a8d2": {
+    "text": "Fern: 이걸 실현하게 도와줘서 고마워요. 분명 독서에 대한 관심을 한층 더 높여 줄 거예요!",
+    "node": "Fern_SwapShelfComplete"
+  },
+  "line:0541978": {
+    "text": "Fern: 오, 음, 안녕하세요. 네, 결국 그 모임에 들어갔어요.",
+    "node": "Fern_WritingGroupMember_Pre"
+  },
+  "line:0e82b61": {
+    "text": "Fern: 다들 정말 많이 격려해 줬고, 사실 단편 아이디어도 좀 모으고 있어요...",
+    "node": "Fern_WritingGroupMember_Pre"
+  },
+  "line:077a1ca": {
+    "text": "Fern: 근데 아직 아무한테도 말하지 말아 줘요! 발표할 준비가 안 됐어요!",
+    "node": "Fern_WritingGroupMember_Pre"
+  },
+  "line:0ee8a7b": {
+    "text": "Fern: <size=85%><i>*중얼*</i> 자 이걸 첫 이야기랑 어떻게 엮지...<size=100%>",
+    "node": "Fern_ShortStoryWriting_Pre"
+  },
+  "line:0e85122": {
+    "text": "Fern: 오, 안녕하세요! 여기서 보니 반갑네요.",
+    "node": "Fern_ShortStoryWriting_Pre"
+  },
+  "line:095e790": {
+    "text": "Fern: <size=85%><i>*크흠*</i><size=100%> 안녕하세요. 말해야 할 게 있는데... 저— <size=85%><i>*크흠 크흠*</i><size=100%>",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:03d6cd8": {
+    "text": "Fern: 그게, 사실 오늘 모임에서 발표할 게 있어요.",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:0a42164": {
+    "text": "Fern: 제가 작업하던 그 이야기들 있잖아요? 네, 사실 작은 단편집을 다 썼어요.",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:006d3bb": {
+    "text": "Fern: 그리고 이 모임의 동기 부여 없이는 못 해냈을 거예요, 그러니...",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:03beadb": {
+    "text": "Fern: 들어오라고 격려해 줘서 고마워요! 자, 보고 싶을까 봐 제 원고를 한 부 만들었어요.",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:01451f5": {
+    "text": "Fern: 자, 이제 슬슬 모임을 시작해야겠어요... 행운을 빌어 줘요, 알았죠?",
+    "node": "Fern_ShortStoriesFinished_Pre"
+  },
+  "line:08ba970": {
+    "text": "Fern: 음, 좋아요. 그럼 전 가 볼게요!",
+    "node": "Fern_Birthday_Post"
+  },
+  "line:00f3f1b": {
+    "text": "Fern: 오! 음, 저... 아무도 기억할 줄 몰랐어요...",
+    "node": "Fern_Birthday_Post"
+  },
+  "line:022a19b": {
+    "text": "Fern: 저, 어... 고마워요. 정말 감사해요.",
+    "node": "Fern_Birthday_Post"
+  },
+  "line:0181383": {
+    "text": "Fern: 그래서, 새 꽃 축제는 어떻게 생각해요?",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:02d204e": {
+    "text": "Fern: 개인적으로, 반대할 사람은 없을 것 같아요. 특히 꽃 대회는 공동체의 참여를 북돋울 거예요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:0dc010d": {
+    "text": "Fern: 틸데가 저한테도 대회에 참가하라고 자꾸 권하고 있어요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:054a3b7": {
+    "text": "Fern: 제가 구도 보는 눈은 <i>좀</i> 있는 것 같아요. 아마 사진 찍던 경험에서 온 거겠죠.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:0b10859": {
+    "text": "Fern: 근데 혼자 하면 제때 못 끝낼 거예요. 어차피 다들 팀으로 겨루니까요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:03eea31": {
+    "text": "Fern: 근데... 그럼 누군가한테 팀이 되어 달라고 부탁해야 한다는 뜻이잖아요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:09f95a6": {
+    "text": "Fern: 솔직히, 또 꽃 축제가 열려서 꽤 설레요. 작년에 월터랑 팀을 짜는 게 재밌었거든요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:0e40c78": {
+    "text": "Fern: 근데 이번엔 우리가 이길 가능성이 있을까요? 잘 모르겠어요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:099a202": {
+    "text": "Fern: 트로피를 탄 것도 나쁘진 않았던 것 같네요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:0475f66": {
+    "text": "Fern: 아무튼, 좋은 행사예요. 거기서 다들 보는 게 기대돼요.",
+    "node": "Fern_FlowerFestivalSoon"
+  },
+  "line:04f5856": {
+    "text": "Fern: 「리뷰」에서 연극 평론가 역할로 승진한 모양이에요.",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:0c06c97": {
+    "text": "Fern: 불평하는 건 아니에요. 덕분에 표를 직접 안 사도 됐으니까요.",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:058173a": {
+    "text": "Fern: 원작은 어떻게 생각해요? 오늘 밤을 위해 미리 읽어 봤거든요.",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:07646af": {
+    "text": "Fern: 솔직히, 이 작품이 던지는 정치적·철학적 질문은 어쩌면 오늘날에도 여전히 유효한 것 같아요.",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:0cb5cb7": {
+    "text": "Fern: <size=85%><i>*크흠*</i><size=100%> 아무튼, 지루하게 할 생각은 없어요. 이따 객석에 있을 거죠, 그쵸?",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:006aad0": {
+    "text": "Fern: 음, 좋아요. 그럼 거기서 봐요!",
+    "node": "Fern_TheatrePlay"
+  },
+  "line:0ec42f1": {
+    "text": "Fern: 오, 우와! 밖에서 보는 것보다 훨씬 넓네요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0f6f5a0": {
+    "text": "Fern: 장식도 잘했네요! 무척 아늑한 느낌이에요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:06eac2d": {
+    "text": "Fern: 근데 인터뷰 약속했었죠? 바로 본론으로 들어가요!",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0c48471": {
+    "text": "Fern: 기록을 위해서: 이 새로운 사업에 대해 좀 들려줘요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0fb472d": {
+    "text": "Fern: 그렇겠죠. 물론 이동식 가게에 불만은 없지만, 공간이 좀 더 넓으면 분명 좋겠죠!",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:09b324c": {
+    "text": "Fern: 오, 흥미롭네요. 네, 이른바 “길 위의 삶”에 익숙해질 수 있다는 게 이해돼요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0a7bf7c": {
+    "text": "Fern: 우와, 정말요? 꽤 야심 차네요! 여기서 얼마나 더 확장할 여지가 있을지 모르겠지만요...",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0c1d7ad": {
+    "text": "Fern: 좋아요, 그럼 여기서 이만큼 지낸 지금, 북스톤버리에 대해 어떻게 느껴요?",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:03ca1e4": {
+    "text": "Fern: 흠 그래요, 해돋이 때 그 바다 풍경은 아무리 봐도 늘 절 사로잡아요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0f5b124": {
+    "text": "Fern: 정말요? 좋네요, 어... 네, 제 생각엔... 분명 그들도 당신을 좋아할 거예요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0cd3c8f": {
+    "text": "Fern: 오, 우와. 정말 듣기 좋은 말이네요. 여기서 편안하게 지낸다니 기뻐요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:02e2049": {
+    "text": "Fern: 늘 그렇듯, 인터뷰 고마워요. 정말 감사해요.",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0b44bed": {
+    "text": "Fern: 그리고 이제 당신 새 구색을 좀 음미할 시간을 가져야겠어요. 그럼!",
+    "node": "Fern_BookshopOpeningInterview"
+  },
+  "line:0d4dcdc": {
+    "text": "Fern: 안녕하세요. 또 사건을 맡았나 보네요? 발견한 거 좀 봐도 될까요?",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:0f4e022": {
+    "text": "Fern: 흥미롭네요. 이 일곱 번째 규칙 얘긴 들어 봤어요. 오랜 세월 사라진 거라고 했죠?",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:071051a": {
+    "text": "Fern: 1798년 첫 사업 편람의 유물이라... 그건 딱 그 낡은 인쇄기가 돌아가던 시절이네요!",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:0a3111f": {
+    "text": "Fern: 그 편람이 바로 여기 북스톤버리에서 인쇄됐을 수도 있다고 생각해요?",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:0a94130": {
+    "text": "Fern: 옛 세대 분들한테 물어보는 게 좋겠어요. 틸데가 로더릭 블라이턴이랑 그의 글에 대해 아마 더 기억할 거예요.",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:0d80c23": {
+    "text": "Fern: 어, 그러니까— 그분이 <i>그렇게</i> 나이 많다는 건 아니고, 그냥— 음, 그냥 아는 게 많다는 뜻이었어요, 그게 다예요.",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:00a7e03": {
+    "text": "Fern: 옛 세대 분들한테 물어보는 게 좋겠어요. 월터가 그게 사실인지 기억할지도 몰라요.",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:04eaf20": {
+    "text": "Fern: 어, 그러니까— 그분이 <i>그렇게</i> 나이 많다는 건 아니고, 그냥— 음, 그냥 북스톤버리에 대해 많이 안다는 뜻이었어요, 그게 다예요.",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:04e8829": {
+    "text": "Fern: 아무튼, 이것에 대해 더 알아낼 수 있길 바라요. 행운을 빌어요.",
+    "node": "Fern_7thRuleNoClue"
+  },
+  "line:08123ff": {
+    "text": "Fern: 일곱",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0f483f0": {
+    "text": "Fern: 다섯",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0a76a93": {
+    "text": "Fern: 셋",
+    "node": "Wintermarket_NewYearsEve_Cutscene"
+  },
+  "line:0b4a6c2": {
+    "text": "Fern: 오, 당신이 여기 있어서 다행이에요!",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:01c1562": {
+    "text": "Fern: 빨리, 이리 와 봐요, 보여 줄 게 있어요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:0411a70": {
+    "text": "Fern: 보세요, 누가 직접 손을 써서...",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:0d53e2c": {
+    "text": "Fern: 이 마스코트 바람을 <i>빼 버렸어요</i>.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:058c2bd": {
+    "text": "Fern: 그게 무슨 뜻인지 알죠?",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:0fe89b9": {
+    "text": "Fern: 범죄에 관한 제 첫 탐사 기사예요!",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:04d6b58": {
+    "text": "Fern: 좀 도와줄래요? 단서를 다 정리하는 데 손이 좀 필요해요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:090d57f": {
+    "text": "Fern: 우선, 연결고리를 알아낼 수 있게 모든 걸 보드에 붙여요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:05301bd": {
+    "text": "Fern: 슈퍼마켓에서 우리 쓸 걸 하나 얼른 구해 왔어요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:03d0975": {
+    "text": "Fern: 이 이야기를 손에서 놓칠 순 없어요, 알았죠?",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:083d2f9": {
+    "text": "Fern: 그래서 지금까지 우리가 가진 사실을 다 모아 사건 파일을 만들었어요! 여기 당신 거예요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:00c3a6c": {
+    "text": "Fern: 자, 당신은 이제 탐사 보도 보조 기자로 임명됐어요!",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:089037d": {
+    "text": "Fern: 음, 그 직함은 법적 효력은 전혀 없어요, 제가 좀... 지어낸 거라서요.",
+    "node": "Fern_MascotInvestigationIntro"
+  },
+  "line:0676b7e": {
+    "text": "Fern: 자, 상황은 이래요:",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:0f69052": {
+    "text": "Fern: 어젯밤 언젠가 누가 와서 마스코트를 찔렀어요. 근데 아직 <i>흉기</i>를 못 찾았어요.",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:0af1e38": {
+    "text": "Fern: 하지만 이 범행은 계획적이라기보단, 순간의 격정으로 저질러진 것 같아요.",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:0325a3a": {
+    "text": "Fern: 그러니 제 직감이 맞다면, 이 근처 어딘가에 있을 거예요...",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:038ceb6": {
+    "text": "Fern: 아, 마르셰에서 누구한테 CCTV 영상 좀 물어봐 줄래요?",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:09cc3ef": {
+    "text": "Fern: 고마워요, 파트너! 새 단서를 찾으면 언제든 다시 와요, 전 여기서 범죄 현장을 지켜보고 있을게요.",
+    "node": "Fern_MascotInvestigationExplainer"
+  },
+  "line:00099b3": {
+    "text": "Fern: 이봐요, <i>흉기</i>를 찾다니 잘했어요!",
+    "node": "Fern_MascotInvestigationKnifeFound"
+  },
+  "line:08a6a0e": {
+    "text": "Fern: 지문은 못 알아보겠지만, 제가 보기엔 평범한 부엌칼 같네요.",
+    "node": "Fern_MascotInvestigationKnifeFound"
+  },
+  "line:0e5a545": {
+    "text": "Fern: 그럼 누군가 이걸 집에서 가져왔다는 건데... 그럼 제 “순간의 격정” 이론은 무너지네요.",
+    "node": "Fern_MascotInvestigationKnifeFound"
+  },
+  "line:0297c08": {
+    "text": "Fern: 뭐, 이게 누구 칼인지 알아내면, 사건 해결에 한 발 더 가까워질 거예요. 여기저기 물어보기 시작해요.",
+    "node": "Fern_MascotInvestigationKnifeFound"
+  },
+  "line:0f5861b": {
+    "text": "Fern: 좋아요. 여기선 할 수 있는 건 다 한 것 같네요.",
+    "node": "Fern_FoundAllCluesAtMarche"
+  },
+  "line:066ee8b": {
+    "text": "Fern: 이 칼이 누구 건지 알아내야 해요...",
+    "node": "Fern_FoundAllCluesAtMarche"
+  },
+  "line:017fb31": {
+    "text": "Fern: 단서를 좀 찾으면 다시 만나요.",
+    "node": "Fern_FoundAllCluesAtMarche"
+  },
+  "line:098fed0": {
+    "text": "Fern: 전 기사에 쓸 우리의 현재 발견을 정리할게요.",
+    "node": "Fern_FoundAllCluesAtMarche"
+  },
+  "line:09a55d0": {
+    "text": "Fern: <i>흉기</i>를 찾다니 잘했어요.",
+    "node": "Fern_Knife_Found_Loop"
+  },
+  "line:073381d": {
+    "text": "Fern: 이게 누구 칼인지 알아내면, 사건 해결에 한 발 더 가까워질 거예요!",
+    "node": "Fern_Knife_Found_Loop"
+  },
+  "line:04b8a06": {
+    "text": "Fern: 흠, 다른 장소들에서도 물어보는 게 좋겠어요, 분명 누군가는 이게 누구 칼인지 알 거예요.",
+    "node": "Fern_Knife_Found_Loop"
+  },
+  "line:0ab571e": {
+    "text": "Fern: 오, 사건 파일을 안 가져온 모양이네요.",
+    "node": "Fern_NoCaseFileEquippedMascotCase"
+  },
+  "line:00ae3a6": {
+    "text": "Fern: 사건 얘기를 할 준비가 되면 코르크 보드랑 사건 파일을 꼭 장착해요.",
+    "node": "Fern_NoCaseFileEquippedMascotCase"
+  },
+  "line:0f6a054": {
+    "text": "Fern: 뭐라고요, CCTV 영상이 지워졌다고요?",
+    "node": "Fern_MascotInvestigationCCTVFootageInfo"
+  },
+  "line:0a8de74": {
+    "text": "Fern: 묘하네요... 누가 거기 접근할 수 있었을까요?",
+    "node": "Fern_MascotInvestigationCCTVFootageInfo"
+  },
+  "line:062fdc5": {
+    "text": "Fern: 오, 그래서 누가 칼을 가졌었는지 알아냈어요? 엄청난 돌파구네요!",
+    "node": "Fern_MascotInvestigationTildeHadKnife"
+  },
+  "line:0387617": {
+    "text": "Fern: 근데... 잠깐, 아직 누군지 말하지 마요. 제 현재 생각을 먼저 적어야 하는데, 편견 없이 해야 하거든요.",
+    "node": "Fern_MascotInvestigationTildeHadKnife"
+  },
+  "line:00c23c7": {
+    "text": "Fern: 그래도 당신은 가서 증거를 들이밀고 추궁해요! 뭐라고 하는지 보고 반응을 메모해 둬요!",
+    "node": "Fern_MascotInvestigationTildeHadKnife"
+  },
+  "line:0fb8074": {
+    "text": "Fern: 안녕하세요. 뭔가... 달라 보이네요. 사건을 해결했죠?!",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:021979f": {
+    "text": "Fern: 멋진 수사였어요! 그래서, 누가 한 것 같아요?",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0730d08": {
+    "text": "Fern: 으, 제가 직접 짐작했어야 했는데! 틸데는 <i>메가 코퍼레이션</i>의 팬이었던 적이 없거든요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:069d87a": {
+    "text": "Fern: 이 모든 걸 끝까지 파헤쳐 줘서 정말 잘했어요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:026279b": {
+    "text": "Fern: 근데... 기사엔 틸데를 언급하지 않으려고요. 어차피 그냥 작은 기물 파손이었으니까요. 진짜 해를 끼친 건 없죠.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:09f980a": {
+    "text": "Fern: 잠깐, 뭐라고요? 제가 왜—",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0008d9a": {
+    "text": "Fern: 오오. 제가 쓸 흥미로운 기삿거리를 만들려고 이런 짓을 했을 거라고 생각하는군요!",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0bf504f": {
+    "text": "Fern: 음, 완전히 빗나갔어요. 저한텐 언론인의 양심이 있다고요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0d5d20f": {
+    "text": "Fern: 아무튼, 그럼 누가 했는지 못 알아냈다는 뜻이겠네요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:08551b2": {
+    "text": "Fern: 근데 괜찮아요. 열린 결말 기사도 사람들이 더 궁금해하게 만들 테니까요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:04bf770": {
+    "text": "Fern: 흠... 무슨 일이 있어도 정보원을 보호하려는 거군요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0e0f4bf": {
+    "text": "Fern: 뭐, 캐묻진 않을게요. 열린 결말 기사도 사람들이 더 궁금해하게 만들 테니까요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0389688": {
+    "text": "Fern: 그리고 어차피, 누가 했는지 알아낸 건 그냥 재미로 한 거였어요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0845074": {
+    "text": "Fern: 전 퍼즐 푸는 걸 좋아하지만, 일단 풀고 나면 계속 붙들 필요는 없잖아요, 안 그래요?",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0f1e347": {
+    "text": "Fern: 근데 이봐요, 멋진 수사였어요! 아주 믿음직한 탐사 보도 보조 기자라는 걸 증명했네요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0cf017c": {
+    "text": "Fern: 자, 다음 수사를 위해 당신만의 취재 통제선을 가져요.",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:0f2995a": {
+    "text": "Fern: ... 그래서 제목으로 “메가 마스코트, 마구 망가지다” 어떻게 생각해요?",
+    "node": "Fern_MascotInvestigationComplete"
+  },
+  "line:04efca5": {
+    "text": "Fern: 아, 음... 공은 다 당신 거예요, 오클리어리 씨. 전 그냥 도왔을 뿐이에요.",
+    "node": "Walt_FlowerArrangementIntro_Pre"
+  },
+  "line:07c346e": {
+    "text": "Fern: 어, 맞다! 미안해요, 월트.",
+    "node": "Walt_FlowerArrangementIntro_Pre"
+  },
+  "line:090d05d": {
+    "text": "Fern: ...",
+    "node": "FlowerFestival_JudgingWalt_Fallback"
+  }
+}

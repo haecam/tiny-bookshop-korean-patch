@@ -1,0 +1,14 @@
+{
+  "line:00b481a": {
+    "text": "ExamPhaseStudent: <b>지친 학생:</b> 으윽, 또 왜 시험 기간인 거야?",
+    "node": "Cutscene_ExamPhase"
+  },
+  "line:0e0b4c2": {
+    "text": "ExamPhaseStudent: 그냥 마음 편히 먹자...",
+    "node": "Cutscene_ExamPhase"
+  },
+  "line:0f7776a": {
+    "text": "ExamPhaseStudent: 안 돼, 필기 노트를 떨어뜨렸어!!",
+    "node": "Cutscene_ExamPhase"
+  }
+}

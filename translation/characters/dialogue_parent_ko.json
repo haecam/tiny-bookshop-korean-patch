@@ -1,0 +1,262 @@
+{
+  "line:05f1be8": {
+    "text": "Parent: 실례합니다? 네. 안녕하세요. 우리 애들이 이번 여름에 용돈을 꽤 쓴 곳이 여기라고 하더군요.",
+    "node": "BeachParent_Crime01Start"
+  },
+  "line:0c8b0c1": {
+    "text": "Parent: 왜 그랬는지 알 만하네요. 이 가게 꽤 아담하니 좋네요. 어른이 볼 만한 책도 있나요?",
+    "node": "BeachParent_Crime01Start"
+  },
+  "line:018b0ab": {
+    "text": "Parent: 해변에서 즐기는 괜찮은 미스터리는 제 은밀한 즐거움이거든요.",
+    "node": "BeachParent_Crime01Start"
+  },
+  "line:0f6616e": {
+    "text": "Parent: 좋아요. 그럼 오늘은 하나 사 가야겠네요.",
+    "node": "BeachParent_Crime01Start"
+  },
+  "line:03c3f43": {
+    "text": "Parent: 아, 아주 좋아요. <b>{0}</b> 구색이 꽤 훌륭하네요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:06f30b9": {
+    "text": "Parent: 하지만 이 중 몇 권은 너무 피비린내 나지 않아요? 이런 건 절대 아이들한테 팔면 안 되죠.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:09d5b50": {
+    "text": "Parent: ... 이제 둘러보니, 여기 아이들이 꽤 많이 있네요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:088c5ee": {
+    "text": "Parent: 보호자들은 다 어디 있는 거죠? 해변에 아이들을 방치하다니 정말 무책임해요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:010bd06": {
+    "text": "Parent: 넘어져서 다칠 수도 있잖아요! 아니면... 뭐, <i>무슨</i> 일이든 벌어질 수 있다고요!!",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:0600897": {
+    "text": "Parent: 흥. 어쨌든, 당신 가게는 제가 꼭 지켜볼 거예요. 누군가는 해야죠!",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:0589850": {
+    "text": "Parent: 그래도 <b>{0}</b> 책은 계속 들여놔 줘요... 도무지 손에서 놓을 수가 없네요.",
+    "node": "BeachParent_Crime01Complete"
+  },
+  "line:0fa8729": {
+    "text": "Parent: 잘됐네요, 마침 계셨군요. 읽을거리 정말 고마워요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0c64548": {
+    "text": "Parent: 그런데 해변 안전 대책에 관해 당신과 얘기 좀 하려던 참이었어요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0d77a57": {
+    "text": "Parent: 솔직히 말해서, 이 근방에 감독이 이렇게 없다는 게 무모할 지경이라고요!",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0f69cee": {
+    "text": "Parent: 아이들이 선크림도 안 바르고 뛰어다녀요? 사람들이 아무 데서나 헤엄을 치고요?!",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0cbd3a3": {
+    "text": "Parent: 그런데 당신은 그것에 대해 뭘 하고 있죠? <i>응</i>?",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:069cd44": {
+    "text": "Parent: <i>당신은</i> 시민으로서 책임을 좀 떠안기는커녕, 그 피비린내 나는 <b>{0}</b> 책이나 계속 팔고 있잖아요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0bbcce8": {
+    "text": "Parent: 바로 그거예요. 이젠 아무도 책임을 지려 하질 않는다니까요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:0d21662": {
+    "text": "Parent: 감시탑을 세우고 안전요원을 고용하는 건 모두에게 이로운 일이에요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:09f4c42": {
+    "text": "Parent: 그래서 우리 학부모들이 기부금을 모으기로 했고, 당신도 기여해 주실 거라 기대할게요.",
+    "node": "BeachParent_Crime02Complete"
+  },
+  "line:00df055": {
+    "text": "Parent: 안녕하세요. 우리가 모금 목표를 달성했다는 걸 기쁘게 전해요.",
+    "node": "BeachParent_Crime03Complete"
+  },
+  "line:04253c9": {
+    "text": "Parent: 지금 이 순간에도 감시탑 공사가 진행 중이고, 오늘 이따 안전요원 후보들 면접도 봐요.",
+    "node": "BeachParent_Crime03Complete"
+  },
+  "line:087f8c9": {
+    "text": "Parent: 이 훌륭한 대의에 기여한 게 뿌듯하지 않아요?",
+    "node": "BeachParent_Crime03Complete"
+  },
+  "line:015970a": {
+    "text": "Parent: 어쨌든 다 아이들을 위한 일이잖아요. 그보다 더 보람된 게 어디 있겠어요?",
+    "node": "BeachParent_Crime03Complete"
+  },
+  "line:02d8347": {
+    "text": "Parent: <size=85%>이런 이런. 이건 도저히 용납이 안 돼요.<size=100%>",
+    "node": "BeachParent_BonfireSoon"
+  },
+  "line:0954bf5": {
+    "text": "Parent: 이거 봤어요? 이번 달 마지막 일요일에 모닥불 행사를 한다고 방금 발표했어요.",
+    "node": "BeachParent_BonfireSoon"
+  },
+  "line:003423f": {
+    "text": "Parent: <i>여기서?!</i> 진심일 리가 없어요! 안전 대책이 턱없이 부족하다고요.",
+    "node": "BeachParent_BonfireSoon"
+  },
+  "line:02912ca": {
+    "text": "Parent: 감시탑도 없고. 안전요원도 없고. 게다가 커다란 불까지?! 그건 <i>말 그대로</i> 죽음의 함정이잖아요?!",
+    "node": "BeachParent_BonfireSoon"
+  },
+  "line:0039cff": {
+    "text": "Parent: 가만있지 않을 거예요. 그때까지 모금 목표를 못 채우면, 이 모닥불 행사는 <i>반드시</i> 취소될 거예요.",
+    "node": "BeachParent_BonfireSoon"
+  },
+  "line:0e32a1f": {
+    "text": "Parent: <size=130%>오 세상에 맙소사!<size=100%>",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:006eedc": {
+    "text": "Parent: 이거 책임자가 누구죠?! 이 불을 좋은 생각이라고 여긴 사람이랑 얘기 좀 해야겠어요.",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:0926dc3": {
+    "text": "Parent: 이거 허가는 받았대요? 현장에 소화 장비는 하나라도 있어요?",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:02f6ce6": {
+    "text": "Parent: 어휴 세상에, 오늘 애들 집에 두길 잘했지. 이 일로 누구랑 얘기 좀 해야겠어요.",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:040f121": {
+    "text": "Parent: 뭐, 아무튼. 지금으로선, 올해 해변 감시대를 운영할 만큼 돈을 못 모았어요.",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:0076c39": {
+    "text": "Parent: 분명 책임을 물어야 할 일이에요! 근데 시 의회는 그럴 생각이 없네요.",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:00151cf": {
+    "text": "Parent: 내년 여름에 다시 시도해 보기로 했어요. 지금은 다시 사무실로 돌아가야겠네요.",
+    "node": "BeachParent_BonfirePanic"
+  },
+  "line:03e2612": {
+    "text": "Parent: 아, 여기 있었군요!",
+    "node": "BeachParent_BackToTheOffice"
+  },
+  "line:01365c3": {
+    "text": "Parent: 뭐, 곧 여름 방학이 끝나니, 우리 애들은 이제 해변에 안 올 거예요.",
+    "node": "BeachParent_BackToTheOffice"
+  },
+  "line:0b0aa99": {
+    "text": "Parent: 물론 요즘은 학교도 안전하지 않죠! 하지만 곧 선생님들이랑 얘기를 나눠 볼 작정이에요.",
+    "node": "BeachParent_BackToTheOffice"
+  },
+  "line:0b3a20b": {
+    "text": "Parent: 아무튼, 당신이 계속 들여놓는 그 오싹하니 즐거운 책들은 내년 방학까지 기다려야겠네요.",
+    "node": "BeachParent_BackToTheOffice"
+  },
+  "line:0aa4a20": {
+    "text": "Parent: <size=85%><i>*한숨*</i><size=100%> 월요일이면 다시 사무실이네요. 그래도 분명 또 보게 되겠죠.",
+    "node": "BeachParent_BackToTheOffice"
+  },
+  "line:0337f7d": {
+    "text": "Parent: 실례합니다? 네. 작년에 여기 왔었어요, 분명 기억하시죠.",
+    "node": "BeachParent_Crime01Resume"
+  },
+  "line:0a1d284": {
+    "text": "Parent: 당신 <b>{0}</b> 구색을 좀 보고 싶었어요.",
+    "node": "BeachParent_Crime01Resume"
+  },
+  "line:0c254d5": {
+    "text": "Parent: 있잖아요, 저 같은 학부모를 위해 스릴러랑 미스터리를 더 들여놓으면 장사가 훨씬 잘될 거예요.",
+    "node": "BeachParent_Crime01Resume"
+  },
+  "line:07a4fa4": {
+    "text": "Parent: 좋아요, 수고하세요.",
+    "node": "BeachParent_Crime01Resume"
+  },
+  "line:0aeeb2b": {
+    "text": "Parent: 실례합니다? 네. 작년에 여기 왔었어요, 분명 기억하시죠.",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:01256df": {
+    "text": "Parent: 그때 산 그 미스터리들, 정말이지 손에서 놓을 수가 없더군요.",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0262986": {
+    "text": "Parent: 그러니까 너무 빨리 다 읽어 버렸다는 거죠, 안 그래요? 재고가 더 있으면 좋겠네요.",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0355bcc": {
+    "text": "Parent: ... 그나저나, 우리 제일린은 어디 있지 ...",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:05102b0": {
+    "text": "Parent: 당, 당신! 뭐라도 좀 해 봐요! 우리 애를 찾아야 해요!",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:08bd3ce": {
+    "text": "Parent: 경보를 울리든 뭐-뭐-뭐라도 좀 하라고요! 난 밖에 나가 찾아볼게요!",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0a34eff": {
+    "text": "Parent: 오, 제일린!",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0f69a5e": {
+    "text": "Parent: 여기 있었구나!",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0796468": {
+    "text": "Parent: 다신 그렇게 도망가지 마!",
+    "node": "BeachParent_Crime02Resume"
+  },
+  "line:0e87118": {
+    "text": "Parent: 실례합니다? 네. 안녕하세요. 분명 절 기억하시죠.",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:0f9eb7a": {
+    "text": "Parent: 더 안전한 해변을 위한 모금 운동을 다시 시작했다는 걸 알려 드리려고요.",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:0e737ef": {
+    "text": "Parent: 작년엔 다행히 심각한 사고가 없었어요!",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:087c445": {
+    "text": "Parent: 하지만 해변에 더 많은 감독이 필요하다는 건 의심의 여지가 없죠.",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:05b42a6": {
+    "text": "Parent: 안 그러면 아이들에게 무슨 일이 생길지 생각해 봐요!",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:07b7110": {
+    "text": "Parent: 그래서 당신 가게의 기여를 기대할게요. 분명 동의하실 거예요.",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:0106c31": {
+    "text": "Parent: 되도록 빨리요. 네. 좋은 하루 보내세요.",
+    "node": "BeachParent_Crime03Resume"
+  },
+  "line:0d181bf": {
+    "text": "Parent: 방금 그거 뭐죠?! 그 소리 못 들었어요?",
+    "node": "BeachParent_RoaringCave"
+  },
+  "line:05c6b98": {
+    "text": "Parent: 그 저주받은 바다 동굴은 몇 년 전에 진작 막았어야 했어요!",
+    "node": "BeachParent_RoaringCave"
+  },
+  "line:0756e30": {
+    "text": "Parent: 도대체 무슨 생각인 거죠? 언제든 아무 아이나 거기로 들어갈 수 있잖아요!",
+    "node": "BeachParent_RoaringCave"
+  },
+  "line:0f3984d": {
+    "text": "Parent: 이건 용납이 안 돼요. 시 의회가 당장 이 일을 알게 될 거예요!",
+    "node": "BeachParent_RoaringCave"
+  }
+}

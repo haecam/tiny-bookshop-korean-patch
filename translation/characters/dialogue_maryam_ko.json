@@ -1,0 +1,1338 @@
+{
+  "line:0c5a3f4": {
+    "text": "Maryam: <size=90%><i>“나는 남의 결정에 책임지지 않아요.”</i><size=100%>",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:09b4766": {
+    "text": "Maryam: 좋아요, 그럼 저는 가 볼게요.",
+    "node": "Bonfire_Cutscene"
+  },
+  "line:0eefeb7": {
+    "text": "Maryam: 당신을 온전히 믿어요.",
+    "node": "Cafe_EndingHubCutscene"
+  },
+  "line:0db3f6e": {
+    "text": "Maryam: 자, 앉으렴, 얘야. 자, 네가 제일 좋아하는 걸 가져왔단다.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0744faf": {
+    "text": "Maryam: 물론이지. 생일 축하한다.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0604dc1": {
+    "text": "Maryam: 물론이죠. 우리 첫 만남을 어떻게 잊겠어요?",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:04db46c": {
+    "text": "Maryam: 기꺼이요.",
+    "node": "Cafe_TildesBirthday_Cutscene"
+  },
+  "line:0404bf7": {
+    "text": "Maryam: 모이라, 착하지, 지하 창고에서 묵은 커피 원두 좀 가져오렴!",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:055b633": {
+    "text": "Maryam: 얘야, 바보 같은 소리 마라. 리베르테는 늘 <i>치코 트라디치오</i>를 써 왔어. 손님들이 기대하는 맛이란다.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:01435c4": {
+    "text": "Maryam: 흥. 자, 이제 다시 제자리로 돌려놓을 때예요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:08afdb8": {
+    "text": "Maryam: ...",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:07b020e": {
+    "text": "Maryam: 이제 그만하렴, 모이라.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:07afad7": {
+    "text": "Maryam: <size=130%> 그만하라고 했다!<size=100%>",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:0cf3684": {
+    "text": "Maryam: <size=85%><i>*크흠*</i><size=100%> 자, 실례할게요. 손님을 좀 모셔야 해서요.",
+    "node": "Cafe_MaryamMoiraArgument_Cutscene"
+  },
+  "line:042d88c": {
+    "text": "Maryam: 물론이지. 무슨 일이니, 모이라?",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:01a1022": {
+    "text": "Maryam: 모이라, 난—",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:098ebb5": {
+    "text": "Maryam: ...",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:02b472d": {
+    "text": "Maryam: <size=85%><i>*읽는다*</i><size=100%> “... 항상 타인을 믿어라.”",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0846ca4": {
+    "text": "Maryam: 어머, 이건 정말 놀랍구나— 이걸 도대체 어디서 찾았니? ... 정말 의미 깊은 말이야. 네가 아는 것보다 더. 있잖니...",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0437a72": {
+    "text": "Maryam: 나도 너한테 할 말이 있었어. 미, 미안하다. 그토록 오래 널 못 본 척해서는 안 됐는데.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:01c7362": {
+    "text": "Maryam: 네 말이 옳았어. 사람은 내가 생각한 것과는 다른 길을 가더구나. 그리고 네 길은 내가 바랄 수 있었던 것보다 훨씬 위대했어.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:01a2aa1": {
+    "text": "Maryam: 너는 유능하고 자신감 있는 사람으로 자랐어. 솔직히 말하면, 내가 그랬던 것보다 더 많이 배우고 더 많이 아는 사람으로 말이야.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:021c6e7": {
+    "text": "Maryam: 난 네가 무척 자랑스럽다. 사랑한다. 그리고 앞으로 네가 리베르테를 물려받았으면 해. 내 후계자가 되어 주렴.",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:0f6c3bc": {
+    "text": "Maryam: 이리 오렴, 얘야. <size=85%><i>*포옹*</i><size=100%> 그리고... 우리 같이 네 아빠한테 전화 한 통 하는 게 어떨까, 응?",
+    "node": "Cafe_MaryamMoiraReconciliation_Cutscene"
+  },
+  "line:06660f1": {
+    "text": "Maryam: 실례지만?! 당신이 왜 내 부엌칼을 갖고 있죠?!",
+    "node": "Maryam_KnifeMascot"
+  },
+  "line:058aae2": {
+    "text": "Maryam: 그건 돌려받아야겠네요, 고마워요. 그리고 틸데한테 결국 그게 나타났다고 알려야겠어요.",
+    "node": "Maryam_KnifeMascot"
+  },
+  "line:09e116a": {
+    "text": "Maryam: 당신은 괜찮아요.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0a34a36": {
+    "text": "Maryam: <size=85%><i>*쯧*</i><size=100%> 당연하지! 당신이 단 1분도 가만히 못 쉴 거란 걸 알았어야 했는데.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0ca5002": {
+    "text": "Maryam: 아, 찾아가려면 길 안내가 필요할지도 모르겠네요. 자, 여기서 리베르테 쪽으로 돌아가서, 다리를 건너면—",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0d4567b": {
+    "text": "Maryam: 네, 함께 와 줘서 고마워요. 자, 이제 우리 둘만 잠깐 있게 해 줘요.",
+    "node": "Hospital_TildesSurgeryToday_Cutscene"
+  },
+  "line:0b4db5e": {
+    "text": "Maryam: 사진 찍게 적어도 웃기라도 하렴, 모이라야!",
+    "node": "Klaus_Concert_Cutscene"
+  },
+  "line:0373f9a": {
+    "text": "Maryam: 안녕하세요. 그냥 어떻게 지내나 보러 왔어요.",
+    "node": "Maryam_SpliceReceiver"
+  },
+  "line:08ddabc": {
+    "text": "Maryam: 잘 지내고 있는 것 같아 다행이네요.",
+    "node": "Maryam_SpliceReceiver"
+  },
+  "line:05fdf3c": {
+    "text": "Maryam: 가기 전에... 오늘 장사 잘하도록 해요, 안 그러면 <i>내</i> 손님까지 쫓아 버릴 테니까요.",
+    "node": "Maryam_SpliceReceiver"
+  },
+  "line:0e3784c": {
+    "text": "Maryam: 틸데한테 당신을 지켜보겠다고 했어요, 얼마나 발전하는지 보려고요.",
+    "node": "Maryam_SpliceReceiver"
+  },
+  "line:0924e7e": {
+    "text": "Maryam: 하지만 이제 리베르테에서 절 필요로 할 거예요. 안녕히.",
+    "node": "Maryam_SpliceReceiver"
+  },
+  "line:0880ad0": {
+    "text": "Maryam: 아. 여기 온 지 꽤 됐네요.",
+    "node": "Maryam_LongTimeNoSee"
+  },
+  "line:0169aad": {
+    "text": "Maryam: 리베르테 옆에서 파는 데 흥미를 잃었나요?",
+    "node": "Maryam_LongTimeNoSee"
+  },
+  "line:0437b1b": {
+    "text": "Maryam: 흥. 제가 보기엔 좀 프로답지 못하네요. 손님들은 분명 더 한결같은 모습을 기대할 텐데요.",
+    "node": "Maryam_LongTimeNoSee"
+  },
+  "line:089b782": {
+    "text": "Maryam: 아. 당신이 틸데가 말하던 그 사람이군요.",
+    "node": "Maryam_Intro"
+  },
+  "line:01be308": {
+    "text": "Maryam: 흠. <b>{0}</b> 책 구색이 꽤 인상적이네요.",
+    "node": "Maryam_Intro"
+  },
+  "line:0468e7c": {
+    "text": "Maryam: 잘 준비해 온 걸 보니 좋네요.",
+    "node": "Maryam_Intro"
+  },
+  "line:0318cff": {
+    "text": "Maryam: 흠. 여기 <b>{0}</b> 책이 조금 있네요. 좋아요.",
+    "node": "Maryam_Intro"
+  },
+  "line:007d45e": {
+    "text": "Maryam: 흠. 손님들이 <b>{0}</b> 책이 좀 더 있으면 분명 반길 텐데요...",
+    "node": "Maryam_Intro"
+  },
+  "line:09ad179": {
+    "text": "Maryam: 아쉽네요. 다음엔 좀 더 준비해 오도록 해요.",
+    "node": "Maryam_Intro"
+  },
+  "line:0f7e55f": {
+    "text": "Maryam: 저는 마리암 드부아르예요. 제 카페 <i>리베르테</i>에 오신 걸 환영해요.",
+    "node": "Maryam_Intro"
+  },
+  "line:04cd408": {
+    "text": "Maryam: 알아 두세요, 이곳은 거의 이백 년간 가족이 운영해 왔답니다.",
+    "node": "Maryam_Intro"
+  },
+  "line:022faf4": {
+    "text": "Maryam: 오랜 세월, 리베르테는 우리 역사의 위대한 지성들을 맞이해 왔어요.",
+    "node": "Maryam_Intro"
+  },
+  "line:0c22b04": {
+    "text": "Maryam: 작가에서 혁명가에 이르기까지, 그들은 모두 바로 이곳에서 만났죠.",
+    "node": "Maryam_Intro"
+  },
+  "line:0972116": {
+    "text": "Maryam: 하지만 분명 당신도 이미 이 마을에 대해 직접 조사해 봤겠죠.",
+    "node": "Maryam_Intro"
+  },
+  "line:0424362": {
+    "text": "Maryam: 어쨌든, 저는 손님들에게 돌아가 봐야 해요. 안녕히.",
+    "node": "Maryam_Intro"
+  },
+  "line:02a777e": {
+    "text": "Maryam: 좋은 날이에요. 마을에 잘 적응해 가고 있군요.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:00670b9": {
+    "text": "Maryam: 있잖아요, 저는 당신이 이곳에 옴으로써 짊어진 책임을 잘 알고 있길 기대해요.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:088e480": {
+    "text": "Maryam: 당신은 이제 단순한 판매원이 아니에요. 지식을 전하는 사람이죠.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:029b5ee": {
+    "text": "Maryam: 그리고 이곳 시릴 광장에서, 우리는 무엇보다 활자를 귀히 여겨요.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:0cd2c9f": {
+    "text": "Maryam: 활자는 우리의 문화와 역사, 그리고 전통을 담고 있으니까요.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:02b91e3": {
+    "text": "Maryam: 자, 오늘 가져온 게 뭔지 한번 볼까요...",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:0685889": {
+    "text": "Maryam: 여기 그런 가치가 좀 담겨 있길 바라요.",
+    "node": "Maryam_Responsibilties"
+  },
+  "line:0baec53": {
+    "text": "Maryam: 흠. 틸데가 가게를 비우기로 한 게 참 안타까워요.",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:07ea3f0": {
+    "text": "Maryam: 당연히 그럴 필요 없다고 말했죠. 하지만 그녀는 이미 은퇴하기로 마음을 굳혔더군요.",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:021ddb3": {
+    "text": "Maryam: ...",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:03b93ac": {
+    "text": "Maryam: 인정하자면, 여기서 그녀와 마주 보고 일하던 게 그리울 거예요.",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:08ac781": {
+    "text": "Maryam: 그녀에게 커피를 가져다주고, 함께 출퇴근하던 것도...",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:0a294e6": {
+    "text": "Maryam: <size=85%><i>*크흠*</i><size=100%> 아무튼. 이제 제 일로 돌아가는 게 낫겠네요.",
+    "node": "Maryam_TildeMovedOut"
+  },
+  "line:01bd4a4": {
+    "text": "Maryam: 마침 왔네요. 당신한테 준비해 둔 게 있어요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0ea6bbf": {
+    "text": "Maryam: 당신 장사가 그럭저럭 잘되는 것 같으니, 이제 당신을 우리 모임에 받아들일 때가 된 것 같네요...",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:086e6f2": {
+    "text": "Maryam: 있잖아요, 저는 <b>B</b>.<b>L</b>.<b>A</b>.<b>B</b>.<b>L</b>.<b>A</b>., 즉 북스톤버리 지역 비즈니스·리더십·행정 협회의 회장이거든요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0dc354f": {
+    "text": "Maryam: 우리는 모든 소상공 문제에서 서로를 돕는데, 틸데와 나는 당신이 잘 어울리겠다는 데 뜻을 모았어요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0275a31": {
+    "text": "Maryam: 다만... 정식으로 받아들이기 전에, 당신이 우리 기준을 지킬 수 있는지 확인해야 해요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0fc5e19": {
+    "text": "Maryam: 우리 협회를 떠받치는 <i>사업의 기둥</i>은 함부로 다룰 게 아니거든요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0fa372b": {
+    "text": "Maryam: 그중 일부는 1798년부터 자리 잡은 거예요. 하지만 당신이 통달할 수 있을지 한번 보죠.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:036a0f7": {
+    "text": "Maryam: 다음에 리베르테에 들르면, 우리 작은 사업 강좌를 시작할게요.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0876145": {
+    "text": "Maryam: 그때 봐요. 안녕히.",
+    "node": "Maryam_SevenPillarsCourse"
+  },
+  "line:0ead1f5": {
+    "text": "Maryam: 아, 좋아요. 약속대로, 바로 <i>사업의 기둥</i> 강좌를 시작하죠.",
+    "node": "Maryam_Challenge01Intro"
+  },
+  "line:003c94a": {
+    "text": "Maryam: 먼저, 1798년 우리 협회의 편람은 훌륭한 상인이라면 <i>“고객을 알지어다”</i>라고 규정해요.",
+    "node": "Maryam_Challenge01Intro"
+  },
+  "line:0dabdd8": {
+    "text": "Maryam: 자, 당신은 가게 손님들이 무엇을 원하는지 진정 알고 있나요?",
+    "node": "Maryam_Challenge01Intro"
+  },
+  "line:0e33c03": {
+    "text": "Maryam: 당신이 리베르테에 들를 때마다 유심히 지켜볼게요. 당신 추천이 얼마나 정확한지 한번 보죠.",
+    "node": "Maryam_Challenge01Intro"
+  },
+  "line:0bd0359": {
+    "text": "Maryam: 흠, 아주 좋아요. 손님들이 흡족해 보이네요.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:0a31b8e": {
+    "text": "Maryam: 잘했어요, 세계 최고의 북스톤 사업가가 되기 위한 첫걸음을 마쳤어요.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:02128a2": {
+    "text": "Maryam: 자, 이제 당신의 좋은 책 추천 감각이 장식을 보는 안목으로도 이어지는지 봅시다.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:0c3ac91": {
+    "text": "Maryam: 편람에 따르면 훌륭한 사업은 <i>“마땅한 품위를 갖출지어다”</i>라고 하죠.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:030f88c": {
+    "text": "Maryam: 당신이 리베르테의 고급스러운 실내 장식에 견줄 수 있을지 궁금하네요... 어디 한번 볼까요...",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:070c722": {
+    "text": "Maryam: 오! 어머, 당신 안목은 이미 무척 세련됐다고 해야겠네요.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:0e2cb4e": {
+    "text": "Maryam: 솔직히 예상 못 했어요. 하지만 칭찬받을 일엔 칭찬을 해야죠. 그럼 다음 과제는 내일 알려 줄게요.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:09d0fdc": {
+    "text": "Maryam: 어때요? 취향의 등불이 될 자질이 있나요?",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:046b57d": {
+    "text": "Maryam: 당신이 리베르테의 고급스러운 실내 장식에 견줄 수 있을지 궁금하네요.",
+    "node": "Maryam_Challenge02Intro"
+  },
+  "line:030cee0": {
+    "text": "Maryam: <i>사업의 기둥</i> 강좌에 다시 온 걸 환영해요. 첫 두 과제를 성공한 걸 축하해요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:004f63b": {
+    "text": "Maryam: 아 그래요, 바로 이게 내가 생각하던 거예요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:036294d": {
+    "text": "Maryam: 이 스타일을 계속 유지하는 걸 고려해 봐요. 이런 곳엔 분명 가장 잘 어울리니까요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:0164bac": {
+    "text": "Maryam: 자, 다음 단계는 조금 더 까다로워요...",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:066bc9a": {
+    "text": "Maryam: 있잖아요, 우리 편람은 훌륭한 사업이라면 <i>“험한 시절을 견뎌 낼지어다”</i>라고 규정해요...",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:01fb247": {
+    "text": "Maryam: 하지만 당신 같은 작은 가게엔 그게 어떤 모습일지 완전히 확신이 서질 않았어요...",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:05bae59": {
+    "text": "Maryam: 제가 떠올린 건 좀 색다를지 몰라도, 분명 당신 역량을 확인시켜 줄 거예요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:0c4d72b": {
+    "text": "Maryam: 보통 우리는 수거될 때까지 쓰레기통을 리베르테 뒤편에 둬요. 오늘은 앞쪽에 내놔 볼까 했죠.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:067d9ce": {
+    "text": "Maryam: 그러니... 손님들이 이 쓰레기를 피해 다녀야 하는데도 충분한 판매를 할 수 있을까요?",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:0e04f5b": {
+    "text": "Maryam: 자 그럼, 행운을 빌어요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:0bbc6fa": {
+    "text": "Maryam: 당신의 성과를 큰 관심을 갖고 지켜볼게요.",
+    "node": "Maryam_Challenge03Intro"
+  },
+  "line:08ef818": {
+    "text": "Maryam: 좋아요, 잠깐 쉬는 시간이 충분했길 바라요.",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:0ebffba": {
+    "text": "Maryam: 현대에 맞게 강좌에 추가된 세 “기둥”을 이어서 해 보죠.",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:0b065ba": {
+    "text": "Maryam: 우리 네 번째 과제는 약 사십 년 전에 편람에 추가됐어요.",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:070fe6d": {
+    "text": "Maryam: 아주 간단해요. 당신 사업이 시간이 지나도 <i>지속 가능한지</i> 봐야 해요.",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:0709eb8": {
+    "text": "Maryam: 자, 여기서 사흘 연속 판매 기록을 유지할 수 있는지 보여 주는 게 어때요?",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:0fba0c2": {
+    "text": "Maryam: 당신한텐 그리 어렵지 않겠죠, 안 그래요? 행운을 빌어요.",
+    "node": "Maryam_Challenge04Intro"
+  },
+  "line:0c5ccea": {
+    "text": "Maryam: 아, 아주 좋아요. 그 마지막 건 꽤 어려웠는데, 당신이 끝까지 해낼 줄 알았어요.",
+    "node": "Maryam_Challenge05Intro"
+  },
+  "line:09ce9ea": {
+    "text": "Maryam: 그럼 다음 현대 과제로 넘어가죠. 이건 <i>판매 다각화</i>에 관한 거예요.",
+    "node": "Maryam_Challenge05Intro"
+  },
+  "line:00ba26b": {
+    "text": "Maryam: 당신이 책만 파는 거 알아요, 그리고 그 이상 할 필요도 없다고 봐요.",
+    "node": "Maryam_Challenge05Intro"
+  },
+  "line:0a31639": {
+    "text": "Maryam: 하지만 하루에 모든 장르의 책을 한 권씩 팔 수 있는지 보고 싶네요.",
+    "node": "Maryam_Challenge05Intro"
+  },
+  "line:01b9ec4": {
+    "text": "Maryam: 이 근방 손님들은 취향이 꽤 확고하지만, 당신이라면 분명 해낼 수 있어요.",
+    "node": "Maryam_Challenge05Intro"
+  },
+  "line:0851b36": {
+    "text": "Maryam: 잘했어요. 당신이 판매 전략을 이미 얼마나 잘 발전시켰는지 알겠네요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:04ef816": {
+    "text": "Maryam: 마지막 현대 과제가 하나 있어요. 하지만 명심해요, 이건 아마추어용이 아니에요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0e9f09b": {
+    "text": "Maryam: 자, 이 시험은 우리 협회가 재편된 뒤 약 이십 년 전에 도입됐어요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:06e8e8a": {
+    "text": "Maryam: 사업가라면, 늘 주변을 <i>주의 깊게 살펴야</i> 해요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0c53cfa": {
+    "text": "Maryam: 그래서 당신의 관찰력을 시험하려고, 틸데와 내가 작은 퀴즈를 준비했어요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:099c3b0": {
+    "text": "Maryam: 지금 풀어 볼래요?",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0f0e526": {
+    "text": "Maryam: 좋아요. 성공하면, 마침내 우리 가운데 자리할 준비가 되는 거예요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0a7fc33": {
+    "text": "Maryam: 흠, 그래요. 준비되면 알려 줘요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:005850a": {
+    "text": "Maryam: 당신은 진정한 탁월함에 이를 수 있어요. 마음만 먹는다면요.",
+    "node": "Maryam_Challenge06Intro"
+  },
+  "line:0d51f26": {
+    "text": "Maryam: 좋아요, 시작하죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0b99cdf": {
+    "text": "Maryam: 기억해요, 적어도 <b>세</b> 문제는 맞혀야 해요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:081f0b7": {
+    "text": "Maryam: 뭐, 제 생각엔 이보다 더 쉬울 순 없겠지만요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0a60c01": {
+    "text": "Maryam: 눈을 감으세요. 이제 와서 부정행위는 하면 안 되겠죠, 안 그래요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0110e85": {
+    "text": "Maryam: 시작하죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:095a17f": {
+    "text": "Maryam: 메가마르셰를 방문하기에 가장 안 좋은 날은 언제일까요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0daf29d": {
+    "text": "Maryam: 제 전문가적 견해로는, <b>정답</b>이에요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0c28a19": {
+    "text": "Maryam: 마르셰가 문을 닫으면, 손님들이 다 다른 곳에 있을 테니까요...",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:02379ee": {
+    "text": "Maryam: 메가 절약의 날은 재고를 빨리 처분하기엔 최적이죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:01ef6dd": {
+    "text": "Maryam: 하지만 조심하지 않으면, 금세 손해를 보며 운영하게 <i>될</i> 거예요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:05443eb": {
+    "text": "Maryam: 그래도 손님을 모시기엔 좋은 기회니, 저는 <b>오답</b>이라고 하겠어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0f2b5d4": {
+    "text": "Maryam: 흠. 수요일은 마르셰의 평범한 날이에요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0b02a35": {
+    "text": "Maryam: 다른 날보다 더 낫거나 못할 이유가 없죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0530dd9": {
+    "text": "Maryam: 다음 문제는 더 잘해야겠어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:03557c9": {
+    "text": "Maryam: 해변에서 팔기에 가장 안 좋은 때는 언제일까요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:045e163": {
+    "text": "Maryam: 제 전문가적 견해로는, <b>정답</b>이에요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0916d70": {
+    "text": "Maryam: 해변이 닫히면, 손님들이 다 다른 곳에 있을 테니까요...",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:015301b": {
+    "text": "Maryam: 흠. 파 비치가 가을이나 봄엔 덜 붐비는 건 사실이죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:07fdb05": {
+    "text": "Maryam: 하지만 제대로 된 판매 전략이 있다면, 그런 기회를 결코 얕봐선 안 돼요. 그러니 저는 <b>오답</b>이라고 하겠어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:02c5b11": {
+    "text": "Maryam: 아니에요. 여름에 해변은 북스톤 주민과 방문객들로 무척 붐벼요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0f82e10": {
+    "text": "Maryam: 따라서 거기서 팔기에 <b>가장</b> 좋은 때지, <b>가장 안 좋은</b> 때가 아니에요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:05a754c": {
+    "text": "Maryam: 다음 문제는 더 잘해야겠어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0c1eaa9": {
+    "text": "Maryam: 좋아요, 넘어가죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:009dfcc": {
+    "text": "Maryam: 눈이 올 때, 사람들이 더 반기는 건 무엇일까요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:01582d1": {
+    "text": "Maryam: 제 전문가적 견해로는, <b>정답</b>이에요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:013cac7": {
+    "text": "Maryam: 밖이 추울 때 따뜻한 음료 판매가 느는 걸 봐 왔거든요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:016e094": {
+    "text": "Maryam: 안타깝지만 그건 아니에요. 적어도 제 삼십 년 경험으론 그래요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0ef0db5": {
+    "text": "Maryam: 안타깝지만 그건 아니에요. 적어도 제 삼십 년 경험으론 그래요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0ca92b6": {
+    "text": "Maryam: 좋아요, 넘어가죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0ea923d": {
+    "text": "Maryam: 아름다운 워터프런트에서, 거의 팔기 불가능한 장르는 무엇일까요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0c26506": {
+    "text": "Maryam: 팔기 <i>불가능</i>하다고까진 못 하겠는데요, 안 그래요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:030afce": {
+    "text": "Maryam: 어쩌면 틸데가 그 점에 대해 조언을 좀 해 줄 수 있겠네요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:098a69e": {
+    "text": "Maryam: 흠, 틸데가 자기 집에서 당신을 발견할 때마다 꼭 들른다는 건 확실히 알아요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:061a147": {
+    "text": "Maryam: 그리고 그 사람은 죽었다 깨어나도 <b>{0}</b> 소설을 못 참거든요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:095acb0": {
+    "text": "Maryam: 네, <b>정답이에요</b>. 부두는 젊은이들한테 그리 인기 있는 곳이 아니죠.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:09d8aea": {
+    "text": "Maryam: 갈매기 같은 게 너무 많아서 그런가 봐요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0d28726": {
+    "text": "Maryam: 그리고 마지막으로, 리베르테의 유서 깊은 풍향계는 무엇을 닮았을까요?",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:067e985": {
+    "text": "Maryam: <b>정답!</b> 잘했어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:01fd252": {
+    "text": "Maryam: 흠, 나중에 다시 한번 보는 게 좋겠네요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0741799": {
+    "text": "Maryam: 흠, 나중에 다시 한번 보는 게 좋겠네요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0317fe1": {
+    "text": "Maryam: 이제 눈을 떠도 돼요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0a46cc3": {
+    "text": "Maryam: 음, 노력은 한 모양이네요. 하지만 그냥 찍었다는 걸 알 수 있었어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:00215b2": {
+    "text": "Maryam: 완벽한 사업을 운영하고 싶다면, 이런 것들에 정말 주의를 기울여야 해요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0bedaca": {
+    "text": "Maryam: 하지만 다음 기회는 늘 있어요. 곧 퀴즈에 다시 도전해 봐요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:0e4b374": {
+    "text": "Maryam: 이제 와서 포기하지 말아요. 당신한텐 그럴 자질이 있어요.",
+    "node": "Maryam_Challenge06Quiz"
+  },
+  "line:09d736e": {
+    "text": "Maryam: 자, 우리 퀴즈에 다시 한번 운을 시험해 볼 생각이 있나요?",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:01907f4": {
+    "text": "Maryam: 훌륭해요. 어차피 그리 어렵진 않을 거예요.",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:00c037e": {
+    "text": "Maryam: 흠, 그래요. 준비되면 알려 줘요.",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:00df71d": {
+    "text": "Maryam: 당신은 진정한 탁월함에 이를 수 있어요. 마음만 먹는다면요.",
+    "node": "Maryam_StartQuiz06_Post"
+  },
+  "line:00b2c15": {
+    "text": "Maryam: 오, 정말 뜻깊은 순간이에요!",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:0cad0dd": {
+    "text": "Maryam: 우리 협회가 새 회원을 맞이한 지 꽤 오래됐거든요.",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:0ba230b": {
+    "text": "Maryam: 하지만 당신은 정정당당하게, 북스톤버리 지역 비즈니스·리더십·행정 협회에 들어올 자격을 얻었어요.",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:0fbecf9": {
+    "text": "Maryam: 그리고 물론, 회원이 되면 당신 지역 손님들을 흐뭇하게 할 공식 인증도 따라오죠.",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:0c11c80": {
+    "text": "Maryam: 멋지지 않나요?",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:0887b22": {
+    "text": "Maryam: 감히 말하자면, 당신이 꽤 자랑스럽네요.",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:04ac58c": {
+    "text": "Maryam: 자, 이제 가서 성취를 축하하도록 해요. 좋은 하루 보내요!",
+    "node": "Maryam_Challenge06Complete"
+  },
+  "line:07acecc": {
+    "text": "Maryam: <i>“훌륭한 상인은 좋은 시절도 험한 시절도 견뎌 내야 하느니라.”</i>",
+    "node": "Maryam_HardeTimesFailed"
+  },
+  "line:0837c5c": {
+    "text": "Maryam: 이런 이런, 아직 거기까진 못 미친 모양이네요...",
+    "node": "Maryam_HardeTimesFailed"
+  },
+  "line:060bda2": {
+    "text": "Maryam: 하지만 다음에 만날 때 다시 도전해 봐요. 분명 그 과제를 통달할 수 있을 거예요.",
+    "node": "Maryam_HardeTimesFailed"
+  },
+  "line:0c31324": {
+    "text": "Maryam: <i>“훌륭한 상인은 좋은 시절도 험한 시절도 견뎌 내야 하느니라.”</i>",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:07c897d": {
+    "text": "Maryam: 그건 확실히 해냈다고 할 수 있겠네요. 잘했어요.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:01e39be": {
+    "text": "Maryam: 인정하자면, 당신의 끈기에 꽤 감탄했어요.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:0b72ffe": {
+    "text": "Maryam: 자, 여기서 우리 1798년 제2판 편람은 끝나요.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:096ae60": {
+    "text": "Maryam: 그런데! 1787년에 잃어버린 초판에는 일곱 번째 규칙이 담겨 있었다는 소문이 있어요...",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:05aa325": {
+    "text": "Maryam: 아직 아무도 그 사라진 페이지를 못 찾았죠. 하지만 그게 우리가 지금도 “일곱 기둥”이라 부르는 이유랍니다.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:087ee26": {
+    "text": "Maryam: 어쨌든. 지금은 당신이 휴식을 누릴 자격을 얻었어요.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:0d8512e": {
+    "text": "Maryam: 하지만 곧 다시 와요, 그럼 강좌 후반부를 이어 갈 수 있어요.",
+    "node": "Maryam_HardeTimesSuccess"
+  },
+  "line:0a1f647": {
+    "text": "Maryam: 보아하니 아직 최근 과제를 못 끝냈네요.",
+    "node": "Maryam_ChallengeReminder_Pre"
+  },
+  "line:0bb674b": {
+    "text": "Maryam: 정말 어서 해내야 해요. 지켜보고 있을 거예요.",
+    "node": "Maryam_ChallengeReminder_Pre"
+  },
+  "line:0f5b07f": {
+    "text": "Maryam: 그래서, 내 강좌가 좀 어려운 모양이에요?",
+    "node": "Maryam_ChallengeRetry_Pre"
+  },
+  "line:0b1aff8": {
+    "text": "Maryam: 뭐 하고 있어요? 어서 다시 하세요!",
+    "node": "Maryam_ChallengeRetry_Pre"
+  },
+  "line:0155b74": {
+    "text": "Maryam: 그렇게 포기만 하면 당연히 못 끝내죠.",
+    "node": "Maryam_ChallengeRetry_Pre"
+  },
+  "line:0e560b2": {
+    "text": "Maryam: 좋은 날이에요. 장사는 어때요? 지금까지 딱 한 권 팔았나요?",
+    "node": "Maryam_BooksSold_Pre"
+  },
+  "line:0525c17": {
+    "text": "Maryam: 흠. 뭐, 분명 곧 손님이 더 올 거예요. 아니면 장르를 잘못 채운 건가요?",
+    "node": "Maryam_BooksSold_Pre"
+  },
+  "line:0ecf803": {
+    "text": "Maryam: 좋은 날이에요. 당신한테 줄 중요한 원고가 있어서 들렀어요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:00bb7ec": {
+    "text": "Maryam: 있잖아요, 모이라와 내가 사업 협회 지침서를 개정했어요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:005dec9": {
+    "text": "Maryam: 새 판에는 몇 가지 현대화 내용과, 밝혀진 일곱 번째 규칙이 실릴 거예요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:092b7fc": {
+    "text": "Maryam: 이 추가 내용은 예비 및 현직 사업주 모두가 볼 수 있어야 해요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:042556f": {
+    "text": "Maryam: 그래서 충분한 부수를 찍으려면 당신과 펀 에스트라다의 도움이 필요해요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:017a7da": {
+    "text": "Maryam: 훌륭해요, 인쇄된 모습을 보는 게 기대되네요.",
+    "node": "Maryam_BLABLAManuscriptGift"
+  },
+  "line:027e1d2": {
+    "text": "Maryam: 아. 그래서 소문이 사실이군요. 이제 여기서 커피를 판다고요, 맞죠?",
+    "node": "Maryam_Coffee_Pre"
+  },
+  "line:08ca31f": {
+    "text": "Maryam: 뭐, 행운을 빌어요. 거기 그 기계는 당신한테 별 도움이 안 될 거예요.",
+    "node": "Maryam_Coffee_Pre"
+  },
+  "line:053aa29": {
+    "text": "Maryam: 손님들이 당신을 다녀온 뒤 리베르테의 커피를 <i>더더욱</i> 좋아하게 돼도 놀랍지 않겠네요.",
+    "node": "Maryam_Coffee_Pre"
+  },
+  "line:024d523": {
+    "text": "Maryam: 세인트 북스톤의 이름을 걸고, 저 끔찍한 소음은 대체 뭐죠?",
+    "node": "Maryam_Trout"
+  },
+  "line:0cadbd3": {
+    "text": "Maryam: 정말이지 천박하네요. 이거 월터의 생각이었나요?",
+    "node": "Maryam_Trout"
+  },
+  "line:0e367df": {
+    "text": "Maryam: 난 이게 재밌지 않네요. 그리고 당신 손님들도 분명 못마땅해할 거예요.",
+    "node": "Maryam_Trout"
+  },
+  "line:0d69a2c": {
+    "text": "Maryam: 흥. 당신은 그보단 품위가 있는 줄 알았는데요. 그리고 안목도 더 좋은 줄 알았고요.",
+    "node": "Maryam_Trout"
+  },
+  "line:0287cfa": {
+    "text": "Maryam: 이걸 더는 못 듣겠네요. 안녕히.",
+    "node": "Maryam_Trout"
+  },
+  "line:0df6e63": {
+    "text": "Maryam: 아, 한 가지 더요!",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:070c7d0": {
+    "text": "Maryam: 내일이 모이라 생일이에요, 축하해 주고 싶다면요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:0a50386": {
+    "text": "Maryam: 보통은 리베르테에서 아침을 같이 먹는데...",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:0de9e72": {
+    "text": "Maryam: 뭐, 내가 알기로 그 애 세대는 더 이상 가족이랑 명절을 보내지 않더군요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:01359f6": {
+    "text": "Maryam: 하지만 분명 어딘가에서 친구들이랑 있을 거예요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:06e6cbd": {
+    "text": "Maryam: 우리 집안 전통대로, 아침에 다 같이 여기서 아침을 먹을 거예요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:027e345": {
+    "text": "Maryam: 그래서 우리끼리 시간을 좀 보낼 수 있게, 리베르테를 평소보다 조금 더 늦게 열까 했어요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:0e3dbf3": {
+    "text": "Maryam: 그 마음을 그 애들이 알아주면 좋겠네요.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:007aacb": {
+    "text": "Maryam: 아무튼, 늦었네요. 곧 또 봐요, 네? 안녕히.",
+    "node": "Maryam_MoirasBirthdayTomorrow_Post"
+  },
+  "line:04e0513": {
+    "text": "Maryam: 이런 이런. 또 한 해가 갔네요. 세월은 누굴 위해서도 멈추지 않죠, 안 그래요?",
+    "node": "Maryam_BonfireNight"
+  },
+  "line:042d049": {
+    "text": "Maryam: 하지만 감상에 젖진 말죠. 내일은 그저 여느 월요일일 뿐이에요...",
+    "node": "Maryam_BonfireNight"
+  },
+  "line:0f82170": {
+    "text": "Maryam: 그리고 <i>당신</i>! 아직 젊을 때 시간을 현명하게 쓰도록 해요.",
+    "node": "Maryam_BonfireNight"
+  },
+  "line:040b6c5": {
+    "text": "Maryam: 틸데가 곧 쪽지 태우기를 시작할 거예요.",
+    "node": "Maryam_BonfireFallback"
+  },
+  "line:016b405": {
+    "text": "Maryam: 내일 아침 일찍 일어나야 해요. 리베르테가 저절로 열리진 않으니까요.",
+    "node": "Maryam_BonfireFallback"
+  },
+  "line:0509c33": {
+    "text": "Maryam: <size=85%><i>*투덜* ... 리베르테가 일찍 닫다니 ... 전엔 이런 적 없었는데 ... </i><size=100%>",
+    "node": "Maryam_FFFTonight_WIP"
+  },
+  "line:018469d": {
+    "text": "Maryam: 그래, 축제는 즐기고 있어요?",
+    "node": "Maryam_FFFTonight_WIP"
+  },
+  "line:0597c1d": {
+    "text": "Maryam: 아, 좋은 저녁이에요. 축제는 즐기고 있어요?",
+    "node": "Maryam_FFFTonight_WIP"
+  },
+  "line:0b57568": {
+    "text": "Maryam: 아, 틸데 안부를 물으러 왔나요?",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:0d4c259": {
+    "text": "Maryam: 수술은 잘된 모양인데, 아직 그녀를 보진 못했어요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:0a990e2": {
+    "text": "Maryam: 면회가 가능할 만큼 회복되려면 몇 시간은 더 걸릴 것 같네요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:0d4247c": {
+    "text": "Maryam: 하지만 의료진이 저녁엔 들여다볼 수 있을 거라고 했어요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:07cc335": {
+    "text": "Maryam: ... 난— 그래도 꽤 걱정되네요, 안 그래요? 이런 수술에 따르는 위험을 잘 알거든요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:044e6c2": {
+    "text": "Maryam: 그래서, 집에 가기가 힘드네요... 어쩌면... 그래요. 더 소식이 들릴 때까지 안에서 기다려야겠어요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:0e816cf": {
+    "text": "Maryam: 일이 끝나면 나와 함께해 줄래요? 분명 틸데도 당신을 보고 싶어 할 거예요.",
+    "node": "Maryam_TildeSurgeryToday"
+  },
+  "line:04126ed": {
+    "text": "Maryam: 의사들이 벌써 틸데의 회복을 자랑하고 있다고 기쁘게 전해요.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:04915c8": {
+    "text": "Maryam: 하지만 물론 아직 회복 중이고 좀 아파해요. 푹 쉬어야 하죠.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:09b3152": {
+    "text": "Maryam: 오늘 아침 일찍 다시 그녀를 살피러 왔어요. 그래서 집에 있을 시간도, 생각할 시간도 거의 없었네요...",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:0efe65e": {
+    "text": "Maryam: 부디 리베르테가 괜찮아야 할 텐데요.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:0ca8f94": {
+    "text": "Maryam: 이런. 이렇게 오래 떨어져 있어 본 적이 없어서요.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:0925adb": {
+    "text": "Maryam: 뭐... 어쩔 수 없는 일이죠. 틸데한텐 내가 더 필요하니까요.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:0cbd28d": {
+    "text": "Maryam: 아무튼, 이제 들어가서 인사해요. 분명 당신을 기다리고 있을 거예요.",
+    "node": "Maryam_VisitingTilde01"
+  },
+  "line:0773b45": {
+    "text": "Maryam: 틸데가 슬슬 좀이 쑤실 만큼 회복되고 있는 것 같아요, 응?",
+    "node": "Maryam_VisitingTilde02"
+  },
+  "line:0b153f9": {
+    "text": "Maryam: 늘 뭔가 할 일을 찾죠. 게다가 남한테도 일거리를 주고요. <size=85%><i>*하하*</i><size=100%>",
+    "node": "Maryam_VisitingTilde02"
+  },
+  "line:0afd434": {
+    "text": "Maryam: 뭐, 원래 그런 사람이에요. 그리고 난 그게 달라지길 바라지 않아요.",
+    "node": "Maryam_VisitingTilde02"
+  },
+  "line:0c287e4": {
+    "text": "Maryam: 그녀한테 꼭 인사해 줄래요? 당신을 기다리고 있을 거예요.",
+    "node": "Maryam_VisitingTilde02"
+  },
+  "line:04a9f7a": {
+    "text": "Maryam: <size=85%><i>*한숨*</i><size=100%> 물론 틸데의 회복이 잘되고 있어 기뻐요.",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:050acf9": {
+    "text": "Maryam: 하지만 가끔은 여전히... 그녀 없이 내가 어떻게 살아갈지 자꾸 생각하게 돼요.",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:0d31185": {
+    "text": "Maryam: 리베르테... 그건 아버지가 내 손에 맡긴 거예요. 그의 필생의 역작이었고, 그의 유산이었죠. 그리고 이제 내 것이에요.",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:002017d": {
+    "text": "Maryam: 하지만 틸데는... 내가 <i>직접 택했어요</i>.",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:076f3f5": {
+    "text": "Maryam: 오십 년도 더 전에, 우리 길이 엇갈렸죠. 그때조차, 난 그녀가 내 삶에 함께하길 바란다는 걸 알았어요. 그녀가 그러길 원하는 한 언제까지나...",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:02a78d1": {
+    "text": "Maryam: <size=85%><i>*크흠 크흠*</i><size=100%> 아무튼. 이제 돌아가 봐야겠네요.",
+    "node": "Maryam_VisitingTilde03"
+  },
+  "line:0091c0f": {
+    "text": "Maryam: ... ... ...",
+    "node": "Maryam_PostFightConversation"
+  },
+  "line:0040d21": {
+    "text": "Maryam: <size=85%><i>*흠* 안 돼. 오늘은 책에 쓸 시간이 없어. </i><size=100%>",
+    "node": "Maryam_PostFightConversation"
+  },
+  "line:0b7d9b6": {
+    "text": "Maryam: 리베르테에 할 일이 많아요. 그럼 실례할게요.",
+    "node": "Maryam_PostFightConversation"
+  },
+  "line:04fe7b3": {
+    "text": "Maryam: 좋은 {0}이에요. 리베르테의 경영진 변동에 대해선 이미 들었겠죠...",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:04a33fe": {
+    "text": "Maryam: 뭐, 때가 됐던 것 같아요. 내가 여기 일을 얼마나 사랑하는지 알잖아요, 하지만 오십육 년간 운영하고 나니...",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:0d6f114": {
+    "text": "Maryam: ... 이제 책임을 좀 나눠도 될 것 같아요. 그리고 모이라— 뭐, 그 애는 최고한테 배웠으니까요!",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:0112dcc": {
+    "text": "Maryam: 인정하건대, 그 애는 이미 훌륭하게 해내고 있어요. 난 그저 상황에 좀 적응하고 그 애 결정을 믿어 보려는 거죠.",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:03c06ec": {
+    "text": "Maryam: 시간이 지나면 분명 쉬워질 거예요. 그리고 틸데는 “내가 그랬잖아”라고 할 만한데도 그러지 않아 주니 참 고맙네요.",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:03b638b": {
+    "text": "Maryam: 아무튼, 곧 모이라한테 좀 여지를 줄 거예요.",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:0cb5906": {
+    "text": "Maryam: 내가 하루 종일 어깨너머로 지켜볼 필요는 없으니, 틸데랑 작은 휴가를 계획 중이에요.",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:015666a": {
+    "text": "Maryam: 가끔 리베르테 좀 살펴봐 줄래요? 그냥— 뭐, 모이라가 혹시 손이 필요할 때 곁에 있어 주는 거죠?",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:00ea586": {
+    "text": "Maryam: 고마워요. 자, 이제 휴가 때 읽을 좋은 책 고르는 걸 도와줘요.",
+    "node": "Maryam_PostReconciliation"
+  },
+  "line:02d094a": {
+    "text": "Maryam: 좋은 {0}이에요. 한 가지 의견을 물어봐도 될까요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:054587d": {
+    "text": "Maryam: 겨울 시장의 리베르테 가판대를 어떻게 생각해요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:062ab2d": {
+    "text": "Maryam: 모이라가 나랑 한마디 상의도 없이 이걸 결정했다니 믿기지가 않아요...",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:02be10e": {
+    "text": "Maryam: 내가 시장에 참여하기 싫어하는 데는 이유가 있다는 걸 그 애도 안다고요!",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0bcecb6": {
+    "text": "Maryam: 분명 주최 측이 결정을 밀어붙였을 거예요. 비용이 이득을 훨씬 웃돈다고요!",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:09d7785": {
+    "text": "Maryam: 아무튼, 곧 그 애랑 얘기를 좀 해야 할 것 같네요. 들어줘서 고마워요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0ca442e": {
+    "text": "Maryam: 겨울 시장의 새 음식·음료 가판대를 어떻게 생각해요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0d33b6a": {
+    "text": "Maryam: 이렇게 우리 사업을 침범하는 게 리베르테에 꽤 무례하다고 느껴지거든요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:037fce7": {
+    "text": "Maryam: 모이라는 대체 무슨 생각인 거죠?! 이런 게 사람들 입방아에 얼마나 오르내릴지 모르는 거예요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0194c5f": {
+    "text": "Maryam: 사람들은 우리 가족이 실패하는 걸 보고 싶어 안달이죠. 하지만 내 눈에 흙이 들어가기 전엔 안 돼요!",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0754ff0": {
+    "text": "Maryam: ... 할 일이 산더미네요. 실례할게요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0823285": {
+    "text": "Maryam: 리베르테의 첫 겨울 시장 가판대를 어떻게 생각해요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0cb9503": {
+    "text": "Maryam: 처음엔 나도 그 발상에 회의적이었어요, 비용이 수익을 웃돌 거라 생각했거든요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:046cd77": {
+    "text": "Maryam: 하지만 정반대로 드러났네요. 가판대 수익이 비용을 충당했어요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:090e291": {
+    "text": "Maryam: 게다가 그동안 우리 시릴 광장 본점은 작년보다 음료를 더 많이 팔았고요!",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0542c21": {
+    "text": "Maryam: 인정하자면, 정말 감탄했어요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:005fcb8": {
+    "text": "Maryam: 올해 리베르테의 겨울 시장 가판대를 어떻게 개선하면 좋을까요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0c799a4": {
+    "text": "Maryam: 추운 겨울밤에 더 잘 어울리는, 우리 차이용 새 향신료 배합을 도입하자고 제안했어요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0866a97": {
+    "text": "Maryam: 하지만 결국, 결정은 모이라한테 맡기려고요. 이제 그 애 카페니까요.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:0b373ea": {
+    "text": "Maryam: 겨울 시장의 음식·음료 가판대를 어떻게 생각해요?",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:05dce63": {
+    "text": "Maryam: 난 늘 그 발상에 반대였지만, 뭐 수익을 지켜보면서 수지가 맞는지 봐야겠죠.",
+    "node": "Maryam_WinterMarket"
+  },
+  "line:07f1811": {
+    "text": "Maryam: 흠. 또 한 해가 마무리되네요.",
+    "node": "Maryam_NewYearsEve"
+  },
+  "line:0cb086c": {
+    "text": "Maryam: 리베르테로선 정말 장사가 잘된 한 해였다고 해야겠어요.",
+    "node": "Maryam_NewYearsEve"
+  },
+  "line:078b614": {
+    "text": "Maryam: 하지만 물론, 봄엔 봄 나름의 할 일 목록이 따라오죠, 안 그래요?",
+    "node": "Maryam_NewYearsEve"
+  },
+  "line:08d0d0c": {
+    "text": "Maryam: 세금 신고는 벌써 했나요? 뭐, 할 때가 됐죠!",
+    "node": "Maryam_NewYearsEve"
+  },
+  "line:0982f1b": {
+    "text": "Maryam: 아무튼, 지금은 때가 아니네요. 자정에 새해 축하 때 봐요.",
+    "node": "Maryam_NewYearsEve"
+  },
+  "line:08f2c08": {
+    "text": "Maryam: 틸데의 서점이 이렇게 좋은 손에 들어가서 정말 기뻐요.",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:0c701d5": {
+    "text": "Maryam: 좀 향수에 젖게 하네요. 당신과 모이라... 뭐, 두 사람은 여기서 멋진 일들을 해낼 거예요.",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:0b66c22": {
+    "text": "Maryam: 그리고 물론, 우리처럼 평생의 우정도 함께 얻길 바라요.",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:06895bf": {
+    "text": "Maryam: 그럼 이건 새 시대의 시작인 셈인가요?",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:0844aae": {
+    "text": "Maryam: 뭐, 우리 사업 협회의 동료로서, 당신은 분명 여기서 잘해 낼 거예요.",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:05b7bb6": {
+    "text": "Maryam: 그리고 필요할 땐 조언해 줄 수 있게, 난 바로 광장 건너편에 있을게요.",
+    "node": "Maryam_BookshopEnding"
+  },
+  "line:05fdcb6": {
+    "text": "Maryam: 자 그럼, 친구들한테 가 봐요! 난 틸데랑 잠깐 얘기 좀 해야 해서요.",
+    "node": "Maryam_BookshopEndingFallback"
+  },
+  "line:01ebe6c": {
+    "text": "Maryam: 세인트 북스톤이 젊은 사람들 사이에서 더 많이 회자되는 걸 보니 기쁘네요.",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:093c042": {
+    "text": "Maryam: 어쨌든 그의 이곳에서의 업적이 북스톤버리를 세상에 알렸으니까요.",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:0359a00": {
+    "text": "Maryam: 그의 글 대부분은 사후에 발표됐지만, 살아생전에도 대학에서 꽤 인기 있는 교수였다지 뭐예요. 알았어요?",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:037bd4f": {
+    "text": "Maryam: 그는 스물둘에 교수가 됐어요. 그 시절엔 시에서 건축, 역사까지 안 가르치는 게 없었다고 해요.",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:0a3b88a": {
+    "text": "Maryam: 그리고 그가 바로 이곳 시릴 광장에 살았다고 여겨지죠.",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:0f27be9": {
+    "text": "Maryam: 말이 나온 김에, 시 의회에 또 편지를 써야겠어요. 올해 아직 분수를 청소 안 했거든요.",
+    "node": "Maryam_StBookstonInvestigation"
+  },
+  "line:0efcfb0": {
+    "text": "Maryam: 한편으론, 드디어 브라이트의 생애에 대해 더 알게 돼서 기뻐요.",
+    "node": "Maryam_StBookstonReveal_Post"
+  },
+  "line:08ebd30": {
+    "text": "Maryam: <size=85%><i>*투덜*</i> 근데 정말 마을 곳곳을 이렇게 다 바꿔야 하나요?<size=100%>",
+    "node": "Maryam_StBookstonReveal_Post"
+  },
+  "line:035a730": {
+    "text": "Maryam: 어쨌든 여긴 북스톤버리잖아요. 건물 이름이 “북스톤”이면 왜 안 되는 거죠?",
+    "node": "Maryam_StBookstonReveal_Post"
+  },
+  "line:08452b0": {
+    "text": "Maryam: 정말 흥미롭다고 해야겠어요, 그녀가 사회의 기대에 얼마나 맞섰는지 — 그것도 그토록 어린 나이에 말이죠!",
+    "node": "Maryam_StBookstonReveal_Post"
+  },
+  "line:0036687": {
+    "text": "Maryam: 안녕하세요, 오늘 장사는 어때요? 겨울이 끝난 뒤로 매출이 늘었나요?",
+    "node": "Maryam_UnlockPark"
+  },
+  "line:0460e83": {
+    "text": "Maryam: 분명 사람들이 다시 산책을 더 많이 나오니, 특히 봄을 맞아 파 비치와 라이 공원이 다시 열리면 손님이 더 많아질 거예요.",
+    "node": "Maryam_UnlockPark"
+  },
+  "line:0bd01ab": {
+    "text": "Maryam: 있잖아요, 공원에 꼭 한번 모습을 보여서 거기서도 가게를 알리도록 해요.",
+    "node": "Maryam_UnlockPark"
+  },
+  "line:0360a34": {
+    "text": "Maryam: 하지만 날씨도 고려해야 해요, 비가 오면 산책하러 나오는 사람이 적을 테니까요.",
+    "node": "Maryam_UnlockPark"
+  },
+  "line:073c9e7": {
+    "text": "Maryam: 네, 그런 게 바로 성공한 사업주가 헤아려야 할 것들이죠.",
+    "node": "Maryam_UnlockPark"
+  },
+  "line:044ee6e": {
+    "text": "Maryam: 안녕하세요. 벌써 꽃 축제를 준비하고 있길 바라요.",
+    "node": "Maryam_FlowerFestivalSoon"
+  },
+  "line:061f27f": {
+    "text": "Maryam: 심사위원이 되는 건 생각만큼 쉬운 일이 아니에요.",
+    "node": "Maryam_FlowerFestivalSoon"
+  },
+  "line:0b0d722": {
+    "text": "Maryam: 식견 있는 의견을 낼 수 있도록 꼭 준비하길 기대할게요.",
+    "node": "Maryam_FlowerFestivalSoon"
+  },
+  "line:0adf139": {
+    "text": "Maryam: 꽃꽂이 예술에 대해 공부를 좀 해 두는 게 좋겠죠, 응?",
+    "node": "Maryam_FlowerFestivalSoon"
+  },
+  "line:0895010": {
+    "text": "Maryam: 그냥... 준비해 와요, 네? 거기서 봐요.",
+    "node": "Maryam_FlowerFestivalSoon"
+  },
+  "line:0e9f518": {
+    "text": "Maryam: 아 안녕하세요. 여기서도 파는군요. 아주 현명한 결정이에요.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:09ed401": {
+    "text": "Maryam: 심부름이 있어 들렀어요. 근데 참 안타까워요...",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:024bd9a": {
+    "text": "Maryam: 예전엔 리베르테에 필요한 물품을 죄다 지역 상인들한테서 구할 수 있었거든요.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:0a68496": {
+    "text": "Maryam: 뭐, 아무튼, 보니 매출이 아주 잘 나오네요. 머잖아 완판할지도 모르겠어요.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:0581f7b": {
+    "text": "Maryam: 내 조언을 듣고 싶다면, 책을 좀 덜 가지고 다니길 권해요.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:04937e4": {
+    "text": "Maryam: 그렇다고 책장에 빈 공간을 남기란 뜻은 아니에요. 그건 가게가 정돈 안 돼 보이게만 할 뿐이죠.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:0841d76": {
+    "text": "Maryam: 하지만 수용량이 작은 책장은 인위적인 희소성을 만들어 내고, 그럼 금세 텅 비는 걸 보게 될 거예요!",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:08a2056": {
+    "text": "Maryam: 한번 해 봐요, 얘야. 내 방법은 틀림없으니까요.",
+    "node": "Maryam_SellOutTip"
+  },
+  "line:051ea98": {
+    "text": "Maryam: 좋아요, 이제 결정을 적어요. 그리고 명심해요, 나중엔 못 바꿔요.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0430e78": {
+    "text": "Maryam: 동의해요. 아주 좋은 디테일이네요.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:02cb079": {
+    "text": "Maryam: 흠. 더 전통적인 방식을 고수하는 게 낫다고 봐요.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:0315d8a": {
+    "text": "Maryam: 하, 정말 신선하네요.",
+    "node": "FlowerFestival_JudgingHarper_Hub"
+  },
+  "line:029fe05": {
+    "text": "Maryam: 좋아요, 이제 결정을 적어요. 그리고 명심해요, 나중엔 못 바꿔요.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:08adfb6": {
+    "text": "Maryam: 분명 눈길을 끄는 작품이긴 하네요.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0263cd0": {
+    "text": "Maryam: 흠. 그 <i>메시지</i>가 좀 노골적인 것 같아요.",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:0bdc603": {
+    "text": "Maryam: 뭐, 아주 고급스러운 작품 같아요. 게다가 콘셉트에 깊은 고민이 담겼네요!",
+    "node": "FlowerFestival_JudgingMoira_Hub"
+  },
+  "line:01da5f7": {
+    "text": "Maryam: 좋아요, 이제 결정을 적어요. 그리고 명심해요, 나중엔 못 바꿔요.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0ed8175": {
+    "text": "Maryam: 맞아요. 아주 역동적이네요. 마음에 들어요.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:0011fd2": {
+    "text": "Maryam: 뭐, 그 단순함이 좋네요. 게다가 아이들한테 잘 통할 거예요.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:05cf0c5": {
+    "text": "Maryam: 솔직히 좀 진부하네요.",
+    "node": "FlowerFestival_JudgingWalt_Hub"
+  },
+  "line:088b739": {
+    "text": "Maryam: 이걸 되살린 건 정말 잘한 일이에요.",
+    "node": "FlowerFestival_MaryamTilde_Local"
+  },
+  "line:0feef18": {
+    "text": "Maryam: 그 거대한 양배추가 나온 거요?",
+    "node": "FlowerFestival_MaryamTilde_Local"
+  },
+  "line:0d058cf": {
+    "text": "Maryam: 내가 그걸 어떻게 잊겠어요?",
+    "node": "FlowerFestival_MaryamTilde_Local"
+  }
+}

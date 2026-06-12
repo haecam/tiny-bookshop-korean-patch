@@ -25,6 +25,8 @@ C:\Program Files (x86)\Steam\steamapps\common\Tiny Bookshop\
 | 파일 | 용도 |
 |------|------|
 | `loca_pl_assets_all.bundle` | 번역 데이터 |
+| `loca_en_assets_all.bundle` | 언어 선택 표시명 (한국어) |
+| `gameinit_assets_all.bundle` | 언어 목록에 한국어 추가 |
 | `tmp_assets_all_0f1b704e3546a0e4d9fd806732287a87.bundle` | 한국어 폰트 |
 
 ### 3단계 — 언어 변경

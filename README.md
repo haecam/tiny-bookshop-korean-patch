@@ -9,11 +9,18 @@ Tiny Bookshop (Steam) 비공식 한국어 팬 패치입니다.
 
 ### 1단계 — 패치 파일 다운로드
 
-[Releases 페이지](https://github.com/haecam/tiny-bookshop-korean-patch/releases/latest)에서 `korean-patch-v*.zip`을 다운로드합니다.
+[Releases 페이지](https://github.com/haecam/tiny-bookshop-korean-patch/releases/latest)에서 운영체제에 맞는 zip을 다운로드합니다.
 
-### 2단계 — 파일 덮어쓰기
+- Windows: `TinyBookshop_한국어패치_win_v*.zip`
+- Mac: `TinyBookshop_한국어패치_mac_v*.zip`
 
-ZIP을 압축 해제한 뒤, 4개 파일을 아래 경로에 **덮어쓰기**합니다.
+---
+
+### Windows
+
+#### 2단계 — 파일 덮어쓰기
+
+ZIP을 압축 해제한 뒤, 파일들을 아래 경로에 **덮어쓰기**합니다.
 
 > 관리자 권한 요청 창이 뜨면 **'계속'** 을 눌러주세요.
 
@@ -22,7 +29,28 @@ C:\Program Files (x86)\Steam\steamapps\common\Tiny Bookshop\
   Tiny Bookshop_Data\StreamingAssets\aa\StandaloneWindows64\
 ```
 
-### 3단계 — 언어 변경
+#### 3단계 — 언어 변경
+
+Steam → 게임 우클릭 → **속성 → 언어 → Polish** 선택 후 실행
+
+---
+
+### Mac
+
+#### 2단계 — 파일 덮어쓰기
+
+ZIP 안의 `StandaloneOSX` 폴더를 열면 파일 6개가 있습니다. 이 파일들을 아래 경로에 **복사(덮어쓰기)**합니다.
+
+Finder에서 **이동 → 폴더로 이동** (⇧⌘G) 에 아래 경로를 붙여넣으세요.
+
+```
+~/Library/Application Support/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX
+```
+
+> `~` 는 홈 폴더(`/Users/사용자이름`)를 의미합니다.  
+> `.app` 파일을 우클릭 → **패키지 내용 보기**로 접근해도 됩니다.
+
+#### 3단계 — 언어 변경
 
 Steam → 게임 우클릭 → **속성 → 언어 → Polish** 선택 후 실행
 

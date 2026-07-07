@@ -18,7 +18,7 @@ UnityPy.config.FALLBACK_UNITY_VERSION = '2021.3.58f1'
 
 BUNDLE = 'C:/Program Files (x86)/Steam/steamapps/common/Tiny Bookshop/Tiny Bookshop_Data/StreamingAssets/aa/StandaloneWindows64/tmp_assets_all_0f1b704e3546a0e4d9fd806732287a87.bundle'
 
-RIDI_FONT_PATH = 'C:/Users/Bin/Downloads/RIDIBatang.otf'
+RIDI_FONT_PATH = 'C:/git/tiny-bookshop-korean-patch/fonts/RIDIBatang.otf'
 
 # ── 설정 ─────────────────────────────────────────────────────────────────────
 GLYPH_PX   = 40

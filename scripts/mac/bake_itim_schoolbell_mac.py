@@ -22,6 +22,9 @@ BUNDLE_DIR = os.path.expanduser(
     'StreamingAssets/aa/StandaloneOSX/'
 )
 BUNDLE = BUNDLE_DIR + 'tmp_assets_all_b1a6409f18e4aa561fbb224684a03088.bundle'
+import sys
+if len(sys.argv) > 1:
+    BUNDLE = sys.argv[1]
 
 # ★ memomentKkukkkuk은 리포에 없으므로 직접 경로 지정
 MEMO_FONT_PATH = os.path.join(FONTS_DIR, 'memomentKkukkkuk.ttf')
@@ -39,7 +42,8 @@ SEMIBOLD_TEX_PID   = -7587779429925130352
 SCHOOLBELL_BASE_PID =  1334214029199024105
 SC_LIGHT_FONT_PID  = -7161292832032528865
 SC_LIGHT_TEX_PID   =  5975520222849230367
-NOTO_REG_PID       = -3081274781549595770
+NOTO_REG_PID       = -3081274781549595770   # 체인 삽입 기준점
+TMPL_PID           =  1598803222731014773   # Vollkorn-Regular SDF EN (템플릿 소스)
 
 def clone(obj):
     new = object.__new__(type(obj))
@@ -116,7 +120,7 @@ env = UnityPy.load(BUNDLE)
 
 tmpl_c0, tmpl_g0 = None, None
 for obj in env.objects:
-    if obj.type.name == 'MonoBehaviour' and obj.path_id == NOTO_REG_PID:
+    if obj.type.name == 'MonoBehaviour' and obj.path_id == TMPL_PID:
         d = obj.read()
         if d.m_CharacterTable:
             tmpl_c0, tmpl_g0 = d.m_CharacterTable[0], d.m_GlyphTable[0]
@@ -166,6 +170,9 @@ def inject_atlas(tex_obj, atlas):
 
 def insert_into_chain(raw, new_pid, before_pid, label):
     chain = raw.get('m_FallbackFontAssetTable', [])
+    if any(fb.get('m_PathID') == new_pid for fb in chain):
+        print(f'  {label}: 이미 존재 (중복 삽입 생략)')
+        return raw
     idx = next((i for i, fb in enumerate(chain) if fb.get('m_PathID') == before_pid), -1)
     if idx >= 0:
         chain.insert(idx, {'m_FileID': 0, 'm_PathID': new_pid})

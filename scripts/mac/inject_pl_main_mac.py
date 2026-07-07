@@ -19,7 +19,7 @@ BUNDLE_DIR = os.path.expanduser(
 PL_BUNDLE = BUNDLE_DIR + 'loca_pl_assets_all.bundle'
 KO_JSON   = os.path.join(TRANS_DIR, 'to_translate_main_ko.json')
 
-TEXTS_PL_PID = 4698197123910342691
+TEXTS_PL_PID = 6208505299439420760
 
 with open(KO_JSON, encoding='utf-8') as f:
     raw_data = json.load(f)

@@ -21,6 +21,9 @@ BUNDLE_DIR = os.path.expanduser(
     'StreamingAssets/aa/StandaloneOSX/'
 )
 BUNDLE = BUNDLE_DIR + 'tmp_assets_all_b1a6409f18e4aa561fbb224684a03088.bundle'
+import sys
+if len(sys.argv) > 1:
+    BUNDLE = sys.argv[1]
 
 # ★ RIDIBatang은 리포에 없으므로 직접 경로 지정
 RIDI_FONT_PATH = os.path.join(FONTS_DIR, 'RIDIBatang.otf')
@@ -33,7 +36,8 @@ POINT_SIZE = 90
 
 NOTO_LIGHT_FONT_PID = -3725201330635205967
 NOTO_LIGHT_TEX_PID  =  8020837963401532081
-NOTO_REG_PID        = -3081274781549595770
+NOTO_REG_PID        = -3081274781549595770   # 체인 삽입 기준점 (체인 탐색용)
+TMPL_PID            =  1598803222731014773   # Vollkorn-Regular SDF EN (템플릿 소스, 440chars)
 VOLLKORN_BASE_PID   =  6994376558487935071
 
 def clone(obj):
@@ -111,14 +115,14 @@ env = UnityPy.load(BUNDLE)
 
 tmpl_c0, tmpl_g0 = None, None
 for obj in env.objects:
-    if obj.type.name == 'MonoBehaviour' and obj.path_id == NOTO_REG_PID:
+    if obj.type.name == 'MonoBehaviour' and obj.path_id == TMPL_PID:
         d = obj.read()
         if d.m_CharacterTable:
             tmpl_c0, tmpl_g0 = d.m_CharacterTable[0], d.m_GlyphTable[0]
         break
 
 if not tmpl_c0:
-    print('ERROR: NotoSansJP-Regular 템플릿을 찾지 못했습니다')
+    print('ERROR: 템플릿 폰트(Vollkorn-Regular EN)를 찾지 못했습니다')
     exit(1)
 
 for obj in env.objects:
@@ -179,7 +183,9 @@ for obj in env.objects:
         noto_reg_idx = next(
             (i for i, fb in enumerate(chain) if fb.get('m_PathID') == NOTO_REG_PID), -1
         )
-        if noto_reg_idx >= 0:
+        if any(fb.get('m_PathID') == NOTO_LIGHT_FONT_PID for fb in chain):
+            print(f'\nNotoSansJP-Light 이미 존재 (중복 삽입 생략)')
+        elif noto_reg_idx >= 0:
             chain.insert(noto_reg_idx, {'m_FileID': 0, 'm_PathID': NOTO_LIGHT_FONT_PID})
             raw['m_FallbackFontAssetTable'] = chain
             obj.save_typetree(raw)

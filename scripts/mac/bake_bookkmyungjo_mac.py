@@ -22,6 +22,9 @@ BUNDLE_DIR = os.path.expanduser(
     'StreamingAssets/aa/StandaloneOSX/'
 )
 BUNDLE = BUNDLE_DIR + 'tmp_assets_all_b1a6409f18e4aa561fbb224684a03088.bundle'
+import sys
+if len(sys.argv) > 1:
+    BUNDLE = sys.argv[1]
 
 LIGHT_FONT_PATH = os.path.join(FONTS_DIR, 'BookkMyungjo_Light.ttf')
 BOLD_FONT_PATH  = os.path.join(FONTS_DIR, 'BookkMyungjo_Bold.ttf')
@@ -42,7 +45,8 @@ VOLLKORN_SEMIBOLD_PID   = -3676257516557452952
 VOLLKORN_ITALIC_PID     = -2591061356695468985
 VOLLKORN_SEMIITALIC_PID =  8850812671115949161
 
-NOTO_REG_PID = -3081274781549595770
+NOTO_REG_PID = -3081274781549595770   # 체인 삽입 기준점
+TMPL_PID     =  1598803222731014773   # Vollkorn-Regular SDF EN (템플릿 소스)
 
 def clone(obj):
     new = object.__new__(type(obj))
@@ -119,7 +123,7 @@ env = UnityPy.load(BUNDLE)
 
 tmpl_c0, tmpl_g0 = None, None
 for obj in env.objects:
-    if obj.type.name == 'MonoBehaviour' and obj.path_id == NOTO_REG_PID:
+    if obj.type.name == 'MonoBehaviour' and obj.path_id == TMPL_PID:
         d = obj.read()
         if d.m_CharacterTable:
             tmpl_c0, tmpl_g0 = d.m_CharacterTable[0], d.m_GlyphTable[0]

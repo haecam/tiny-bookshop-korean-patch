@@ -10,7 +10,7 @@ Schoolbell 체인 (특수 메모):
   Before: [ShantellSans, Schoolbell-main, NotoSansJP-Regular(Asummerflowertree), ...]
   After:  [ShantellSans, Schoolbell-main, NotoSansSC-Light(KCCPakKyongni), NotoSansJP-Regular, ...]
 """
-import UnityPy, warnings, json, ast as _ast
+import UnityPy, warnings, json, ast as _ast, glob as _glob
 import freetype, numpy as np
 from PIL import Image
 from scipy.ndimage import distance_transform_edt
@@ -55,6 +55,15 @@ with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_main_ko.js
         parsed = _ast.literal_eval(val) if isinstance(val, str) else val
         for v in parsed.values(): used.update(str(v))
 with open('C:/git/tiny-bookshop-korean-patch/translation/to_translate_dialogue_ko.json', encoding='utf-8') as f:
+    for v in json.load(f).values():
+        text = v.get('text', '') if isinstance(v, dict) else str(v)
+        used.update(text)
+for path in _glob.glob('C:/git/tiny-bookshop-korean-patch/translation/characters/*.json'):
+    with open(path, encoding='utf-8') as f:
+        for v in json.load(f).values():
+            text = v.get('text', '') if isinstance(v, dict) else str(v)
+            used.update(text)
+with open('C:/git/tiny-bookshop-korean-patch/translation/newspaper_articles_ko.json', encoding='utf-8') as f:
     for v in json.load(f).values():
         text = v.get('text', '') if isinstance(v, dict) else str(v)
         used.update(text)

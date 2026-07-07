@@ -5,9 +5,7 @@ Tiny Bookshop (Steam) 비공식 한국어 팬 패치입니다.
 
 ---
 
-## 설치 방법 (권장)
-
-> Python 설치 없이 파일 2개만 교체하면 됩니다.
+## 설치 방법
 
 ### 1단계 — 패치 파일 다운로드
 
@@ -15,19 +13,14 @@ Tiny Bookshop (Steam) 비공식 한국어 팬 패치입니다.
 
 ### 2단계 — 파일 덮어쓰기
 
-ZIP을 압축 해제한 뒤, 두 파일을 아래 경로에 **덮어쓰기**합니다.
+ZIP을 압축 해제한 뒤, 4개 파일을 아래 경로에 **덮어쓰기**합니다.
+
+> 관리자 권한 요청 창이 뜨면 **'계속'** 을 눌러주세요.
 
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Tiny Bookshop\
   Tiny Bookshop_Data\StreamingAssets\aa\StandaloneWindows64\
 ```
-
-| 파일 | 용도 |
-|------|------|
-| `loca_pl_assets_all.bundle` | 번역 데이터 |
-| `loca_en_assets_all.bundle` | 언어 선택 표시명 (한국어) |
-| `gameinit_assets_all.bundle` | 언어 목록에 한국어 추가 |
-| `tmp_assets_all_0f1b704e3546a0e4d9fd806732287a87.bundle` | 한국어 폰트 |
 
 ### 3단계 — 언어 변경
 
@@ -46,46 +39,9 @@ Steam → 게임 우클릭 → **속성 → 언어 → Polish** 선택 후 실�
 
 ---
 
-## 사용 폰트
-
-- **본문 대사**: RIDIBatang (리디바탕)
-- **신문 본문**: BookkMyungjo (부크크명조) Light / Bold
-- **타이틀 / 손글씨**: Itim, Schoolbell
-
----
-
 ## 주의사항
 
 - 이 패치는 **Polish 언어 슬롯**을 활용합니다. 폴란드어 텍스트는 표시되지 않습니다.
-- 게임 업데이트 후 Steam의 **파일 무결성 검사** 또는 업데이트 시 패치 파일이 초기화될 수 있습니다. 그럴 경우 재적용해 주세요.
+- 게임 업데이트 후 **파일 무결성 검사** 또는 게임 자동 업데이트 시 패치 파일이 초기화될 수 있습니다. 그럴 경우 재적용해 주세요.
+- Xbox Game Pass PC 버전은 지원하지 않습니다.
 - 비공식 팬 패치이며 개발사(Bookstonbury Dev)와 무관합니다.
-
----
-
-## 직접 빌드 (개발자용)
-
-<details>
-<summary>스크립트로 직접 패치 적용하기</summary>
-
-### 필요 환경
-```
-pip install UnityPy freetype-py Pillow scipy numpy
-```
-
-### 순서 (게임 종료 상태에서 실행)
-
-```bash
-# 1. 폰트 SDF 굽기
-python scripts/bake_ridibatang.py
-python scripts/bake_itim_schoolbell.py
-python scripts/bake_bookkmyungjo.py
-
-# 2. 번역 주입
-python scripts/inject_pl_bundle.py
-python scripts/inject_pl_main.py
-python scripts/inject_all_translations.py
-```
-
-이후 Steam 언어를 Polish로 변경하면 됩니다.
-
-</details>
